@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Base de datos · Artistas contemporáneos</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #ffffff;
+    --bg-alt: #f7f7f5;
+    --ink: #1e1e1c;
+    --ink-soft: #6b6b66;
+    --line: #e4e4e0;
+    --accent: #5a7a3a;
+    --accent-soft: #eef2e8;
+    --warn: #a05a2c;
+    --warn-soft: #f6ede4;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Fira Code', monospace;
+    background: var(--bg);
+    color: var(--ink);
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  header {
+    padding: 28px 24px 18px;
+    border-bottom: 1px solid var(--line);
+  }
+  header h1 {
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+  header h1::before { content: "◳ "; color: var(--accent); }
+  header p { color: var(--ink-soft); font-size: 12px; margin-top: 4px; }
+
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    padding: 14px 24px;
+    border-bottom: 1px solid var(--line);
+    background: var(--bg-alt);
+    position: sticky; top: 0; z-index: 5;
+  }
+  #buscar {
+    font-family: inherit;
+    font-size: 13px;
+    padding: 8px 12px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: var(--bg);
+    color: var(--ink);
+    flex: 1 1 260px;
+    min-width: 200px;
+  }
+  #buscar:focus { outline: 2px solid var(--accent); outline-offset: -1px; border-color: var(--accent); }
+  select {
+    font-family: inherit;
+    font-size: 12px;
+    padding: 8px 10px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: var(--bg);
+    color: var(--ink);
+    cursor: pointer;
+  }
+  select:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+  #contador { font-size: 12px; color: var(--ink-soft); margin-left: auto; white-space: nowrap; }
+  #contador b { color: var(--accent); font-weight: 600; }
+  .btn-csv {
+    font-family: inherit; font-size: 12px;
+    padding: 8px 12px;
+    border: 1px solid var(--line); border-radius: 4px;
+    background: var(--bg); color: var(--ink-soft);
+    cursor: pointer;
+  }
+  .btn-csv:hover { border-color: var(--accent); color: var(--accent); }
+
+  .tabla-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; }
+  th {
+    text-align: left;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-soft);
+    padding: 10px 14px;
+    border-bottom: 2px solid var(--line);
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+    background: var(--bg);
+  }
+  th:hover { color: var(--accent); }
+  th .flecha { color: var(--accent); margin-left: 3px; }
+  td {
+    padding: 9px 14px;
+    border-bottom: 1px solid var(--line);
+    vertical-align: top;
+  }
+  tr.fila { cursor: pointer; }
+  tr.fila:hover td { background: var(--accent-soft); }
+  td.nombre { font-weight: 500; white-space: nowrap; }
+  td.num { color: var(--ink-soft); font-size: 11px; }
+  .chip {
+    display: inline-block;
+    font-size: 10px;
+    padding: 1px 7px;
+    border-radius: 3px;
+    background: var(--bg-alt);
+    border: 1px solid var(--line);
+    color: var(--ink-soft);
+    margin: 1px 3px 1px 0;
+    white-space: nowrap;
+  }
+  .chip.multi { border-color: var(--accent); color: var(--accent); background: var(--accent-soft); }
+  .estado-pendiente { color: var(--warn); background: var(--warn-soft); border-color: var(--warn); }
+  .estado-verificado { color: var(--accent); background: var(--accent-soft); border-color: var(--accent); }
+  .vacio { color: #c4c4bf; }
+  a.consulta {
+    display: inline-block;
+    font-size: 10px;
+    padding: 1px 7px;
+    border-radius: 3px;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    background: var(--bg);
+    text-decoration: none;
+    margin: 1px 3px 1px 0;
+    white-space: nowrap;
+  }
+  a.consulta:hover { background: var(--accent); color: #fff; }
+  a.consulta.principal { background: var(--accent-soft); font-weight: 600; }
+
+  tr.detalle td {
+    background: var(--bg-alt);
+    padding: 14px 24px;
+    font-size: 12px;
+  }
+  .detalle-grid { display: grid; grid-template-columns: 140px 1fr; gap: 6px 16px; max-width: 860px; }
+  .detalle-grid dt { color: var(--ink-soft); font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em; padding-top: 1px; }
+  .detalle-grid dd a { color: var(--accent); word-break: break-all; }
+  .sin-dato { color: #b8b8b2; font-style: italic; }
+
+  #vacio-msg { padding: 40px 24px; color: var(--ink-soft); display: none; }
+  footer { padding: 18px 24px; color: var(--ink-soft); font-size: 11px; border-top: 1px solid var(--line); }
+  @media (max-width: 640px) {
+    .col-opcional { display: none; }
+    header { padding: 20px 16px 14px; }
+    .controls { padding: 12px 16px; }
+    td, th { padding: 8px 10px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Artistas contemporáneos</h1>
+  <p>Base de consulta · fuentes: Vitamin P (1–3), ArtReview Top 100, Frieze 25, base propia</p>
+</header>
+
+<div class="controls">
+  <input type="text" id="buscar" placeholder="Buscar nombre, tema, medio, lugar…" autocomplete="off">
+  <select id="f-fuente"><option value="">Fuente: todas</option></select>
+  <select id="f-medio"><option value="">Medio: todos</option></select>
+  <select id="f-tema"><option value="">Tema: todos</option></select>
+  <select id="f-estado"><option value="">Estado: todos</option></select>
+  <button class="btn-csv" id="btn-cargar" title="Cargar una versión actualizada del CSV">cargar CSV</button>
+  <input type="file" id="input-csv" accept=".csv" hidden>
+  <span id="contador"></span>
+</div>
+
+<div class="tabla-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th data-col="id">#</th>
+        <th data-col="nombre">Nombre</th>
+        <th data-col="fecha_nacimiento" class="col-opcional">Nacimiento</th>
+        <th data-col="edad" class="col-opcional">Edad</th>
+        <th data-col="lugar_nacimiento">Lugar de nacimiento</th>
+        <th data-col="residencia" class="col-opcional">Residencia</th>
+        <th data-col="fuentes">Fuentes</th>
+        <th data-col="estado_verificacion" class="col-opcional">Estado</th>
+        <th>Consultar</th>
+      </tr>
+    </thead>
+    <tbody id="cuerpo"></tbody>
+  </table>
+  <div id="vacio-msg">Sin resultados para esta combinación de búsqueda y filtros.</div>
+</div>
+
+<footer id="pie"></footer>
+
+<script>
+// ---------- datos incrustados (se reemplazan cargando un CSV actualizado) ----------
+const DATOS_CSV = [["id", "nombre", "fuentes", "enlace_existente", "fecha_nacimiento", "lugar_nacimiento", "residencia", "temas", "medios", "enlaces", "hitos", "estado_verificacion"], ["1", "Banu Cennetoğlu (Facilitator)", "Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["2", "Nina Chanel Abney", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["3", "Basel Abbas and Rouanne Abou-Rahme", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["4", "Marina Abramovic", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["5", "Tomma Abts", "Vitamin P1 | Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2006)", "pendiente"], ["6", "Franz Ackermann", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["7", "Etel Adnan", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["8", "Laura Aguilar", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["9", "Jia Aili", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["10", "John Akomfrah", "ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["11", "Richard Aldrich", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["12", "Brian Alfred", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["13", "Darren Almond", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["14", "Ahmed Alsoudani", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["15", "Ellen Altfest", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["16", "Kai Althoff", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["17", "David Altmejd", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["18", "Francis Alÿs", "Vitamin P1 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["19", "El Anatsui", "Base propia | ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["20", "Hurvin Anderson", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["21", "Karin Mamma Andersson", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["22", "Juan Araujo", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["23", "Cory Arcangel", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["24", "Michael Armitage", "Vitamin P3 | Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["25", "Lucas Arruda", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["26", "Ed Atkins", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["27", "Kader Attia", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["28", "Tauba Auerbach", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["29", "John Baldessari", "Base propia", "https://www.baldessari.org/", "", "", "", "", "", "", "", "pendiente"], ["30", "Jules de Balincourt", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["31", "Meriem Bennani and Orian Barki", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["32", "Matthew Barney", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["33", "Hernán Bas", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["34", "Math Bass", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["35", "Tilo Baumgärtel", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["36", "Sadie Benning", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["37", "Carole Benzaken", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["38", "Katherine Bernhardt", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["39", "Zarina Bhimji", "Base propia | Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2007)", "pendiente"], ["40", "Wafaa Bilal", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["41", "Xu Bing", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["42", "McArthur Binion", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["43", "Zach Blas", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["44", "Zander Blom", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["45", "Amoako Boafo", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["46", "John Bock", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["47", "Christian Boltanski", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["48", "Peter Bonde", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["49", "Monica Bonvicini", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["50", "Michaël Borremans", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["51", "Daniel Boyd", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["52", "Mark Bradford", "Vitamin P2 | ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["53", "Joe Bradley", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["54", "Sascha Braunig", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["55", "Lisa Brice", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["56", "Marcel Broodthaers", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["57", "Cecily Brown", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["58", "Glenn Brown", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["59", "Tania Bruguera", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["60", "Kerstin Brätsch", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["61", "Rafał Bujnowski", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["62", "Stephen Bush", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["63", "Firelei Báez", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["64", "Sarah Cain", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["65", "Varda Caivano", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["66", "Sophie Calle", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["67", "Jane Callister", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["68", "Brian Calvin", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["69", "Juan José Cambre", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["70", "Gillian Carnegie", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["71", "Merlin Carpenter", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["72", "Denis Castellas", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["73", "Maurizio Cattelan", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["74", "Paul Chan", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["75", "Ian Cheng", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["76", "Masaya Chiba", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["77", "Marieta Chirulescu", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["78", "Leidy Churchman", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["79", "Tony Cokes", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["80", "Matt Connors", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["81", "Mary Corse", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["82", "Martin Creed", "Base propia | Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2001)", "pendiente"], ["83", "Njideka Akunyili Crosby", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["84", "Sarah Crowner", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["85", "Angela de la Cruz", "Vitamin P1 | Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2010)", "pendiente"], ["86", "John Currin", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["87", "Valentina D'Amaro", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["88", "Li Dafang", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["89", "Stéphane Dafflon", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["90", "Dexter Dalwood", "Vitamin P3 | Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2010)", "pendiente"], ["91", "William Daniels", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["92", "Hanne Darboven", "Base propia", "https://spruethmagers.com/artists/hanne-darboven/", "", "", "", "", "", "", "", "pendiente"], ["93", "Julia Dault", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["94", "Ian Davenport", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["95", "Noah Davis", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["96", "Verne Dawson", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["97", "Tacita Dean", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["98", "Philippe Decrauzat", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["99", "Benjamin Degen", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["100", "Jeremy Deller", "Frieze 25 (2000s) | Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2004)", "pendiente"], ["101", "Thornton Dial", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["102", "David Diao", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["103", "DIS", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["104", "Atul Dodiya", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["105", "Peter Doig", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["106", "Aleksandra Domanović", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["107", "Kaye Donachie", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["108", "Pierre Dorion", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["109", "Milena Dragićević", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["110", "Peter Dreher", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["111", "Marlene Dumas", "Vitamin P1 | Base propia | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["112", "Sam Durant", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["113", "Markus Döbeli", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["114", "Gia Edzgveradze", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["115", "Thomas Eggerer", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["116", "Maria Eichhorn", "ArtReview Top 100 | Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["117", "Michaela Eichwald", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["118", "Nicole Eisenman", "Vitamin P2 | ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["119", "Ida Ekblad", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["120", "Tracey Emin", "Base propia | Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 1999)", "pendiente"], ["121", "Zhang Enli", "Vitamin P2 | Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["122", "rafa esparza", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["123", "Inka Essenhigh", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["124", "Jana Euler", "Vitamin P3 | ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["125", "Valie Export", "Base propia", "https://proyectoidis.org/valie-export/", "", "", "", "", "", "", "", "pendiente"], ["126", "Hamishi Farah", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["127", "Harun Farocki", "ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["128", "Cao Fei", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["129", "Genieve Figgis", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["130", "Urs Fischer", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["131", "Mark Flood", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["132", "Ceal Floyer", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["133", "Andrea Fraser", "ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["134", "LaToya Ruby Frazier", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["135", "Bernard Frize", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["136", "Gabríela Friðriksdóttir", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["137", "Yang Fudong", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["138", "Michael Fullerton", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["139", "Louisa Gagliardi", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["140", "Cyprien Gaillard", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["141", "Ellen Gallagher", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["142", "Sandra Gamarra", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["143", "Tim Gardner", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["144", "Isa Genzken", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["145", "Apostolos Georgiou", "Vitamin P3 | Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["146", "Adrian Ghenie", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["147", "Guerrilla Girls", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["148", "Nan Goldin", "Base propia", "https://www.instagram.com/nangoldinstudio/?hl=es", "", "", "", "", "", "", "", "pendiente"], ["149", "Andreas Golinski", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["150", "Fernanda Gomes", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["151", "Wayne Gonzales", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["152", "Ken Gonzales-Day", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["153", "Felix Gonzalez-Torres", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["154", "Joanne Greenbaum", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["155", "Katharina Grosse", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["156", "Mark Grotjahn", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["157", "Wade Guyton", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["158", "Hulda Guzmán", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["159", "Hassan Hajjaj", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["160", "Fiona Hall", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["161", "Josephine Halvorson", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["162", "Lawrence Abu Hamdan", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["163", "David Hammons", "ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["164", "Zach Harris", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["165", "N. S. Harsha", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["166", "Mona Hatoum", "Base propia", "https://www.whitecube.com/gallery-exhibitions/mona-hatoum-seoul-2025", "", "", "", "", "", "", "", "pendiente"], ["167", "Eberhard Havekost", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["168", "Richard Hawkins", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["169", "Dan Hays", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["170", "Aziz Hazara", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["171", "Celia Hempton", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["172", "Camille Henrot", "ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["173", "Arturo Herrera", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["174", "Carmen Herrera", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["175", "Federico Herrero", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["176", "Charline von Heyl", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["177", "Lubaina Himid", "Base propia | Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2017)", "pendiente"], ["178", "Roger Hiorns", "Vitamin P1 | Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2009)", "pendiente"], ["179", "Thomas Hirschhorn", "Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["180", "David Hockney", "Base propia", "https://www.hockney.com/home", "", "", "", "", "", "", "", "pendiente"], ["181", "Jenny Holzer", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["182", "Yu Hong", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["183", "Tishan Hsu", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["184", "Alex Hubbard", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["185", "Jacqueline Humphries", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["186", "Pierre Huyghe", "ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["187", "Nathan Hylden", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["188", "Anne Imhof", "Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["189", "Emily Jacir", "ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["190", "Frieda Toranzo Jaeger", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["191", "Arthur Jafa", "ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["192", "Merlin James", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["193", "Xylor Jane", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["194", "Sergej Jensen", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["195", "Yun-Fei Ji", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["196", "Cui Jie", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["197", "Magdalena Jitrik", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["198", "JODI", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["199", "Chantal Joffe", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["200", "Chris Johanson", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["201", "Helen Johnson", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["202", "David L. Johnson", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["203", "Jennie C. Jones", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["204", "Anne Duk Hee Jordan", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["205", "Jamian Juliano-Villani", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["206", "Yishai Jusidman", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["207", "Ewa Juszkiewicz", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["208", "Hayv Kahraman", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["209", "Johannes Kahrs", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["210", "Jitish Kallat", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["211", "Maki Na Kamura", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["212", "Sanya Kantarovsky", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["213", "Amar Kanwar", "ArtReview Top 100 | Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["214", "Jacob Kassay", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["215", "On Kawara", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["216", "Khalif Kelly", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["217", "Bhupen Khakhar", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["218", "Bouchra Khalili", "Base propia | ArtReview Top 100 | Frieze 25 (2000s) | Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["219", "Karen Kilimnik", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["220", "Lee Kit", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["221", "Ragnar Kjartansson", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["222", "Jürgen Klauke", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["223", "Emil Michael Klein", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["224", "Josh Kline", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["225", "Jon Knutsen", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["226", "Martin Kobe", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["227", "Jutta Koether", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["228", "Käthe Kollwitz", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["229", "Tomasz Kowalski", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["230", "Michael Krebber", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["231", "Udomsak Krisanamis", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["232", "Ella Kruglyanskaya", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["233", "Makiko Kudo", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["234", "Alicja Kwade", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["235", "Stefan Kürten", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["236", "Jim Lambie", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["237", "Laura Lancaster", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["238", "Sean Landers", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["239", "Rugilé Barzdziukaité, Vaiva Grainyté And Lina Lapelyté", "Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["240", "Mernet Larsen", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["241", "Louise Lawler", "Base propia | ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["242", "Deana Lawson", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["243", "Carolyn Lazard", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["244", "Jane Lee", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["245", "Simone Leigh", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["246", "Liza Lou", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["247", "Nate Lowman", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["248", "Sarah Lucas", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["249", "Cannupa Hanska Luger", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["250", "Tor-Magnus Lundeby", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["251", "Marcin Maciejowski", "Vitamin P1 | Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["252", "Tala Madani", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["253", "Jill Magid", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["254", "Ibrahim Mahama", "Frieze 25 (2000s) | Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["255", "Nalini Malani", "Vitamin P2 | Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["256", "Victor Man", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["257", "Britta Marakatt-Labba", "ArtReview Top 100 | Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["258", "Fabián Marcaccio", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["259", "Christian Marclay", "ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["260", "Marepe", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["261", "Teresa Margolles", "Base propia | ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["262", "Kerry James Marshall", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["263", "Chris Martin", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["264", "Daniel Joseph Martinez", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["265", "Marwan", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["266", "I Nyoman Masriadi", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["267", "Patrizio Di Massimo", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["268", "Bartek Materka", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["269", "Park McArthur", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["270", "Paul McCarthy", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["271", "Suzanne McClelland", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["272", "Tiona Nekkia McClodden", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["273", "Hugo McCloud", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["274", "Elizabeth McIntosh", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["275", "Lucy McKenzie", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["276", "Steve McQueen", "ArtReview Top 100 | Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 1999)", "pendiente"], ["277", "Birgit Megerle", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["278", "Julie Mehretu", "Vitamin P1 | Base propia | ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["279", "The Yes Men", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["280", "Ana Mendieta", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["281", "Prabhavathi Meppayil", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["282", "Beatriz Milhazes", "Vitamin P1 | Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["283", "Yunhee Min", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["284", "Ernesto Misa", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["285", "Donald Moffett", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["286", "Meleko Mokgosi", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["287", "Dianna Molzan", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["288", "Miguel Montt", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["289", "Katy Moran", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["290", "Kristine Moran", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["291", "Delcy Morelos", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["292", "Antonio Ballester Moreno", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["293", "Sabine Moritz", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["294", "Sarah Morris", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["295", "Justin Mortimer", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["296", "Farhad Moshiri", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["297", "Ryan Mosley", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["298", "Shana Moulton", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["299", "Zanele Muholi", "Base propia | ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["300", "Muntean/Rosenblum", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["301", "Takashi Murakami", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["302", "Oscar Murillo", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["303", "Wangechi Mutu", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["304", "Ulrike Müller", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["305", "Surendran Nair", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["306", "Yoshitomo Nara", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["307", "Bruce Nauman", "Base propia", "https://www.speronewestwater.com/artists/bruce-nauman#tab:slideshow", "", "", "", "", "", "", "", "pendiente"], ["308", "Paulo Nazareth", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["309", "Elizabeth Neel", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["310", "Shirin Neshat", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["311", "Blessing Ngobeni", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["312", "Caro Niederer", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["313", "Aliza Nisenbaum", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["314", "Serge Alain Nitegeka", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["315", "Otobong Nkanga", "Base propia | Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["316", "Mairead O'Heocha", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["317", "Mendi & Keith Obadike", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["318", "Manuel Ocampo", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["319", "Odili Donald Odita", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["320", "Chris Ofili", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["321", "Precious Okoyomon", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["322", "Éder Oliveira", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["323", "Alex Olson", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["324", "Catherine Opie", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["325", "New Red Order", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["326", "Gabriel Orozco", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["327", "Christopher Orr", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["328", "Anna Ostoya", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["329", "Silke Otto-Knapp", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["330", "Laura Owens", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["331", "Paulina Ołowska", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["332", "Bruno Pacheco", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["333", "Nam June Paik", "Base propia", "https://gagosian.com/artists/nam-june-paik/", "", "", "", "", "", "", "", "pendiente"], ["334", "Cornelia Parker", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["335", "Nicolas Party", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["336", "Grayson Perry", "Base propia | Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2003)", "pendiente"], ["337", "Sondra Perry", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["338", "Alessandro Pessoli", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["339", "Jon Pestoni", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["340", "Elizabeth Peyton", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["341", "Paul Pfeiffer", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["342", "Richard Phillips", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["343", "Johannes Phokela", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["344", "Bernard Piffaretti", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["345", "Adrian Piper", "ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["346", "Annie Pootoogook", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["347", "Pope.L", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["348", "Yelena Popova", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["349", "Avery Preesman", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["350", "Narbi Price", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["351", "Richard Prince", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["352", "Charlotte Prodger", "Base propia | Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2018)", "pendiente"], ["353", "Laure Prouvost", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["354", "Déborah Pruden", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["355", "Mantalina Psoma", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["356", "Puppies Puppies", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["357", "Vitaly Pushnitsky", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["358", "Xu Qu", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["359", "R. H. Quaytman", "Vitamin P2 | Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["360", "Imran Qureshi", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["361", "Tal R", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["362", "Walid Raad", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["363", "Michael Raedecker", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["364", "Michael Rakowitz", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["365", "Mary Ramsden", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["366", "Neo Rauch", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["367", "Blake Rayne", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["368", "Asad Raza", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["369", "Raúl Recio", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["370", "David Reed", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["371", "Tobias Rehberger", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["372", "K.P. Reji", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["373", "Marina Rheingantz", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["374", "Daniel Richter", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["375", "Gerhard Richter", "Base propia", "https://www.gerhard-richter.com/en", "", "", "", "", "", "", "", "pendiente"], ["376", "Pipilotti Rist", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["377", "Matthew Ritchie", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["378", "Zbigniew Rogalski", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["379", "Clare Rojas", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["380", "Julia Rommel", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["381", "Peter Rostovsky", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["382", "Mika Rottenberg", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["383", "Cameron Rowland", "ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["384", "Sterling Ruby", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["385", "Christoph Ruckhäberle", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["386", "Doris Salcedo", "ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["387", "Wilhelm Sasnal", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["388", "Jenny Saville", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["389", "Șerban Savu", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["390", "Thomas Scheibitz", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["391", "Daniel Schlier", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["392", "Julian Schnabel", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["393", "Gregor Schneider", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["394", "Maaike Schoorel", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["395", "Dana Schutz", "Vitamin P2 | ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["396", "Sean Scully", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["397", "Tino Sehgal", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["398", "Tschabalala Self", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["399", "George Shaw", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["400", "Raqib Shaw", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["401", "Gulammohammed Sheikh", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["402", "Yinka Shonibare", "Vitamin P1 | Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["403", "Li Shurui", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["404", "Aliza Shvarts", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["405", "Shahzia Sikander", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["406", "Amy Sillman", "Vitamin P2 | Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["407", "Michael Simpson", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["408", "Avery Singer", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["409", "Arpita Singh", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["410", "Daniel Sinsel", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["411", "Dirk Skreber", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["412", "Anj Smith", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["413", "Josh Smith", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["414", "Kiki Smith", "Base propia", "https://www.pacegallery.com/artists/kiki-smith/", "", "", "", "", "", "", "", "pendiente"], ["415", "Li Songsong", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["416", "Glenn Sorensen", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["417", "Hito Steyerl", "Base propia | ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["418", "Christine Streuli", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["419", "Hiroshi Sugimoto", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["420", "Hiroshi Sugito", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["421", "Ryan Sullivan", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["422", "Sarah Sze", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["423", "Neal Tait", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["424", "Mika Tajima", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["425", "Aya Takano", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["426", "Maria Taniguchi", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["427", "Rodel Tapaya", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["428", "Henry Taylor", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["429", "Mickalene Thomas", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["430", "Torey Thornton", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["431", "Caragh Thuring", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["432", "Zhou Tiehai", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["433", "Wolfgang Tillmans", "Base propia | Turner Prize", "https://www.tillmans.co.uk/", "", "", "", "", "", "", "Turner Prize (premio 2000)", "pendiente"], ["434", "Pádraig Timoney", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["435", "Alexander Tinei", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["436", "Fred Tomaselli", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["437", "Ryan Trecartin", "ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["438", "Rosemarie Trockel", "Vitamin P1 | Base propia", "https://spruethmagers.com/artists/rosemarie-trockel/", "", "", "", "", "", "", "", "pendiente"], ["439", "Wu Tsang", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["440", "Luc Tuymans", "Vitamin P1 | ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["441", "Phoebe Unwin", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["442", "Lesley Vance", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["443", "Adriana Varejão", "Vitamin P1 | Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["444", "Rafael Vega", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["445", "Pieter Vermeersch", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["446", "Cecilia Vicuña", "ArtReview Top 100 | Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["447", "Vladimir Dubossarsky & Alexander Vinogradov", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["448", "Danh Vo", "Base propia | ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["449", "Kelley Walker", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["450", "Caroline Walker", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["451", "Kara Walker", "Base propia | ArtReview Top 100 | Frieze 25 (2000s)", "", "", "", "", "", "", "", "", "pendiente"], ["452", "Corinne Wasmuht", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["453", "Mary Weatherford", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["454", "Carrie Mae Weems", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["455", "Liu Wei", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["456", "Matthias Weischer", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["457", "Ai Weiwei", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["458", "Andro Wekua", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["459", "Wendy White", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["460", "Rachel Whiteread", "Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["461", "Stanley Whitney", "Vitamin P3 | Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["462", "Jack Whitten", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["463", "Michael Williams", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["464", "Christopher Williams", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["465", "Mette Winckelmann", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["466", "David Wojnarowicz", "Base propia", "https://whitney.org/exhibitions/david-wojnarowicz", "", "", "", "", "", "", "", "pendiente"], ["467", "Richard Wright", "Vitamin P1 | Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2009)", "pendiente"], ["468", "Katharina Wulff", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["469", "Rose Wylie", "Vitamin P3", "", "", "", "", "", "", "", "", "pendiente"], ["470", "Liu Xiaodong", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["471", "Wang Xingwei", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["472", "Santiago Yahuarcani", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["473", "Liu Ye", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["474", "Ding Yi", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["475", "Anicka Yi", "ArtReview Top 100", "", "", "", "", "", "", "", "", "pendiente"], ["476", "Lynette Yiadom-Boakye", "Vitamin P2 | Base propia", "", "", "", "", "", "", "", "", "pendiente"], ["477", "Liang Yuanwei", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["478", "Lisa Yuskavage", "Vitamin P1", "", "", "", "", "", "", "", "", "pendiente"], ["479", "Luiz Zerbini", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["480", "Jakub Julian Ziółkowski", "Vitamin P2", "", "", "", "", "", "", "", "", "pendiente"], ["481", "Ciudad Abierta", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["482", "Abounaddara", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["483", "Akinbode Akinbiyi", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["484", "Nevin Aladağ", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["485", "Daniel García Andújar", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["486", "Danai Anesiadou", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["487", "Andreas Angelidakis", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["488", "Aristide Antonas", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["489", "Rasheed Araeen", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["490", "Arika", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2021)", "pendiente"], ["491", "Assemble", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2015)", "pendiente"], ["492", "Michel Auder", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["493", "Alexandra Bachzetsis", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["494", "Nairy Baghramian", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["495", "Marie Cool Fabio Balducci", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["496", "Sammy Baloji", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["497", "Arben Basha", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["498", "Rebecca Belmore", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["499", "Sokol Beqiri", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["500", "Roger Bernat", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["501", "Bili Bidjocka", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["502", "Wang Bing", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["503", "Ross Birrell", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["504", "Llambi Blido", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["505", "Nomin Bold", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["506", "Martin Boyce", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2011)", "pendiente"], ["507", "Pavel Brăila", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["508", "Geta Brătescu", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["509", "Miriam Cahn", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["510", "Lucien Castaing-Taylor", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["511", "Vija Celmins", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["512", "Banu Cennetoğlu", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["513", "Panos Charalambous", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["514", "Nikhil Chopra", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["515", "Nathan Coley", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2007)", "pendiente"], ["516", "iQhiya Collective", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["517", "Mata Aho Collective", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["518", "Array Collective", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2021)", "pendiente"], ["519", "Jesse Darling", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2023)", "pendiente"], ["520", "Anna Daučíková", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["521", "Moyra Davey", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["522", "Enrico David", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2009)", "pendiente"], ["523", "Yael Davids", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["524", "Agnes Denes", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["525", "Manthia Diawara", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["526", "Hans Eijkelboom", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["527", "Niño de Elche", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["528", "Bonita Ely", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["529", "Theo Eshetu", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["530", "Aboubakar Fofana", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["531", "Peter Friedl", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["532", "Guillermo Galindo", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["533", "Regina José Galindo", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["534", "Israel Galván", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["535", "Pélagie Gbaguidi", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["536", "Gentle/Radical", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2021)", "pendiente"], ["537", "Prinz Gholam", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["538", "Yervant Gianikian", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["539", "Gauri Gill", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["540", "Marina Gioti", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["541", "Beatriz González", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["542", "Douglas Gordon", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["543", "Sámi Artist Group", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["544", "The Otolith Group", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2010)", "pendiente"], ["545", "Hans Haacke", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["546", "Constantinos Hadzinikolaou", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["547", "Irena Haiduk", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["548", "Ganesh Haloi", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["549", "Anna Halprin", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["550", "Dale Harding", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["551", "David Harding", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["552", "Maria Hassabi", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["553", "Edi Hila", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["554", "Susan Hiller", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["555", "Damien Hirst", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio)", "pendiente"], ["556", "Howard Hodgkin", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 1985)", "pendiente"], ["557", "Olaf Holzapfel", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["558", "Gordon Hookey", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["559", "Runa Islam", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2008)", "pendiente"], ["560", "Sanja Iveković", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["561", "Hiwa K", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["562", "Nnena Kalu", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2025)", "pendiente"], ["563", "Romuald Karmakar", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["564", "Andreas Ragnar Kassapis", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["565", "Anton Kats", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["566", "Daniel Knorr", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["567", "Katalin Ladik", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["568", "David Lamelas", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["569", "Gerhard Lang", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["570", "Mark Leckey", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2008)", "pendiente"], ["571", "Rick Lowe", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["572", "Angela Ricci Lucchi", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["573", "Alvin Lucier", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["574", "Gym Lumbera", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["575", "Antonio Vega Macotela", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["576", "Goshka Macuga", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2008)", "pendiente"], ["577", "Narimane Mari", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["578", "Helen Marten", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2016)", "pendiente"], ["579", "Hans Ragnar Mathisen", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["580", "Danny Matthys", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["581", "Mattin", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["582", "Joaquín Orellana Mejía", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["583", "Jonas Mekas", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["584", "Angela Melitopoulos", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["585", "Phia Ménard", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["586", "Lala Meredith-Vula", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["587", "Gernot Minke", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["588", "Marta Minujín", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["589", "Naeem Mohaiemen", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["590", "Negros Tou Moria", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["591", "Malcolm Morley", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 1984)", "pendiente"], ["592", "Hasan Nallbani", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["593", "Joar Nango", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["594", "Rosalind Nashashibi", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["595", "Mike Nelson", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2007 y 2001)", "pendiente"], ["596", "Kettly Noël", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["597", "Emeka Ogboh", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["598", "Olu Oguibe", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["599", "Rainer Oldendorf", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["600", "Pauline Oliveros", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["601", "Christos Papoulias", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["602", "Véréna Paravel", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["603", "Synnøve Persen", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["604", "Dan Peterman", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["605", "Susan Philipsz", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2010)", "pendiente"], ["606", "Angelo Plessas", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["607", "Nathan Pohio", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["608", "María Magdalena Campos Pons", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["609", "William Pope.L", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["610", "Postcommodity", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["611", "Elizabeth Price", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2012)", "pendiente"], ["612", "Oliver Ressler", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["613", "Abel Rodríguez", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["614", "Pedro G. Romero", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["615", "Tracey Rose", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["616", "Roee Rosen", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["617", "Lala Rukh", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["618", "Arin Rungjang", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["619", "Ben Russell", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["620", "Veronica Ryan", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2022)", "pendiente"], ["621", "Georgia Sagri", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["622", "Khvay Samnang", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["623", "Máret Ánne Sara", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["624", "Ashley Hans Scheirl", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["625", "Marilou Schultz", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["626", "David Schutter", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["627", "Cooking Sections", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2021)", "pendiente"], ["628", "Algirdas Šeškus", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["629", "Nilima Sheikh", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["630", "Ahlam Shibli", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["631", "Zef Shoshi", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["632", "Lucy Skaer", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2009)", "pendiente"], ["633", "Mounira Al Solh", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["634", "Annie Sprinkle", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["635", "Simon Starling", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2005)", "pendiente"], ["636", "Eva Stefani", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["637", "Beth Stephens", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["638", "K. G. Subramanyan", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["639", "Vivian Suter", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["640", "El Hadji Sy", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["641", "Kidlat Tahimik", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["642", "Terre Thaemlitz", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["643", "Ariuntugs Tserenpil", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["644", "Keith Tyson", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2002)", "pendiente"], ["645", "Piotr Uklański", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["646", "Mark Wallinger", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (premio 2007)", "pendiente"], ["647", "Lois Weinberger", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["648", "Elisabeth Wild", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["649", "Cathy Wilkes", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2008)", "pendiente"], ["650", "Ruth Wolf-Rehfeldt", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["651", "Project Art Works", "Turner Prize", "", "", "", "", "", "", "", "Turner Prize (nominación 2021)", "pendiente"], ["652", "Ulrich Wüst", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["653", "Zafos Xagoraris", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["654", "Sergio Zevallos", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["655", "Artur Żmijewski", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"], ["656", "Mary Zygouri", "Documenta", "", "", "", "", "", "", "", "documenta 14, Kassel/Atenas (2017)", "pendiente"]];
+
+// ---------- parser CSV (maneja comillas y comas internas) ----------
+function parseCSV(texto) {
+  const filas = [];
+  let fila = [], campo = '', enComillas = false;
+  for (let i = 0; i < texto.length; i++) {
+    const c = texto[i];
+    if (enComillas) {
+      if (c === '"') {
+        if (texto[i+1] === '"') { campo += '"'; i++; }
+        else enComillas = false;
+      } else campo += c;
+    } else {
+      if (c === '"') enComillas = true;
+      else if (c === ',') { fila.push(campo); campo = ''; }
+      else if (c === '\n' || c === '\r') {
+        if (c === '\r' && texto[i+1] === '\n') i++;
+        fila.push(campo); campo = '';
+        if (fila.some(x => x !== '')) filas.push(fila);
+        fila = [];
+      } else campo += c;
+    }
+  }
+  if (campo !== '' || fila.length) { fila.push(campo); if (fila.some(x => x !== '')) filas.push(fila); }
+  return filas;
+}
+
+// ---------- estado ----------
+let cabecera = [], registros = [];
+let orden = { col: 'id', asc: true };
+
+function cargarDatos(filas) {
+  cabecera = filas[0];
+  registros = filas.slice(1).map(f => {
+    const r = {};
+    cabecera.forEach((h, i) => r[h] = (f[i] || '').trim());
+    r.edad = calcularEdad(r.fecha_nacimiento);
+    return r;
+  });
+  poblarFiltros();
+  render();
+}
+
+function calcularEdad(fecha) {
+  if (!fecha) return '';
+  const m = fecha.match(/^(\d{4})(?:-(\d{2})-(\d{2}))?/);
+  if (!m) return '';
+  const hoy = new Date();
+  let edad = hoy.getFullYear() - parseInt(m[1]);
+  if (m[2]) {
+    const cumple = new Date(hoy.getFullYear(), parseInt(m[2]) - 1, parseInt(m[3]));
+    if (hoy < cumple) edad--;
+  }
+  return String(edad);
+}
+
+// ---------- filtros dinámicos ----------
+function poblarFiltros() {
+  const setF = new Set(), setM = new Set(), setT = new Set(), setE = new Set();
+  registros.forEach(r => {
+    (r.fuentes || '').split('|').forEach(x => x.trim() && setF.add(x.trim()));
+    (r.medios || '').split(';').forEach(x => x.trim() && setM.add(x.trim()));
+    (r.temas || '').split(';').forEach(x => x.trim() && setT.add(x.trim()));
+    if (r.estado_verificacion) setE.add(r.estado_verificacion.trim());
+  });
+  llenarSelect('f-fuente', setF); llenarSelect('f-medio', setM);
+  llenarSelect('f-tema', setT); llenarSelect('f-estado', setE);
+  // ocultar filtros aún sin datos
+  document.getElementById('f-medio').style.display = setM.size ? '' : 'none';
+  document.getElementById('f-tema').style.display = setT.size ? '' : 'none';
+}
+function llenarSelect(id, valores) {
+  const sel = document.getElementById(id);
+  const actual = sel.value;
+  sel.length = 1;
+  [...valores].sort((a,b) => a.localeCompare(b, 'es')).forEach(v => {
+    const o = document.createElement('option'); o.value = v; o.textContent = v; sel.appendChild(o);
+  });
+  sel.value = [...valores].includes(actual) ? actual : '';
+}
+
+// ---------- normalización para búsqueda sin tildes ----------
+const norm = s => (s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+
+// ---------- render ----------
+function filtrar() {
+  const q = norm(document.getElementById('buscar').value);
+  const fF = document.getElementById('f-fuente').value;
+  const fM = document.getElementById('f-medio').value;
+  const fT = document.getElementById('f-tema').value;
+  const fE = document.getElementById('f-estado').value;
+  return registros.filter(r => {
+    if (fF && !(r.fuentes || '').split('|').map(x => x.trim()).includes(fF)) return false;
+    if (fM && !(r.medios || '').split(';').map(x => x.trim()).includes(fM)) return false;
+    if (fT && !(r.temas || '').split(';').map(x => x.trim()).includes(fT)) return false;
+    if (fE && r.estado_verificacion.trim() !== fE) return false;
+    if (q) {
+      const pajar = norm([r.nombre, r.lugar_nacimiento, r.residencia, r.temas, r.medios, r.hitos, r.fuentes].join(' '));
+      if (!pajar.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function render() {
+  const lista = filtrar();
+  lista.sort((a, b) => {
+    let va = a[orden.col] || '', vb = b[orden.col] || '';
+    if (orden.col === 'id' || orden.col === 'edad') { va = parseInt(va) || 0; vb = parseInt(vb) || 0; }
+    const cmp = typeof va === 'number' ? va - vb : String(va).localeCompare(String(vb), 'es');
+    return orden.asc ? cmp : -cmp;
+  });
+
+  const cuerpo = document.getElementById('cuerpo');
+  cuerpo.innerHTML = '';
+  const frag = document.createDocumentFragment();
+  lista.forEach(r => {
+    const tr = document.createElement('tr');
+    tr.className = 'fila';
+    tr.dataset.id = r.id;
+    const fuentes = (r.fuentes || '').split('|').map(x => x.trim()).filter(Boolean);
+    const chipCls = fuentes.length > 1 ? 'chip multi' : 'chip';
+    tr.innerHTML =
+      `<td class="num">${r.id}</td>` +
+      `<td class="nombre">${esc(r.nombre)}</td>` +
+      `<td class="col-opcional">${r.fecha_nacimiento ? esc(r.fecha_nacimiento) : '<span class="vacio">·</span>'}</td>` +
+      `<td class="col-opcional">${r.edad || '<span class="vacio">·</span>'}</td>` +
+      `<td>${r.lugar_nacimiento ? esc(r.lugar_nacimiento) : '<span class="vacio">·</span>'}</td>` +
+      `<td class="col-opcional">${r.residencia ? esc(r.residencia) : '<span class="vacio">·</span>'}</td>` +
+      `<td>${fuentes.map(f => `<span class="${chipCls}">${esc(f)}</span>`).join('')}</td>` +
+      `<td class="col-opcional"><span class="chip estado-${esc(r.estado_verificacion || 'pendiente')}">${esc(r.estado_verificacion || 'pendiente')}</span></td>` +
+      `<td onclick="event.stopPropagation()">${linksConsulta(r, true)}</td>`;
+    tr.addEventListener('click', () => toggleDetalle(tr, r));
+    frag.appendChild(tr);
+  });
+  cuerpo.appendChild(frag);
+  document.getElementById('vacio-msg').style.display = lista.length ? 'none' : 'block';
+  document.getElementById('contador').innerHTML = `<b>${lista.length}</b> / ${registros.length}`;
+  const verificados = registros.filter(r => r.estado_verificacion === 'verificado').length;
+  document.getElementById('pie').textContent =
+    `${registros.length} artistas · ${verificados} verificados · edad calculada a partir de la fecha de nacimiento · clic en una fila para ver la ficha completa`;
+  // flechas de orden
+  document.querySelectorAll('th').forEach(th => {
+    const f = th.querySelector('.flecha'); if (f) f.remove();
+    if (th.dataset.col === orden.col) {
+      const s = document.createElement('span'); s.className = 'flecha';
+      s.textContent = orden.asc ? '↑' : '↓'; th.appendChild(s);
+    }
+  });
+}
+
+function toggleDetalle(tr, r) {
+  const sig = tr.nextElementSibling;
+  if (sig && sig.classList.contains('detalle')) { sig.remove(); return; }
+  document.querySelectorAll('tr.detalle').forEach(x => x.remove());
+  const det = document.createElement('tr');
+  det.className = 'detalle';
+  const campos = [
+    ['Temas', r.temas], ['Medios', r.medios], ['Hitos', r.hitos],
+    ['Consultar', linksConsulta(r, false)], ['Fuentes', r.fuentes]
+  ];
+  det.innerHTML = `<td colspan="9"><dl class="detalle-grid">` +
+    campos.map(([k, v]) =>
+      `<dt>${k}</dt><dd>${v || '<span class="sin-dato">pendiente</span>'}</dd>`).join('') +
+    `</dl></td>`;
+  tr.after(det);
+}
+
+function enlaces(r) {
+  const urls = [r.enlace_existente, r.enlaces].filter(Boolean).join(';')
+    .split(';').map(x => x.trim()).filter(Boolean);
+  if (!urls.length) return '';
+  return urls.map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\/(www\.)?/, '').split('/')[0])}</a>`).join(' · ');
+}
+
+function linksConsulta(r, compacto) {
+  const q = encodeURIComponent(r.nombre);
+  const out = [];
+  if (r.enlace_existente)
+    out.push(`<a class="consulta principal" href="${esc(r.enlace_existente)}" target="_blank" rel="noopener">galería</a>`);
+  out.push(`<a class="consulta" href="https://es.wikipedia.org/w/index.php?search=${q}" target="_blank" rel="noopener">wiki-es</a>`);
+  out.push(`<a class="consulta" href="https://en.wikipedia.org/w/index.php?search=${q}" target="_blank" rel="noopener">wiki-en</a>`);
+  out.push(`<a class="consulta" href="https://www.artsy.net/search?term=${q}" target="_blank" rel="noopener">artsy</a>`);
+  if (!compacto) {
+    out.push(`<a class="consulta" href="https://www.google.com/search?q=${q}+artist" target="_blank" rel="noopener">google</a>`);
+    out.push(`<a class="consulta" href="https://www.google.com/search?q=${q}+artist&tbm=isch" target="_blank" rel="noopener">imágenes</a>`);
+    out.push(`<a class="consulta" href="https://www.moma.org/search/?query=${q}" target="_blank" rel="noopener">moma</a>`);
+    out.push(`<a class="consulta" href="https://www.tate.org.uk/search?q=${q}" target="_blank" rel="noopener">tate</a>`);
+  }
+  const extras = (r.enlaces || '').split(';').map(x => x.trim()).filter(Boolean);
+  extras.forEach(u => out.push(`<a class="consulta principal" href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\/(www\.)?/, '').split('/')[0])}</a>`));
+  return out.join('');
+}
+
+const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+// ---------- eventos ----------
+['buscar','f-fuente','f-medio','f-tema','f-estado'].forEach(id =>
+  document.getElementById(id).addEventListener('input', render));
+document.querySelectorAll('th').forEach(th =>
+  th.addEventListener('click', () => {
+    const col = th.dataset.col;
+    if (orden.col === col) orden.asc = !orden.asc;
+    else { orden.col = col; orden.asc = true; }
+    render();
+  }));
+document.getElementById('btn-cargar').addEventListener('click', () =>
+  document.getElementById('input-csv').click());
+document.getElementById('input-csv').addEventListener('change', e => {
+  const f = e.target.files[0];
+  if (!f) return;
+  const lector = new FileReader();
+  lector.onload = ev => cargarDatos(parseCSV(ev.target.result));
+  lector.readAsText(f, 'UTF-8');
+});
+
+// ---------- arranque ----------
+cargarDatos(DATOS_CSV);
+</script>
+</body>
+</html>
