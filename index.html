@@ -122,7 +122,8 @@
   }
   .chip.multi { border-color: var(--accent); color: var(--accent); background: var(--accent-soft); }
   .estado-pendiente { color: var(--warn); background: var(--warn-soft); border-color: var(--warn); }
-  .estado-verificado { color: var(--accent); background: var(--accent-soft); border-color: var(--accent); }
+  .estado-verificado,
+  [class*="estado-factual"] { color: var(--accent); background: var(--accent-soft); border-color: var(--accent); }
   .vacio { color: #c4c4bf; }
   a.consulta {
     display: inline-block;
@@ -340,7 +341,7 @@ function render() {
   cuerpo.appendChild(frag);
   document.getElementById('vacio-msg').style.display = lista.length ? 'none' : 'block';
   document.getElementById('contador').innerHTML = `<b>${lista.length}</b> / ${registros.length}`;
-  const verificados = registros.filter(r => r.estado_verificacion === 'verificado').length;
+  const verificados = registros.filter(r => /^(verificado|factual)/.test(r.estado_verificacion)).length;
   document.getElementById('pie').textContent =
     `${registros.length} artistas · ${verificados} verificados · edad calculada a partir de la fecha de nacimiento · clic en una fila para ver la ficha completa`;
   // flechas de orden
@@ -368,13 +369,6 @@ function toggleDetalle(tr, r) {
       `<dt>${k}</dt><dd>${v || '<span class="sin-dato">pendiente</span>'}</dd>`).join('') +
     `</dl></td>`;
   tr.after(det);
-}
-
-function enlaces(r) {
-  const urls = [r.enlace_existente, r.enlaces].filter(Boolean).join(';')
-    .split(';').map(x => x.trim()).filter(Boolean);
-  if (!urls.length) return '';
-  return urls.map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\/(www\.)?/, '').split('/')[0])}</a>`).join(' · ');
 }
 
 function linksConsulta(r, compacto) {
