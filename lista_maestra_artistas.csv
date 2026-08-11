@@ -16,8 +16,8 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 15,Ellen Altfest,Vitamin P2 | Bienal de Venecia,,1970,"Nueva York, Estados Unidos",Nueva York,,,https://www.whitecube.com/artists/ellen-altfest,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
 16,Kai Althoff,Vitamin P1 | Whitney Biennial | Cream 3,,1966,"Colonia, Alemania",Nueva York,,,https://www.michaelwerner.com/artists/kai-althoff/biography,"Whitney Biennial 2012, Nueva York",factual-web
 17,David Altmejd,Vitamin P1 | Whitney Biennial | Vitamin 3-D,,1974,"Montreal, Canadá",Los Ángeles,,,https://www.davidkordanskygallery.com/artist/david-altmejd,"Whitney Biennial 2004, Nueva York",factual-web
-18,Francis Alÿs,Vitamin P1 | Frieze 25 (2000s) | Documenta | Vitamin D | Cream,,1959,"Antwerpen, België",Ciudad de México,,,http://www.tate.org.uk/art/artists/francis-alys-4427; https://www.moma.org/artists/8383,"documenta 13, Kassel (2012)",factual-tate
-19,El Anatsui,Base propia | ArtReview Top 100 | Vitamin T,,1944,"Anyako, Ghana",Nsukka (Nigeria); Tema (Ghana),,,https://elanatsui.art,"León de Oro a la trayectoria, Venecia (2015)",factual-web
+18,Francis Alÿs,Vitamin P1 | Frieze 25 (2000s) | Documenta | Vitamin D | Cream | Bienal de Venecia,,1959,"Antwerpen, België",Ciudad de México,,,http://www.tate.org.uk/art/artists/francis-alys-4427; https://www.moma.org/artists/8383,"documenta 13, Kassel (2012); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
+19,El Anatsui,Base propia | ArtReview Top 100 | Vitamin T | Bienal de Venecia,,1944,"Anyako, Ghana",Nsukka (Nigeria); Tema (Ghana),,,https://elanatsui.art,"León de Oro a la trayectoria, Venecia (2015); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 20,Hurvin Anderson,Vitamin P2,,1965,"Birmingham, United Kingdom",Cambridge; Londres,,,http://www.tate.org.uk/art/artists/hurvin-anderson-12583; https://www.thomasdanegallery.com/artists/28-hurvin-anderson/biography/,,factual-tate
 21,Karin Mamma Andersson,Vitamin P2,,1962,"Luleå, Suecia",Estocolmo,,,https://www.davidzwirner.com/artists/mamma-andersson,,factual-web
 22,Juan Araujo,Vitamin P2 | Cream 3,,1971,"Caracas, Venezuela",Lisboa,,,http://www.tate.org.uk/art/artists/juan-araujo-10494; https://www.stephenfriedman.com/artists/27-juan-araujo/biography/,,factual-tate
@@ -27,7 +27,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 26,Ed Atkins,ArtReview Top 100 | Vitamin V | Bienal de Venecia,,1982,United Kingdom,Berlín; Copenhague,,,http://www.tate.org.uk/art/artists/ed-atkins-15601,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
 27,Kader Attia,Base propia | Documenta | Vitamin C+,,1970,"Dugny, France",,,,http://www.tate.org.uk/art/artists/kader-attia-13674,"documenta 13, Kassel (2012)",factual-tate
 28,Tauba Auerbach,Vitamin P2 | Whitney Biennial | New Museum Triennial,,1981,"San Francisco, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Tauba_Auerbach,"Whitney Biennial 2010, Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
-29,John Baldessari,Base propia | Whitney Biennial,https://www.baldessari.org/,1931,"National City, United States","Santa Mónica, CA",,,http://www.tate.org.uk/art/artists/john-baldessari-687,"Whitney Biennial 2008, Nueva York",factual-tate
+29,John Baldessari,Base propia | Whitney Biennial | Bienal de Venecia,https://www.baldessari.org/,1931,"National City, United States","Santa Mónica, CA",,,http://www.tate.org.uk/art/artists/john-baldessari-687,"Whitney Biennial 2008, Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); León de Oro a la trayectoria, Venecia (2009)",factual-tate
 30,Jules de Balincourt,Vitamin P2,,1972,"París, Francia",Nueva York,,,https://en.wikipedia.org/wiki/Jules_de_Balincourt,,factual-web
 31,Meriem Bennani and Orian Barki,ArtReview Top 100,,,,,,,,,pendiente
 32,Matthew Barney,ArtReview Top 100 | Vitamin V | Cream,,1967,"San Francisco, United States",,,,http://www.tate.org.uk/art/artists/matthew-barney-2362,,factual-tate
@@ -64,7 +64,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 63,Firelei Báez,Base propia | Vitamin P4 | Prime | Bienal de Venecia,,1981,"Santiago de los Caballeros, República Dominicana",Nueva York,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
 64,Sarah Cain,Vitamin P3,,1979,"Albany, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Sarah_Cain,,factual-web
 65,Varda Caivano,Vitamin P2 | Bienal de Venecia,,1971,"Buenos Aires, Argentina",,,,,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-66,Sophie Calle,ArtReview Top 100 | Vitamin Txt,,1953,"Paris, France",,,,http://www.tate.org.uk/art/artists/sophie-calle-2692,,factual-tate
+66,Sophie Calle,ArtReview Top 100 | Vitamin Txt | Bienal de Venecia,,1953,"Paris, France",,,,http://www.tate.org.uk/art/artists/sophie-calle-2692,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 67,Jane Callister,Vitamin P1,,1963,"Isla de Man, Reino Unido",Santa Bárbara (California),,,https://janecallister.com,,factual-web
 68,Brian Calvin,Vitamin P2,,1969,"Visalia, EE.UU.",Ojai (California),,,,,factual-web
 69,Juan José Cambre,Vitamin P3,,1948,"Buenos Aires, Argentina",Buenos Aires,,,,,factual-web
@@ -72,7 +72,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 71,Merlin Carpenter,Vitamin P1,,1967,"Pembury, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Merlin_Carpenter,,factual-web
 72,Denis Castellas,Vitamin P1,,1951-07-25,"Marsella, Francia",Niza; Nueva York,,,https://www.deniscastellas.com,,factual-web
 73,Maurizio Cattelan,ArtReview Top 100 | Whitney Biennial | Cream | 21st-Century Art Book,,1960-09-21,"Padua, Italia",Milán; Nueva York,,,https://en.wikipedia.org/wiki/Maurizio_Cattelan,"Whitney Biennial 2004, Nueva York",factual-web
-74,Paul Chan,ArtReview Top 100 | Documenta | Whitney Biennial | Vitamin D2,,1973-04-12,Hong Kong,Nueva York,,,https://en.wikipedia.org/wiki/Paul_Chan_(artist),"documenta 13, Kassel (2012); Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+74,Paul Chan,ArtReview Top 100 | Documenta | Whitney Biennial | Vitamin D2 | Bienal de Venecia,,1973-04-12,Hong Kong,Nueva York,,,https://en.wikipedia.org/wiki/Paul_Chan_(artist),"documenta 13, Kassel (2012); Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-web
 75,Ian Cheng,Base propia | Bienal de Venecia,,1984,Estados Unidos,Nueva York,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
 76,Masaya Chiba,Vitamin P3,,1980,"Kanagawa, Japón",Tokio,,,,,factual-web
 77,Marieta Chirulescu,Vitamin P3,,1974,"Sibiu, Rumanía",Berlín,,,,,factual-web
@@ -123,19 +123,19 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 122,rafa esparza,ArtReview Top 100 | Whitney Biennial,,1981,"Los Ángeles, CA, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 123,Inka Essenhigh,Vitamin P1,,1969,"Pennsylvania, United States",,,,http://www.tate.org.uk/art/artists/inka-essenhigh-3028,,factual-tate
 124,Jana Euler,Vitamin P3 | ArtReview Top 100 | Bienal de Venecia,,1982,"Friedberg, Alemania",Fráncfort; Bruselas,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
-125,Valie Export,Base propia,https://proyectoidis.org/valie-export/,1940,Österreich,,,,http://www.tate.org.uk/art/artists/valie-export-6411,,factual-tate
+125,Valie Export,Base propia | Bienal de Venecia,https://proyectoidis.org/valie-export/,1940,Österreich,,,,http://www.tate.org.uk/art/artists/valie-export-6411,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 126,Hamishi Farah,ArtReview Top 100,,,,,,,,,pendiente
 127,Harun Farocki,ArtReview Top 100 | Frieze 25 (2000s) | Documenta | Bienal de Venecia,,1944,"Nový Jicín, Checoslovaquia",,,,,"documenta 12, Kassel (2007); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
 128,Cao Fei,ArtReview Top 100 | Vitamin V | New Museum Triennial | Bienal de Venecia,,1978,China,Pekín,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 129,Genieve Figgis,Vitamin P3,,,,,,,,,pendiente
 130,Urs Fischer,ArtReview Top 100 | Whitney Biennial | Vitamin D | Vitamin 3-D | Cream 3,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 131,Mark Flood,Vitamin P3,,,,,,,,,pendiente
-132,Ceal Floyer,Vitamin P1 | Documenta | Cream,,1968,"Karachi, Pakistan",,,,http://www.tate.org.uk/art/artists/ceal-floyer-2761,"documenta 13, Kassel (2012)",factual-tate
+132,Ceal Floyer,Vitamin P1 | Documenta | Cream | Bienal de Venecia,,1968,"Karachi, Pakistan",,,,http://www.tate.org.uk/art/artists/ceal-floyer-2761,"documenta 13, Kassel (2012); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 133,Andrea Fraser,ArtReview Top 100 | Frieze 25 (2000s) | Whitney Biennial,,1965,"Montana, United States",,,,http://www.tate.org.uk/art/artists/andrea-fraser-9439,"Whitney Biennial 2012, Nueva York",factual-tate
 134,LaToya Ruby Frazier,ArtReview Top 100 | Whitney Biennial | New Museum Triennial,,,,,,,,"Whitney Biennial 2012, Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
 135,Bernard Frize,Vitamin P1,,1949,"Saint-Mandé, France",,,,http://www.tate.org.uk/art/artists/bernard-frize-2388,,factual-tate
 136,Gabríela Friðriksdóttir,Vitamin P1,,,,,,,,,pendiente
-137,Yang Fudong,Base propia | Documenta | Vitamin Ph | Vitamin V,,,,,,,,"documenta 11, Kassel (2002)",pendiente
+137,Yang Fudong,Base propia | Documenta | Vitamin Ph | Vitamin V | Bienal de Venecia,,,,,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
 138,Michael Fullerton,Vitamin P2,,,,,,,,,pendiente
 139,Louisa Gagliardi,Vitamin P3,,,,,,,,,pendiente
 140,Cyprien Gaillard,Base propia | New Museum Triennial | Bienal de Venecia,,1980,Francia,Berlín,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
@@ -179,7 +179,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 178,Roger Hiorns,Vitamin P1 | Turner Prize | Vitamin 3-D | Bienal de Venecia,,1975,"Birmingham, United Kingdom",,,,http://www.tate.org.uk/art/artists/roger-hiorns-7255,"Turner Prize (nominación 2009); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
 179,Thomas Hirschhorn,Frieze 25 (2000s) | Documenta | Vitamin C+ | Cream | Bienal de Venecia,,1957,"Bern, Schweiz",París,,,http://www.tate.org.uk/art/artists/thomas-hirschhorn-6254,"documenta 11, Kassel (2002); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-tate
 180,David Hockney,Base propia | Whitney Biennial,https://www.hockney.com/home,1937,"Bedford, United Kingdom",,,,http://www.tate.org.uk/art/artists/david-hockney-1293,"Whitney Biennial 2004, Nueva York",factual-tate
-181,Jenny Holzer,Base propia | Vitamin Txt,,1950,"Gallipolis, United States",,,,http://www.tate.org.uk/art/artists/jenny-holzer-1307,,factual-tate
+181,Jenny Holzer,Base propia | Vitamin Txt | Bienal de Venecia,,1950,"Gallipolis, United States",,,,http://www.tate.org.uk/art/artists/jenny-holzer-1307,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 182,Yu Hong,Vitamin P3,,,,,,,,,pendiente
 183,Tishan Hsu,ArtReview Top 100 | Bienal de Venecia,,1951,"Boston, MA, Estados Unidos",Nueva York,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
 184,Alex Hubbard,Vitamin P2 | Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
@@ -187,7 +187,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 186,Pierre Huyghe,ArtReview Top 100 | Frieze 25 (2000s) | Documenta | Whitney Biennial | Cream,,1962,"Paris, France",,,,http://www.tate.org.uk/art/artists/pierre-huyghe-5463,"documenta 13, Kassel (2012); documenta 11, Kassel (2002); Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
 187,Nathan Hylden,Vitamin P2,,,,,,,,,pendiente
 188,Anne Imhof,Frieze 25 (2000s),,,,,,,,,pendiente
-189,Emily Jacir,ArtReview Top 100 | Frieze 25 (2000s) | Whitney Biennial | Vitamin Ph,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
+189,Emily Jacir,ArtReview Top 100 | Frieze 25 (2000s) | Whitney Biennial | Vitamin Ph | Bienal de Venecia,,,,,,,,"Whitney Biennial 2004, Nueva York; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); León de Oro al artista joven, Venecia (2007)",pendiente
 190,Frieda Toranzo Jaeger,ArtReview Top 100 | Bienal de Venecia,,1988,Ciudad de México,Ciudad de México; Berlín,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 191,Arthur Jafa,ArtReview Top 100 | Frieze 25 (2000s) | Whitney Biennial | Vitamin V | Bienal de Venecia,,1960,Estados Unidos,Los Ángeles,,,,"Whitney Biennial 2000, Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); León de Oro al mejor participante, Venecia (2019)",factual-venecia
 192,Merlin James,Vitamin P2,,,,,,,,,pendiente
@@ -253,7 +253,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 252,Tala Madani,Vitamin P2 | Whitney Biennial | New Museum Triennial,,1981,Îran,Los Ángeles,,,http://www.tate.org.uk/art/artists/tala-madani-14729,"Whitney Biennial 2017, Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-tate
 253,Jill Magid,ArtReview Top 100,,,,,,,,,pendiente
 254,Ibrahim Mahama,Frieze 25 (2000s) | Documenta | Vitamin T | Bienal de Venecia,,1987,Ghana,Tamale,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-255,Nalini Malani,Vitamin P2 | Base propia | Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+255,Nalini Malani,Vitamin P2 | Base propia | Documenta | Bienal de Venecia,,,,,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
 256,Victor Man,Vitamin P2 | Vitamin P4 | Bienal de Venecia,,1974,Rumania,Berlín,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 257,Britta Marakatt-Labba,ArtReview Top 100 | Documenta | Vitamin T | Bienal de Venecia,,1951,"Idivuoma, Sápmi, Suecia","Övre Soppero, Sápmi",,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
 258,Fabián Marcaccio,Vitamin P1 | Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
@@ -274,7 +274,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 273,Hugo McCloud,Vitamin P3,,,,,,,,,pendiente
 274,Elizabeth McIntosh,Vitamin P3,,,,,,,,,pendiente
 275,Lucy McKenzie,Vitamin P1 | Cream 3,,1977,"Glasgow, United Kingdom",,,,http://www.tate.org.uk/art/artists/lucy-mckenzie-8631,,factual-tate
-276,Steve McQueen,ArtReview Top 100 | Turner Prize | Documenta | Bienal de Venecia,,1969,"London, United Kingdom",Ámsterdam,,,http://www.tate.org.uk/art/artists/steve-mcqueen-2387,"Turner Prize (premio 1999); documenta 11, Kassel (2002); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
+276,Steve McQueen,ArtReview Top 100 | Turner Prize | Documenta | Bienal de Venecia,,1969,"London, United Kingdom",Ámsterdam,,,http://www.tate.org.uk/art/artists/steve-mcqueen-2387,"Turner Prize (premio 1999); documenta 11, Kassel (2002); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 277,Birgit Megerle,Vitamin P2,,,,,,,,,pendiente
 278,Julie Mehretu,Vitamin P1 | Base propia | ArtReview Top 100 | Documenta | Whitney Biennial | Vitamin D | Cream 3 | African Artists | Bienal de Venecia,,1970,Etiopía,Nueva York,,,,"documenta 13, Kassel (2012); Whitney Biennial 2004, Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
 279,The Yes Men,ArtReview Top 100,,,,,,,,,pendiente
@@ -305,7 +305,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 304,Ulrike Müller,Vitamin P3 | Whitney Biennial | Bienal de Venecia,,1971,"Brixlegg, Austria",Brooklyn,,,,"Whitney Biennial 2017, Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-whitney
 305,Surendran Nair,Vitamin P2,,,,,,,,,pendiente
 306,Yoshitomo Nara,Vitamin P1 | Vitamin D | Cream 3,,,,,,,,,pendiente
-307,Bruce Nauman,Base propia | Bienal de Venecia,https://www.speronewestwater.com/artists/bruce-nauman#tab:slideshow,1941,"Fort Wayne, United States",Nuevo México,,,http://www.tate.org.uk/art/artists/bruce-nauman-1691,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
+307,Bruce Nauman,Base propia | Bienal de Venecia,https://www.speronewestwater.com/artists/bruce-nauman#tab:slideshow,1941,"Fort Wayne, United States",Nuevo México,,,http://www.tate.org.uk/art/artists/bruce-nauman-1691,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 308,Paulo Nazareth,ArtReview Top 100,,,,,,,,,pendiente
 309,Elizabeth Neel,Vitamin P3,,,,,,,,,pendiente
 310,Shirin Neshat,Base propia | Documenta | Whitney Biennial | Vitamin Txt,,1957,"Qazvin, Îran",,,,http://www.tate.org.uk/art/artists/shirin-neshat-5459,"documenta 11, Kassel (2002); Whitney Biennial 2000, Nueva York",factual-tate
@@ -317,7 +317,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 316,Mairead O'Heocha,Vitamin P3,,,,,,,,,pendiente
 317,Mendi & Keith Obadike,ArtReview Top 100,,,,,,,,,pendiente
 318,Manuel Ocampo,Vitamin P1,,,,,,,,,pendiente
-319,Odili Donald Odita,Vitamin P2,,,,,,,,,pendiente
+319,Odili Donald Odita,Vitamin P2 | Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
 320,Chris Ofili,Vitamin P1 | Bienal de Venecia,,1968,"Manchester, United Kingdom",Londres; Trinidad,,,http://www.tate.org.uk/art/artists/chris-ofili-2543,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-tate
 321,Precious Okoyomon,ArtReview Top 100 | Bienal de Venecia,,1993,"Londres, Reino Unido",Nueva York,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
 322,Éder Oliveira,Vitamin P3,,,,,,,,,pendiente
@@ -336,7 +336,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 335,Nicolas Party,Vitamin P3,,,,,,,,,pendiente
 336,Grayson Perry,Base propia | Turner Prize | Vitamin C | Vitamin T | 21st-Century Art Book,,1960,"Chelmsford, United Kingdom",,,,http://www.tate.org.uk/art/artists/grayson-perry-4657,Turner Prize (premio 2003),factual-tate
 337,Sondra Perry,ArtReview Top 100 | Bienal de Venecia,,1986,"Perth Amboy, NJ, Estados Unidos","Newark, NJ",,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
-338,Alessandro Pessoli,Vitamin P2,,,,,,,,,pendiente
+338,Alessandro Pessoli,Vitamin P2 | Bienal de Venecia,,1963,"Cervia, Italia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 339,Jon Pestoni,Vitamin P2,,,,,,,,,pendiente
 340,Elizabeth Peyton,Vitamin P1 | Whitney Biennial | Vitamin D | Fresh Cream,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
 341,Paul Pfeiffer,ArtReview Top 100 | Whitney Biennial | Vitamin Ph | Vitamin V | Cream 3,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
@@ -369,11 +369,11 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 368,Asad Raza,ArtReview Top 100 | Whitney Biennial,,1974,"Búfalo, NY, Estados Unidos",Nueva York,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 369,Raúl Recio,Vitamin P3,,,,,,,,,pendiente
 370,David Reed,Vitamin P1,,,,,,,,,pendiente
-371,Tobias Rehberger,Vitamin P1,,,,,,,,,pendiente
+371,Tobias Rehberger,Vitamin P1 | Bienal de Venecia,,1966,"Esslingen, Alemania",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); León de Oro al mejor participante, Venecia (2009)",factual-venecia
 372,K.P. Reji,Vitamin P3,,,,,,,,,pendiente
 373,Marina Rheingantz,Vitamin P3,,,,,,,,,pendiente
 374,Daniel Richter,Vitamin P1,,,,,,,,,pendiente
-375,Gerhard Richter,Base propia | Documenta,https://www.gerhard-richter.com/en,1932,"Dresden, Deutschland",,,,http://www.tate.org.uk/art/artists/gerhard-richter-1841,"documenta 12, Kassel (2007)",factual-tate
+375,Gerhard Richter,Base propia | Documenta | Bienal de Venecia,https://www.gerhard-richter.com/en,1932,"Dresden, Deutschland",,,,http://www.tate.org.uk/art/artists/gerhard-richter-1841,"documenta 12, Kassel (2007); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 376,Pipilotti Rist,ArtReview Top 100 | Vitamin V,,1962,Schweiz,,,,http://www.tate.org.uk/art/artists/pipilotti-rist-5465,,factual-tate
 377,Matthew Ritchie,Vitamin P1 | Vitamin D,,,,,,,,,pendiente
 378,Zbigniew Rogalski,Vitamin P3,,,,,,,,,pendiente
@@ -431,7 +431,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 430,Torey Thornton,Vitamin P3 | Whitney Biennial,,1990,"Macon, GA, Estados Unidos",Brooklyn,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 431,Caragh Thuring,Vitamin P3,,1972,"Bruxelles, België",,,,http://www.tate.org.uk/art/artists/caragh-thuring-17408,,factual-tate
 432,Zhou Tiehai,Vitamin P1,,,,,,,,,pendiente
-433,Wolfgang Tillmans,Base propia | Turner Prize | Fresh Cream,https://www.tillmans.co.uk/,1968,"Remscheid, Deutschland",,,,http://www.tate.org.uk/art/artists/wolfgang-tillmans-2747,Turner Prize (premio 2000),factual-tate
+433,Wolfgang Tillmans,Base propia | Turner Prize | Fresh Cream | Bienal de Venecia,https://www.tillmans.co.uk/,1968,"Remscheid, Deutschland",,,,http://www.tate.org.uk/art/artists/wolfgang-tillmans-2747,"Turner Prize (premio 2000); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 434,Pádraig Timoney,Vitamin P2,,,,,,,,,pendiente
 435,Alexander Tinei,Vitamin P2,,,,,,,,,pendiente
 436,Fred Tomaselli,Vitamin P1 | Whitney Biennial,,1962,"Santa Monica, United States",,,,http://www.tate.org.uk/art/artists/fred-tomaselli-6854,"Whitney Biennial 2004, Nueva York",factual-tate
@@ -449,7 +449,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 448,Danh Vo,Base propia | ArtReview Top 100 | Frieze 25 (2000s) | Bienal de Venecia,,1975,Vietnam,Ciudad de México,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
 449,Kelley Walker,Vitamin P2 | Whitney Biennial,,1969,"Columbus, United States",,,,http://www.tate.org.uk/art/artists/kelley-walker-16207,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
 450,Caroline Walker,Vitamin P3,,,,,,,,,pendiente
-451,Kara Walker,Base propia | ArtReview Top 100 | Frieze 25 (2000s) | Vitamin D | Vitamin C+,,1969,"Stockton, United States",,,,http://www.tate.org.uk/art/artists/kara-walker-2674,,factual-tate
+451,Kara Walker,Base propia | ArtReview Top 100 | Frieze 25 (2000s) | Vitamin D | Vitamin C+ | Bienal de Venecia,,1969,"Stockton, United States",,,,http://www.tate.org.uk/art/artists/kara-walker-2674,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 452,Corinne Wasmuht,Vitamin P2,,,,,,,,,pendiente
 453,Mary Weatherford,Vitamin P3,,,,,,,,,pendiente
 454,Carrie Mae Weems,Base propia,,,,,,,,,pendiente
@@ -512,7 +512,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 511,Vija Celmins,Documenta | Whitney Biennial,,1938,"Riga, Latvija",,,,http://www.tate.org.uk/art/artists/vija-celmins-2731,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2002, Nueva York",factual-tate
 512,Banu Cennetoğlu,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 513,Panos Charalambous,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-514,Nikhil Chopra,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+514,Nikhil Chopra,Documenta | Bienal de Venecia,,1974,"Calcuta, India",,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 515,Nathan Coley,Turner Prize,,,,,,,,Turner Prize (nominación 2007),pendiente
 516,iQhiya Collective,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 517,Mata Aho Collective,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
@@ -574,7 +574,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 573,Alvin Lucier,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 574,Gym Lumbera,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 575,Antonio Vega Macotela,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-576,Goshka Macuga,Turner Prize | Documenta | Vitamin 3-D | Vitamin T,,,,,,,,"Turner Prize (nominación 2008); documenta 13, Kassel (2012)",pendiente
+576,Goshka Macuga,Turner Prize | Documenta | Vitamin 3-D | Vitamin T | Bienal de Venecia,,1967,"Varsovia, Polonia",,,,,"Turner Prize (nominación 2008); documenta 13, Kassel (2012); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 577,Narimane Mari,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 578,Helen Marten,Turner Prize | Bienal de Venecia,,1985,Reino Unido,Londres,,,,"Turner Prize (premio 2016); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
 579,Hans Ragnar Mathisen,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
@@ -633,7 +633,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 632,Lucy Skaer,Turner Prize | Vitamin D | Vitamin 3-D,,1977,"Cambridge, United Kingdom",,,,http://www.tate.org.uk/art/artists/lucy-skaer-13391,Turner Prize (nominación 2009),factual-tate
 633,Mounira Al Solh,Documenta | Bienal de Venecia,,1978,Líbano,Beirut; Ámsterdam,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 634,Annie Sprinkle,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-635,Simon Starling,Turner Prize | Vitamin Ph | Vitamin 3-D | Fresh Cream,,1967,"Epsom, United Kingdom",,,,http://www.tate.org.uk/art/artists/simon-starling-7052,Turner Prize (premio 2005),factual-tate
+635,Simon Starling,Turner Prize | Vitamin Ph | Vitamin 3-D | Fresh Cream | Bienal de Venecia,,1967,"Epsom, United Kingdom",,,,http://www.tate.org.uk/art/artists/simon-starling-7052,"Turner Prize (premio 2005); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 636,Eva Stefani,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 637,Beth Stephens,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 638,K. G. Subramanyan,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
@@ -672,11 +672,11 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 671,Amy Balkin,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 672,Judith Barry,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 673,Gianfranco Baruchello,Documenta | Bienal de Venecia,,1924,"Livorno, Italia",,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-674,Thomas Bayrle,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+674,Thomas Bayrle,Documenta | Bienal de Venecia,,1937,"Berlín, Alemania",,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 675,Jérôme Bel,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 676,Gordon Bennett,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 677,Rossella Biscotti,Documenta | Bienal de Venecia,,1978,"Molfetta, Italia",,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-678,Manon de Boer,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+678,Manon de Boer,Documenta | Bienal de Venecia,,,,,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
 679,Anna Boghiguian,Documenta | Vitamin P4,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 680,Carol Bove,Documenta | Whitney Biennial | Vitamin 3-D | Bienal de Venecia,,1971,"Ginebra, Suiza",Nueva York,,,,"documenta 13, Kassel (2012); Whitney Biennial 2008, Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-whitney
 681,Kristina Buch,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
@@ -704,13 +704,13 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 703,Matias Faldbakken,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 704,Geoffrey Farmer,Documenta | Vitamin 3-D,,1967,"Eagle Bay, Canada",,,,http://www.tate.org.uk/art/artists/geoffrey-farmer-10350,"documenta 13, Kassel (2012)",factual-tate
 705,Omer Fast,Documenta | Whitney Biennial | Cream 3,,1972,"Yerushalayim, Yisra'el",Berlín,,,http://www.tate.org.uk/art/artists/omer-fast-10200,"documenta 13, Kassel (2012); Whitney Biennial 2008, Nueva York; Whitney Biennial 2002, Nueva York",factual-tate
-706,Lara Favaretto,Documenta | Vitamin 3-D | Bienal de Venecia,,1973,Italia,Turín,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
+706,Lara Favaretto,Documenta | Vitamin 3-D | Bienal de Venecia,,1973,Italia,Turín,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 707,Llyn Foulkes,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 708,Chiara Fumai,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 709,Rene Gabri,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 710,Ryan Gander,Documenta | Vitamin 3-D | New Museum Triennial,,1976,"Chester, United Kingdom",,,,http://www.tate.org.uk/art/artists/ryan-gander-9102,"documenta 13, Kassel (2012); New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-tate
 711,Dora García,Documenta | Bienal de Venecia,,1965,España,Barcelona,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-712,Mario García Torres,Documenta,,1975,"Monclova, México",,,,http://www.tate.org.uk/art/artists/mario-garcia-torres-10370,"documenta 13, Kassel (2012)",factual-tate
+712,Mario García Torres,Documenta | Bienal de Venecia,,1975,"Monclova, México",,,,http://www.tate.org.uk/art/artists/mario-garcia-torres-10370,"documenta 13, Kassel (2012); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 713,Theaster Gates,Documenta | Whitney Biennial | Vitamin C | 21st-Century Art Book | Bienal de Venecia,,1973,Estados Unidos,Chicago,,,,"documenta 13, Kassel (2012); Whitney Biennial 2010, Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 714,Jeanno Gaussi,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 715,Mariam Ghani,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
@@ -722,7 +722,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 721,Judith Hopf,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 722,Khaled Hourani,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 723,Toril Johannessen,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-724,Joan Jonas,Documenta,,1936,"New York, United States",,,,http://www.tate.org.uk/art/artists/joan-jonas-7726,"documenta 13, Kassel (2012); documenta 11, Kassel (2002)",factual-tate
+724,Joan Jonas,Documenta | Bienal de Venecia,,1936,"New York, United States",,,,http://www.tate.org.uk/art/artists/joan-jonas-7726,"documenta 13, Kassel (2012); documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 725,Brian Jungen,Documenta | Vitamin 3-D,,1970,"Fort Saint John, Canada",,,,http://www.tate.org.uk/art/artists/brian-jungen-9484,"documenta 13, Kassel (2012)",factual-tate
 726,Duane Linklater,Documenta | Whitney Biennial,,1976,"Territorio del Tratado 9, Ontario, Canadá","North Bay, Canadá",,,,"documenta 13, Kassel (2012); Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
 727,Robin Kahn,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
@@ -735,7 +735,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 734,David Link,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 735,Maria Loboda,Documenta | Bienal de Venecia,,1979,Polonia,Berlín,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
 736,Aníbal López,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-737,Renata Lucas,Documenta | Vitamin 3-D,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+737,Renata Lucas,Documenta | Vitamin 3-D | Bienal de Venecia,,1971,"Ribeirão Preto, Brasil",,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 738,Marcos Lutyens,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 739,Sissel Tolaas,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 740,Anna Maria Maiolino,Documenta | Bienal de Venecia,,1942,"Scalea, Italia",São Paulo,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa); León de Oro a la trayectoria, Venecia (2024)",factual-venecia
@@ -775,7 +775,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 774,Tejal Shah,Documenta | Bienal de Venecia,,,,,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive)",pendiente
 775,Wael Shawky,Documenta | Vitamin C | Vitamin D3 | Vitamin V,,1971,Misr,,,,http://www.tate.org.uk/art/artists/wael-shawky-13675,"documenta 13, Kassel (2012)",factual-tate
 776,Zolaykha Sherzad,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-777,Nedko Solakov,Documenta | Vitamin D | Fresh Cream,,1957,"Cherven Bryag, Bulgaria",,,,http://www.tate.org.uk/art/artists/nedko-solakov-12133,"documenta 13, Kassel (2012); documenta 12, Kassel (2007)",factual-tate
+777,Nedko Solakov,Documenta | Vitamin D | Fresh Cream | Bienal de Venecia,,1957,"Cherven Bryag, Bulgaria",,,,http://www.tate.org.uk/art/artists/nedko-solakov-12133,"documenta 13, Kassel (2012); documenta 12, Kassel (2007); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 778,Song Dong,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 779,Alexandra Sukhareva,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 780,Mika Taanila,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
@@ -791,11 +791,11 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 790,Jessica Warboys,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 791,Clemens von Wedemeyer,Documenta,,1974,"Göttingen, Deutschland",,,,http://www.tate.org.uk/art/artists/clemens-von-wedemeyer-10651,"documenta 13, Kassel (2012)",factual-tate
 792,Apichatpong Weerasethakul,Documenta | Cream 3 | Bienal de Venecia,,1970,"Krung Thep, Prathet Thai",Chiang Mai,,,http://www.tate.org.uk/art/artists/apichatpong-weerasethakul-14213,"documenta 13, Kassel (2012); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-tate
-793,Lawrence Weiner,Documenta,,1942,"Bronx, United States",,,,http://www.tate.org.uk/art/artists/lawrence-weiner-7743,"documenta 13, Kassel (2012)",factual-tate
+793,Lawrence Weiner,Documenta | Bienal de Venecia,,1942,"Bronx, United States",,,,http://www.tate.org.uk/art/artists/lawrence-weiner-7743,"documenta 13, Kassel (2012); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 794,Yan Lei,Documenta,,,,,,,,"documenta 13, Kassel (2012); documenta 12, Kassel (2007)",pendiente
-795,Haegue Yang,Documenta | Vitamin 3-D | Vitamin T,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+795,Haegue Yang,Documenta | Vitamin 3-D | Vitamin T | Bienal de Venecia,,1971,"Seúl, Corea del Sur",,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 796,Akram Zaatari,Documenta,,1966,"Sayda, Al-Lubnan",,,,http://www.tate.org.uk/art/artists/akram-zaatari-11598,"documenta 13, Kassel (2012)",factual-tate
-797,Georges Adéagbo,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
+797,Georges Adéagbo,Documenta | Bienal de Venecia,,1942,"Cotonú, Benín",,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 798,Ravi Agarwal,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 799,Eija-Liisa Ahtila,Documenta | Fresh Cream,,1959,"Hämeenlinna, Suomi",,,,http://www.tate.org.uk/art/artists/eija-liisa-ahtila-3098,"documenta 11, Kassel (2002)",factual-tate
 800,Chantal Akerman,Documenta | Bienal de Venecia,,1950,Bélgica,París,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
@@ -813,7 +813,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 812,Black Audio Film Collective,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 813,Ecke Bonk,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 814,Frédéric Bruly Bouabré,Documenta | Bienal de Venecia,,1923,"Zéprégüé, Costa de Marfil",,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-815,Louise Bourgeois,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
+815,Louise Bourgeois,Documenta | Bienal de Venecia,,,,,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
 816,Stanley Brouwn,Documenta,,1935,Nederland,,,,http://www.tate.org.uk/art/artists/stanley-brouwn-8785,"documenta 11, Kassel (2002)",factual-tate
 817,Luis Camnitzer,Documenta | Whitney Biennial,,1937,"Lübeck, Deutschland",,,,http://www.tate.org.uk/art/artists/luis-camnitzer-6211,"documenta 11, Kassel (2002); Whitney Biennial 2000, Nueva York",factual-tate
 818,James Coleman,Documenta,,1941,"Dublin, Éire",,,,http://www.tate.org.uk/art/artists/james-coleman-2375,"documenta 11, Kassel (2002); documenta 12, Kassel (2007)",factual-tate
@@ -824,9 +824,9 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 823,Cecilia Edefalk,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 824,William Eggleston,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 825,Touhami Ennadre,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
-826,Cerith Wyn Evans,Documenta | Cream 3,,1958,"Llanelli, United Kingdom",,,,http://www.tate.org.uk/art/artists/cerith-wyn-evans-2662,"documenta 11, Kassel (2002)",factual-tate
+826,Cerith Wyn Evans,Documenta | Cream 3 | Bienal de Venecia,,1958,"Llanelli, United Kingdom",,,,http://www.tate.org.uk/art/artists/cerith-wyn-evans-2662,"documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 827,Feng Mengbo,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
-828,Yona Friedman,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
+828,Yona Friedman,Documenta | Bienal de Venecia,,1923,"Budapest, Hungría",,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 829,Meschac Gaba,Documenta,,1961,"Cotonou, Bénin",,,,http://www.tate.org.uk/art/artists/meschac-gaba-8313,"documenta 11, Kassel (2002)",factual-tate
 830,Giuseppe Gabellone,Documenta | Cream,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 831,Carlos Garaicoa,Documenta | Fresh Cream,,1967,"La Habana, Cuba",,,,http://www.tate.org.uk/art/artists/carlos-garaicoa-6876,"documenta 11, Kassel (2002)",factual-tate
@@ -834,7 +834,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 833,Jef Geys,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 834,David Goldblatt,Documenta | Vitamin Ph | African Artists,,1930,"Randfontein, South Africa",,,,http://www.tate.org.uk/art/artists/david-goldblatt-6558,"documenta 11, Kassel (2002); documenta 12, Kassel (2007)",factual-tate
 835,Leon Golub,Documenta,,1922,"Chicago, United States",,,,http://www.tate.org.uk/art/artists/leon-golub-2207,"documenta 11, Kassel (2002); fallecido/a 2004",factual-tate
-836,Dominique Gonzalez-Foerster,Documenta | Cream | Bienal de Venecia,,1965,"Strasbourg, France",París,,,http://www.tate.org.uk/art/artists/dominique-gonzalez-foerster-10354,"documenta 11, Kassel (2002); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-tate
+836,Dominique Gonzalez-Foerster,Documenta | Cream | Bienal de Venecia,,1965,"Strasbourg, France",París,,,http://www.tate.org.uk/art/artists/dominique-gonzalez-foerster-10354,"documenta 11, Kassel (2002); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 837,Renée Green,Documenta | Whitney Biennial,,1959,"Cleveland, OH, Estados Unidos","Somerville, MA; Nueva York",,,,"documenta 11, Kassel (2002); Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
 838,Víctor Grippo,Documenta,,1936,"Junín, Argentina",,,,http://www.tate.org.uk/art/artists/victor-grippo-8373,"documenta 11, Kassel (2002); fallecido/a 2002",factual-tate
 839,Le Groupe Amos,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
@@ -854,7 +854,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 853,Glenn Ligon,Documenta | Vitamin Txt | Bienal de Venecia,,1960,"Bronx, United States",Nueva York,,,http://www.tate.org.uk/art/artists/glenn-ligon-10429,"documenta 11, Kassel (2002); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-tate
 854,Ken Lum,Documenta | Whitney Biennial,,1956,"Vancouver, Canadá",Vancouver; Filadelfia,,,,"documenta 11, Kassel (2002); Whitney Biennial 2014, Nueva York",factual-whitney
 855,Mark Manders,Documenta | Vitamin D | Vitamin 3-D,,,,,,,,"documenta 11, Kassel (2002)",pendiente
-856,Cildo Meireles,Documenta,,1948,"Rio de Janeiro, Brasil",,,,http://www.tate.org.uk/art/artists/cildo-meireles-6633,"documenta 11, Kassel (2002)",factual-tate
+856,Cildo Meireles,Documenta | Bienal de Venecia,,1948,"Rio de Janeiro, Brasil",,,,http://www.tate.org.uk/art/artists/cildo-meireles-6633,"documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 857,Annette Messager,Documenta | Vitamin T,,1943,"Berck, France",,,,http://www.tate.org.uk/art/artists/annette-messager-2670,"documenta 11, Kassel (2002)",factual-tate
 858,Ryuji Miyamoto,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 859,Santu Mofokeng,Documenta,,1956,"Johannesburg, South Africa",,,,http://www.tate.org.uk/art/artists/santu-mofokeng-13378,"documenta 11, Kassel (2002)",factual-tate
@@ -863,7 +863,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 862,Ulrike Ottinger,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 863,Park Fiction,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 864,Manfred Pernice,Documenta | Cream 3,,1963,"Hildesheim, Deutschland",,,,http://www.tate.org.uk/art/artists/manfred-pernice-9560,"documenta 11, Kassel (2002)",factual-tate
-865,Raymond Pettibon,Documenta | Whitney Biennial | Vitamin D,,1957,"Tucson, United States",,,,http://www.tate.org.uk/art/artists/raymond-pettibon-2754,"documenta 11, Kassel (2002); Whitney Biennial 2004, Nueva York",factual-tate
+865,Raymond Pettibon,Documenta | Whitney Biennial | Vitamin D | Bienal de Venecia,,1957,"Tucson, United States",,,,http://www.tate.org.uk/art/artists/raymond-pettibon-2754,"documenta 11, Kassel (2002); Whitney Biennial 2004, Nueva York; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 866,Lisl Ponger,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 867,Pere Portabella,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 868,RAQS Media Collective,Documenta | Whitney Biennial | Bienal de Venecia,,,India (fundado 1992),Delhi,,,,"documenta 11, Kassel (2002); Whitney Biennial 2024 «Even Better Than the Real Thing», Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
@@ -878,7 +878,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 877,Eyal Sivan,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 878,David Small,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 879,Fiona Tan,Documenta,,1966,"Pakanbaru, Indonesia",,,,http://www.tate.org.uk/art/artists/fiona-tan-7376,"documenta 11, Kassel (2002)",factual-tate
-880,Pascale Marthine Tayou,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
+880,Pascale Marthine Tayou,Documenta | Bienal de Venecia,,1967,"Yaundé, Camerún",,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 881,Jean-Marie Teno,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 882,Trinh T. Minh-ha,Documenta | Whitney Biennial,,,"Hanói, Vietnam",Berkeley,,,,"documenta 11, Kassel (2002); Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",pendiente
 883,tsunamii.net,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
@@ -911,13 +911,13 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 910,Ines Doujak,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 911,Lili Dujourie,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 912,Lukas Duwenhögger,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
-913,León Ferrari,Documenta,,1920,"Buenos Aires, Argentina",,,,http://www.tate.org.uk/art/artists/leon-ferrari-10613,"documenta 12, Kassel (2007); fallecido/a 2013",factual-tate
+913,León Ferrari,Documenta | Bienal de Venecia,,1920,"Buenos Aires, Argentina",,,,http://www.tate.org.uk/art/artists/leon-ferrari-10613,"documenta 12, Kassel (2007); fallecido/a 2013; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); León de Oro al mejor participante, Venecia (2007)",factual-tate
 914,Iole de Freitas,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 915,Andrea Geyer,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
-916,Sheela Gowda,Documenta | Vitamin T,,,,,,,,"documenta 12, Kassel (2007)",pendiente
+916,Sheela Gowda,Documenta | Vitamin T | Bienal de Venecia,,1957,"Bhadravati, India",,,,,"documenta 12, Kassel (2007); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 917,Ion Grigorescu,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 918,Grupo de Artistas de Vanguardia,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
-919,Dmitri Gutov,Documenta | Fresh Cream,,,,,,,,"documenta 12, Kassel (2007)",pendiente
+919,Dmitri Gutov,Documenta | Fresh Cream | Bienal de Venecia,,,,,,,,"documenta 12, Kassel (2007); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
 920,Romuald Hazoumé,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 921,Hu Xiaoyuan,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 922,Luis Jacob,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
@@ -936,7 +936,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 935,Churchill Madikida,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 936,Iñigo Manglano-Ovalle,Documenta | Whitney Biennial,,,,,,,,"documenta 12, Kassel (2007); Whitney Biennial 2000, Nueva York",pendiente
 937,John McCracken,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
-938,Andrei Monastyrski,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
+938,Andrei Monastyrski,Documenta | Bienal de Venecia,,,,,,,,"documenta 12, Kassel (2007); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
 939,Olga Neuwirth,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 940,J. D. Okhai Ojeikere,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 941,Anatoly Osmolovsky,Documenta | Fresh Cream,,,,,,,,"documenta 12, Kassel (2007)",pendiente
@@ -969,7 +969,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 968,Harold Ancart,Whitney Biennial,,1980,"Bruselas, Bélgica",Nueva York,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
 969,Mónica Arreola,Whitney Biennial,,1976,"Tijuana, México",Tijuana,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
 970,Emily Barker,Whitney Biennial,,1992,"San Diego, CA, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
-971,Yto Barrada,Whitney Biennial | Vitamin Ph | Vitamin T,,1971,"París, Francia",Brooklyn; Tánger,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
+971,Yto Barrada,Whitney Biennial | Vitamin Ph | Vitamin T | Bienal de Venecia,,1971,"París, Francia",Brooklyn; Tánger,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-whitney
 972,Jonathan Berger,Whitney Biennial,,1980,"Nueva York, Estados Unidos","Nueva York; Glover, VT",,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
 973,Nayland Blake,Whitney Biennial,,1960,"Nueva York, Estados Unidos",Nueva York,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
 974,Cassandra Press,Whitney Biennial,,,,,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",pendiente
@@ -1160,7 +1160,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1159,Samara Golden,Whitney Biennial,,1973,"Ann Arbor, MI, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1160,Casey Gollan,Whitney Biennial,,1991,"Los Ángeles, CA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1161,Victoria Sobel,Whitney Biennial,,1990,"Washington, DC, Estados Unidos",Nueva York,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
-1162,Lyle Ashton Harris,Whitney Biennial | Vitamin C+,,1965,"Bronx, NY, Estados Unidos",Nueva York,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
+1162,Lyle Ashton Harris,Whitney Biennial | Vitamin C+ | Bienal de Venecia,,1965,"Bronx, NY, Estados Unidos",Nueva York,,,,"Whitney Biennial 2017, Nueva York; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-whitney
 1163,Tommy Hartung,Whitney Biennial,,1979,"Akron, OH, Estados Unidos","Queens, NY",,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1164,Porpentine Charity Heartscape,Whitney Biennial,,1987,,Oakland,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1165,Sky Hopinka,Whitney Biennial | Vitamin V,,1984,"Bellingham, WA, Estados Unidos",Milwaukee,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
@@ -1217,7 +1217,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1216,Louise Fishman,Whitney Biennial,,1939,"Filadelfia, PA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 1217,Victoria Fu,Whitney Biennial,,1978,"Santa Mónica, CA, Estados Unidos",San Diego; Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 1218,Gaylen Gerber,Whitney Biennial,,1955,"McAllen, TX, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
-1219,Sherrie Levine,Whitney Biennial,,1947,"Hazleton, PA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1219,Sherrie Levine,Whitney Biennial | Bienal de Venecia,,1947,"Hazleton, PA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-whitney
 1220,Trevor Shimizu,Whitney Biennial,,1978,"Hawái, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 1221,Jeff Gibson,Whitney Biennial,,1958,"Brisbane, Australia",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 1222,Joseph Grigely,Whitney Biennial | Vitamin D | Cream,,1956,"East Longmeadow, MA, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York; Whitney Biennial 2000, Nueva York",factual-whitney
@@ -1247,7 +1247,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1246,Keith Mayerson,Whitney Biennial,,1966,"Cincinnati, OH, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 1247,Bjarne Melgaard,Whitney Biennial,,1967,"Sídney, Australia",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 1248,Rebecca Morris,Whitney Biennial,,1969,"Honolulu, HI, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
-1249,Joshua Mosley,Whitney Biennial,,1974,"Dallas, TX, Estados Unidos",Filadelfia,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1249,Joshua Mosley,Whitney Biennial | Bienal de Venecia,,1974,"Dallas, TX, Estados Unidos",Filadelfia,,,,"Whitney Biennial 2014, Nueva York; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-whitney
 1250,My Barbarian,Whitney Biennial,,,,Nueva York; Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",pendiente
 1251,Dona Nelson,Whitney Biennial,,1947,"Grand Island, NE, Estados Unidos","Lansdale, PA; Nueva York",,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 1252,Ken Okiishi,Whitney Biennial,,1978,"Ames, IA, Estados Unidos",Nueva York; Berlín,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
@@ -1355,7 +1355,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1354,Kerry Tribe,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
 1355,Marianne Vitale,Whitney Biennial | Bienal de Venecia,,1973,"East Rockaway, NY, Estados Unidos",Nueva York,,,,"Whitney Biennial 2010, Nueva York; Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
 1356,Erika Vogt,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1357,Pae White,Whitney Biennial | Vitamin T,,1963,"Pasedena, United States",,,,http://www.tate.org.uk/art/artists/pae-white-7256,"Whitney Biennial 2010, Nueva York",factual-tate
+1357,Pae White,Whitney Biennial | Vitamin T | Bienal de Venecia,,1963,"Pasedena, United States",,,,http://www.tate.org.uk/art/artists/pae-white-7256,"Whitney Biennial 2010, Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 1358,Robert Williams,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
 1359,Rita Ackermann,Whitney Biennial,,1968,"Budapest, Hungría",Nueva York,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1360,Natalia Almada,Whitney Biennial,,1974,México,Ciudad de México; Nueva York,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
@@ -1382,7 +1382,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1381,Adler Guerrier,Whitney Biennial,,1975,"Puerto Príncipe, Haití",Miami,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1382,MK Guth,Whitney Biennial,,1963,"Stevens Point, WI, Estados Unidos",Portland,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1383,Fritz Haeg,Whitney Biennial,,1969,"Saint Cloud, MN, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
-1384,Rachel Harrison,Whitney Biennial | Vitamin Ph | Vitamin 3-D,,1966,"Nueva York, Estados Unidos",Nueva York,,,,"Whitney Biennial 2008, Nueva York; Whitney Biennial 2002, Nueva York",factual-whitney
+1384,Rachel Harrison,Whitney Biennial | Vitamin Ph | Vitamin 3-D | Bienal de Venecia,,1966,"Nueva York, Estados Unidos",Nueva York,,,,"Whitney Biennial 2008, Nueva York; Whitney Biennial 2002, Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-whitney
 1385,Ellen Harvey,Whitney Biennial,,1967,"Kent, Reino Unido",Nueva York,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1386,Mary Heilmann,Whitney Biennial,,1940,"San Francisco, CA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1387,Leslie Hewitt,Whitney Biennial,,1977,"Nueva York, Estados Unidos",Nueva York; Houston,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
@@ -1443,12 +1443,12 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1442,Martha Colburn,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1443,Dan Colen,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1444,Anne Collier,Whitney Biennial | Vitamin Ph,,1970,"Los Angeles, United States",,,,http://www.tate.org.uk/art/artists/anne-collier-12039,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
-1445,Tony Conrad,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1445,Tony Conrad,Whitney Biennial | Bienal de Venecia,,1940,"Concord, NH, Estados Unidos",,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 1446,Jamal Cyrus,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1447,Deep Dish Television Network,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1448,Lucas DeGiulio,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1449,Mark di Suvero,Whitney Biennial,,1933,"Shanghai, Zhonghua",,,,http://www.tate.org.uk/art/artists/mark-di-suvero-6327,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
-1450,Rirkrit Tiravanija,Whitney Biennial | Vitamin Txt | Bienal de Venecia,,1961,"Buenos Aires, Argentina",Nueva York; Berlín; Chiang Mai,,,http://www.tate.org.uk/art/artists/rirkrit-tiravanija-8704,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-tate
+1450,Rirkrit Tiravanija,Whitney Biennial | Vitamin Txt | Bienal de Venecia,,1961,"Buenos Aires, Argentina",Nueva York; Berlín; Chiang Mai,,,http://www.tate.org.uk/art/artists/rirkrit-tiravanija-8704,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 1451,Kenya Evans,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1452,David Gatten,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2002, Nueva York",pendiente
 1453,Joe Gibbons,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2002, Nueva York; Whitney Biennial 2000, Nueva York",pendiente
@@ -1525,11 +1525,11 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1524,Sue de Beer,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
 1525,Lecia Dole-Recio,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
 1526,Bradley Eros,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1527,Spencer Finch,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
+1527,Spencer Finch,Whitney Biennial | Vitamin D | Bienal de Venecia,,1962,"New Haven, CT, Estados Unidos",,,,,"Whitney Biennial 2004, Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 1528,Rob Fischer,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
 1529,Kim Fisher,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
 1530,Harrell Fletcher,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1531,Miranda July,Whitney Biennial | Cream 3,,,,,,,,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York",pendiente
+1531,Miranda July,Whitney Biennial | Cream 3 | Bienal de Venecia,,1974,"Barre, VT, Estados Unidos",,,,,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 1532,James Fotopoulos,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
 1533,Barnaby Furnas,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
 1534,Sandra Gibson,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
@@ -1556,7 +1556,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1555,Anthony McCall,Whitney Biennial,,1946,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/anthony-mccall-7491,"Whitney Biennial 2004, Nueva York",factual-tate
 1556,Bruce McClure,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York",pendiente
 1557,Lee Mingwei,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1558,Aleksandra Mir,Whitney Biennial | Vitamin D2,,1967,Polska,,,,http://www.tate.org.uk/art/artists/aleksandra-mir-10038,"Whitney Biennial 2004, Nueva York",factual-tate
+1558,Aleksandra Mir,Whitney Biennial | Vitamin D2 | Bienal de Venecia,,1967,Polska,,,,http://www.tate.org.uk/art/artists/aleksandra-mir-10038,"Whitney Biennial 2004, Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 1559,Dave Muller,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
 1560,Julie Murray,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
 1561,Julie Atlas Muz,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
@@ -1697,7 +1697,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1696,Kim Dingle,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
 1697,Anthony Discenza,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
 1698,Tara Donovan,Whitney Biennial | Vitamin 3-D,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1699,James Drake,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
+1699,James Drake,Whitney Biennial | Bienal de Venecia,,,,,,,,"Whitney Biennial 2000, Nueva York; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
 1700,Theresa Duncan,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
 1701,Leandro Erlich,Whitney Biennial | Cream 3,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
 1702,Fakeshop,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
@@ -1758,7 +1758,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1757,Raimond Chaves,Vitamin D,,1963,"Santafé de Bogotá, D.C., Colombia",,,,http://www.tate.org.uk/art/artists/raimond-chaves-11461,,factual-tate
 1758,Sandra Cinto,Vitamin D | Vitamin P4,,,,,,,,,pendiente
 1759,Russell Crotty,Vitamin D,,,,,,,,,pendiente
-1760,Roberto Cuoghi,Vitamin D | Bienal de Venecia,,1973,"Módena, Italia",,,,,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
+1760,Roberto Cuoghi,Vitamin D | Bienal de Venecia,,1973,"Módena, Italia",,,,,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 1761,Jeff Davis,Vitamin D,,,,,,,,,pendiente
 1762,Marcel Dzama,Vitamin D,,1974,"Winnipeg, Canada",,,,http://www.tate.org.uk/art/artists/marcel-dzama-6860,,factual-tate
 1763,Memed Erdener,Vitamin D,,,,,,,,,pendiente
@@ -1770,11 +1770,11 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1769,Sebastian Hammwöhner,Vitamin D,,,,,,,,,pendiente
 1770,Björn Hegardt,Vitamin D,,,,,,,,,pendiente
 1771,Nobuya Hoki,Vitamin D,,,,,,,,,pendiente
-1772,Huang Yong Ping,Vitamin D | Cream,,,,,,,,,pendiente
+1772,Huang Yong Ping,Vitamin D | Cream | Bienal de Venecia,,1954,"Xiamen, China",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 1773,Dean Hughes,Vitamin D,,,,,,,,,pendiente
 1774,Gareth James,Vitamin D,,,,,,,,,pendiente
 1775,Kerstin Kartscher,Vitamin D,,,,,,,,,pendiente
-1776,Toba Khedoori,Vitamin D,,,,,,,,,pendiente
+1776,Toba Khedoori,Vitamin D | Bienal de Venecia,,1964,"Sídney, Australia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 1777,Dr. Lakra,Vitamin D,,,,,,,,,pendiente
 1778,Michael Landy,Vitamin D,,1963,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/michael-landy-2409,,factual-tate
 1779,Ricardo Lanzarini,Vitamin D,,,,,,,,,pendiente
@@ -1790,9 +1790,9 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1789,Paul Noble,Vitamin D,,1963,"Northumberland, United Kingdom",,,,http://www.tate.org.uk/art/artists/paul-noble-2767,,factual-tate
 1790,Jockum Nordström,Vitamin D,,,,,,,,,pendiente
 1791,Glexis Novoa,Vitamin D,,,,,,,,,pendiente
-1792,Pavel Pepperstein,Vitamin D,,,,,,,,,pendiente
+1792,Pavel Pepperstein,Vitamin D | Bienal de Venecia,,1966,"Moscú, Rusia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 1793,Peter Peri,Vitamin D,,,,,,,,,pendiente
-1794,Dan Perjovschi,Vitamin D,,1961,"Bucuresti, România",,,,http://www.tate.org.uk/art/artists/dan-perjovschi-10207,,factual-tate
+1794,Dan Perjovschi,Vitamin D | Bienal de Venecia,,1961,"Bucuresti, România",,,,http://www.tate.org.uk/art/artists/dan-perjovschi-10207,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 1795,Fernando Renes,Vitamin D,,,,,,,,,pendiente
 1796,Robin Rhode,Vitamin D | Vitamin Ph | African Artists,,,,,,,,,pendiente
 1797,Frances Richardson,Vitamin D,,,,,,,,,pendiente
@@ -1894,7 +1894,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1893,Amir Zaki,Vitamin Ph,,,,,,,,,pendiente
 1894,Liu Zheng,Vitamin Ph,,,,,,,,,pendiente
 1895,Tobias Zielony,Vitamin Ph,,,,,,,,,pendiente
-1896,Adel Abdessemed,Vitamin 3-D | Bienal de Venecia,,1971,Argelia,París,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
+1896,Adel Abdessemed,Vitamin 3-D | Bienal de Venecia,,1971,Argelia,París,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-venecia
 1897,Micol Assael,Vitamin 3-D,,,,,,,,,pendiente
 1898,Claire Barclay,Vitamin 3-D,,1968,"Paisley, United Kingdom",,,,http://www.tate.org.uk/art/artists/claire-barclay-4731,,factual-tate
 1899,Frank Benson,Vitamin 3-D,,,,,,,,,pendiente
@@ -1913,7 +1913,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1912,Jan De Cock,Vitamin 3-D,,,,,,,,,pendiente
 1913,Jim Drain,Vitamin 3-D,,,,,,,,,pendiente
 1914,Latifa Echakhch,Vitamin 3-D,,,,,,,,,pendiente
-1915,Iran do Espirito Santo,Vitamin 3-D | Cream 3,,,,,,,,,pendiente
+1915,Iran do Espirito Santo,Vitamin 3-D | Cream 3 | Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
 1916,Chris Evans,Vitamin 3-D,,,,,,,,,pendiente
 1917,Mounir Fatmi,Vitamin 3-D,,,,,,,,,pendiente
 1918,Daphne Fitzpatrick,Vitamin 3-D,,,,,,,,,pendiente
@@ -1934,7 +1934,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1933,Rivane Neuenschwander,Vitamin 3-D | Vitamin T,,1967,Brasil,,,,http://www.tate.org.uk/art/artists/rivane-neuenschwander-10170,,factual-tate
 1934,Damian Ortega,Vitamin 3-D | Fresh Cream,,1967,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/damian-ortega-8133,,factual-tate
 1935,Mai-Thu Perret,Vitamin 3-D,,,,,,,,,pendiente
-1936,Falke Pisano,Vitamin 3-D,,,,,,,,,pendiente
+1936,Falke Pisano,Vitamin 3-D | Bienal de Venecia,,1978,"Ámsterdam, Países Bajos",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 1937,Wilfredo Prieto,Vitamin 3-D,,,,,,,,,pendiente
 1938,Tobias Putrih,Vitamin 3-D,,,,,,,,,pendiente
 1939,Lisi Raskin,Vitamin 3-D,,,,,,,,,pendiente
@@ -1942,7 +1942,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1941,Mandla Reuter,Vitamin 3-D,,,,,,,,,pendiente
 1942,Lili Reynaud-Dewar,Vitamin 3-D | Bienal de Venecia,,1975,Francia,Grenoble,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 1943,Eva Rothschild,Vitamin 3-D,,1971,"Dublin, Éire",,,,http://www.tate.org.uk/art/artists/eva-rothschild-4734,,factual-tate
-1944,Tomas Saraceno,Vitamin 3-D | Bienal de Venecia,,1973,Argentina,Berlín,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
+1944,Tomas Saraceno,Vitamin 3-D | Bienal de Venecia,,1973,Argentina,Berlín,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 1945,Bojan Sarcevic,Vitamin 3-D,,,,,,,,,pendiente
 1946,Arcangelo Sassolino,Vitamin 3-D,,,,,,,,,pendiente
 1947,Felix Schramm,Vitamin 3-D,,,,,,,,,pendiente
@@ -1954,7 +1954,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1953,Monika Sosnowska,Vitamin 3-D,,1972,,,,,http://www.tate.org.uk/art/artists/monika-sosnowska-13098,,factual-tate
 1954,Katja Strunz,Vitamin 3-D,,,,,,,,,pendiente
 1955,Luca Trevisani,Vitamin 3-D,,,,,,,,,pendiente
-1956,Tatiana Trouve,Vitamin 3-D,,,,,,,,,pendiente
+1956,Tatiana Trouve,Vitamin 3-D | Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
 1957,Francis Upritchard,Vitamin 3-D | 100 Sculptors of Tomorrow,,1976,"New Plymouth, New Zealand",,,,http://www.tate.org.uk/art/artists/francis-upritchard-7285,,factual-tate
 1958,Rebecca Warren,Vitamin 3-D,,1965,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/rebecca-warren-9134,,factual-tate
 1959,Gary Webb,Vitamin 3-D,,1973,"Dorset, United Kingdom",,,,http://www.tate.org.uk/art/artists/gary-webb-4736,,factual-tate
@@ -2107,7 +2107,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2106,Kaylene Whiskey,Vitamin Txt,,,,,,,,,pendiente
 2107,John Wood and Paul Harrison,Vitamin Txt,,,,,,,,,pendiente
 2108,Young-Hae Chang Heavy Industries,Vitamin Txt,,,,,,,,,pendiente
-2109,Rosa Barba,Vitamin V | Bienal de Venecia,,1972,Italia,Berlín,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
+2109,Rosa Barba,Vitamin V | Bienal de Venecia,,1972,Italia,Berlín,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2110,Gabrielle Goliath,Vitamin V | Bienal de Venecia,,1983,"Kimberley, Sudáfrica",Johannesburgo,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2111,Lynn Hershman Leeson,Vitamin V | Bienal de Venecia,,1941,"Cleveland, OH, Estados Unidos",San Francisco,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
 2112,Ayoung Kim,Vitamin V | Bienal de Venecia,,1979,Corea del Sur,Seúl,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
@@ -2162,7 +2162,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2161,Greg Lynn,Cream,,,,,,,,,pendiente
 2162,Gillian Wearing,Cream,,,,,,,,,pendiente
 2163,Wang Du,Cream,,,,,,,,,pendiente
-2164,Carsten Höller,Cream | Bienal de Venecia,,1961,"Bruxelles, België",Estocolmo,,,http://www.tate.org.uk/art/artists/carsten-holler-6253,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-tate
+2164,Carsten Höller,Cream | Bienal de Venecia,,1961,"Bruxelles, België",Estocolmo,,,http://www.tate.org.uk/art/artists/carsten-holler-6253,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 2165,Jane Alexander,Fresh Cream,,,,,,,,,pendiente
 2166,Carlos Amorales,Fresh Cream,,1970,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/carlos-amorales-7533,,factual-tate
 2167,Arahmaiani,Fresh Cream,,,,,,,,,pendiente
@@ -2197,7 +2197,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2196,Byron Kim,Fresh Cream,,,,,,,,,pendiente
 2197,Kaisu Koivisto,Fresh Cream,,,,,,,,,pendiente
 2198,Oleg Kulik,Fresh Cream,,,,,,,,,pendiente
-2199,Moshekwa Langa,Fresh Cream,,,,,,,,,pendiente
+2199,Moshekwa Langa,Fresh Cream | Bienal de Venecia,,1975,"Bakenberg, Sudáfrica",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2200,Nikki S. Lee,Fresh Cream,,,,,,,,,pendiente
 2201,Laura Lima,Fresh Cream,,,,,,,,,pendiente
 2202,Barry McGee,Fresh Cream,,,,,,,,,pendiente
@@ -2208,7 +2208,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2207,Jean-Luc Mylayne,Fresh Cream,,,,,,,,,pendiente
 2208,Marko Peljhan,Fresh Cream,,,,,,,,,pendiente
 2209,Navin Rawanchaikul,Fresh Cream,,,,,,,,,pendiente
-2210,Jason Rhoades,Fresh Cream,,1965,"California, United States",,,,http://www.tate.org.uk/art/artists/jason-rhoades-7682,fallecido/a 2006,factual-tate
+2210,Jason Rhoades,Fresh Cream | Bienal de Venecia,,1965,"California, United States",,,,http://www.tate.org.uk/art/artists/jason-rhoades-7682,"fallecido/a 2006; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2211,Guia Rigvava,Fresh Cream,,,,,,,,,pendiente
 2212,Ugo Rondinone,Fresh Cream,,,,,,,,,pendiente
 2213,Francisco Ruiz de Infante,Fresh Cream,,,,,,,,,pendiente
@@ -2218,7 +2218,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2217,Renée Stout,Fresh Cream,,,,,,,,,pendiente
 2218,Apolonija Šušteršič,Fresh Cream,,,,,,,,,pendiente
 2219,Tomoko Takahashi,Fresh Cream,,1966,"Tokyo, Nihon",,,,http://www.tate.org.uk/art/artists/tomoko-takahashi-4451,,factual-tate
-2220,Grazia Toderi,Fresh Cream,,1963,"Padova, Italia",,,,http://www.tate.org.uk/art/artists/grazia-toderi-11484,,factual-tate
+2220,Grazia Toderi,Fresh Cream | Bienal de Venecia,,1963,"Padova, Italia",,,,http://www.tate.org.uk/art/artists/grazia-toderi-11484,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 2221,Jaan Toomik,Fresh Cream,,,,,,,,,pendiente
 2222,Sergio Vega,Fresh Cream,,,,,,,,,pendiente
 2223,Miwa Yanagi,Fresh Cream,,,,,,,,,pendiente
@@ -2239,7 +2239,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2238,José Dávila,Cream 3,,,,,,,,,pendiente
 2239,Yayoi Deki,Cream 3,,,,,,,,,pendiente
 2240,Elmgreen & Dragset,Cream 3,,,,,,,,,pendiente
-2241,Hans-Peter Feldmann,Cream 3,,1941,"Düsseldorf, Deutschland",,,,http://www.tate.org.uk/art/artists/hans-peter-feldmann-12632,,factual-tate
+2241,Hans-Peter Feldmann,Cream 3 | Bienal de Venecia,,1941,"Düsseldorf, Deutschland",,,,http://www.tate.org.uk/art/artists/hans-peter-feldmann-12632,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 2242,Luca Frei,Cream 3,,,,,,,,,pendiente
 2243,Valery Koshlyakov,Cream 3,,,,,,,,,pendiente
 2244,Katarzyna Kozyra,Cream 3,,,,,,,,,pendiente
@@ -2257,7 +2257,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2256,Olaf Nicolai,Cream 3 | Bienal de Venecia,,1962,Alemania,Berlín,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2257,Motohiko Odani,Cream 3,,,,,,,,,pendiente
 2258,Marcel Odenbach,Cream 3,,,,,,,,,pendiente
-2259,Philippe Parreno,Cream 3 | Bienal de Venecia,,1964,"Oran, Al-Jaza'ir",París,,,http://www.tate.org.uk/art/artists/philippe-parreno-9107,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-tate
+2259,Philippe Parreno,Cream 3 | Bienal de Venecia,,1964,"Oran, Al-Jaza'ir",París,,,http://www.tate.org.uk/art/artists/philippe-parreno-9107,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2260,John Pilson,Cream 3,,,,,,,,,pendiente
 2261,Tadej Pogačar,Cream 3,,,,,,,,,pendiente
 2262,Thomas Rentmeister,Cream 3,,,,,,,,,pendiente
@@ -2280,8 +2280,8 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2279,Wojciech Bąkowski,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
 2280,Dineo Seshee Bopape,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
 2281,Mohamed Bourouissa,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2282,Chu Yun,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2283,Keren Cytter,New Museum Triennial,,1977,Yisra'el,,,,http://www.tate.org.uk/art/artists/keren-cytter-14581,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-tate
+2282,Chu Yun,New Museum Triennial | Bienal de Venecia,,1977,"Jiangxi, China",,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2283,Keren Cytter,New Museum Triennial | Bienal de Venecia,,1977,Yisra'el,,,,http://www.tate.org.uk/art/artists/keren-cytter-14581,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 2284,Mariechen Danz,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
 2285,Faye Driscoll,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
 2286,Patricia Esquivias,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
@@ -2644,7 +2644,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2643,Tsuyoshi Hisakado,Bienal de Venecia,,1981,Japón,Kioto,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
 2644,Margaret Wertheim & Christine Wertheim,Bienal de Venecia,,1958,Australia,Los Ángeles,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
 2645,Yu Ji,Bienal de Venecia,,1985,China,Shanghái; Viena,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-2646,Jumana Emil Abboud,Bienal de Venecia,,1971,Palestina,Jerusalén,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
+2646,Jumana Emil Abboud,Bienal de Venecia,,1971,Palestina,Jerusalén,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2647,Mathieu Kleyebe Abonnenc,Bienal de Venecia,,1977,Francia,Metz,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2648,Boris Achour,Bienal de Venecia,,1966,Francia,París,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2649,Karo Akpokiere,Bienal de Venecia,,1981,Nigeria,Lagos; Berlín,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
@@ -2666,7 +2666,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2665,Antje Ehmann,Bienal de Venecia,,1968,Alemania,Berlín,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2666,Emily Floyd,Bienal de Venecia,,1972,Australia,Sídney,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2667,Marco Fusinato,Bienal de Venecia,,1964,Australia,Melbourne,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-2668,Charles Gaines,Bienal de Venecia,,1944,Estados Unidos,Los Ángeles,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
+2668,Charles Gaines,Bienal de Venecia,,1944,Estados Unidos,Los Ángeles,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-venecia
 2669,Ana Gallardo,Bienal de Venecia,,1958,Argentina,Buenos Aires,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2670,Gluklya,Bienal de Venecia,,1969,Rusia,San Petersburgo,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2671,Sônia Gomes,Bienal de Venecia,,1948,Brasil,Belo Horizonte,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
@@ -2756,3 +2756,91 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2755,Günter Weseler,Bienal de Venecia,,1930,"Olsztyn, Polonia",,,,,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
 2756,Kohei Yoshiyuki,Bienal de Venecia,,1946,"Prefectura de Hiroshima, Japón",,,,,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
 2757,Sergey Zarva,Bienal de Venecia,,1973,"Kryvyi Rih, Ucrania",,,,,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
+2758,Massimo Bartolini,Bienal de Venecia,,1962,"Cecina, Italia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2759,Simone Berti,Bienal de Venecia,,1966,"Adria, Italia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2760,Bestué/Vives,Bienal de Venecia,,,"Barcelona, España",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",pendiente
+2761,Mike Bouchet,Bienal de Venecia,,1970,"Castro Valley, CA, Estados Unidos",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2762,Ulla von Brandenburg,Bienal de Venecia,,1974,"Karlsruhe, Alemania",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2763,Nathalie Djurberg,Bienal de Venecia,,1978,"Lysekil, Suecia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); León de Plata al participante joven prometedor, Venecia (2009)",factual-venecia
+2764,Anju Dodiya,Bienal de Venecia,,1964,"Bombay, India",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2765,Elena Elagina & Igor Makarevich,Bienal de Venecia,,,"Moscú, Rusia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",pendiente
+2766,William Forsythe,Bienal de Venecia,,1949,"Nueva York, Estados Unidos",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2767,Sunil Gawde,Bienal de Venecia,,1960,"Bombay, India",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2768,Gilbert & George,Bienal de Venecia,,1942,"Londres, Reino Unido",,,,http://www.tate.org.uk/art/artists/gilbert-george-1163,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
+2769,Tamara Grcic,Bienal de Venecia,,1964,"Múnich, Alemania",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2770,Guyton\Walker,Bienal de Venecia,,,Estados Unidos,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",pendiente
+2771,Gonkar Gyatso,Bienal de Venecia,,1961,"Lhasa, Tíbet",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2772,Jan Håfström,Bienal de Venecia,,1937,"Estocolmo, Suecia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2773,Anawana Haloba,Bienal de Venecia,,1978,"Livingstone, Zambia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2774,Susan Hefuna,Bienal de Venecia,,1962,Alemania,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2775,Rachel Khedoori,Bienal de Venecia,,1964,"Sídney, Australia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2776,Koo Jeong A,Bienal de Venecia,,1967,"Seúl, Corea del Sur",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2777,Arto Lindsay,Bienal de Venecia,,1953,"Richmond, VA, Estados Unidos",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2778,Moscow Poetry Club,Bienal de Venecia,,,"Moscú, Rusia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",pendiente
+2779,Yoko Ono,Bienal de Venecia,,1933,"Tokio, Japón",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); León de Oro a la trayectoria, Venecia (2009)",factual-venecia
+2780,Jorge Otero-Pailos,Bienal de Venecia,,1971,"Madrid, España",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2781,Anna Parkina,Bienal de Venecia,,1979,"Moscú, Rusia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2782,Michelangelo Pistoletto,Bienal de Venecia,,1933,"Biella, Italia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2783,Att Poomtangon,Bienal de Venecia,,,"Bangkok, Tailandia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",pendiente
+2784,Marjetica Potrč,Bienal de Venecia,,1953,"Liubliana, Eslovenia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2785,Sara Ramo,Bienal de Venecia,,1975,"Madrid, España",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2786,Pietro Roccasalva,Bienal de Venecia,,1970,"Módica, Italia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2787,Amy Simon,Bienal de Venecia,,,Estados Unidos,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",pendiente
+2788,Madelon Vriesendorp,Bienal de Venecia,,1945,"Bilthoven, Países Bajos",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2789,Tian Tian Wang,Bienal de Venecia,,,China,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",pendiente
+2790,Richard Wentworth,Bienal de Venecia,,1947,Samoa,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2791,Florian Hecker,Bienal de Venecia,,1975,"Augsburgo, Alemania",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2792,Xu Tan,Bienal de Venecia,,1957,"Wuhan, China",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2793,Héctor Zamora,Bienal de Venecia,,1974,Ciudad de México,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2794,Anya Zholud,Bienal de Venecia,,1981,"San Petersburgo, Rusia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2795,Ignasi Aballí,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2796,Alterazioni Video,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2797,Giovanni Anselmo,Bienal de Venecia,,1934,"Piemonte, Italia",,,,http://www.tate.org.uk/art/artists/giovanni-anselmo-12475,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
+2798,Gabriele Basilico,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2799,Jan Christiaan Braun,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2800,Daniel Buren,Bienal de Venecia,,1938,"Boulogne-Billancourt, France",,,,http://www.tate.org.uk/art/artists/daniel-buren-833,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
+2801,Luca Buvoli,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2802,Waltercio Caldas,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2803,Paolo Canevari,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2804,Christian Capurro,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2805,Raoul De Keyser,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2806,Angelo Filomeno,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2807,Yukio Fujimoto,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2808,Rainer Ganahl,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2809,Tomer Ganihar,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2810,Felix Gmelin,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2811,Neil Hamon,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2812,Christine Hill,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2813,Marine Hugonnier,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2814,Ilya & Emilia Kabakov,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2815,Y.Z. Kami,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2816,Izumi Kato,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2817,Ellsworth Kelly,Bienal de Venecia,,1923,"Newburgh, United States",,,,http://www.tate.org.uk/art/artists/ellsworth-kelly-1391,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
+2818,Riyas Komu,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2819,Guillermo Kuitca,Bienal de Venecia,,1961,"Buenos Aires, Argentina",,,,http://www.tate.org.uk/art/artists/guillermo-kuitca-7334,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
+2820,Rosemary Laing,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2821,Sol LeWitt,Bienal de Venecia,,1928,"Hartford, United States",,,,http://www.tate.org.uk/art/artists/sol-lewitt-1504,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2007",factual-tate
+2822,Rosario López,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2823,Hiroharu Mori,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2824,Projeto Morrinho,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2825,Oscar Muñoz,Bienal de Venecia,,1951,Colombia,,,,http://www.tate.org.uk/art/artists/oscar-munoz-9099,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
+2826,Elizabeth Murray,Bienal de Venecia,,1940,"Chicago, United States",,,,http://www.tate.org.uk/art/artists/elizabeth-murray-1683,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
+2827,Zoran Naskovski,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2828,Éyoum Ngangué & Faustin Titi,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2829,Thomas Nozkowski,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2830,Melik Ohanian,Bienal de Venecia,,1969,,,,,http://www.tate.org.uk/art/artists/melik-ohanian-10282,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
+2831,Sigmar Polke,Bienal de Venecia,,1941,Niederschlesien,,,,http://www.tate.org.uk/art/artists/sigmar-polke-2213,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2010",factual-tate
+2832,Emily Prince,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2833,José Alejandro Restrepo,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2834,David Riff,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2835,Susan Rothenberg,Bienal de Venecia,,1945,"Buffalo, United States",,,,http://www.tate.org.uk/art/artists/susan-rothenberg-1872,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
+2836,Robert Ryman,Bienal de Venecia,,1930,"Nashville-Davidson, United States",,,,http://www.tate.org.uk/art/artists/robert-ryman-1888,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
+2837,Margaret Salmon,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2838,Chéri Samba,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2839,Nancy Spero,Bienal de Venecia,,1926,"Cleveland, United States",,,,http://www.tate.org.uk/art/artists/nancy-spero-2399,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2009",factual-tate
+2840,Tabaimo,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2841,Elaine Tedesco,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2842,Paula Trope,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2843,Franz West,Bienal de Venecia,,1947,"Wien, Österreich",,,,http://www.tate.org.uk/art/artists/franz-west-2700,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2012",factual-tate
+2844,Yang Zhenzhong,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2845,Tomoko Yoneda,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
