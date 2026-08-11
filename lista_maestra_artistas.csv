@@ -5,7 +5,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 4,Marina Abramovic,Base propia,,,,,,,,,pendiente
 5,Tomma Abts,Vitamin P1 | Turner Prize,,1967,"Kiel, Deutschland",,,,http://www.tate.org.uk/art/artists/tomma-abts-9550,Turner Prize (premio 2006),factual-tate
 6,Franz Ackermann,Vitamin P1,,,,,,,,,pendiente
-7,Etel Adnan,Vitamin P3 | Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+7,Etel Adnan,Vitamin P3 | Documenta | Whitney Biennial,,1925,"Beirut, Líbano","Sausalito, CA; París",,,,"documenta 13, Kassel (2012); Whitney Biennial 2014, Nueva York",factual-whitney
 8,Laura Aguilar,ArtReview Top 100,,,,,,,,,pendiente
 9,Jia Aili,Vitamin P2,,,,,,,,,pendiente
 10,John Akomfrah,ArtReview Top 100 | Frieze 25 (2000s),,,,,,,,,pendiente
@@ -100,7 +100,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 99,Benjamin Degen,Vitamin P2,,,,,,,,,pendiente
 100,Jeremy Deller,Frieze 25 (2000s) | Turner Prize,,1966,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/jeremy-deller-3034,Turner Prize (premio 2004),factual-tate
 101,Thornton Dial,ArtReview Top 100,,,,,,,,,pendiente
-102,David Diao,Vitamin P3,,,,,,,,,pendiente
+102,David Diao,Vitamin P3 | Whitney Biennial,,1943,"Chengdú, China",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 103,DIS,ArtReview Top 100,,,,,,,,,pendiente
 104,Atul Dodiya,Vitamin P1 | Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 105,Peter Doig,Vitamin P1,,1959,"Edinburgh, United Kingdom",,,,http://www.tate.org.uk/art/artists/peter-doig-2361,,factual-tate
@@ -174,7 +174,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 173,Arturo Herrera,Vitamin P1,,1959,"Caracas, Venezuela",,,,http://www.tate.org.uk/art/artists/arturo-herrera-6003,,factual-tate
 174,Carmen Herrera,Vitamin P2,,1915,"La Habana, Cuba",,,,http://www.tate.org.uk/art/artists/carmen-herrera-9101,,factual-tate
 175,Federico Herrero,Vitamin P1,,,,,,,,,pendiente
-176,Charline von Heyl,Vitamin P2,,,,,,,,,pendiente
+176,Charline von Heyl,Vitamin P2 | Whitney Biennial,,1960,"Maguncia, Alemania",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 177,Lubaina Himid,Base propia | Turner Prize,,1954,"Zanzibar, Tanzania",,,,http://www.tate.org.uk/art/artists/lubaina-himid-2356,Turner Prize (premio 2017),factual-tate
 178,Roger Hiorns,Vitamin P1 | Turner Prize,,1975,"Birmingham, United Kingdom",,,,http://www.tate.org.uk/art/artists/roger-hiorns-7255,Turner Prize (nominación 2009),factual-tate
 179,Thomas Hirschhorn,Frieze 25 (2000s) | Documenta,,1957,"Bern, Schweiz",,,,http://www.tate.org.uk/art/artists/thomas-hirschhorn-6254,"documenta 11, Kassel (2002)",factual-tate
@@ -183,7 +183,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 182,Yu Hong,Vitamin P3,,,,,,,,,pendiente
 183,Tishan Hsu,ArtReview Top 100,,,,,,,,,pendiente
 184,Alex Hubbard,Vitamin P2,,,,,,,,,pendiente
-185,Jacqueline Humphries,Vitamin P2,,,,,,,,,pendiente
+185,Jacqueline Humphries,Vitamin P2 | Whitney Biennial,,1960,"Nueva Orleans, LA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 186,Pierre Huyghe,ArtReview Top 100 | Frieze 25 (2000s) | Documenta,,1962,"Paris, France",,,,http://www.tate.org.uk/art/artists/pierre-huyghe-5463,"documenta 13, Kassel (2012); documenta 11, Kassel (2002)",factual-tate
 187,Nathan Hylden,Vitamin P2,,,,,,,,,pendiente
 188,Anne Imhof,Frieze 25 (2000s),,,,,,,,,pendiente
@@ -269,7 +269,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 268,Bartek Materka,Vitamin P3,,,,,,,,,pendiente
 269,Park McArthur,ArtReview Top 100 | Whitney Biennial,,1984,"Raleigh, NC, Estados Unidos",Nueva York,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 270,Paul McCarthy,Vitamin P1,,1945,"Salt Lake City, United States",,,,http://www.tate.org.uk/art/artists/paul-mccarthy-2766,,factual-tate
-271,Suzanne McClelland,Vitamin P1,,,,,,,,,pendiente
+271,Suzanne McClelland,Vitamin P1 | Whitney Biennial,,1959,"Jacksonville, FL, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 272,Tiona Nekkia McClodden,ArtReview Top 100 | Whitney Biennial,,1981,"Blytheville, AR, Estados Unidos",Filadelfia,,,,"Whitney Biennial 2019, Nueva York",factual-whitney
 273,Hugo McCloud,Vitamin P3,,,,,,,,,pendiente
 274,Elizabeth McIntosh,Vitamin P3,,,,,,,,,pendiente
@@ -328,7 +328,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 327,Christopher Orr,Vitamin P2,,,,,,,,,pendiente
 328,Anna Ostoya,Vitamin P3,,,,,,,,,pendiente
 329,Silke Otto-Knapp,Vitamin P2,,,,,,,,,pendiente
-330,Laura Owens,Vitamin P1,,,,,,,,,pendiente
+330,Laura Owens,Vitamin P1 | Whitney Biennial,,1970,"Euclid, OH, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 331,Paulina Ołowska,Vitamin P2,,,,,,,,,pendiente
 332,Bruno Pacheco,Vitamin P3,,,,,,,,,pendiente
 333,Nam June Paik,Base propia,https://gagosian.com/artists/nam-june-paik/,,,,,,,,pendiente
@@ -382,7 +382,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 381,Peter Rostovsky,Vitamin P1,,,,,,,,,pendiente
 382,Mika Rottenberg,ArtReview Top 100,,,,,,,,,pendiente
 383,Cameron Rowland,ArtReview Top 100 | Frieze 25 (2000s) | Whitney Biennial,,1988,"Filadelfia, PA, Estados Unidos","Queens, NY",,,,"Whitney Biennial 2017, Nueva York",factual-whitney
-384,Sterling Ruby,Vitamin P2,,1972,"Bitburg, Deutschland",,,,http://www.tate.org.uk/art/artists/sterling-ruby-14439,,factual-tate
+384,Sterling Ruby,Vitamin P2 | Whitney Biennial,,1972,"Bitburg, Deutschland",Los Ángeles,,,http://www.tate.org.uk/art/artists/sterling-ruby-14439,"Whitney Biennial 2014, Nueva York",factual-tate
 385,Christoph Ruckhäberle,Vitamin P2,,,,,,,,,pendiente
 386,Doris Salcedo,ArtReview Top 100 | Frieze 25 (2000s) | Documenta,,1958,"Bogotá, Colombia",,,,http://www.tate.org.uk/art/artists/doris-salcedo-2695,"documenta 11, Kassel (2002)",factual-tate
 387,Wilhelm Sasnal,Vitamin P1,,1972,"Tarnów, Polska",,,,http://www.tate.org.uk/art/artists/wilhelm-sasnal-7553,,factual-tate
@@ -404,7 +404,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 403,Li Shurui,Vitamin P2,,,,,,,,,pendiente
 404,Aliza Shvarts,ArtReview Top 100,,,,,,,,,pendiente
 405,Shahzia Sikander,Vitamin P1,,,,,,,,,pendiente
-406,Amy Sillman,Vitamin P2 | Base propia,,1966,"Detroit, United States",,,,http://www.tate.org.uk/art/artists/amy-sillman-16982,,factual-tate
+406,Amy Sillman,Vitamin P2 | Base propia | Whitney Biennial,,1966,"Detroit, United States",Brooklyn,,,http://www.tate.org.uk/art/artists/amy-sillman-16982,"Whitney Biennial 2014, Nueva York",factual-tate
 407,Michael Simpson,Vitamin P3,,,,,,,,,pendiente
 408,Avery Singer,Vitamin P3,,,,,,,,,pendiente
 409,Arpita Singh,Vitamin P3,,,,,,,,,pendiente
@@ -490,7 +490,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 489,Rasheed Araeen,Documenta,,1935,"Karachi, Pakistan",,,,http://www.tate.org.uk/art/artists/rasheed-araeen-2364,"documenta 14, Kassel/Atenas (2017)",factual-tate
 490,Arika,Turner Prize,,,,,,,,Turner Prize (nominación 2021),pendiente
 491,Assemble,Turner Prize,,,,,,,,Turner Prize (premio 2015),pendiente
-492,Michel Auder,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+492,Michel Auder,Documenta | Whitney Biennial,,1945,"Soissons, Francia",Brooklyn,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2014, Nueva York",factual-whitney
 493,Alexandra Bachzetsis,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 13, Kassel (2012)",pendiente
 494,Nairy Baghramian,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 495,Marie Cool Fabio Balducci,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
@@ -508,7 +508,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 507,Pavel Brăila,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 11, Kassel (2002)",pendiente
 508,Geta Brătescu,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 509,Miriam Cahn,Documenta,,1949,"Basel, Schweiz",,,,http://www.tate.org.uk/art/artists/miriam-cahn-846,"documenta 14, Kassel/Atenas (2017)",factual-tate
-510,Lucien Castaing-Taylor,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+510,Lucien Castaing-Taylor,Documenta | Whitney Biennial,,1966,"Liverpool, Reino Unido",Boston; París,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2014, Nueva York",factual-whitney
 511,Vija Celmins,Documenta,,1938,"Riga, Latvija",,,,http://www.tate.org.uk/art/artists/vija-celmins-2731,"documenta 14, Kassel/Atenas (2017)",factual-tate
 512,Banu Cennetoğlu,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 513,Panos Charalambous,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
@@ -600,7 +600,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 599,Rainer Oldendorf,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 600,Pauline Oliveros,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 601,Christos Papoulias,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-602,Véréna Paravel,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+602,Véréna Paravel,Documenta | Whitney Biennial,,1971,"Neuchâtel, Suiza",Boston; París,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2014, Nueva York",factual-whitney
 603,Synnøve Persen,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 604,Dan Peterman,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 605,Susan Philipsz,Turner Prize | Documenta,,1965,"Glasgow, United Kingdom",,,,http://www.tate.org.uk/art/artists/susan-philipsz-5251,"Turner Prize (premio 2010); documenta 13, Kassel (2012)",factual-tate
@@ -696,7 +696,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 695,Thea Djordjadze,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 696,Willie Doherty,Documenta,,1959,"Derrybrien, Éire",,,,http://www.tate.org.uk/art/artists/willie-doherty-2732,"documenta 13, Kassel (2012)",factual-tate
 697,Trisha Donnelly,Documenta,,1974,"San Francisco, United States",,,,http://www.tate.org.uk/art/artists/trisha-donnelly-8143,"documenta 13, Kassel (2012)",factual-tate
-698,Jimmie Durham,Documenta,,1940,"Arkansas, United States",,,,http://www.tate.org.uk/art/artists/jimmie-durham-11953,"documenta 13, Kassel (2012)",factual-tate
+698,Jimmie Durham,Documenta | Whitney Biennial,,1940,"Arkansas, United States",Berlín,,,http://www.tate.org.uk/art/artists/jimmie-durham-11953,"documenta 13, Kassel (2012); Whitney Biennial 2014, Nueva York",factual-tate
 699,Haris Epaminonda,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 700,Cevdet Erek,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 701,Guillermo Faivovich,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
@@ -846,13 +846,13 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 845,Alfredo Jaar,Documenta | Whitney Biennial,,1956,"Santiago, Chile",Nueva York,,,http://www.tate.org.uk/art/artists/alfredo-jaar-8378,"documenta 11, Kassel (2002); Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-tate
 846,Isaac Julien,Documenta | Whitney Biennial,,1960,"London, United Kingdom","Londres; Santa Cruz, CA",,,http://www.tate.org.uk/art/artists/isaac-julien-4019,"documenta 11, Kassel (2002); Whitney Biennial 2024 «Even Better Than the Real Thing», Nueva York",factual-tate
 847,Bodys Isek Kingelez,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
-848,Ben Kinmont,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
+848,Ben Kinmont,Documenta | Whitney Biennial,,1963,"Burlington, VT, Estados Unidos","Sebastopol, CA",,,,"documenta 11, Kassel (2002); Whitney Biennial 2014, Nueva York",factual-whitney
 849,Igor Kopystiansky,Documenta,,1954,"L`viv, Ukrayina",,,,http://www.tate.org.uk/art/artists/igor-kopystiansky-10328,"documenta 11, Kassel (2002)",factual-tate
 850,Svetlana Kopystiansky,Documenta,,1950,"Voronezh, Ukrayina",,,,http://www.tate.org.uk/art/artists/svetlana-kopystiansky-10329,"documenta 11, Kassel (2002)",factual-tate
 851,Ivan Kožarić,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 852,Andreja Kulunčić,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 853,Glenn Ligon,Documenta,,1960,"Bronx, United States",,,,http://www.tate.org.uk/art/artists/glenn-ligon-10429,"documenta 11, Kassel (2002)",factual-tate
-854,Ken Lum,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
+854,Ken Lum,Documenta | Whitney Biennial,,1956,"Vancouver, Canadá",Vancouver; Filadelfia,,,,"documenta 11, Kassel (2002); Whitney Biennial 2014, Nueva York",factual-whitney
 855,Mark Manders,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 856,Cildo Meireles,Documenta,,1948,"Rio de Janeiro, Brasil",,,,http://www.tate.org.uk/art/artists/cildo-meireles-6633,"documenta 11, Kassel (2002)",factual-tate
 857,Annette Messager,Documenta,,1943,"Berck, France",,,,http://www.tate.org.uk/art/artists/annette-messager-2670,"documenta 11, Kassel (2002)",factual-tate
@@ -930,7 +930,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 929,Sakarin Krue-On,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 930,Zofia Kulik,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 931,KwieKulik,Documenta,,1945,,,,,http://www.tate.org.uk/art/artists/kwiekulik-przemyslaw-kwiek-zofia-kulik-10957,"documenta 12, Kassel (2007)",factual-tate
-932,Zoe Leonard,Documenta,,1961,"Liberty, United States",,,,http://www.tate.org.uk/art/artists/zoe-leonard-4828,"documenta 12, Kassel (2007)",factual-tate
+932,Zoe Leonard,Documenta | Whitney Biennial,,1961,"Liberty, United States",Nueva York,,,http://www.tate.org.uk/art/artists/zoe-leonard-4828,"documenta 12, Kassel (2007); Whitney Biennial 2014, Nueva York",factual-tate
 933,Lin Yilin,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 934,Lu Hao,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
 935,Churchill Madikida,Documenta,,,,,,,,"documenta 12, Kassel (2007)",pendiente
@@ -1135,7 +1135,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1134,Pat Phillips,Whitney Biennial,,1987,"Lakenheath, Reino Unido","Pineville, LA",,,,"Whitney Biennial 2019, Nueva York",factual-whitney
 1135,Gala Porras-Kim,Whitney Biennial,,1984,"Bogotá, Colombia",Los Ángeles,,,,"Whitney Biennial 2019, Nueva York",factual-whitney
 1136,Walter Price,Whitney Biennial,,1989,"Macon, GA, Estados Unidos",Brooklyn,,,,"Whitney Biennial 2019, Nueva York",factual-whitney
-1137,Carissa Rodriguez,Whitney Biennial,,1970,"Nueva York, Estados Unidos",Nueva York,,,,"Whitney Biennial 2019, Nueva York",factual-whitney
+1137,Carissa Rodriguez,Whitney Biennial,,1970,"Nueva York, Estados Unidos",Nueva York,,,,"Whitney Biennial 2019, Nueva York; Whitney Biennial 2014, Nueva York",factual-whitney
 1138,Paul Mpagi Sepuya,Whitney Biennial,,1982,"San Bernardino, CA, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2019, Nueva York",factual-whitney
 1139,Heji Shin,Whitney Biennial,,1983,"Seúl, Corea del Sur",Nueva York,,,,"Whitney Biennial 2019, Nueva York",factual-whitney
 1140,Diane Simpson,Whitney Biennial,,1935,"Joliet, IL, Estados Unidos","Wilmette, IL",,,,"Whitney Biennial 2019, Nueva York",factual-whitney
@@ -1192,3 +1192,86 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1191,Kamasi Washington,Whitney Biennial,,1981,"Los Ángeles, CA, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1192,Leilah Weinraub,Whitney Biennial,,1979,"Los Ángeles, CA, Estados Unidos",Los Ángeles; Nueva York,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1193,Jordan Wolfson,Whitney Biennial,,1980,"Nueva York, Estados Unidos",Nueva York,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
+1194,Terry Adkins,Whitney Biennial,,1953,"Washington, DC, Estados Unidos",,,,,"Whitney Biennial 2014, Nueva York; fallecido/a 2014",factual-whitney
+1195,Alma Allen,Whitney Biennial,,1970,"Heber City, UT, Estados Unidos","Joshua Tree, CA",,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1196,Ei Arakawa,Whitney Biennial,,1977,"Fukushima, Japón",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1197,Uri Aran,Whitney Biennial,,1977,"Jerusalén, Israel",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1198,Alex Waterman,Whitney Biennial,,1975,"Portsmouth, VA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1199,Lisa Anne Auerbach,Whitney Biennial,,1967,"Ann Arbor, MI, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1200,Julie Ault,Whitney Biennial,,1957,"Boston, MA, Estados Unidos","Joshua Tree, CA; Nueva York",,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1201,Darren Bader,Whitney Biennial,,1978,"Bridgeport, CT, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1202,Kevin Beasley,Whitney Biennial,,1985,"Lynchburg, VA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1203,Stephen Berens,Whitney Biennial,,1952,"Fort Collins, CO, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1204,Dawoud Bey,Whitney Biennial,,1953,"Queens, NY, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1205,Jennifer Bornstein,Whitney Biennial,,1970,"Seattle, WA, Estados Unidos",Nueva York; Berlín,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1206,Andrew Bujalski,Whitney Biennial,,1977,"Boston, MA, Estados Unidos","Austin, TX",,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1207,Elijah Burgher,Whitney Biennial,,1978,"Kingston, NY, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1208,Critical Practices Inc.,Whitney Biennial,,,,Nueva York,,,,"Whitney Biennial 2014, Nueva York",pendiente
+1209,Matthew Deleget,Whitney Biennial,,1972,"Hammond, IN, Estados Unidos",Brooklyn,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1210,Zackary Drucker,Whitney Biennial,,1983,"Siracusa, NY, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1211,Rhys Ernst,Whitney Biennial,,1982,"Pomona, CA, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1212,Paul Druecke,Whitney Biennial,,1964,"Milwaukee, WI, Estados Unidos",Milwaukee,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1213,Rochelle Feinstein,Whitney Biennial,,1947,"Nueva York, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1214,Radamés Juni Figueroa,Whitney Biennial,,1982,"Bayamón, Puerto Rico",San Juan,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1215,Morgan Fisher,Whitney Biennial,,1942,"Washington, DC, Estados Unidos","Santa Mónica, CA",,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1216,Louise Fishman,Whitney Biennial,,1939,"Filadelfia, PA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1217,Victoria Fu,Whitney Biennial,,1978,"Santa Mónica, CA, Estados Unidos",San Diego; Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1218,Gaylen Gerber,Whitney Biennial,,1955,"McAllen, TX, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1219,Sherrie Levine,Whitney Biennial,,1947,"Hazleton, PA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1220,Trevor Shimizu,Whitney Biennial,,1978,"Hawái, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1221,Jeff Gibson,Whitney Biennial,,1958,"Brisbane, Australia",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1222,Joseph Grigely,Whitney Biennial,,1956,"East Longmeadow, MA, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1223,Miguel Gutierrez,Whitney Biennial,,1971,"Flushing, NY, Estados Unidos",Brooklyn,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1224,Karl Haendel,Whitney Biennial,,1976,"Nueva York, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1225,Philip Hanson,Whitney Biennial,,1943,"Chicago, IL, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1226,Jonn Herschend,Whitney Biennial,,1967,"Branson, MO, Estados Unidos",San Francisco,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1227,Sheila Hicks,Whitney Biennial,,1934,"Hastings, NE, Estados Unidos",Nueva York; París,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1228,HOWDOYOUSAYYAMINAFRICAN?,Whitney Biennial,,,,,,,,"Whitney Biennial 2014, Nueva York",pendiente
+1229,Susan Howe,Whitney Biennial,,1937,"Boston, MA, Estados Unidos","Guilford, CT",,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1230,Gary Indiana,Whitney Biennial,,1950,"Derry, NH, Estados Unidos",Nueva York; Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1231,Doug Ischar,Whitney Biennial,,1948,"Honolulu, HI, Estados Unidos",Chicago; Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1232,Carol Jackson,Whitney Biennial,,1962,"Los Ángeles, CA, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1233,Travis Jeppesen,Whitney Biennial,,1979,"Fort Lauderdale, FL, Estados Unidos",Londres; Berlín,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1234,Alex Jovanovich,Whitney Biennial,,1975,"Hobart, IN, Estados Unidos","Bronx, NY",,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1235,Angie Keefer,Whitney Biennial,,1977,"Huntsville, AL, Estados Unidos","Hudson, NY",,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1236,Shio Kusaka,Whitney Biennial,,1972,Japón,Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1237,Yve Laris Cohen,Whitney Biennial,,1985,"San Diego, CA, Estados Unidos",Brooklyn,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1238,Chris Larson,Whitney Biennial,,1966,"Saint Paul, MN, Estados Unidos",Saint Paul,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1239,Diego Leclery,Whitney Biennial,,1978,"Boulogne-Billancourt, Francia",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1240,Tony Lewis,Whitney Biennial,,1986,"Los Ángeles, CA, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1241,Pam Lins,Whitney Biennial,,,"Lake Forest, IL, Estados Unidos",Brooklyn,,,,"Whitney Biennial 2014, Nueva York",pendiente
+1242,Fred Lonidier,Whitney Biennial,,1942,"Lakeview, OR, Estados Unidos",San Diego,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1243,Shana Lutker,Whitney Biennial,,1978,"Northport, NY, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1244,Dashiell Manley,Whitney Biennial,,1983,"Fontana, CA, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1245,John Mason,Whitney Biennial,,1927,"Madrid, NE, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1246,Keith Mayerson,Whitney Biennial,,1966,"Cincinnati, OH, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1247,Bjarne Melgaard,Whitney Biennial,,1967,"Sídney, Australia",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1248,Rebecca Morris,Whitney Biennial,,1969,"Honolulu, HI, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1249,Joshua Mosley,Whitney Biennial,,1974,"Dallas, TX, Estados Unidos",Filadelfia,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1250,My Barbarian,Whitney Biennial,,,,Nueva York; Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",pendiente
+1251,Dona Nelson,Whitney Biennial,,1947,"Grand Island, NE, Estados Unidos","Lansdale, PA; Nueva York",,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1252,Ken Okiishi,Whitney Biennial,,1978,"Ames, IA, Estados Unidos",Nueva York; Berlín,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1253,Joel Otterson,Whitney Biennial,,1959,"Los Ángeles, CA, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1254,Paul P.,Whitney Biennial,,1977,"Hamilton, Canadá",Nueva York; París,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1255,taisha paggett,Whitney Biennial,,1976,"Fresno, CA, Estados Unidos",Chicago; Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1256,Charlemagne Palestine,Whitney Biennial,,1947,"Brooklyn, NY, Estados Unidos",Bruselas,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1257,Public Collectors,Whitney Biennial,,,,Chicago,,,,"Whitney Biennial 2014, Nueva York",pendiente
+1258,Sara Greenberger Rafferty,Whitney Biennial,,1978,"Evanston, IL, Estados Unidos",Brooklyn,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1259,Steve Reinke,Whitney Biennial,,1963,"Eganville, Canadá",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1260,Jessie Mott,Whitney Biennial,,1980,"Nueva York, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1261,David Robbins,Whitney Biennial,,1957,"Whitefish Bay, WI, Estados Unidos","Shorewood, WI",,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1262,Miljohn Ruperto,Whitney Biennial,,1971,"Manila, Filipinas",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1263,Jacolby Satterwhite,Whitney Biennial,,1986,"Columbia, SC, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1264,Peter Schuyff,Whitney Biennial,,1958,"Baarn, Países Bajos",Ámsterdam,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1265,Valerie Snobeck,Whitney Biennial,,1980,"Wadena, MN, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1266,Catherine Sullivan,Whitney Biennial,,1968,"Los Ángeles, CA, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1267,A.L. Steiner,Whitney Biennial,,1967,"Miami, FL, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1268,Emily Sundblad,Whitney Biennial,,1977,"Dalsjöfors, Suecia",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1269,Ricky Swallow,Whitney Biennial,,1974,"San Remo, Australia",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1270,Tony Tasset,Whitney Biennial,,1960,"Cincinnati, OH, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1271,Sergei Tcherepnin,Whitney Biennial,,1981,"Watertown, MA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1272,Triple Canopy,Whitney Biennial,,,,Brooklyn,,,,"Whitney Biennial 2014, Nueva York",pendiente
+1273,Philip Vanderhyden,Whitney Biennial,,1978,"Menasha, WI, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1274,Pedro Vélez,Whitney Biennial,,1973,"Bayamón, Puerto Rico",Chicago; Milwaukee,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1275,Dan Walsh,Whitney Biennial,,1960,"Filadelfia, PA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
+1276,Molly Zuckerman-Hartung,Whitney Biennial,,1975,"Los Gatos, CA, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
