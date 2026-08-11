@@ -101,7 +101,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 100,Jeremy Deller,Frieze 25 (2000s) | Turner Prize | Cream | Bienal de Venecia,,1966,"London, United Kingdom",Londres,,,http://www.tate.org.uk/art/artists/jeremy-deller-3034,"Turner Prize (premio 2004); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-tate
 101,Thornton Dial,ArtReview Top 100 | Whitney Biennial,,1928,"Emelle, EE.UU.",,,,https://en.wikipedia.org/wiki/Thornton_Dial,"Whitney Biennial 2000, Nueva York; fallecido/a 2016",factual-web
 102,David Diao,Vitamin P3 | Whitney Biennial,,1943,"Chengdú, China",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
-103,DIS,ArtReview Top 100,,,,,,,,,pendiente
+103,DIS,ArtReview Top 100,,,,Nueva York,,,https://en.wikipedia.org/wiki/DIS_(collective),9.ª Bienal de Berlín (2016),factual-web
 104,Atul Dodiya,Vitamin P1 | Documenta,,1959-01-20,"Bombay, India",Bombay,,,https://en.wikipedia.org/wiki/Atul_Dodiya,"documenta 12, Kassel (2007)",factual-web
 105,Peter Doig,Vitamin P1 | Whitney Biennial,,1959,"Edinburgh, United Kingdom",,,,http://www.tate.org.uk/art/artists/peter-doig-2361,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
 106,Aleksandra Domanović,ArtReview Top 100,,1981,"Novi Sad, Serbia",Berlín,,,,,factual-web
@@ -145,7 +145,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 144,Isa Genzken,ArtReview Top 100 | Documenta | Bienal de Venecia,,1948,"Bad Oldesloe, Deutschland",Berlín,,,http://www.tate.org.uk/art/artists/isa-genzken-10435,"documenta 11, Kassel (2002); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-tate
 145,Apostolos Georgiou,Vitamin P3 | Documenta,,1952,"Salónica, Grecia",,,,https://en.wikipedia.org/wiki/Apostolos_Georgiou,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 146,Adrian Ghenie,Vitamin P2,,1977-08-13,"Baia Mare, Rumanía",,,,https://en.wikipedia.org/wiki/Adrian_Ghenie,,factual-web
-147,Guerrilla Girls,ArtReview Top 100,,,,,,,http://www.tate.org.uk/art/artists/guerrilla-girls-6858,,factual-tate
+147,Guerrilla Girls,ArtReview Top 100,,,,Nueva York,,,http://www.tate.org.uk/art/artists/guerrilla-girls-6858,,factual-tate
 148,Nan Goldin,Base propia | Bienal de Venecia,https://www.instagram.com/nangoldinstudio/?hl=es,1953,"Washington, United States",Nueva York,,,http://www.tate.org.uk/art/artists/nan-goldin-2649,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-tate
 149,Andreas Golinski,Vitamin P1,,1979,"Essen, Alemania",,,,https://andreasgolinski.com,,factual-web
 150,Fernanda Gomes,Vitamin P3 | Fresh Cream,,1960,"Rio de Janeiro, Brasil",,,,http://www.tate.org.uk/art/artists/fernanda-gomes-11698,,factual-tate
@@ -195,7 +195,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 194,Sergej Jensen,Vitamin P1 | Vitamin T,,1973,Danmark,,,,http://www.tate.org.uk/art/artists/sergej-jensen-10804,,factual-tate
 195,Yun-Fei Ji,Vitamin P1 | Whitney Biennial | Vitamin D,,1963,"Pekín, China",Nueva York,,,https://en.wikipedia.org/wiki/Yun-Fei_Ji,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
 196,Cui Jie,Vitamin P3,,1983,"Shanghái, China",Pekín,,,https://en.wikipedia.org/wiki/Cui_Jie_(artist),,factual-web
-197,Magdalena Jitrik,Vitamin P2,,,"Buenos Aires, Argentina",,,,,,factual-web
+197,Magdalena Jitrik,Vitamin P2,,,"Buenos Aires, Argentina",Buenos Aires,,,,,factual-web
 198,JODI,ArtReview Top 100 | Cream,,,,,,,https://en.wikipedia.org/wiki/Jodi_(art_collective),Prix Net Art (premio 2014),factual-web
 199,Chantal Joffe,Vitamin P2,,1969,"St. Albans, EE.UU.",Londres,,,https://en.wikipedia.org/wiki/Chantal_Joffe,,factual-web
 200,Chris Johanson,Vitamin P2 | Whitney Biennial | Vitamin D,,1968,"San José, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Chris_Johanson,"Whitney Biennial 2002, Nueva York",factual-web
@@ -237,7 +237,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 236,Jim Lambie,Vitamin P1,,1964,"Glasgow, United Kingdom",,,,http://www.tate.org.uk/art/artists/jim-lambie-4733,,factual-tate
 237,Laura Lancaster,Vitamin P3,,1979,"Hartlepool, Reino Unido",Newcastle,,,,,factual-web
 238,Sean Landers,Vitamin P1,,1962,"Palmer, United States",,,,http://www.tate.org.uk/art/artists/sean-landers-2665,,factual-tate
-239,"Rugilé Barzdziukaité, Vaiva Grainyté And Lina Lapelyté",Frieze 25 (2000s),,,,,,,https://en.wikipedia.org/wiki/Sun_%26_Sea_(Marina),Bienal de Venecia 2019 (León de Oro),factual-web
+239,"Rugilé Barzdziukaité, Vaiva Grainyté And Lina Lapelyté",Frieze 25 (2000s),,,,,,,https://en.wikipedia.org/wiki/Sun_%26_Sea_(Marina),Bienal de Venecia 2019 (León de Oro); Bienal de Venecia 2019,factual-web
 240,Mernet Larsen,Vitamin P3,,1940,"Houghton, EE.UU.",,,,https://en.wikipedia.org/wiki/Mernet_Larsen,,factual-web
 241,Louise Lawler,Base propia | ArtReview Top 100 | Documenta | Whitney Biennial | Bienal de Venecia,,1947,"Hazleton, United States",Nueva York,,,http://www.tate.org.uk/art/artists/louise-lawler-8140,"documenta 12, Kassel (2007); Whitney Biennial 2000, Nueva York; Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-tate
 242,Deana Lawson,ArtReview Top 100 | Whitney Biennial,,1979,"Rochester, NY, Estados Unidos",Brooklyn,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
@@ -277,7 +277,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 276,Steve McQueen,ArtReview Top 100 | Turner Prize | Documenta | Bienal de Venecia,,1969,"London, United Kingdom",Ámsterdam,,,http://www.tate.org.uk/art/artists/steve-mcqueen-2387,"Turner Prize (premio 1999); documenta 11, Kassel (2002); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 277,Birgit Megerle,Vitamin P2,,1975,,Berlín,,,,,factual-web
 278,Julie Mehretu,Vitamin P1 | Base propia | ArtReview Top 100 | Documenta | Whitney Biennial | Vitamin D | Cream 3 | African Artists | Bienal de Venecia,,1970,Etiopía,Nueva York,,,,"documenta 13, Kassel (2012); Whitney Biennial 2004, Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-279,The Yes Men,ArtReview Top 100,,,,,,,,,pendiente
+279,The Yes Men,ArtReview Top 100,,,,,,,https://theyesmen.org,,factual-web
 280,Ana Mendieta,Base propia,,1948,"La Habana, Cuba",,,,http://www.tate.org.uk/art/artists/ana-mendieta-11167,fallecido/a 1985,factual-tate
 281,Prabhavathi Meppayil,Vitamin P3 | Bienal de Venecia,,1965,"Bangalore, India",,,,,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
 282,Beatriz Milhazes,Vitamin P1 | Base propia | Cream 3,,1960,"Río de Janeiro, Brasil",Río de Janeiro,,,https://en.wikipedia.org/wiki/Beatriz_Milhazes,,factual-web
@@ -330,7 +330,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 329,Silke Otto-Knapp,Vitamin P2 | Cream 3,,1970,"Osnabrück, Alemania",Los Ángeles,,,https://en.wikipedia.org/wiki/Silke_Otto-Knapp,fallecida 2022,factual-web
 330,Laura Owens,Vitamin P1 | Whitney Biennial | Fresh Cream,,1970,"Euclid, OH, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York; Whitney Biennial 2004, Nueva York",factual-whitney
 331,Paulina Ołowska,Vitamin P2,,1976,"Gdansk, Polonia",,,,https://en.wikipedia.org/wiki/Paulina_Olowska,,factual-web
-332,Bruno Pacheco,Vitamin P3,,,,,,,,,pendiente
+332,Bruno Pacheco,Vitamin P3,,1974,"Lisboa, Portugal",,,,,,factual-web
 333,Nam June Paik,Base propia,https://gagosian.com/artists/nam-june-paik/,1932,"Seúl, Corea del Sur",,,,https://en.wikipedia.org/wiki/Nam_June_Paik,fallecido/a 2006,factual-web
 334,Cornelia Parker,Base propia,,1956,"Cheshire, United Kingdom",,,,http://www.tate.org.uk/art/artists/cornelia-parker-2358,,factual-tate
 335,Nicolas Party,Vitamin P3,,1980,"Lausana, Suiza",Nueva York,,,https://en.wikipedia.org/wiki/Nicolas_Party,,factual-web
@@ -353,7 +353,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 352,Charlotte Prodger,Base propia | Turner Prize,,1974,"Bournemouth, Reino Unido",Glasgow,,,,Turner Prize (premio 2018),factual-web
 353,Laure Prouvost,Base propia | Vitamin V,,1978,"Croix, Francia",,,,https://en.wikipedia.org/wiki/Laure_Prouvost,Turner Prize (premio 2013),factual-web
 354,Déborah Pruden,Vitamin P3,,1972,"Buenos Aires, Argentina",Buenos Aires,,,http://www.debopruden.com.ar,,factual-web
-355,Mantalina Psoma,Vitamin P1,,,,,,,,,pendiente
+355,Mantalina Psoma,Vitamin P1,,1967,"Atenas, Grecia",Atenas,,,https://www.mantalinapsoma.com/en/about/,,factual-web
 356,Puppies Puppies,ArtReview Top 100 | Whitney Biennial | Bienal de Venecia,,1989,"Dallas, TX, Estados Unidos","Roswell, NM",,,,"Whitney Biennial 2017, Nueva York; Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-whitney
 357,Vitaly Pushnitsky,Vitamin P2,,1967,"Leningrado, Rusia",San Petersburgo,,,https://en.wikipedia.org/wiki/Vitaly_Pushnitsky,,factual-web
 358,Xu Qu,Vitamin P3,,1978,,Pekín,,,,,factual-web
@@ -367,7 +367,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 366,Neo Rauch,Vitamin P1,,1960,"Leipzig, Alemania",Leipzig,,,https://en.wikipedia.org/wiki/Neo_Rauch,,factual-web
 367,Blake Rayne,Vitamin P2,,1969,"Lewes, EE.UU.",Nueva York,,,,,factual-web
 368,Asad Raza,ArtReview Top 100 | Whitney Biennial,,1974,"Búfalo, NY, Estados Unidos",Nueva York,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
-369,Raúl Recio,Vitamin P3,,,,,,,,,pendiente
+369,Raúl Recio,Vitamin P3,,1965,"Santo Domingo, República Dominicana",Santo Domingo,,,,,factual-web
 370,David Reed,Vitamin P1,,1946,"San Diego, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/David_Reed_(artist),,factual-web
 371,Tobias Rehberger,Vitamin P1 | Bienal de Venecia,,1966,"Esslingen, Alemania",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); León de Oro al mejor participante, Venecia (2009)",factual-venecia
 372,K.P. Reji,Vitamin P3,,1972,,Baroda,,,,,factual-web
@@ -421,7 +421,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 420,Hiroshi Sugito,Vitamin P1,,1970,"Nagoya, Japón",Nagoya,,,https://en.wikipedia.org/wiki/Hiroshi_Sugito,,factual-web
 421,Ryan Sullivan,Vitamin P3,,1983,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Ryan_Sullivan_(artist),,factual-web
 422,Sarah Sze,Base propia | Whitney Biennial | Bienal de Venecia,,1969,Estados Unidos,Nueva York,,,,"Whitney Biennial 2000, Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-423,Neal Tait,Vitamin P2,,,,,,,,,pendiente
+423,Neal Tait,Vitamin P2,,1965,"Edimburgo, Reino Unido",Londres,,,,,factual-web
 424,Mika Tajima,Vitamin P1 | Whitney Biennial | Vitamin 3-D,,1975,"Los Ángeles, CA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 425,Aya Takano,Vitamin P1,,1976,"Saitama, Japón",Tokio,,,https://en.wikipedia.org/wiki/Aya_Takano,,factual-web
 426,Maria Taniguchi,Vitamin P3 | Bienal de Venecia,,1981,"Dumaguete, Filipinas",Manila,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
@@ -442,7 +442,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 441,Phoebe Unwin,Vitamin P2,,1979,"Cambridge, United Kingdom",,,,http://www.tate.org.uk/art/artists/phoebe-unwin-13751,,factual-tate
 442,Lesley Vance,Vitamin P2 | Whitney Biennial,,1977,"Milwaukee, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Lesley_Vance_(artist),"Whitney Biennial 2010, Nueva York",factual-web
 443,Adriana Varejão,Vitamin P1 | Base propia | Fresh Cream,,1964,"Rio de Janeiro, Brasil",,,,http://www.tate.org.uk/art/artists/adriana-varejao-2792,,factual-tate
-444,Rafael Vega,Vitamin P3,,,,,,,,,pendiente
+444,Rafael Vega,Vitamin P3,,1979,"Yabucoa, Puerto Rico",Nueva York,,,http://www.rrvega.com/about,,factual-web
 445,Pieter Vermeersch,Vitamin P2,,1973,"Kortrijk, Bélgica",Bruselas,,,,,factual-web
 446,Cecilia Vicuña,ArtReview Top 100 | Documenta | Vitamin T | Bienal de Venecia,,1948,"Santiago, Chile",Nueva York,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani); León de Oro a la trayectoria, Venecia (2022)",factual-venecia
 447,Vladimir Dubossarsky & Alexander Vinogradov,Vitamin P1,,,,,,,,Bienal de Venecia 2009 (Pabellón de Rusia),factual-web
@@ -475,252 +475,252 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 474,Ding Yi,Vitamin P1,,1962,"Shanghái, China",Shanghái,,,https://en.wikipedia.org/wiki/Ding_Yi_(artist),,factual-web
 475,Anicka Yi,ArtReview Top 100 | Whitney Biennial | Bienal de Venecia,,1971,"Seúl, Corea del Sur","Queens, NY",,,,"Whitney Biennial 2017, Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-whitney
 476,Lynette Yiadom-Boakye,Vitamin P2 | Base propia | Bienal de Venecia,,1977,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/lynette-yiadom-boakye-16784,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
-477,Liang Yuanwei,Vitamin P2,,,,,,,,,pendiente
-478,Lisa Yuskavage,Vitamin P1 | Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-479,Luiz Zerbini,Vitamin P2,,,,,,,,,pendiente
+477,Liang Yuanwei,Vitamin P2,,1977,"Xi'an, China",Pekín,,,,Bienal de Venecia 2011,factual-web
+478,Lisa Yuskavage,Vitamin P1 | Whitney Biennial,,1962-05-16,"Filadelfia, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Lisa_Yuskavage,"Whitney Biennial 2000, Nueva York",factual-web
+479,Luiz Zerbini,Vitamin P2,,1959,"São Paulo, Brasil",Río de Janeiro,,,,Bienal de São Paulo (2010),factual-web
 480,Jakub Julian Ziółkowski,Vitamin P2 | New Museum Triennial | Bienal de Venecia,,1980,"Zamość, Polonia",,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-481,Ciudad Abierta,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-482,Abounaddara,Documenta | Bienal de Venecia,,,Siria (fundado 2010),Damasco,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-483,Akinbode Akinbiyi,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-484,Nevin Aladağ,Documenta | Vitamin T,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-485,Daniel García Andújar,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-486,Danai Anesiadou,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-487,Andreas Angelidakis,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-488,Aristide Antonas,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+481,Ciudad Abierta,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+482,Abounaddara,Documenta | Bienal de Venecia,,,Siria (fundado 2010),Damasco,,,https://en.wikipedia.org/wiki/Abounaddara,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); documenta 14 (2017)",factual-venecia
+483,Akinbode Akinbiyi,Documenta,,1946,"Oxford, Reino Unido",Berlín,,,https://en.wikipedia.org/wiki/Akinbode_Akinbiyi,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+484,Nevin Aladağ,Documenta | Vitamin T,,1972,"Van, Turquía",Berlín,,,,"documenta 14, Kassel/Atenas (2017)",factual-web
+485,Daniel García Andújar,Documenta,,1966,"Almoradí, España",Barcelona,,,https://en.wikipedia.org/wiki/Daniel_García_Andújar,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+486,Danai Anesiadou,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+487,Andreas Angelidakis,Documenta,,1968,"Atenas, Grecia",Atenas,,,https://www.angelidakis.com/,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+488,Aristide Antonas,Documenta,,1963,"Atenas, Grecia",,,,https://www.documenta14.de/en/artists/13501/aristide-antonas,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 489,Rasheed Araeen,Documenta,,1935,"Karachi, Pakistan",,,,http://www.tate.org.uk/art/artists/rasheed-araeen-2364,"documenta 14, Kassel/Atenas (2017)",factual-tate
 490,Arika,Turner Prize,,,,,,,,Turner Prize (nominación 2021),pendiente
-491,Assemble,Turner Prize,,,,,,,,Turner Prize (premio 2015),pendiente
+491,Assemble,Turner Prize,,,,Londres,,,,Turner Prize (premio 2015),factual-web
 492,Michel Auder,Documenta | Whitney Biennial,,1945,"Soissons, Francia",Brooklyn,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2014, Nueva York",factual-whitney
-493,Alexandra Bachzetsis,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 13, Kassel (2012)",pendiente
+493,Alexandra Bachzetsis,Documenta,,1974,"Zúrich, Suiza",,,,https://en.wikipedia.org/wiki/Alexandra_Bachzetsis,"documenta 14, Kassel/Atenas (2017); documenta 13, Kassel (2012); documenta 14 (2017)",factual-web
 494,Nairy Baghramian,Documenta | Vitamin 3-D | Bienal de Venecia,,1971,Irán,Berlín,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
 495,Marie Cool Fabio Balducci,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
 496,Sammy Baloji,Documenta | Bienal de Venecia,,1978,República Democrática del Congo,Lubumbashi; Bruselas,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-497,Arben Basha,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+497,Arben Basha,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 498,Rebecca Belmore,Documenta | Whitney Biennial,,1960,"Upsala, Canadá",Vancouver,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
-499,Sokol Beqiri,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-500,Roger Bernat,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-501,Bili Bidjocka,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-502,Wang Bing,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-503,Ross Birrell,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-504,Llambi Blido,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-505,Nomin Bold,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+499,Sokol Beqiri,Documenta,,1964,"Peja, Kosovo",Peja,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+500,Roger Bernat,Documenta,,1968,"Barcelona, España",Barcelona,,,https://rogerbernat.info/en/,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+501,Bili Bidjocka,Documenta,,1962,"Duala, Camerún",,,,https://en.wikipedia.org/wiki/Bili_Bidjocka,"documenta 14, Kassel/Atenas (2017)",factual-web
+502,Wang Bing,Documenta,,1967,"Xi'an, China",París,,,https://en.wikipedia.org/wiki/Wang_Bing_(director),"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+503,Ross Birrell,Documenta,,1969,"Paisley, Reino Unido",Glasgow,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+504,Llambi Blido,Documenta,,1939,"Strumë, Albania",,,,https://www.documenta14.de/en/artists/16161/llambi-blido,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+505,Nomin Bold,Documenta,,1982,"Ulán Bator, Mongolia",Ulán Bator,,,https://en.wikipedia.org/wiki/Nomin_Bold,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 506,Martin Boyce,Turner Prize | Vitamin 3-D | Cream 3,,1967,"Hamilton, United Kingdom",,,,http://www.tate.org.uk/art/artists/martin-boyce-7630,Turner Prize (premio 2011),factual-tate
-507,Pavel Brăila,Documenta | Cream 3,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 11, Kassel (2002)",pendiente
+507,Pavel Brăila,Documenta | Cream 3,,1971,"Chisináu, Moldavia",Berlín,,,,"documenta 14, Kassel/Atenas (2017); documenta 11, Kassel (2002); documenta 11 (2002)",factual-web
 508,Geta Brătescu,Documenta | Vitamin T | Bienal de Venecia,,1926,"Ploiesti, Rumania",,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
 509,Miriam Cahn,Documenta | Vitamin D3 | Vitamin P4 | Bienal de Venecia,,1949,"Basel, Schweiz","Stampa, Suiza",,,http://www.tate.org.uk/art/artists/miriam-cahn-846,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-tate
 510,Lucien Castaing-Taylor,Documenta | Whitney Biennial,,1966,"Liverpool, Reino Unido",Boston; París,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2014, Nueva York",factual-whitney
 511,Vija Celmins,Documenta | Whitney Biennial,,1938,"Riga, Latvija",,,,http://www.tate.org.uk/art/artists/vija-celmins-2731,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2002, Nueva York",factual-tate
-512,Banu Cennetoğlu,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-513,Panos Charalambous,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+512,Banu Cennetoğlu,Documenta,,1970,"Ankara, Turquía",Estambul,,,https://en.wikipedia.org/wiki/Banu_Cenneto%C4%9Flu,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+513,Panos Charalambous,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 514,Nikhil Chopra,Documenta | Bienal de Venecia,,1974,"Calcuta, India",,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-515,Nathan Coley,Turner Prize,,,,,,,,Turner Prize (nominación 2007),pendiente
-516,iQhiya Collective,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-517,Mata Aho Collective,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-518,Array Collective,Turner Prize,,,,,,,,Turner Prize (premio 2021),pendiente
-519,Jesse Darling,Turner Prize | Prime | Bienal de Venecia,,,Reino Unido,Londres; Berlín,,,,"Turner Prize (premio 2023); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-520,Anna Daučíková,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+515,Nathan Coley,Turner Prize,,1967,"Glasgow, Reino Unido",Glasgow,,,https://en.wikipedia.org/wiki/Nathan_Coley,Turner Prize (nominación 2007),factual-web
+516,iQhiya Collective,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+517,Mata Aho Collective,Documenta,,,,,,,https://en.wikipedia.org/wiki/Mata_Aho_Collective,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+518,Array Collective,Turner Prize,,,,Belfast,,,https://en.wikipedia.org/wiki/Array_Collective,Turner Prize (premio 2021),factual-web
+519,Jesse Darling,Turner Prize | Prime | Bienal de Venecia,,1981,Reino Unido,Londres; Berlín,,,https://en.wikipedia.org/wiki/Jesse_Darling,"Turner Prize (premio 2023); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
+520,Anna Daučíková,Documenta,,1950,"Bratislava, Eslovaquia",Praga,,,https://en.wikipedia.org/wiki/Anna_Daučíková,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 521,Moyra Davey,Documenta | Whitney Biennial,,1958,"Toronto, Canada",,,,http://www.tate.org.uk/art/artists/moyra-davey-14881,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2012, Nueva York",factual-tate
 522,Enrico David,Turner Prize | Bienal de Venecia,,1966,"Ancona, Italia",,,,http://www.tate.org.uk/art/artists/enrico-david-8314,"Turner Prize (nominación 2009); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
-523,Yael Davids,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+523,Yael Davids,Documenta,,1968,"Kibutz Tzuba, Israel",Ámsterdam,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 524,Agnes Denes,Documenta | Bienal de Venecia,,1931,"Budapest, Hungría",Nueva York,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
-525,Manthia Diawara,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-526,Hans Eijkelboom,Documenta | Vitamin Ph,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-527,Niño de Elche,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-528,Bonita Ely,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-529,Theo Eshetu,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-530,Aboubakar Fofana,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+525,Manthia Diawara,Documenta,,1953-12-19,,Nueva York,,,https://en.wikipedia.org/wiki/Manthia_Diawara,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+526,Hans Eijkelboom,Documenta | Vitamin Ph,,1949,"Arnhem, Países Bajos",Ámsterdam,,,https://hanseijkelboom.nl/,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+527,Niño de Elche,Documenta,,1985,"Elche, España",,,,https://es.wikipedia.org/wiki/Ni%C3%B1o_de_Elche,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+528,Bonita Ely,Documenta,,1946,"Mildura, Australia",Sídney,,,https://en.wikipedia.org/wiki/Bonita_Ely,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+529,Theo Eshetu,Documenta,,1958,"Londres, Reino Unido",Berlín,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+530,Aboubakar Fofana,Documenta,,1967,"Bamako, Malí",Bamako,,,https://en.wikipedia.org/wiki/Aboubakar_Fofana,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 531,Peter Friedl,Documenta | Bienal de Venecia,,1960,Austria,Berlín,,,,"documenta 14, Kassel/Atenas (2017); documenta 12, Kassel (2007); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-532,Guillermo Galindo,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-533,Regina José Galindo,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-534,Israel Galván,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-535,Pélagie Gbaguidi,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+532,Guillermo Galindo,Documenta,,1960,"Ciudad de México, México",Oakland,,,https://en.wikipedia.org/wiki/Guillermo_Galindo,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+533,Regina José Galindo,Documenta,,1974-08-27,"Ciudad de Guatemala, Guatemala",Ciudad de Guatemala,,,https://en.wikipedia.org/wiki/Regina_Jos%C3%A9_Galindo,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2005 (León de Oro)",factual-web
+534,Israel Galván,Documenta,,1973,"Sevilla, España",Sevilla,,,https://en.wikipedia.org/wiki/Israel_Galv%C3%A1n,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+535,Pélagie Gbaguidi,Documenta,,1965,"Dakar, Senegal",Bruselas,,,https://en.wikipedia.org/wiki/P%C3%A9lagie_Gbaguidi,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 536,Gentle/Radical,Turner Prize,,,,,,,,Turner Prize (nominación 2021),pendiente
-537,Prinz Gholam,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-538,Yervant Gianikian,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+537,Prinz Gholam,Documenta,,,,Berlín,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+538,Yervant Gianikian,Documenta,,1942,"Merano, Italia",Milán,,,,"documenta 14, Kassel/Atenas (2017); fallecido 2026",factual-web
 539,Gauri Gill,Documenta | Bienal de Venecia,,1970,India,Nueva Delhi,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-540,Marina Gioti,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+540,Marina Gioti,Documenta,,,"Atenas, Grecia",Atenas,,,https://www.marinagioti.net,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 541,Beatriz González,Documenta,,1938,"Bucaramanga, Colombia",,,,http://www.tate.org.uk/art/artists/beatriz-gonzalez-11980,"documenta 14, Kassel/Atenas (2017)",factual-tate
 542,Douglas Gordon,Documenta | Cream,,1966,"Glasgow, United Kingdom",,,,http://www.tate.org.uk/art/artists/douglas-gordon-2617,"documenta 14, Kassel/Atenas (2017)",factual-tate
-543,Sámi Artist Group,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-544,The Otolith Group,Turner Prize | Documenta,,,,,,,,"Turner Prize (nominación 2010); documenta 13, Kassel (2012)",pendiente
+543,Sámi Artist Group,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+544,The Otolith Group,Turner Prize | Documenta,,,,,,,https://otolithgroup.org/,"Turner Prize (nominación 2010); documenta 13, Kassel (2012); finalista del Turner Prize 2010",factual-web
 545,Hans Haacke,Documenta | Whitney Biennial | Bienal de Venecia,,1936,"Köln, Deutschland",Nueva York,,,http://www.tate.org.uk/art/artists/hans-haacke-2217,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2000, Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-tate
-546,Constantinos Hadzinikolaou,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-547,Irena Haiduk,Documenta | Whitney Biennial,,,,,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2017, Nueva York",pendiente
-548,Ganesh Haloi,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-549,Anna Halprin,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-550,Dale Harding,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-551,David Harding,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-552,Maria Hassabi,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-553,Edi Hila,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+546,Constantinos Hadzinikolaou,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+547,Irena Haiduk,Documenta | Whitney Biennial,,1982,"Belgrado, Serbia",,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2017, Nueva York; documenta 14 (2017)",factual-web
+548,Ganesh Haloi,Documenta,,1936,"Jamalpur, Bangladés",Calcuta,,,https://en.wikipedia.org/wiki/Ganesh_Haloi,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+549,Anna Halprin,Documenta,,1920,"Winnetka, EE.UU.",Kentfield,,,https://en.wikipedia.org/wiki/Anna_Halprin,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017); fallecida 2021",factual-web
+550,Dale Harding,Documenta,,1982,"Moranbah, Australia",,,,https://www.documenta14.de/en/artists/13499/dale-harding,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+551,David Harding,Documenta,,1937-03-03,"Edimburgo, Reino Unido",Glasgow,,,https://en.wikipedia.org/wiki/David_Harding_(artist),"documenta 14, Kassel/Atenas (2017); documenta 14 (2017), fallecido 2026",factual-web
+552,Maria Hassabi,Documenta,,1973,"Nicosia, Chipre",Nueva York,,,https://en.wikipedia.org/wiki/Maria_Hassabi,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+553,Edi Hila,Documenta,,1944,"Shkodra, Albania",Tirana,,,,"documenta 14, Kassel/Atenas (2017)",factual-web
 554,Susan Hiller,Documenta,,1940,"New York, United States",,,,http://www.tate.org.uk/art/artists/susan-hiller-1286,"documenta 14, Kassel/Atenas (2017); documenta 13, Kassel (2012)",factual-tate
 555,Damien Hirst,Turner Prize,,1965,"Bristol, United Kingdom",,,,http://www.tate.org.uk/art/artists/damien-hirst-2308,Turner Prize (premio),factual-tate
 556,Howard Hodgkin,Turner Prize,,1932,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/howard-hodgkin-1295,Turner Prize (premio 1985),factual-tate
-557,Olaf Holzapfel,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-558,Gordon Hookey,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+557,Olaf Holzapfel,Documenta,,1967,"Dresde, Alemania",,,,https://olafholzapfel.de/en/bio/,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+558,Gordon Hookey,Documenta,,1961,"Cloncurry, Australia",Brisbane,,,https://en.wikipedia.org/wiki/Gordon_Hookey,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 559,Runa Islam,Turner Prize,,1970,Bangladesh,,,,http://www.tate.org.uk/art/artists/runa-islam-10089,Turner Prize (nominación 2008),factual-tate
 560,Sanja Iveković,Documenta,,1949,"Zagreb, Hrvatska",,,,http://www.tate.org.uk/art/artists/sanja-ivekovic-7504,"documenta 14, Kassel/Atenas (2017); documenta 13, Kassel (2012); documenta 11, Kassel (2002); documenta 12, Kassel (2007)",factual-tate
 561,Hiwa K,Documenta | Bienal de Venecia,,1975,Irak,Berlín,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-562,Nnena Kalu,Turner Prize,,,,,,,,Turner Prize (premio 2025),pendiente
-563,Romuald Karmakar,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-564,Andreas Ragnar Kassapis,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-565,Anton Kats,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-566,Daniel Knorr,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-567,Katalin Ladik,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+562,Nnena Kalu,Turner Prize,,1966,"Glasgow, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Nnena_Kalu,Turner Prize (premio 2025),factual-web
+563,Romuald Karmakar,Documenta,,1965,"Wiesbaden, Alemania",Berlín,,,https://en.wikipedia.org/wiki/Romuald_Karmakar,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+564,Andreas Ragnar Kassapis,Documenta,,1981,"Atenas, Grecia",Atenas,,,https://www.documenta14.de/en/artists/13541/andreas-ragnar-kassapis,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+565,Anton Kats,Documenta,,1983,"Jersón, Ucrania",,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+566,Daniel Knorr,Documenta,,1968,"Bucarest, Rumanía",Berlín,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+567,Katalin Ladik,Documenta,,1942-10-25,"Novi Sad, Serbia",,,,https://en.wikipedia.org/wiki/Katalin_Ladik,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 568,David Lamelas,Documenta,,1946,"Buenos Aires, Argentina",,,,http://www.tate.org.uk/art/artists/david-lamelas-8787,"documenta 14, Kassel/Atenas (2017)",factual-tate
-569,Gerhard Lang,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+569,Gerhard Lang,Documenta,,1963,"Jugenheim an der Bergstraße, Alemania",,,,https://en.wikipedia.org/wiki/Gerhard_Lang_(artist),"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 570,Mark Leckey,Turner Prize | Bienal de Venecia,,1964,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/mark-leckey-6877,"Turner Prize (premio 2008); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
 571,Rick Lowe,Documenta | Whitney Biennial,,1961,"Alabama rural, Estados Unidos",Houston,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
-572,Angela Ricci Lucchi,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-573,Alvin Lucier,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+572,Angela Ricci Lucchi,Documenta,,1942,"Lugo, Italia",Milán,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017), fallecida 2018",factual-web
+573,Alvin Lucier,Documenta,,1931,"Nashua, EE.UU.",Middletown,,,https://en.wikipedia.org/wiki/Alvin_Lucier,"documenta 14, Kassel/Atenas (2017); fallecido 2021",factual-web
 574,Gym Lumbera,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-575,Antonio Vega Macotela,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+575,Antonio Vega Macotela,Documenta,,1980,"Ciudad de México, México",,,,https://en.wikipedia.org/wiki/Antonio_Vega_Macotela,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 576,Goshka Macuga,Turner Prize | Documenta | Vitamin 3-D | Vitamin T | Bienal de Venecia,,1967,"Varsovia, Polonia",,,,,"Turner Prize (nominación 2008); documenta 13, Kassel (2012); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-577,Narimane Mari,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+577,Narimane Mari,Documenta,,1969,"Argel, Argelia",,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 578,Helen Marten,Turner Prize | Bienal de Venecia,,1985,Reino Unido,Londres,,,,"Turner Prize (premio 2016); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-579,Hans Ragnar Mathisen,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-580,Danny Matthys,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-581,Mattin,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-582,Joaquín Orellana Mejía,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+579,Hans Ragnar Mathisen,Documenta,,1945,"Narvik, Noruega",Tromsø,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+580,Danny Matthys,Documenta,,1947,"Zottegem, Bélgica",,,,https://en.wikipedia.org/wiki/Danny_Matthys,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+581,Mattin,Documenta,,1977,"Bilbao, España",,,,https://en.wikipedia.org/wiki/Mattin,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+582,Joaquín Orellana Mejía,Documenta,,1930,"Ciudad de Guatemala, Guatemala",Ciudad de Guatemala,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 583,Jonas Mekas,Documenta | Whitney Biennial,,1922,Lietuva,,,,http://www.tate.org.uk/art/artists/jonas-mekas-9674,"documenta 14, Kassel/Atenas (2017); documenta 11, Kassel (2002); Whitney Biennial 2004, Nueva York",factual-tate
-584,Angela Melitopoulos,Documenta | Bienal de Venecia,,,,,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive)",pendiente
-585,Phia Ménard,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-586,Lala Meredith-Vula,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-587,Gernot Minke,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-588,Marta Minujín,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+584,Angela Melitopoulos,Documenta | Bienal de Venecia,,1961,"Múnich, Alemania",Berlín,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive); documenta 14 (2017)",factual-web
+585,Phia Ménard,Documenta,,1971,"Nantes, Francia",Nantes,,,https://en.wikipedia.org/wiki/Phia_Ménard,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+586,Lala Meredith-Vula,Documenta,,1966,"Sarajevo, Bosnia y Herzegovina",Leicester,,,https://en.wikipedia.org/wiki/Lala_Meredith-Vula,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+587,Gernot Minke,Documenta,,1937,,Kassel,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+588,Marta Minujín,Documenta,,1943,"Buenos Aires, Argentina",Buenos Aires,,,https://en.wikipedia.org/wiki/Marta_Minujín,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 589,Naeem Mohaiemen,Documenta | Bienal de Venecia,,1969,Bangladés,Daca; Nueva York,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-590,Negros Tou Moria,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+590,Negros Tou Moria,Documenta,,,"Atenas, Grecia",Atenas,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 591,Malcolm Morley,Turner Prize,,1931,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/malcolm-morley-1665,Turner Prize (premio 1984),factual-tate
-592,Hasan Nallbani,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-593,Joar Nango,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+592,Hasan Nallbani,Documenta,,1934,"Berat, Albania",,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+593,Joar Nango,Documenta,,1979,"Alta, Noruega",Tromsø,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 594,Rosalind Nashashibi,Documenta,,1973,"Croydon, United Kingdom",,,,http://www.tate.org.uk/art/artists/rosalind-nashashibi-7347,"documenta 14, Kassel/Atenas (2017)",factual-tate
 595,Mike Nelson,Turner Prize | Vitamin 3-D,,1967,"Loughborough, United Kingdom",,,,http://www.tate.org.uk/art/artists/mike-nelson-4020,Turner Prize (nominación 2007 y 2001),factual-tate
-596,Kettly Noël,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+596,Kettly Noël,Documenta,,1966,"Puerto Príncipe, Haití",Bamako,,,https://en.wikipedia.org/wiki/Kettly_No%C3%ABl,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 597,Emeka Ogboh,Documenta | Bienal de Venecia,,1977,Nigeria,Lagos; Berlín,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-598,Olu Oguibe,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-599,Rainer Oldendorf,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-600,Pauline Oliveros,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-601,Christos Papoulias,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+598,Olu Oguibe,Documenta,,1964,"Aba, Nigeria",,,,https://en.wikipedia.org/wiki/Olu_Oguibe,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+599,Rainer Oldendorf,Documenta,,1961,"Lüchow, Alemania",,,,https://www.documenta14.de/en/artists/13701/rainer-oldendorf,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+600,Pauline Oliveros,Documenta,,1932-05-30,"Houston, EE.UU.",,,,https://en.wikipedia.org/wiki/Pauline_Oliveros,"documenta 14, Kassel/Atenas (2017); fallecida 2016",factual-web
+601,Christos Papoulias,Documenta,,1953,"Atenas, Grecia",Atenas,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017); fallecido 2024",factual-web
 602,Véréna Paravel,Documenta | Whitney Biennial,,1971,"Neuchâtel, Suiza",Boston; París,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2014, Nueva York",factual-whitney
-603,Synnøve Persen,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-604,Dan Peterman,Documenta | Cream 3,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+603,Synnøve Persen,Documenta,,1950,"Porsanger, Noruega",,,,https://en.wikipedia.org/wiki/Synn%C3%B8ve_Persen,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+604,Dan Peterman,Documenta | Cream 3,,1960,"Mineápolis, EE.UU.",Chicago,,,https://en.wikipedia.org/wiki/Dan_Peterman,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 605,Susan Philipsz,Turner Prize | Documenta | Cream 3,,1965,"Glasgow, United Kingdom",,,,http://www.tate.org.uk/art/artists/susan-philipsz-5251,"Turner Prize (premio 2010); documenta 13, Kassel (2012)",factual-tate
-606,Angelo Plessas,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-607,Nathan Pohio,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-608,María Magdalena Campos Pons,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-609,William Pope.L,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-610,Postcommodity,Documenta | Whitney Biennial,,,,,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2017, Nueva York",pendiente
-611,Elizabeth Price,Turner Prize,,,,,,,,Turner Prize (premio 2012),pendiente
-612,Oliver Ressler,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+606,Angelo Plessas,Documenta,,1974,"Atenas, Grecia",Atenas,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+607,Nathan Pohio,Documenta,,1970,"Christchurch, Nueva Zelanda",Christchurch,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+608,María Magdalena Campos Pons,Documenta,,1959,"Matanzas, Cuba",Nashville,,,https://en.wikipedia.org/wiki/María_Magdalena_Campos_Pons,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+609,William Pope.L,Documenta,,1955,"Newark, EE.UU.",Chicago,,,https://en.wikipedia.org/wiki/William_Pope.L,"documenta 14, Kassel/Atenas (2017); fallecido 2023",factual-web
+610,Postcommodity,Documenta | Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Postcommodity,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2017, Nueva York; documenta 14 (2017)",factual-web
+611,Elizabeth Price,Turner Prize,,1966,"Bradford, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Elizabeth_Price_(artist),Turner Prize (premio 2012),factual-web
+612,Oliver Ressler,Documenta,,1970,"Knittelfeld, Austria",Viena,,,https://en.wikipedia.org/wiki/Oliver_Ressler,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 613,Abel Rodríguez,Documenta | Bienal de Venecia,,1941,"Cahuinarí, Colombia",Bogotá,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
-614,Pedro G. Romero,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-615,Tracey Rose,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-616,Roee Rosen,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-617,Lala Rukh,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-618,Arin Rungjang,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-619,Ben Russell,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+614,Pedro G. Romero,Documenta,,1964,"Aracena, España",Sevilla,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+615,Tracey Rose,Documenta,,1974,"Durban, Sudáfrica",Johannesburgo,,,https://en.wikipedia.org/wiki/Tracey_Rose,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+616,Roee Rosen,Documenta,,1963,"Rehovot, Israel",,,,https://en.wikipedia.org/wiki/Roee_Rosen,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+617,Lala Rukh,Documenta,,1948,"Lahore, Pakistán",Lahore,,,https://en.wikipedia.org/wiki/Lala_Rukh,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017); fallecida 2017",factual-web
+618,Arin Rungjang,Documenta,,1975,"Bangkok, Tailandia",Bangkok,,,https://www.documenta14.de/en/artists/13599/arin-rungjang,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+619,Ben Russell,Documenta,,1976,,Los Ángeles,,,https://en.wikipedia.org/wiki/Ben_Russell_(filmmaker),"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 620,Veronica Ryan,Turner Prize | Whitney Biennial,,1956,Montserrat,Londres; Nueva York,,,http://www.tate.org.uk/art/artists/veronica-ryan-2293,"Turner Prize (premio 2022); Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-tate
-621,Georgia Sagri,Documenta | Whitney Biennial,,,,,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2012, Nueva York",pendiente
-622,Khvay Samnang,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-623,Máret Ánne Sara,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-624,Ashley Hans Scheirl,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-625,Marilou Schultz,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-626,David Schutter,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-627,Cooking Sections,Turner Prize,,,,,,,,Turner Prize (nominación 2021),pendiente
-628,Algirdas Šeškus,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-629,Nilima Sheikh,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-630,Ahlam Shibli,Documenta | Vitamin Ph,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 12, Kassel (2007)",pendiente
-631,Zef Shoshi,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+621,Georgia Sagri,Documenta | Whitney Biennial,,1979,"Atenas, Grecia",Atenas,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2012, Nueva York; documenta 14 (2017)",factual-web
+622,Khvay Samnang,Documenta,,1982,"Svay Rieng, Camboya",Nom Pen,,,https://www.khvaysamnang.com/,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+623,Máret Ánne Sara,Documenta,,1983-12-23,"Hammerfest, Noruega",Kautokeino,,,https://en.wikipedia.org/wiki/M%C3%A1ret_%C3%81nne_Sara,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+624,Ashley Hans Scheirl,Documenta,,1956,"Salzburgo, Austria",Viena,,,https://en.wikipedia.org/wiki/Ashley_Hans_Scheirl,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+625,Marilou Schultz,Documenta,,1954,,,,,https://en.wikipedia.org/wiki/Marilou_Schultz,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+626,David Schutter,Documenta,,1974,"Wilkes-Barre, EE.UU.",Chicago,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+627,Cooking Sections,Turner Prize,,,,Londres,,,,Turner Prize (nominación 2021),factual-web
+628,Algirdas Šeškus,Documenta,,1945,"Vilnius, Lituania",Vilnius,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+629,Nilima Sheikh,Documenta,,1945,"Delhi, India",Baroda,,,https://en.wikipedia.org/wiki/Nilima_Sheikh,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+630,Ahlam Shibli,Documenta | Vitamin Ph,,1970,"Shibli, Palestina",,,,https://en.wikipedia.org/wiki/Ahlam_Shibli,"documenta 14, Kassel/Atenas (2017); documenta 12, Kassel (2007); documenta 14 (2017)",factual-web
+631,Zef Shoshi,Documenta,,1939,"Tirana, Albania",,,,https://en.wikipedia.org/wiki/Zef_Shoshi,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 632,Lucy Skaer,Turner Prize | Vitamin D | Vitamin 3-D,,1977,"Cambridge, United Kingdom",,,,http://www.tate.org.uk/art/artists/lucy-skaer-13391,Turner Prize (nominación 2009),factual-tate
 633,Mounira Al Solh,Documenta | Bienal de Venecia,,1978,Líbano,Beirut; Ámsterdam,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-634,Annie Sprinkle,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+634,Annie Sprinkle,Documenta,,1954,"Filadelfia, EE.UU.",,,,https://en.wikipedia.org/wiki/Annie_Sprinkle,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 635,Simon Starling,Turner Prize | Vitamin Ph | Vitamin 3-D | Fresh Cream | Bienal de Venecia,,1967,"Epsom, United Kingdom",,,,http://www.tate.org.uk/art/artists/simon-starling-7052,"Turner Prize (premio 2005); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
-636,Eva Stefani,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-637,Beth Stephens,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-638,K. G. Subramanyan,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-639,Vivian Suter,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-640,El Hadji Sy,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-641,Kidlat Tahimik,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-642,Terre Thaemlitz,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-643,Ariuntugs Tserenpil,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+636,Eva Stefani,Documenta,,1964,,Atenas,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+637,Beth Stephens,Documenta,,1960,"Montgomery, EE.UU.",Santa Cruz,,,https://en.wikipedia.org/wiki/Elizabeth_Stephens,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+638,K. G. Subramanyan,Documenta,,1924,"Kuthuparamba, India",Vadodara,,,https://en.wikipedia.org/wiki/K._G._Subramanyan,"documenta 14, Kassel/Atenas (2017); fallecido 2016",factual-web
+639,Vivian Suter,Documenta,,1949,"Buenos Aires, Argentina",Panajachel,,,https://en.wikipedia.org/wiki/Vivian_Suter,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+640,El Hadji Sy,Documenta,,1954,"Dakar, Senegal",Dakar,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+641,Kidlat Tahimik,Documenta,,1942-10-03,"Baguio, Filipinas",Baguio,,,https://en.wikipedia.org/wiki/Kidlat_Tahimik,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+642,Terre Thaemlitz,Documenta,,1968,,Kawasaki,,,https://en.wikipedia.org/wiki/Terre_Thaemlitz,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+643,Ariuntugs Tserenpil,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 644,Keith Tyson,Turner Prize | Cream 3,,1969,"Ulverston, United Kingdom",,,,http://www.tate.org.uk/art/artists/keith-tyson-4918,Turner Prize (premio 2002),factual-tate
 645,Piotr Uklański,Documenta | Whitney Biennial,,1968,"Warszawa, Polska",,,,http://www.tate.org.uk/art/artists/piotr-uklanski-2771,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2010, Nueva York",factual-tate
 646,Mark Wallinger,Turner Prize,,1959,"Chigwell, United Kingdom",,,,http://www.tate.org.uk/art/artists/mark-wallinger-2378,Turner Prize (premio 2007),factual-tate
-647,Lois Weinberger,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-648,Elisabeth Wild,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+647,Lois Weinberger,Documenta,,1947,"Stams, Austria",Viena,,,https://en.wikipedia.org/wiki/Lois_Weinberger,"documenta 14, Kassel/Atenas (2017); fallecido 2020",factual-web
+648,Elisabeth Wild,Documenta,,1922,"Viena, Austria",Panajachel,,,https://en.wikipedia.org/wiki/Elisabeth_Wild,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017); fallecida 2020",factual-web
 649,Cathy Wilkes,Turner Prize | Bienal de Venecia,,1966,"Belfast, United Kingdom",,,,http://www.tate.org.uk/art/artists/cathy-wilkes-12144,"Turner Prize (nominación 2008); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
-650,Ruth Wolf-Rehfeldt,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-651,Project Art Works,Turner Prize,,,,,,,,Turner Prize (nominación 2021),pendiente
-652,Ulrich Wüst,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-653,Zafos Xagoraris,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-654,Sergio Zevallos,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+650,Ruth Wolf-Rehfeldt,Documenta,,1932,"Wurzen, Alemania",Berlín,,,https://en.wikipedia.org/wiki/Ruth_Wolf-Rehfeldt,"documenta 14, Kassel/Atenas (2017); fallecida 2024",factual-web
+651,Project Art Works,Turner Prize,,,,Hastings,,,https://projectartworks.org,Turner Prize (nominación 2021); Turner Prize (finalista 2021),factual-web
+652,Ulrich Wüst,Documenta,,1949,"Magdeburgo, Alemania",Berlín,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+653,Zafos Xagoraris,Documenta,,1963,"Atenas, Grecia",Atenas,,,http://zafosxagoraris.net/,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2019",factual-web
+654,Sergio Zevallos,Documenta,,1962,"Lima, Perú",Berlín,,,https://sergiozevallos.net,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 655,Artur Żmijewski,Documenta | Bienal de Venecia,,1966,"Warszawa, Polska",,,,http://www.tate.org.uk/art/artists/artur-zmijewski-13100,"documenta 14, Kassel/Atenas (2017); documenta 12, Kassel (2007); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
-656,Mary Zygouri,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
-657,Lida Abdul,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-658,Bani Abidi,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-659,Vyacheslav Akhunov,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-660,Barmak Akram,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-661,Khadim Ali,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+656,Mary Zygouri,Documenta,,1973,"Atenas, Grecia",,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
+657,Lida Abdul,Documenta,,1973,"Kabul, Afganistán",,,,https://en.wikipedia.org/wiki/Lida_Abdul,"documenta 13, Kassel (2012); Bienal de Venecia 2005",factual-web
+658,Bani Abidi,Documenta,,1971,"Karachi, Pakistán",Berlín,,,https://en.wikipedia.org/wiki/Bani_Abidi,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
+659,Vyacheslav Akhunov,Documenta,,1948,"Osh, Kirguistán",Taskent,,,https://en.wikipedia.org/wiki/Vyacheslav_Akhunov,"documenta 13, Kassel (2012); documenta 14 (2017)",factual-web
+660,Barmak Akram,Documenta,,1966,"Kabul, Afganistán",París,,,https://en.wikipedia.org/wiki/Barmak_Akram,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
+661,Khadim Ali,Documenta,,1978,"Quetta, Pakistán",Sídney,,,https://en.wikipedia.org/wiki/Khadim_Ali,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 662,Jennifer Allora,Documenta,,1974,"Philadelphia, United States",,,,http://www.tate.org.uk/art/artists/jennifer-allora-6259,"documenta 13, Kassel (2012)",factual-tate
 663,Guillermo Calzadilla,Documenta,,1971,"La Habana, Cuba",,,,http://www.tate.org.uk/art/artists/guillermo-calzadilla-6260,"documenta 13, Kassel (2012)",factual-tate
-664,Maria Thereza Alves,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-665,Ayreen Anastas,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+664,Maria Thereza Alves,Documenta,,1961,"São Paulo, Brasil",Berlín,,,https://en.wikipedia.org/wiki/Maria_Thereza_Alves,"documenta 13, Kassel (2012); documenta 14 (2017)",factual-web
+665,Ayreen Anastas,Documenta,,1976,"Belén, Palestina",Nueva York,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 666,AND AND AND,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-667,Ida Applebroog,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-668,Doug Ashford,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+667,Ida Applebroog,Documenta,,1929,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Ida_Applebroog,"documenta 13, Kassel (2012); fallecida 2023",factual-web
+668,Doug Ashford,Documenta,,1958,"Rabat, Marruecos",Nueva York,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 669,Tarek Atoui,Documenta | Bienal de Venecia,,1980,Líbano,París,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-670,Nanni Balestrini,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-671,Amy Balkin,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-672,Judith Barry,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+670,Nanni Balestrini,Documenta,,1935,"Milán, Italia",Roma,,,https://en.wikipedia.org/wiki/Nanni_Balestrini,"documenta 13, Kassel (2012); fallecido 2019",factual-web
+671,Amy Balkin,Documenta,,,,San Francisco,,,https://en.wikipedia.org/wiki/Amy_Balkin,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
+672,Judith Barry,Documenta,,1954,"Columbus, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Judith_Barry,"documenta 13, Kassel (2012)",factual-web
 673,Gianfranco Baruchello,Documenta | Bienal de Venecia,,1924,"Livorno, Italia",,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
 674,Thomas Bayrle,Documenta | Bienal de Venecia,,1937,"Berlín, Alemania",,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-675,Jérôme Bel,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-676,Gordon Bennett,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+675,Jérôme Bel,Documenta,,1964,"Montpellier, Francia",París,,,https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Bel,"documenta 13, Kassel (2012); documenta 14 (2017)",factual-web
+676,Gordon Bennett,Documenta,,1955-10-09,"Monto, Australia",,,,https://en.wikipedia.org/wiki/Gordon_Bennett_(artist),"documenta 13, Kassel (2012); fallecido 2014",factual-web
 677,Rossella Biscotti,Documenta | Bienal de Venecia,,1978,"Molfetta, Italia",,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-678,Manon de Boer,Documenta | Bienal de Venecia,,,,,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
-679,Anna Boghiguian,Documenta | Vitamin P4,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+678,Manon de Boer,Documenta | Bienal de Venecia,,1966,"Kodaikanal, India",Bruselas,,,https://en.wikipedia.org/wiki/Manon_de_Boer,"documenta 13, Kassel (2012); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); documenta 13 (2012)",factual-web
+679,Anna Boghiguian,Documenta | Vitamin P4,,1946,"El Cairo, Egipto",El Cairo,,,https://en.wikipedia.org/wiki/Anna_Boghiguian,"documenta 13, Kassel (2012); documenta 14 (2017)",factual-web
 680,Carol Bove,Documenta | Whitney Biennial | Vitamin 3-D | Bienal de Venecia,,1971,"Ginebra, Suiza",Nueva York,,,,"documenta 13, Kassel (2012); Whitney Biennial 2008, Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-whitney
-681,Kristina Buch,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-682,Andrea Büttner,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+681,Kristina Buch,Documenta,,1983,"Meerbusch, Alemania",Düsseldorf,,,https://en.wikipedia.org/wiki/Kristina_Buch,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
+682,Andrea Büttner,Documenta,,1972,"Stuttgart, Alemania",,,,https://en.wikipedia.org/wiki/Andrea_B%C3%BCttner,"documenta 13, Kassel (2012); Turner Prize (nominación 2017)",factual-web
 683,Gerard Byrne,Documenta | Vitamin Ph,,1969,"Dublin, Éire",,,,http://www.tate.org.uk/art/artists/gerard-byrne-11455,"documenta 13, Kassel (2012)",factual-tate
-684,CAMP,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+684,CAMP,Documenta,,,,Bombay,,,https://en.wikipedia.org/wiki/CAMP_(studio),"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 685,Janet Cardiff,Documenta | Fresh Cream,,1957,"Brussels, Canada",,,,http://www.tate.org.uk/art/artists/janet-cardiff-4499,"documenta 13, Kassel (2012)",factual-tate
-686,George Bures Miller,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-687,Mariana Castillo Deball,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+686,George Bures Miller,Documenta,,1960,"Vegreville, Canadá",Berlín,,,https://en.wikipedia.org/wiki/George_Bures_Miller,"documenta 13, Kassel (2012); Bienal de Venecia 2001",factual-web
+687,Mariana Castillo Deball,Documenta,,1975,"Ciudad de México, México",Berlín,,,https://en.wikipedia.org/wiki/Mariana_Castillo_Deball,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 688,Kudzanai Chiurai,Documenta | Bienal de Venecia,,1980,"Harare, Zimbabue",Harare,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
-689,Daniel Gustav Cramer,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+689,Daniel Gustav Cramer,Documenta,,1975,"Neuss, Alemania",Berlín,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 690,Critical Art Ensemble,Documenta | Whitney Biennial | Bienal de Venecia,,,,,,,,"documenta 13, Kassel (2012); Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive)",pendiente
 691,Abraham Cruzvillegas,Documenta | Vitamin 3-D,,1968,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/abraham-cruzvillegas-13142,"documenta 13, Kassel (2012)",factual-tate
-692,István Csákány,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-693,Attila Csörgő,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+692,István Csákány,Documenta,,1978,"Sfântu Gheorghe, Rumanía",,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
+693,Attila Csörgő,Documenta,,1965,"Budapest, Hungría",,,,,"documenta 13, Kassel (2012); Premio Nam June Paik (premio 2008)",factual-web
 694,Mark Dion,Documenta,,1961,"New Bedford, United States",,,,http://www.tate.org.uk/art/artists/mark-dion-2789,"documenta 13, Kassel (2012)",factual-tate
 695,Thea Djordjadze,Documenta | Vitamin 3-D | Bienal de Venecia,,1971,Georgia,Berlín,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 696,Willie Doherty,Documenta,,1959,"Derrybrien, Éire",,,,http://www.tate.org.uk/art/artists/willie-doherty-2732,"documenta 13, Kassel (2012)",factual-tate
 697,Trisha Donnelly,Documenta | Whitney Biennial | Vitamin D | Vitamin 3-D | Cream 3 | Bienal de Venecia,,1974,"San Francisco, United States",,,,http://www.tate.org.uk/art/artists/trisha-donnelly-8143,"documenta 13, Kassel (2012); Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
 698,Jimmie Durham,Documenta | Whitney Biennial | Bienal de Venecia,,1940,"Arkansas, United States",Berlín,,,http://www.tate.org.uk/art/artists/jimmie-durham-11953,"documenta 13, Kassel (2012); Whitney Biennial 2014, Nueva York; Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); León de Oro a la trayectoria, Venecia (2019); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
 699,Haris Epaminonda,Documenta | New Museum Triennial | Bienal de Venecia,,1980,Chipre,Berlín,,,,"documenta 13, Kassel (2012); New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); León de Plata al participante joven prometedor, Venecia (2019)",factual-venecia
-700,Cevdet Erek,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-701,Guillermo Faivovich,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-702,Nicolás Goldberg,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-703,Matias Faldbakken,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+700,Cevdet Erek,Documenta,,1974,"Estambul, Turquía",Estambul,,,https://en.wikipedia.org/wiki/Cevdet_Erek,"documenta 13, Kassel (2012); documenta 14 (2017)",factual-web
+701,Guillermo Faivovich,Documenta,,,,Buenos Aires,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
+702,Nicolás Goldberg,Documenta,,1978,"París, Francia",,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
+703,Matias Faldbakken,Documenta,,1973,"Hobro, Dinamarca",Oslo,,,https://en.wikipedia.org/wiki/Matias_Faldbakken,"documenta 13, Kassel (2012); Bienal de Venecia 2005",factual-web
 704,Geoffrey Farmer,Documenta | Vitamin 3-D,,1967,"Eagle Bay, Canada",,,,http://www.tate.org.uk/art/artists/geoffrey-farmer-10350,"documenta 13, Kassel (2012)",factual-tate
 705,Omer Fast,Documenta | Whitney Biennial | Cream 3,,1972,"Yerushalayim, Yisra'el",Berlín,,,http://www.tate.org.uk/art/artists/omer-fast-10200,"documenta 13, Kassel (2012); Whitney Biennial 2008, Nueva York; Whitney Biennial 2002, Nueva York",factual-tate
 706,Lara Favaretto,Documenta | Vitamin 3-D | Bienal de Venecia,,1973,Italia,Turín,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-707,Llyn Foulkes,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-708,Chiara Fumai,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-709,Rene Gabri,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+707,Llyn Foulkes,Documenta,,1934-11-17,"Yakima, EE.UU.",,,,https://en.wikipedia.org/wiki/Llyn_Foulkes,"documenta 13, Kassel (2012); fallecido 2025",factual-web
+708,Chiara Fumai,Documenta,,1978,"Roma, Italia",,,,https://en.wikipedia.org/wiki/Chiara_Fumai,"documenta 13, Kassel (2012); documenta 14 (2017), fallecida 2017",factual-web
+709,Rene Gabri,Documenta,,1968,"Teherán, Irán",Nueva York,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 710,Ryan Gander,Documenta | Vitamin 3-D | New Museum Triennial,,1976,"Chester, United Kingdom",,,,http://www.tate.org.uk/art/artists/ryan-gander-9102,"documenta 13, Kassel (2012); New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-tate
 711,Dora García,Documenta | Bienal de Venecia,,1965,España,Barcelona,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 712,Mario García Torres,Documenta | Bienal de Venecia,,1975,"Monclova, México",,,,http://www.tate.org.uk/art/artists/mario-garcia-torres-10370,"documenta 13, Kassel (2012); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 713,Theaster Gates,Documenta | Whitney Biennial | Vitamin C | 21st-Century Art Book | Bienal de Venecia,,1973,Estados Unidos,Chicago,,,,"documenta 13, Kassel (2012); Whitney Biennial 2010, Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-714,Jeanno Gaussi,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-715,Mariam Ghani,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+714,Jeanno Gaussi,Documenta,,1973,"Kabul, Afganistán",Berlín,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
+715,Mariam Ghani,Documenta,,1978,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Mariam_Ghani,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 716,Simryn Gill,Documenta | Vitamin Ph | Fresh Cream,,1959,Singapore,,,,http://www.tate.org.uk/art/artists/simryn-gill-9404,"documenta 13, Kassel (2012); documenta 12, Kassel (2007)",factual-tate
-717,Tue Greenfort,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-718,Fiona Margaret Hall,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-719,Tamara Henderson,Documenta | Vitamin T,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-720,Horst Hoheisel,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-721,Judith Hopf,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
-722,Khaled Hourani,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+717,Tue Greenfort,Documenta,,1973,"Holbæk, Dinamarca",Berlín,,,https://en.wikipedia.org/wiki/Tue_Greenfort,"documenta 13, Kassel (2012); dOCUMENTA (13) (2012)",factual-web
+718,Fiona Margaret Hall,Documenta,,1953,"Sídney, Australia",Adelaida,,,https://en.wikipedia.org/wiki/Fiona_Hall_(artist),"documenta 13, Kassel (2012); Bienal de Venecia 2015",factual-web
+719,Tamara Henderson,Documenta | Vitamin T,,1982,"Sackville, Canadá",Londres,,,https://en.wikipedia.org/wiki/Tamara_Henderson,"documenta 13, Kassel (2012); documenta 14 (2017)",factual-web
+720,Horst Hoheisel,Documenta,,1944,"Poznań, Polonia",Kassel,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
+721,Judith Hopf,Documenta,,1969,"Karlsruhe, Alemania",Berlín,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
+722,Khaled Hourani,Documenta,,1965,"Hebrón, Palestina",Ramala,,,https://en.wikipedia.org/wiki/Khaled_Hourani,"documenta 13, Kassel (2012)",factual-web
 723,Toril Johannessen,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
 724,Joan Jonas,Documenta | Bienal de Venecia,,1936,"New York, United States",,,,http://www.tate.org.uk/art/artists/joan-jonas-7726,"documenta 13, Kassel (2012); documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 725,Brian Jungen,Documenta | Vitamin 3-D,,1970,"Fort Saint John, Canada",,,,http://www.tate.org.uk/art/artists/brian-jungen-9484,"documenta 13, Kassel (2012)",factual-tate
