@@ -1,29 +1,29 @@
 id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,temas,medios,enlaces,hitos,estado_verificacion
-1,Banu Cennetoğlu (Facilitator),Frieze 25 (2000s),,,,,,,,,pendiente
-2,Nina Chanel Abney,Vitamin P2,,,,,,,,,pendiente
-3,Basel Abbas and Rouanne Abou-Rahme,ArtReview Top 100,,,,,,,,,pendiente
-4,Marina Abramovic,Base propia | Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-5,Tomma Abts,Vitamin P1 | Turner Prize,,1967,"Kiel, Deutschland",,,,http://www.tate.org.uk/art/artists/tomma-abts-9550,Turner Prize (premio 2006),factual-tate
-6,Franz Ackermann,Vitamin P1,,,,,,,,,pendiente
-7,Etel Adnan,Vitamin P3 | Documenta | Whitney Biennial,,1925,"Beirut, Líbano","Sausalito, CA; París",,,,"documenta 13, Kassel (2012); Whitney Biennial 2014, Nueva York",factual-whitney
-8,Laura Aguilar,ArtReview Top 100,,,,,,,,,pendiente
-9,Jia Aili,Vitamin P2,,,,,,,,,pendiente
-10,John Akomfrah,ArtReview Top 100 | Frieze 25 (2000s) | Vitamin V | Bienal de Venecia,,1957,Ghana,Londres,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-11,Richard Aldrich,Vitamin P2 | Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-12,Brian Alfred,Vitamin P1,,,,,,,,,pendiente
-13,Darren Almond,Vitamin P1 | Cream 3,,1971,"Wigan, United Kingdom",,,,http://www.tate.org.uk/art/artists/darren-almond-2657,,factual-tate
-14,Ahmed Alsoudani,Vitamin P3,,,,,,,,,pendiente
-15,Ellen Altfest,Vitamin P2 | Bienal de Venecia,,1970,"Nueva York, Estados Unidos",,,,,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-16,Kai Althoff,Vitamin P1 | Whitney Biennial | Cream 3,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-17,David Altmejd,Vitamin P1 | Whitney Biennial | Vitamin 3-D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-18,Francis Alÿs,Vitamin P1 | Frieze 25 (2000s) | Documenta | Vitamin D | Cream,,1959,"Antwerpen, België",,,,http://www.tate.org.uk/art/artists/francis-alys-4427,"documenta 13, Kassel (2012)",factual-tate
-19,El Anatsui,Base propia | ArtReview Top 100 | Vitamin T,,,,,,,,"León de Oro a la trayectoria, Venecia (2015)",pendiente
-20,Hurvin Anderson,Vitamin P2,,1965,"Birmingham, United Kingdom",,,,http://www.tate.org.uk/art/artists/hurvin-anderson-12583,,factual-tate
-21,Karin Mamma Andersson,Vitamin P2,,,,,,,,,pendiente
-22,Juan Araujo,Vitamin P2 | Cream 3,,1971,"Caracas, Venezuela",,,,http://www.tate.org.uk/art/artists/juan-araujo-10494,,factual-tate
-23,Cory Arcangel,ArtReview Top 100 | Whitney Biennial | New Museum Triennial,,1978,"Buffalo, United States",,,,http://www.tate.org.uk/art/artists/cory-arcangel-12604,"Whitney Biennial 2004, Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-tate
-24,Michael Armitage,Vitamin P3 | Base propia | 100 Painters of Tomorrow | Bienal de Venecia,,1984,Kenia,Londres; Nairobi,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-25,Lucas Arruda,Vitamin P3,,,,,,,,,pendiente
+1,Banu Cennetoğlu (Facilitator),Frieze 25 (2000s),,1970,"Ankara, Turquía",Estambul,,,https://en.wikipedia.org/wiki/Banu_Cennetoğlu,,factual-web
+2,Nina Chanel Abney,Vitamin P2,,1982,"Harvey, EE.UU.",Nueva York,,,https://ninachanel.com,,factual-web
+3,Basel Abbas and Rouanne Abou-Rahme,ArtReview Top 100,,1983,"Nicosia, Chipre / Boston, EE.UU.",Nueva York; Ramala,,,https://en.wikipedia.org/wiki/Basel_Abbas_and_Ruanne_Abou-Rahme,,factual-web
+4,Marina Abramovic,Base propia | Whitney Biennial,,1946,"Belgrado, Serbia",Nueva York,,,https://www.centrepompidou.fr/en/ressources/personne/cajz8ye,"Whitney Biennial 2004, Nueva York; León de Oro al mejor participante, Venecia (1997)",factual-web
+5,Tomma Abts,Vitamin P1 | Turner Prize,,1967,"Kiel, Deutschland",Londres,,,http://www.tate.org.uk/art/artists/tomma-abts-9550; https://www.tate.org.uk/art/artists/tomma-abts-9550,Turner Prize (premio 2006),factual-tate
+6,Franz Ackermann,Vitamin P1,,1963,"Neumarkt-Sankt Veit, Alemania",Berlín,,,https://en.wikipedia.org/wiki/Franz_Ackermann,,factual-web
+7,Etel Adnan,Vitamin P3 | Documenta | Whitney Biennial,,1925,"Beirut, Líbano","Sausalito, CA; París",,,https://en.wikipedia.org/wiki/Etel_Adnan,"documenta 13, Kassel (2012); Whitney Biennial 2014, Nueva York; fallecido/a 2021",factual-whitney
+8,Laura Aguilar,ArtReview Top 100,,1959,"San Gabriel, EE.UU.",,,,https://www.lauraaguilarphotography.com,fallecido/a 2018,factual-web
+9,Jia Aili,Vitamin P2,,1979,"Dandong, China",Pekín,,,https://gagosian.com/artists/jia-aili/,,factual-web
+10,John Akomfrah,ArtReview Top 100 | Frieze 25 (2000s) | Vitamin V | Bienal de Venecia,,1957,Ghana,Londres,,,https://en.wikipedia.org/wiki/John_Akomfrah,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
+11,Richard Aldrich,Vitamin P2 | Whitney Biennial,,1975,"Hampton, EE.UU.",Nueva York,,,https://www.gladstonegallery.com/ar/artist/richard-aldrich/biography,"Whitney Biennial 2010, Nueva York",factual-web
+12,Brian Alfred,Vitamin P1,,1974,"Pittsburgh, EE.UU.",Nueva York,,,https://www.milesmcenery.com/artists/brian-alfred,,factual-web
+13,Darren Almond,Vitamin P1 | Cream 3,,1971,"Wigan, United Kingdom",Londres,,,http://www.tate.org.uk/art/artists/darren-almond-2657; https://www.whitecube.com/artists/darren-almond,,factual-tate
+14,Ahmed Alsoudani,Vitamin P3,,1975,"Bagdad, Irak",Nueva York,,,https://www.marlboroughnewyork.com/artists/ahmed-alsoudani,,factual-web
+15,Ellen Altfest,Vitamin P2 | Bienal de Venecia,,1970,"Nueva York, Estados Unidos",Nueva York,,,https://www.whitecube.com/artists/ellen-altfest,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
+16,Kai Althoff,Vitamin P1 | Whitney Biennial | Cream 3,,1966,"Colonia, Alemania",Nueva York,,,https://www.michaelwerner.com/artists/kai-althoff/biography,"Whitney Biennial 2012, Nueva York",factual-web
+17,David Altmejd,Vitamin P1 | Whitney Biennial | Vitamin 3-D,,1974,"Montreal, Canadá",Los Ángeles,,,https://www.davidkordanskygallery.com/artist/david-altmejd,"Whitney Biennial 2004, Nueva York",factual-web
+18,Francis Alÿs,Vitamin P1 | Frieze 25 (2000s) | Documenta | Vitamin D | Cream,,1959,"Antwerpen, België",Ciudad de México,,,http://www.tate.org.uk/art/artists/francis-alys-4427; https://www.moma.org/artists/8383,"documenta 13, Kassel (2012)",factual-tate
+19,El Anatsui,Base propia | ArtReview Top 100 | Vitamin T,,1944,"Anyako, Ghana",Nsukka (Nigeria); Tema (Ghana),,,https://elanatsui.art,"León de Oro a la trayectoria, Venecia (2015)",factual-web
+20,Hurvin Anderson,Vitamin P2,,1965,"Birmingham, United Kingdom",Cambridge; Londres,,,http://www.tate.org.uk/art/artists/hurvin-anderson-12583; https://www.thomasdanegallery.com/artists/28-hurvin-anderson/biography/,,factual-tate
+21,Karin Mamma Andersson,Vitamin P2,,1962,"Luleå, Suecia",Estocolmo,,,https://www.davidzwirner.com/artists/mamma-andersson,,factual-web
+22,Juan Araujo,Vitamin P2 | Cream 3,,1971,"Caracas, Venezuela",Lisboa,,,http://www.tate.org.uk/art/artists/juan-araujo-10494; https://www.stephenfriedman.com/artists/27-juan-araujo/biography/,,factual-tate
+23,Cory Arcangel,ArtReview Top 100 | Whitney Biennial | New Museum Triennial,,1978,"Buffalo, United States",Stavanger,,,http://www.tate.org.uk/art/artists/cory-arcangel-12604; https://www.coryarcangel.com,"Whitney Biennial 2004, Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-tate
+24,Michael Armitage,Vitamin P3 | Base propia | 100 Painters of Tomorrow | Bienal de Venecia,,1984,Kenia,Londres; Nairobi,,,https://www.davidzwirner.com/artists/michael-armitage,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
+25,Lucas Arruda,Vitamin P3,,1983,"São Paulo, Brasil",São Paulo,,,https://www.davidzwirner.com/artists/lucas-arruda,,factual-web
 26,Ed Atkins,ArtReview Top 100 | Vitamin V | Bienal de Venecia,,1982,United Kingdom,Berlín; Copenhague,,,http://www.tate.org.uk/art/artists/ed-atkins-15601,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
 27,Kader Attia,Base propia | Documenta | Vitamin C+,,1970,"Dugny, France",,,,http://www.tate.org.uk/art/artists/kader-attia-13674,"documenta 13, Kassel (2012)",factual-tate
 28,Tauba Auerbach,Vitamin P2 | Whitney Biennial | New Museum Triennial,,,,,,,,"Whitney Biennial 2010, Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
