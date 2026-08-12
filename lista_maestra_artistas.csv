@@ -1650,7 +1650,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1649,Erwin Redl,Whitney Biennial,,1963,"Gföhl, Austria",,,,https://en.wikipedia.org/wiki/Erwin_Redl,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
 1650,The Rural Studio,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Rural_Studio,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
 1651,Salon de Fleurus,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
-1652,Keith Sanborn,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
+1652,Keith Sanborn,Whitney Biennial,,1952,,Nueva York,,,,"Whitney Biennial 2002, Nueva York",factual-web
 1653,Peter Sarkisian,Whitney Biennial,,1965,,Santa Fe,,,https://en.wikipedia.org/wiki/Peter_Sarkisian,"Whitney Biennial 2002, Nueva York; fallecido 2025",factual-web
 1654,Judith Schaechter,Whitney Biennial,,1961,"Gainesville, EE.UU.",Filadelfia,,,https://en.wikipedia.org/wiki/Judith_Schaechter,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
 1655,Collier Schorr,Whitney Biennial | Vitamin Ph,,1963,"Nueva York, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Collier_Schorr,"Whitney Biennial 2002, Nueva York",factual-web
@@ -1981,7 +1981,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1980,Salvatore Arancio,Vitamin C,,1974,"Catania, Italia",Londres,,,,,factual-web
 1981,Phoebe Cummings,Vitamin C,,1981,"Walsall, Reino Unido",Stafford,,,,,factual-web
 1982,Edmund de Waal,Vitamin C,,1964-09-10,"Nottingham, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Edmund_de_Waal,,factual-web
-1983,Alexandra Engelfried,Vitamin C,,,,,,,,,pendiente
+1983,Alexandra Engelfried,Vitamin C,,1959,,,,,https://www.alexandraengelfriet.com/,,factual-web
 1984,Jessica Harrison,Vitamin C,,1982,"St Bees, Reino Unido",Edimburgo,,,,,factual-web
 1985,Marisa Merz,Vitamin C | Bienal de Venecia,,1931,"Torino, Italia",,,,http://www.tate.org.uk/art/artists/marisa-merz-12525,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni); León de Oro a la trayectoria, Venecia (2013)",factual-tate
 1986,Aurèlia Muñoz,Vitamin C,,1926,"Barcelona, España",,,,https://en.wikipedia.org/wiki/Aur%C3%A8lia_Mu%C3%B1oz,fallecida 2011,factual-web
@@ -2403,7 +2403,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2402,Alex Chinneck,100 Sculptors of Tomorrow,,1984-10-01,"Bedford, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Alex_Chinneck,,factual-web
 2403,Ben Long,100 Sculptors of Tomorrow,,1978,"Lancaster, Reino Unido",,,,https://en.wikipedia.org/wiki/Ben_Long_(British_artist),,factual-web
 2404,Jack Lavender,100 Sculptors of Tomorrow,,,,Londres,,,,,factual-web
-2405,Leif Low-Beer,100 Sculptors of Tomorrow,,,,,,,,,pendiente
+2405,Leif Low-Beer,100 Sculptors of Tomorrow,,,,Nueva York,,,,,factual-web
 2406,Rachel Ara,100 Sculptors of Tomorrow,,1965,"Jersey, Islas del Canal",Londres,,,https://en.wikipedia.org/wiki/Rachel_Ara,,factual-web
 2407,Cammie Staros,100 Sculptors of Tomorrow,,1983,"Nashville, EE.UU.",Los Ángeles,,,,Beca Guggenheim (2020),factual-web
 2408,Ramesh Mario Nithiyendran,100 Sculptors of Tomorrow,,1988,"Colombo, Sri Lanka",Sídney,,,https://www.ramesh-nithiyendran.com,,factual-web
@@ -2507,7 +2507,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2506,Kim YunShin,Bienal de Venecia,,1935,"Wonsan, Corea",Buenos Aires; Seúl,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2507,Ursula Biemann,Bienal de Venecia | Bienal de São Paulo,,1955-09-08,"Zúrich, Suiza",Zúrich,,,https://en.wikipedia.org/wiki/Ursula_Biemann,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive); 32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
 2508,Simone Cangelosi,Bienal de Venecia,,1968,"Pisa, Italia",Bolonia,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive)",factual-web
-2509,Snow Hnin Ei Hlaing,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive)",pendiente
+2509,Snow Hnin Ei Hlaing,Bienal de Venecia,,1985,"Kyaukpyu, Myanmar",,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive)",factual-web
 2510,Marcelo Expósito,Bienal de Venecia,,1966-05-29,"Puertollano, España",Barcelona,,,https://marceloexposito.net/en/biografia/,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive)",factual-web
 2511,Maria Galindo & Mujeres Creando,Bienal de Venecia | Bienal de São Paulo,,,,,,,https://en.wikipedia.org/wiki/Mujeres_Creando,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive); Bienal de Venecia 2015; 31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
 2512,mixrice,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive); Bienal de Venecia 2024",factual-web
@@ -2821,7 +2821,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2820,Rosemary Laing,Bienal de Venecia,,1959,"Brisbane, Australia",,,,https://en.wikipedia.org/wiki/Rosemary_Laing,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecida 2024",factual-web
 2821,Sol LeWitt,Bienal de Venecia,,1928,"Hartford, United States",,,,http://www.tate.org.uk/art/artists/sol-lewitt-1504,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2007",factual-tate
 2822,Rosario López,Bienal de Venecia,,1970,"Bogotá, Colombia",Bogotá,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2007",factual-web
-2823,Hiroharu Mori,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2823,Hiroharu Mori,Bienal de Venecia,,,,Tokio,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 2824,Projeto Morrinho,Bienal de Venecia,,,,Río de Janeiro,,,https://en.wikipedia.org/wiki/Project_Morrinho,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 2825,Oscar Muñoz,Bienal de Venecia,,1951,Colombia,,,,http://www.tate.org.uk/art/artists/oscar-munoz-9099,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2826,Elizabeth Murray,Bienal de Venecia,,1940,"Chicago, United States",,,,http://www.tate.org.uk/art/artists/elizabeth-murray-1683,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
@@ -2844,13 +2844,13 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2843,Franz West,Bienal de Venecia,,1947,"Wien, Österreich",,,,http://www.tate.org.uk/art/artists/franz-west-2700,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2012",factual-tate
 2844,Yang Zhenzhong,Bienal de Venecia,,1968,"Hangzhou, China",Shanghái,,,https://yangzhenzhong.com,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); participó en la Bienal de Venecia (2003 y 2007)",factual-web
 2845,Tomoko Yoneda,Bienal de Venecia,,1965,"Akashi, Japón",Londres,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
-2846,Aida Harika Yanomami,Bienal de São Paulo,,,"Territorio Yanomami, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
-2847,Edmar Tokorino Yanomami,Bienal de São Paulo,,,"Territorio Yanomami, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
-2848,Roseane Yariana Yanomami,Bienal de São Paulo,,,"Territorio Yanomami, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
+2846,Aida Harika Yanomami,Bienal de São Paulo,,,"Territorio Yanomami, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); Bienal de São Paulo 2023",factual-web
+2847,Edmar Tokorino Yanomami,Bienal de São Paulo,,1986,"Territorio Yanomami, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-web
+2848,Roseane Yariana Yanomami,Bienal de São Paulo,,1998,"Territorio Yanomami, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); Bienal de São Paulo 2023",factual-web
 2849,Aline Motta,Bienal de São Paulo,,1974,"Niterói, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2850,Amador e Jr. Segurança Patrimonial Ltda.,Bienal de São Paulo,,,Brasil,,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
 2851,Amos Gitaï,Bienal de São Paulo,,1950,"Haifa, Israel",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
-2852,Ana Pi & Taata Kwa Nkisi Mutá Imê,Bienal de São Paulo,,,Brasil,,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
+2852,Ana Pi & Taata Kwa Nkisi Mutá Imê,Bienal de São Paulo,,,Brasil,,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); Bienal de São Paulo 2023",factual-web
 2853,Archivo de la Memoria Trans,Bienal de São Paulo,,,"Buenos Aires, Argentina",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
 2854,Ayrson Heráclito,Bienal de São Paulo,,1968,"Macaúbas, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2855,Tiganá Santana,Bienal de São Paulo,,1982,"Salvador, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
@@ -2864,16 +2864,16 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2863,Colectivo Ayllu,Bienal de São Paulo,,,"Madrid, España",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
 2864,Cozinha Ocupação 9 de Julho – MSTC,Bienal de São Paulo,,,"São Paulo, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
 2865,Daniel Lie,Bienal de São Paulo,,1988,"São Paulo, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
-2866,Davi Pontes & Wallace Ferreira,Bienal de São Paulo,,,Brasil,,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
+2866,Davi Pontes & Wallace Ferreira,Bienal de São Paulo,,,Brasil,Río de Janeiro,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); Bienal de São Paulo 2023",factual-web
 2867,Dayanita Singh,Bienal de São Paulo,,1961,"Nueva Delhi, India",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2868,Deborah Anzinger,Bienal de São Paulo,,1978,"Kingston, Jamaica",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2869,Denilson Baniwa,Bienal de São Paulo,,1984,"Barcelos, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
-2870,Denise Ferreira da Silva,Bienal de São Paulo,,,Brasil,,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
+2870,Denise Ferreira da Silva,Bienal de São Paulo,,1963,Brasil,,,,https://en.wikipedia.org/wiki/Denise_Ferreira_da_Silva,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); documenta 14 (2017)",factual-web
 2871,Diego Araúja & Laís Machado,Bienal de São Paulo,,,"Salvador, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
 2872,Edgar Calel,Bienal de São Paulo,,1987,"San Juan Comalapa, Guatemala",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2873,Elda Cerrato,Bienal de São Paulo,,1930,"Asti, Italia",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); fallecido/a 2023",factual-saopaulo
 2874,Eustáquio Neves,Bienal de São Paulo,,1955,"Juatuba, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
-2875,flo6x8,Bienal de São Paulo,,,"Sevilla, España",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
+2875,flo6x8,Bienal de São Paulo,,,"Sevilla, España",,,,https://flo6x8.com/,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); Bienal de São Paulo 2023",factual-web
 2876,Frente 3 de Fevereiro,Bienal de São Paulo,,,"São Paulo, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
 2877,Geraldine Javier,Bienal de São Paulo,,1970,"Manila, Filipinas",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2878,Grupo de Investigación en Arte y Política (GIAP),Bienal de São Paulo,,,"San Cristóbal de las Casas, México",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
@@ -2884,7 +2884,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2883,Jesús Ruiz Durand,Bienal de São Paulo,,1940,"Huancavelica, Perú",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2884,Jorge Ribalta,Bienal de São Paulo,,1963,"Barcelona, España",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2885,Julien Creuzet,Bienal de São Paulo,,1986,"Le Blanc-Mesnil, Francia",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
-2886,Kamal Aljafari,Bienal de São Paulo,,,"Ramla, Palestina",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
+2886,Kamal Aljafari,Bienal de São Paulo,,1972,"Ramla, Palestina",Berlín,,,https://en.wikipedia.org/wiki/Kamal_Aljafari,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-web
 2887,Luana Vitra,Bienal de São Paulo,,1995,"Contagem, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2888,Luiz de Abreu,Bienal de São Paulo,,1963,"Araguari, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2889,Malu Avelar,Bienal de São Paulo,,,"São Paulo, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
@@ -2893,7 +2893,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2892,M'barek Bouhchichi,Bienal de São Paulo,,1975,"Akka, Marruecos",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2893,Min Tanaka,Bienal de São Paulo,,1945,"Tokio, Japón",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2894,François Pain,Bienal de São Paulo,,1945,Francia,,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
-2895,Morzaniel Ɨramari,Bienal de São Paulo,,,"Territorio Yanomami, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
+2895,Morzaniel Ɨramari,Bienal de São Paulo,,1980,"Territorio Yanomami, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); Bienal de São Paulo 2023",factual-web
 2896,Nadal Walcot,Bienal de São Paulo,,1964,"Georgetown, Guyana",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2897,Nadir Bouhmouch & Soumeya Ait Ahmed,Bienal de São Paulo,,,Marruecos,,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
 2898,Nikau Hindin,Bienal de São Paulo,,1991,"Aotearoa, Nueva Zelanda",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
@@ -2908,7 +2908,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2907,Rosa Gauditano,Bienal de São Paulo,,1955,"São Paulo, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2908,Rubiane Maia,Bienal de São Paulo,,1979,"Aimorés, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2909,Tadáskía,Bienal de São Paulo,,1993,"Río de Janeiro, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
-2910,The Living and the Dead Ensemble,Bienal de São Paulo,,,"Puerto Príncipe, Haití; París",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
+2910,The Living and the Dead Ensemble,Bienal de São Paulo,,,"Puerto Príncipe, Haití; París",,,,https://thelivingandthedeadensemble.com/,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); Bienal de São Paulo 2023",factual-web
 2911,Ventura Profana,Bienal de São Paulo,,1993,"Salvador, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2912,Will Rawls,Bienal de São Paulo,,1978,"Boston, MA, EE.UU.",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2913,Zumví Arquivo Afro Fotográfico,Bienal de São Paulo,,,"Salvador, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
@@ -2963,9 +2963,9 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2962,Wura-Natasha Ogunji,Bienal de São Paulo,,1970,"St. Louis, MO, EE.UU.",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2963,Lhola Amira,Bienal de São Paulo,,1984,"Gugulethu, Sudáfrica",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2964,Mame-Diarra Niang,Bienal de São Paulo,,1982,"Lyon, Francia",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
-2965,Nicole Vlado,Bienal de São Paulo,,,"Nueva York, EE.UU.",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",pendiente
+2965,Nicole Vlado,Bienal de São Paulo,,,"Nueva York, EE.UU.",,,,http://www.nicolevlado.com/,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro); Bienal de São Paulo 2018",factual-web
 2966,ruby onyinyechi amanze,Bienal de São Paulo,,1982,"Port Harcourt, Nigeria",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
-2967,Youmna Chlala,Bienal de São Paulo,,,"Beirut, Líbano",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",pendiente
+2967,Youmna Chlala,Bienal de São Paulo,,1974,"Beirut, Líbano",Nueva York,,,https://en.wikipedia.org/wiki/Youmna_Chlala,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-web
 2968,Sofia Borges,Bienal de São Paulo,,1984,"Ribeirão Preto, Brasil",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro); 30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-saopaulo
 2969,Ana Prata,Bienal de São Paulo,,1980,"Sete Lagoas, Brasil",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2970,Antonio Malta Campos,Bienal de São Paulo,,1961,"São Paulo, Brasil",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro); 32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-saopaulo
@@ -2985,14 +2985,14 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2984,Elba Bairon,Bienal de São Paulo,,1947,"La Paz, Bolivia",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2985,Katrín Sigurdardóttir,Bienal de São Paulo,,1967,"Reikiavik, Islandia",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2986,Pablo Martín Ruiz,Bienal de São Paulo,,,Argentina,,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",pendiente
-2987,Paola Sferco,Bienal de São Paulo,,,Argentina,,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",pendiente
+2987,Paola Sferco,Bienal de São Paulo,,1974,Argentina,,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro); Bienal de São Paulo 2018",factual-web
 2988,Roderick Hietbrink,Bienal de São Paulo,,1975,"Gorinchem, Países Bajos",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2989,Sebastián Castagna,Bienal de São Paulo,,1965,"Buenos Aires, Argentina",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2990,Žilvinas Landzbergas,Bienal de São Paulo,,1979,"Kaunas, Lituania",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2991,Mamma Andersson,Bienal de São Paulo,,1962,"Luleå, Suecia",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2992,Gunvor Nelson,Bienal de São Paulo,,1931,"Kristinehamn, Suecia",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2993,José Moreno Cascales,Bienal de São Paulo,,,España,,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",pendiente
-2994,Rafael Sánchez-Mateos Paniagua,Bienal de São Paulo,,,España,,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",pendiente
+2994,Rafael Sánchez-Mateos Paniagua,Bienal de São Paulo,,1979,España,Madrid,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-web
 2995,John Miller,Bienal de São Paulo,,1954,"Cleveland, OH, EE.UU.",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2996,Oliver Laric,Bienal de São Paulo,,1981,"Innsbruck, Austria",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2997,Siron Franco,Bienal de São Paulo,,1950,"Goiás Velho, Brasil",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
@@ -3004,133 +3004,133 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3003,Luiza Crosman,Bienal de São Paulo,,1987,"Río de Janeiro, Brasil",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 3004,Denise Milan,Bienal de São Paulo,,1954,"São Paulo, Brasil",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 3005,Bruno Moreschi,Bienal de São Paulo,,1982,"Maringá, Brasil",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
-3006,Alicia Barney,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3007,Ana Mazzei,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3008,Bárbara Wagner,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3009,Bené Fonteles,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3010,Carla Filipe,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3011,Cecilia Bengolea,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3012,Cristiano Lenhardt,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3013,Donna Kukama,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3014,Ebony G. Patterson,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3015,Eduardo Navarro,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
-3016,Em'kal Eyongakpa,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3017,Erika Verzutti,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3018,Felipe Mujica,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3019,Frans Krajcberg,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3020,Gabriel Abrantes,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3021,Grada Kilomba,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3022,Heather Phillipson,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3023,Helen Sebidi,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3024,Iza Tarasewicz,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
+3006,Alicia Barney,Bienal de São Paulo,,1952-11-28,"Cali, Colombia",,,,https://en.wikipedia.org/wiki/Alicia_Barney,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3007,Ana Mazzei,Bienal de São Paulo,,1980,"São Paulo, Brasil",São Paulo,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3008,Bárbara Wagner,Bienal de São Paulo,,1980,"Brasília, Brasil",Recife,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3009,Bené Fonteles,Bienal de São Paulo,,1953,"Bragança, Brasil",Brasília,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de São Paulo 2016",factual-web
+3010,Carla Filipe,Bienal de São Paulo,,1973,"Aveiro, Portugal",Oporto,,,https://en.wikipedia.org/wiki/Carla_Filipe,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3011,Cecilia Bengolea,Bienal de São Paulo,,1979,"Buenos Aires, Argentina",París,,,https://en.wikipedia.org/wiki/Cecilia_Bengolea,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3012,Cristiano Lenhardt,Bienal de São Paulo,,1975,"Itaara, Brasil",Recife,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3013,Donna Kukama,Bienal de São Paulo,,1981,"Mafikeng, Sudáfrica",Colonia,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de Venecia 2013",factual-web
+3014,Ebony G. Patterson,Bienal de São Paulo,,1981,"Kingston, Jamaica",Chicago,,,https://en.wikipedia.org/wiki/Ebony_Patterson,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3015,Eduardo Navarro,Bienal de São Paulo,,1979,"Buenos Aires, Argentina",Buenos Aires,,,https://en.wikipedia.org/wiki/Eduardo_Navarro_(artist),"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-web
+3016,Em'kal Eyongakpa,Bienal de São Paulo,,1981,"Mamfe, Camerún",Ámsterdam,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3017,Erika Verzutti,Bienal de São Paulo,,1971,"São Paulo, Brasil",,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3018,Felipe Mujica,Bienal de São Paulo,,1974,"Santiago, Chile",Nueva York,,,https://en.wikipedia.org/wiki/Felipe_Mujica,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3019,Frans Krajcberg,Bienal de São Paulo,,1921-04-12,"Kozienice, Polonia",Río de Janeiro,,,https://en.wikipedia.org/wiki/Frans_Krajcberg,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); fallecido 2017",factual-web
+3020,Gabriel Abrantes,Bienal de São Paulo,,1984,"Carolina del Norte, EE.UU.",Lisboa,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3021,Grada Kilomba,Bienal de São Paulo,,1968,"Lisboa, Portugal",Berlín,,,https://en.wikipedia.org/wiki/Grada_Kilomba,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3022,Heather Phillipson,Bienal de São Paulo,,1978,"Londres, Reino Unido",Londres,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Turner Prize (nominación 2022)",factual-web
+3023,Helen Sebidi,Bienal de São Paulo,,1943-03-05,"Marapyane, Sudáfrica",,,,https://en.wikipedia.org/wiki/Helen_Sebidi,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3024,Iza Tarasewicz,Bienal de São Paulo,,1981,"Białystok, Polonia",,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
 3025,Jonathas de Andrade,Bienal de São Paulo,,1982,"Maceió, Brasil",,,,http://www.tate.org.uk/art/artists/jonathas-de-andrade-15587,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-tate
-3026,Jorge Menna Barreto,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3027,José Bento,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3028,Kathy Barry,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3029,Katia Sepúlveda,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3030,Lais Myrrha,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3031,Lourdes Castro,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3032,Luke Willis Thompson,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3033,Maryam Jafri,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3034,Michael Linares,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3035,Michal Helfman,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3036,Misheck Masamvu,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3037,Naufus Ramírez-Figueroa,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
+3026,Jorge Menna Barreto,Bienal de São Paulo,,1970,"Araçatuba, Brasil",,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de São Paulo 2016",factual-web
+3027,José Bento,Bienal de São Paulo,,1962,"Salvador, Brasil",Belo Horizonte,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de São Paulo 2016",factual-web
+3028,Kathy Barry,Bienal de São Paulo,,,,Wellington,,,https://kathybarry.co.nz/,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de São Paulo 2016",factual-web
+3029,Katia Sepúlveda,Bienal de São Paulo,,1978,"Santiago, Chile",Colonia,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3030,Lais Myrrha,Bienal de São Paulo,,1974,"Belo Horizonte, Brasil",São Paulo,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3031,Lourdes Castro,Bienal de São Paulo,,1930-12-09,"Funchal, Portugal",Funchal,,,https://en.wikipedia.org/wiki/Lourdes_Castro,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); fallecida 2022",factual-web
+3032,Luke Willis Thompson,Bienal de São Paulo,,1988,"Auckland, Nueva Zelanda",Londres,,,https://en.wikipedia.org/wiki/Luke_Willis_Thompson,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Turner Prize 2018 (nominación)",factual-web
+3033,Maryam Jafri,Bienal de São Paulo,,1972,"Karachi, Pakistán",,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3034,Michael Linares,Bienal de São Paulo,,1979,"Bayamón, Puerto Rico",San Juan,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de São Paulo 2016",factual-web
+3035,Michal Helfman,Bienal de São Paulo,,1973,"Tel Aviv, Israel",Tel Aviv,,,https://en.wikipedia.org/wiki/Michal_Helfman,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3036,Misheck Masamvu,Bienal de São Paulo,,1980,"Penhalonga, Zimbabue",Harare,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de Venecia 2011",factual-web
+3037,Naufus Ramírez-Figueroa,Bienal de São Paulo,,1978,"Ciudad de Guatemala, Guatemala",Berlín,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
 3038,Oficina de imaginação política,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
 3039,OPAVIVARÁ!,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3040,Pia Lindman,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3041,Pilar Quinteros,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3042,Priscila Fernandes,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3043,Rikke Luther,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3044,Rita Ponce de León,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3045,Sandra Kranich,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3046,Sonia Andrade,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3047,Susan Jacobs,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3048,Till Mycha,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3049,Paulo Tavares,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
+3040,Pia Lindman,Bienal de São Paulo,,1965,"Espoo, Finlandia",,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3041,Pilar Quinteros,Bienal de São Paulo,,1988,"Santiago de Chile, Chile",Santiago de Chile,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3042,Priscila Fernandes,Bienal de São Paulo,,1981,"Coimbra, Portugal",Rotterdam,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de São Paulo 2016",factual-web
+3043,Rikke Luther,Bienal de São Paulo,,,,Copenhague,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3044,Rita Ponce de León,Bienal de São Paulo,,1982,"Lima, Perú",Ciudad de México,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de São Paulo 2016",factual-web
+3045,Sandra Kranich,Bienal de São Paulo,,1971,"Ludwigsburg, Alemania",Fráncfort,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3046,Sonia Andrade,Bienal de São Paulo,,1935,"Río de Janeiro, Brasil",Río de Janeiro,,,https://en.wikipedia.org/wiki/Sonia_Andrade,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); fallecida 2022",factual-web
+3047,Susan Jacobs,Bienal de São Paulo,,1977,"Sídney, Australia",,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3048,Till Mycha,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de São Paulo 2016",factual-web
+3049,Paulo Tavares,Bienal de São Paulo,,,,Brasília,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
 3050,Vídeo nas Aldeias,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3051,Vivian Caccuri,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3052,Wilma Martins,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3053,Wlademir Dias-Pino,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3054,Xabier Salaberria,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
+3051,Vivian Caccuri,Bienal de São Paulo,,1986,"São Paulo, Brasil",Río de Janeiro,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
+3052,Wilma Martins,Bienal de São Paulo,,1934,"Belo Horizonte, Brasil",Río de Janeiro,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); fallecida 2022",factual-web
+3053,Wlademir Dias-Pino,Bienal de São Paulo,,1927-04-24,"Río de Janeiro, Brasil",,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); fallecido 2018",factual-web
+3054,Xabier Salaberria,Bienal de São Paulo,,1969,"San Sebastián, España",San Sebastián,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
 3055,Agnieszka Piksa,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3056,Ana Lira,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3057,Armando Queiroz,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3058,Arthur Scovino,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3059,Asier Mendizabal,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3060,Basel Abbas and Ruanne Abou-Rahme,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3061,Bik Van der Pol,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3062,Chto Delat,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3063,Erick Beltrán,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3064,Etcétera,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3065,Gabriel Mascaro,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3066,Graziela Kunsch,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
+3056,Ana Lira,Bienal de São Paulo,,1977,"Caruaru, Brasil",Recife,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3057,Armando Queiroz,Bienal de São Paulo,,1968,"Belém, Brasil",Belém,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3058,Arthur Scovino,Bienal de São Paulo,,1980,"São Gonçalo, Brasil",Salvador,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Bienal de São Paulo 2014",factual-web
+3059,Asier Mendizabal,Bienal de São Paulo,,1973,"Ordizia, España",,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3060,Basel Abbas and Ruanne Abou-Rahme,Bienal de São Paulo,,,,,,,https://en.wikipedia.org/wiki/Basel_Abbas_and_Ruanne_Abou-Rahme,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3061,Bik Van der Pol,Bienal de São Paulo,,,,Róterdam,,,https://en.wikipedia.org/wiki/Bik_van_der_Pol,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3062,Chto Delat,Bienal de São Paulo,,,,,,,https://en.wikipedia.org/wiki/Chto_Delat%3F_(art_collective),"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3063,Erick Beltrán,Bienal de São Paulo,,1974,"Ciudad de México, México",Barcelona,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",factual-web
+3064,Etcétera,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Bienal de São Paulo 2010",factual-web
+3065,Gabriel Mascaro,Bienal de São Paulo,,1983-09-24,"Recife, Brasil",Recife,,,https://en.wikipedia.org/wiki/Gabriel_Mascaro,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3066,Graziela Kunsch,Bienal de São Paulo,,1979,"São Paulo, Brasil",São Paulo,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); documenta 15 (2022)",factual-web
 3067,Gülsün Karamustafa,Bienal de São Paulo,,1946,Türkiye,,,,http://www.tate.org.uk/art/artists/gulsun-karamustafa-15930,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-tate
 3068,Ines Doujak & John Barker,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3069,Jakob Jakobsen & María Berríos,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3070,Johanna Calle,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3071,Jonas Staal,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3072,Juan Carlos Romero,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3073,Juan Pérez Agirregoikoa,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3074,Kasper Akhøj,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3075,Lázaro Saavedra,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3076,Leigh Orpaz,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3077,Lia Perjovschi,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
+3069,Jakob Jakobsen & María Berríos,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Bienal de São Paulo 2014",factual-web
+3070,Johanna Calle,Bienal de São Paulo,,1965,"Bogotá, Colombia",Bogotá,,,https://en.wikipedia.org/wiki/Johanna_Calle,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3071,Jonas Staal,Bienal de São Paulo,,1981,"Zwolle, Países Bajos",Rotterdam,,,https://en.wikipedia.org/wiki/Jonas_Staal,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3072,Juan Carlos Romero,Bienal de São Paulo,,1931,"Avellaneda, Argentina",,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); fallecido 2017",factual-web
+3073,Juan Pérez Agirregoikoa,Bienal de São Paulo,,1963,"San Sebastián, España",París,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3074,Kasper Akhøj,Bienal de São Paulo,,1976,"Copenhague, Dinamarca",,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3075,Lázaro Saavedra,Bienal de São Paulo,,1964,"La Habana, Cuba",La Habana,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Premio Nacional de Artes Plásticas (Cuba, 2014)",factual-web
+3076,Leigh Orpaz,Bienal de São Paulo,,1977,"Nueva York, EE.UU.",Tel Aviv,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3077,Lia Perjovschi,Bienal de São Paulo,,1961,"Sibiu, Rumania",Bucarest,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3078,Mapa Teatro,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3079,Mark Lewis,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3080,Marta Neves,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
+3079,Mark Lewis,Bienal de São Paulo,,1958,"Hamilton, Canadá",Londres,,,https://en.wikipedia.org/wiki/Mark_Lewis_(artist),"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Bienal de Venecia 2009",factual-web
+3080,Marta Neves,Bienal de São Paulo,,1964,"Belo Horizonte, Brasil",,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3081,Michael Kessus Gedalyovich,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3082,Nahum Zenil,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3083,Nilbar Güreş,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3084,Nurit Sharett,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3085,Romy Pocztaruk,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3086,ruangrupa,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
+3082,Nahum Zenil,Bienal de São Paulo,,1947,"Chicontepec, México",,,,https://en.wikipedia.org/wiki/Nahum_B._Zenil,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3083,Nilbar Güreş,Bienal de São Paulo,,1977,"Estambul, Turquía",,,,https://en.wikipedia.org/wiki/Nilbar_Güreş,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3084,Nurit Sharett,Bienal de São Paulo,,,,Tel Aviv,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3085,Romy Pocztaruk,Bienal de São Paulo,,1983,"Porto Alegre, Brasil",Porto Alegre,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Bienal de São Paulo 2014",factual-web
+3086,ruangrupa,Bienal de São Paulo,,,,Yakarta,,,https://en.wikipedia.org/wiki/Ruangrupa,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); documenta 15 (2022)",factual-web
 3087,Sandi Hilal & Alessandro Petti,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
 3088,Grupo Contrafilé,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
 3089,Teatro da Vertigem,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3090,Thiago Martins de Melo,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
+3090,Thiago Martins de Melo,Bienal de São Paulo,,1981,"São Luís, Brasil",,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3091,Tiago Borges,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3092,Yonamine,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
-3093,Tony Chakar,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3094,Virginia de Medeiros,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3095,Voluspa Jarpa,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3096,Yuri Firmeza,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3097,Yochai Avrahami,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
-3098,Alberto Bitar,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
+3092,Yonamine,Bienal de São Paulo,,1975,"Luanda, Angola",,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-web
+3093,Tony Chakar,Bienal de São Paulo,,1968,"Beirut, Líbano",Beirut,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3094,Virginia de Medeiros,Bienal de São Paulo,,1973,"Feira de Santana, Brasil",São Paulo,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Premio PIPA (2015)",factual-web
+3095,Voluspa Jarpa,Bienal de São Paulo,,1971,"Rancagua, Chile",Santiago de Chile,,,https://en.wikipedia.org/wiki/Voluspa_Jarpa,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Bienal de Venecia 2019",factual-web
+3096,Yuri Firmeza,Bienal de São Paulo,,1982,"São Paulo, Brasil",Fortaleza,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3097,Yochai Avrahami,Bienal de São Paulo,,1970,"Afula, Israel",Tel Aviv,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
+3098,Alberto Bitar,Bienal de São Paulo,,1970,"Belém, Brasil",,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
 3099,Alexandre Moreira,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3100,Cadu,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3101,Eduardo Berliner,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3102,f.marquespenteado,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3103,Hélio Fervenza,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3104,Lúcia Laguna,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3105,Marcelo Coutinho,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3106,Nino Cais,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3107,Nydia Negromonte,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3108,Odires Mlászho,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3109,Pablo Pijnappel,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3110,Paulo Vivacqua,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3111,Rodrigo Braga,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3112,Thiago Rocha Pitta,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3113,Tiago Carneiro da Cunha,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
+3100,Cadu,Bienal de São Paulo,,1977,,Río de Janeiro,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3101,Eduardo Berliner,Bienal de São Paulo,,1978,"Río de Janeiro, Brasil",Río de Janeiro,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3102,f.marquespenteado,Bienal de São Paulo,,1955,"São Paulo, Brasil",Bruselas,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3103,Hélio Fervenza,Bienal de São Paulo,,1963,"Santana do Livramento, Brasil",Porto Alegre,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3104,Lúcia Laguna,Bienal de São Paulo,,1941,"Campos dos Goytacazes, Brasil",Río de Janeiro,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3105,Marcelo Coutinho,Bienal de São Paulo,,1968,"Campina Grande, Brasil",Recife,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); Bienal de São Paulo 2012",factual-web
+3106,Nino Cais,Bienal de São Paulo,,1979,"São Paulo, Brasil",São Paulo,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3107,Nydia Negromonte,Bienal de São Paulo,,1965,"Lima, Perú",Belo Horizonte,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); Bienal de São Paulo 2012",factual-web
+3108,Odires Mlászho,Bienal de São Paulo,,1960,"Mandirituba, Brasil",,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3109,Pablo Pijnappel,Bienal de São Paulo,,1979,"París, Francia",,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3110,Paulo Vivacqua,Bienal de São Paulo,,1971,"Vitória, Brasil",Río de Janeiro,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3111,Rodrigo Braga,Bienal de São Paulo,,1976,"Manaus, Brasil",,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3112,Thiago Rocha Pitta,Bienal de São Paulo,,1980,"Tiradentes, Brasil",São Paulo,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3113,Tiago Carneiro da Cunha,Bienal de São Paulo,,1973,"São Paulo, Brasil",Río de Janeiro,,,https://en.wikipedia.org/wiki/Tiago_Carneiro_da_Cunha,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
 3114,PPPP (Productos Peruanos Para Pensar),Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3115,Ali Kazma,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3116,Ambroise Ngaimoko,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3117,Andreas Eriksson,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3118,Athanasios Argianas,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3119,Benet Rossell,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3120,Bernardo Ortiz,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3121,Christian Vinck,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3122,Daniel Steegmann Mangrané,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3123,Dave Hullfish Bailey,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
+3115,Ali Kazma,Bienal de São Paulo,,1971,"Estambul, Turquía",Estambul,,,https://en.wikipedia.org/wiki/Ömer_Ali_Kazma,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); Bienal de Venecia 2013",factual-web
+3116,Ambroise Ngaimoko,Bienal de São Paulo,,1949,Angola,Kinsasa,,,https://www.moma.org/artists/75468,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3117,Andreas Eriksson,Bienal de São Paulo,,1975,"Björsäter, Suecia",Medelplana,,,https://en.wikipedia.org/wiki/Andreas_Eriksson_(visual_artist),"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); Bienal de Venecia 2011",factual-web
+3118,Athanasios Argianas,Bienal de São Paulo,,1976,"Atenas, Grecia",Londres,,,https://en.wikipedia.org/wiki/Athanasios_Argianas,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3119,Benet Rossell,Bienal de São Paulo,,1937-10-23,"Àger, España",,,,https://en.wikipedia.org/wiki/Benet_Rossell,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); fallecido 2016",factual-web
+3120,Bernardo Ortiz,Bienal de São Paulo,,1972,"Bogotá, Colombia",Bogotá,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3121,Christian Vinck,Bienal de São Paulo,,1978,"Maracaibo, Venezuela",Madrid,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3122,Daniel Steegmann Mangrané,Bienal de São Paulo,,1977,"Barcelona, España",Río de Janeiro,,,https://en.wikipedia.org/wiki/Daniel_Steegmann_Mangran%C3%A9,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3123,Dave Hullfish Bailey,Bienal de São Paulo,,1963,"Denver, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Dave_Hullfish_Bailey,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
 3124,David Moreno,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3125,Edi Hirose,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3126,Eduardo Gil,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3127,Eduardo Stupía,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3128,Fernando Ortega,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3129,Franz Mon,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3130,Guy Maddin,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3131,Horst Ademeit,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3132,Hreinn Fridfinnsson,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
+3125,Edi Hirose,Bienal de São Paulo,,1975,"Lima, Perú",Lima,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3126,Eduardo Gil,Bienal de São Paulo,,1948,"Buenos Aires, Argentina",Buenos Aires,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3127,Eduardo Stupía,Bienal de São Paulo,,1951,"Buenos Aires, Argentina",Buenos Aires,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3128,Fernando Ortega,Bienal de São Paulo,,1971,"Ciudad de México, México",Ciudad de México,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
+3129,Franz Mon,Bienal de São Paulo,,1926,"Fráncfort, Alemania",,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); fallecido/a 2022",factual-web
+3130,Guy Maddin,Bienal de São Paulo,,1956-02-28,"Winnipeg, Canadá",Winnipeg,,,https://en.wikipedia.org/wiki/Guy_Maddin,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
+3131,Horst Ademeit,Bienal de São Paulo,,1937,"Colonia, Alemania",,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); fallecido 2010",factual-web
+3132,Hreinn Fridfinnsson,Bienal de São Paulo,,1943,"Bær, Islandia",Ámsterdam,,,https://en.wikipedia.org/wiki/Hreinn_Fri%C3%B0finnsson,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); fallecido 2024",factual-web
 3133,Hugo Canoilas,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
 3134,Ilene Segalove,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
 3135,Pauline Bastard,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
