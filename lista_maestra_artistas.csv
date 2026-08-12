@@ -803,9 +803,9 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 802,Fareed Armaly,Documenta,,1957,"Iowa City, EE.UU.",Berlín,,,https://en.wikipedia.org/wiki/Fareed_Armaly,"documenta 11, Kassel (2002); documenta 11 (2002)",factual-web
 803,Rashid Masharawi,Documenta,,1962,"Gaza, Palestina",Ramala,,,https://en.wikipedia.org/wiki/Rashid_Masharawi,"documenta 11, Kassel (2002)",factual-web
 804,Michael Ashkin,Documenta,,1955,"Morristown, EE.UU.",,,,,"documenta 11, Kassel (2002)",factual-web
-805,Asymptote Architecture,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
+805,Asymptote Architecture,Documenta,,,,Nueva York,,,https://en.wikipedia.org/wiki/Asymptote_Architecture,"documenta 11, Kassel (2002)",factual-web
 806,Kutlug Ataman,Documenta | Fresh Cream | Bienal de Venecia,,1961,"Istanbul, Türkiye",Londres,,,http://www.tate.org.uk/art/artists/kutlug-ataman-5229,"documenta 11, Kassel (2002); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-tate
-807,The Atlas Group,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
+807,The Atlas Group,Documenta,,,,,,,,"documenta 11, Kassel (2002); documenta 11 (2002)",factual-web
 808,Julie Bargmann,Documenta,,1958,,,,,https://en.wikipedia.org/wiki/Julie_Bargmann,"documenta 11, Kassel (2002); Premio Oberlander (2021)",factual-web
 809,Stacy Levy,Documenta,,1960,"Filadelfia, EE.UU.",,,,https://en.wikipedia.org/wiki/Stacy_Levy,"documenta 11, Kassel (2002)",factual-web
 810,Artur Barrio,Documenta,,1945,"Oporto, Portugal",Río de Janeiro,,,https://en.wikipedia.org/wiki/Artur_Barrio,"documenta 11, Kassel (2002); Premio Velázquez 2011",factual-web
@@ -818,7 +818,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 817,Luis Camnitzer,Documenta | Whitney Biennial,,1937,"Lübeck, Deutschland",,,,http://www.tate.org.uk/art/artists/luis-camnitzer-6211,"documenta 11, Kassel (2002); Whitney Biennial 2000, Nueva York",factual-tate
 818,James Coleman,Documenta,,1941,"Dublin, Éire",,,,http://www.tate.org.uk/art/artists/james-coleman-2375,"documenta 11, Kassel (2002); documenta 12, Kassel (2007)",factual-tate
 819,Constant,Documenta,,1920,"Amsterdam, Nederland",,,,http://www.tate.org.uk/art/artists/constant-constant-a-nieuwenhuys-937,"documenta 11, Kassel (2002); fallecido/a 2005",factual-tate
-820,Margit Czenki,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
+820,Margit Czenki,Documenta,,1941,,,,,,"documenta 11, Kassel (2002); documenta 11 (2002)",factual-web
 821,Destiny Deacon,Documenta,,1957,"Maryborough, Australia",,,,https://en.wikipedia.org/wiki/Destiny_Deacon,"documenta 11, Kassel (2002); fallecida 2024",factual-web
 822,Stan Douglas,Documenta | Vitamin V | Cream | Bienal de Venecia,,1960,"Vancouver, Canada",Vancouver,,,http://www.tate.org.uk/art/artists/stan-douglas-3038,"documenta 11, Kassel (2002); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-tate
 823,Cecilia Edefalk,Documenta,,1954,"Norrköping, Suecia",,,,,"documenta 11, Kassel (2002)",factual-web
@@ -841,7 +841,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 840,Jens Haaning,Documenta,,1965,"Hørsholm, Dinamarca",Copenhague,,,https://en.wikipedia.org/wiki/Jens_Haaning,"documenta 11, Kassel (2002)",factual-web
 841,Candida Höfer,Documenta,,1944,"Eberswalde, Deutschland",,,,http://www.tate.org.uk/art/artists/candida-hofer-5119,"documenta 11, Kassel (2002)",factual-tate
 842,Craigie Horsfield,Documenta | Whitney Biennial,,1949,"Cambridge, United Kingdom",,,,http://www.tate.org.uk/art/artists/craigie-horsfield-2318,"documenta 11, Kassel (2002); Whitney Biennial 2004, Nueva York",factual-tate
-843,Huit Facettes,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
+843,Huit Facettes,Documenta,,,,,,,,"documenta 11, Kassel (2002); documenta 11 (2002)",factual-web
 844,Igloolik Isuma Productions,Documenta,,,,,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2019 (Pabellón de Canadá)",factual-web
 845,Alfredo Jaar,Documenta | Whitney Biennial,,1956,"Santiago, Chile",Nueva York,,,http://www.tate.org.uk/art/artists/alfredo-jaar-8378,"documenta 11, Kassel (2002); Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-tate
 846,Isaac Julien,Documenta | Whitney Biennial | Bienal de Venecia,,1960,"London, United Kingdom","Londres; Santa Cruz, CA",,,http://www.tate.org.uk/art/artists/isaac-julien-4019,"documenta 11, Kassel (2002); Whitney Biennial 2024 «Even Better Than the Real Thing», Nueva York; Whitney Biennial 2004, Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-tate
@@ -994,7 +994,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 993,Rodney McMillian,Whitney Biennial,,1969,"Columbia, SC, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
 994,Na Mira,Whitney Biennial,,1982,"Lawrence, KS, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
 995,Alejandro Luperca Morales,Whitney Biennial,,1990,"Ciudad Juárez, México",Monterrey,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
-996,Moved by the Motion,Whitney Biennial,,,,,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",pendiente
+996,Moved by the Motion,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Moved_by_the_Motion,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-web
 997,Terence Nance,Whitney Biennial,,1982,"Dallas, TX, Estados Unidos",Estados Unidos,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
 998,Woody De Othello,Whitney Biennial,,1991,"Miami, FL, Estados Unidos",Oakland,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
 999,Adam Pendleton,Whitney Biennial | Vitamin Txt | New Museum Triennial,,1984,"Richmond, VA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-whitney
@@ -1052,7 +1052,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1051,B. Ingrid Olson,Whitney Biennial,,1987,"Denver, CO, Estados Unidos",Chicago,,,,"Whitney Biennial 2024 «Even Better Than the Real Thing», Nueva York",factual-whitney
 1052,Eamon Ore-Giron,Whitney Biennial,,1973,"Tucson, AZ, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2024 «Even Better Than the Real Thing», Nueva York",factual-whitney
 1053,Sydney Frances Pascal,Whitney Biennial,,1993,"Nanaimo, Canadá",Vancouver,,,,"Whitney Biennial 2024 «Even Better Than the Real Thing», Nueva York",factual-whitney
-1054,People Who Stutter Create,Whitney Biennial,,,,,,,,"Whitney Biennial 2024 «Even Better Than the Real Thing», Nueva York",pendiente
+1054,People Who Stutter Create,Whitney Biennial,,,,,,,,"Whitney Biennial 2024 «Even Better Than the Real Thing», Nueva York; Whitney Biennial 2024",factual-web
 1055,Julia Phillips,Whitney Biennial | Bienal de Venecia,,1985,"Hamburgo, Alemania",Chicago,,,,"Whitney Biennial 2024 «Even Better Than the Real Thing», Nueva York; Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-whitney
 1056,Riar Rizaldi,Whitney Biennial,,1990,"Bandung, Indonesia",Yogyakarta,,,,"Whitney Biennial 2024 «Even Better Than the Real Thing», Nueva York",factual-whitney
 1057,Maja Ruznic,Whitney Biennial,,1983,"Brčko, Bosnia y Herzegovina","Placitas, NM",,,,"Whitney Biennial 2024 «Even Better Than the Real Thing», Nueva York",factual-whitney
@@ -1275,88 +1275,88 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1274,Pedro Vélez,Whitney Biennial,,1973,"Bayamón, Puerto Rico",Chicago; Milwaukee,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 1275,Dan Walsh,Whitney Biennial,,1960,"Filadelfia, PA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 1276,Molly Zuckerman-Hartung,Whitney Biennial,,1975,"Los Gatos, CA, Estados Unidos",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
-1277,Thom Andersen,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
+1277,Thom Andersen,Whitney Biennial,,1943,"Chicago, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Thom_Andersen,"Whitney Biennial 2012, Nueva York",factual-web
 1278,Charles Atlas,Whitney Biennial,,1958,"Saint Louis City, United States",,,,http://www.tate.org.uk/art/artists/charles-atlas-15557,"Whitney Biennial 2012, Nueva York",factual-tate
-1279,Lutz Bacher,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2000, Nueva York",pendiente
+1279,Lutz Bacher,Whitney Biennial,,1943,,Nueva York,,,https://en.wikipedia.org/wiki/Lutz_Bacher,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2000, Nueva York; fallecida 2019",factual-web
 1280,Michael Clark,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
 1281,Cameron Crawford,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1282,Liz Deschenes,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1283,Nathaniel Dorsky,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2000, Nueva York",pendiente
-1284,Vincent Fecteau,Whitney Biennial | Vitamin 3-D,,,,,,,,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2002, Nueva York",pendiente
-1285,K8 Hardy,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1286,Werner Herzog,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1287,Jerome Hiler,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1288,Matt Hoyt,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1289,Dawn Kasper,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
+1282,Liz Deschenes,Whitney Biennial,,1966,"Boston, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Liz_Deschenes,"Whitney Biennial 2012, Nueva York",factual-web
+1283,Nathaniel Dorsky,Whitney Biennial,,1943,"Nueva York, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Nathaniel_Dorsky,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2000, Nueva York",factual-web
+1284,Vincent Fecteau,Whitney Biennial | Vitamin 3-D,,1969,"Islip, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Vincent_Fecteau,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2002, Nueva York",factual-web
+1285,K8 Hardy,Whitney Biennial,,1977-10-27,"Fort Worth, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/K8_Hardy,"Whitney Biennial 2012, Nueva York",factual-web
+1286,Werner Herzog,Whitney Biennial,,1942-09-05,"Múnich, Alemania",Los Ángeles,,,https://en.wikipedia.org/wiki/Werner_Herzog,"Whitney Biennial 2012, Nueva York",factual-web
+1287,Jerome Hiler,Whitney Biennial,,1943-03-27,"Nueva York, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Jerome_Hiler,"Whitney Biennial 2012, Nueva York",factual-web
+1288,Matt Hoyt,Whitney Biennial,,1975,"Mount Kisco, EE.UU.",Nueva York,,,,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2012",factual-web
+1289,Dawn Kasper,Whitney Biennial,,1977,"Fairfax, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Dawn_Kasper,"Whitney Biennial 2012, Nueva York; Bienal Whitney (2012)",factual-web
 1290,Mike Kelley,Whitney Biennial,,1954,"Detroit, United States",,,,http://www.tate.org.uk/art/artists/mike-kelley-6782,"Whitney Biennial 2012, Nueva York; fallecido/a 2012",factual-tate
-1291,John Kelsey,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1292,John Knight,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1293,Laida Lertxundi,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1294,Kate Levant,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1295,Sam Lewitt,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1296,Joanna Malinowska,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1297,Andrew Masullo,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1298,Nick Mauss,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1299,Richard Maxwell,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1300,Sarah Michelson,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
+1291,John Kelsey,Whitney Biennial,,1965,,Nueva York,,,https://en.wikipedia.org/wiki/John_Kelsey_(artist),"Whitney Biennial 2012, Nueva York",factual-web
+1292,John Knight,Whitney Biennial,,1945,"Los Ángeles, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/John_Knight_(artist),"Whitney Biennial 2012, Nueva York; Skulptur Projekte Münster (2017)",factual-web
+1293,Laida Lertxundi,Whitney Biennial,,1981,"Bilbao, España",Los Ángeles,,,https://en.wikipedia.org/wiki/Laida_Lertxundi,"Whitney Biennial 2012, Nueva York",factual-web
+1294,Kate Levant,Whitney Biennial,,1983,"Chicago, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Kate_Levant,"Whitney Biennial 2012, Nueva York",factual-web
+1295,Sam Lewitt,Whitney Biennial,,1981,"Los Ángeles, EE.UU.",Berlín,,,https://en.wikipedia.org/wiki/Sam_Lewitt,"Whitney Biennial 2012, Nueva York",factual-web
+1296,Joanna Malinowska,Whitney Biennial,,1972,"Gdynia, Polonia",Nueva York,,,,"Whitney Biennial 2012, Nueva York; Bienal de Venecia 2015",factual-web
+1297,Andrew Masullo,Whitney Biennial,,1957,"Elizabeth, EE.UU.",San Francisco,,,,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2012",factual-web
+1298,Nick Mauss,Whitney Biennial,,1980,"Nueva York, EE.UU.",Nueva York,,,,"Whitney Biennial 2012, Nueva York; Bienal Whitney (2012)",factual-web
+1299,Richard Maxwell,Whitney Biennial,,1967,"West Fargo, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Richard_Maxwell_(director),"Whitney Biennial 2012, Nueva York",factual-web
+1300,Sarah Michelson,Whitney Biennial,,1964,"Mánchester, Reino Unido",Nueva York,,,https://en.wikipedia.org/wiki/Sarah_Michelson,"Whitney Biennial 2012, Nueva York",factual-web
 1301,Alicia Hall Moran,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
 1302,Jason Moran,Whitney Biennial | Bienal de Venecia,,1975,Estados Unidos,Nueva York,,,,"Whitney Biennial 2012, Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-1303,Laura Poitras,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1304,Matt Porterfield,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1305,Luther Price,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1306,The Red Krayola,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1307,Kelly Reichardt,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1308,Elaine Reichek,Whitney Biennial | Vitamin T,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1309,Michael Robinson,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
+1303,Laura Poitras,Whitney Biennial,,1964-02-02,"Boston, EE.UU.",Berlín,,,https://en.wikipedia.org/wiki/Laura_Poitras,"Whitney Biennial 2012, Nueva York",factual-web
+1304,Matt Porterfield,Whitney Biennial,,1977-10-06,"Baltimore, EE.UU.",,,,https://en.wikipedia.org/wiki/Matthew_Porterfield,"Whitney Biennial 2012, Nueva York",factual-web
+1305,Luther Price,Whitney Biennial,,1962-01-26,"Marlborough, EE.UU.",,,,https://en.wikipedia.org/wiki/Luther_Price,"Whitney Biennial 2012, Nueva York; fallecido 2020",factual-web
+1306,The Red Krayola,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Red_Krayola,"Whitney Biennial 2012, Nueva York",factual-web
+1307,Kelly Reichardt,Whitney Biennial,,1964-03-03,"Miami, EE.UU.",,,,https://en.wikipedia.org/wiki/Kelly_Reichardt,"Whitney Biennial 2012, Nueva York",factual-web
+1308,Elaine Reichek,Whitney Biennial | Vitamin T,,1943,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Elaine_Reichek,"Whitney Biennial 2012, Nueva York",factual-web
+1309,Michael Robinson,Whitney Biennial,,1981,,,,,,"Whitney Biennial 2012, Nueva York",factual-web
 1310,Tom Thayer,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1311,Oscar Tuazon,Whitney Biennial | Vitamin 3-D,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1312,Gisèle Vienne,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1313,Frederick Wiseman,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1314,Vincent Gallo,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1315,David Adamo,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1316,Michael Asher,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1317,Nina Berman,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
+1311,Oscar Tuazon,Whitney Biennial | Vitamin 3-D,,1975,"Indianola, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Oscar_Tuazon,"Whitney Biennial 2012, Nueva York",factual-web
+1312,Gisèle Vienne,Whitney Biennial,,1976,"Charleville-Mézières, Francia",París,,,,"Whitney Biennial 2012, Nueva York",factual-web
+1313,Frederick Wiseman,Whitney Biennial,,1930-01-01,"Boston, EE.UU.",,,,https://en.wikipedia.org/wiki/Frederick_Wiseman,"Whitney Biennial 2012, Nueva York; fallecido 2026",factual-web
+1314,Vincent Gallo,Whitney Biennial,,1961-04-11,"Buffalo, EE.UU.",,,,https://en.wikipedia.org/wiki/Vincent_Gallo,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2006",factual-web
+1315,David Adamo,Whitney Biennial,,1979,"Rochester, EE.UU.",Berlín,,,,"Whitney Biennial 2010, Nueva York",factual-web
+1316,Michael Asher,Whitney Biennial,,1943-07-15,"Los Ángeles, EE.UU.",,,,https://en.wikipedia.org/wiki/Michael_Asher_(artist),"Whitney Biennial 2010, Nueva York; fallecido 2012",factual-web
+1317,Nina Berman,Whitney Biennial,,1960,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Nina_Berman,"Whitney Biennial 2010, Nueva York",factual-web
 1318,Huma Bhabha,Whitney Biennial | Vitamin 3-D | Bienal de Venecia,,1962,Pakistán,"Poughkeepsie, NY",,,,"Whitney Biennial 2010, Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-1319,Josh Brand,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
+1319,Josh Brand,Whitney Biennial,,1980,"Elkhorn, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Josh_Brand,"Whitney Biennial 2010, Nueva York",factual-web
 1320,The Bruce High Quality Foundation,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
 1321,James Casebere,Whitney Biennial,,1953,"Lansing, United States",,,,http://www.tate.org.uk/art/artists/james-casebere-4624,"Whitney Biennial 2010, Nueva York",factual-tate
 1322,Edgar Cleijne,Whitney Biennial,,1963,"Eindhoven, Nederland",,,,http://www.tate.org.uk/art/artists/edgar-cleijne-10518,"Whitney Biennial 2010, Nueva York",factual-tate
-1323,Dawn Clements,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
+1323,Dawn Clements,Whitney Biennial,,1958,"Woburn, EE.UU.",,,,https://en.wikipedia.org/wiki/Dawn_Clements,"Whitney Biennial 2010, Nueva York; fallecida 2018",factual-web
 1324,George Condo,Whitney Biennial | Bienal de Venecia,,1957,Estados Unidos,Nueva York,,,,"Whitney Biennial 2010, Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-1325,Julia Fish,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1326,Roland Flexner,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1327,Suzan Frecon,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York; Whitney Biennial 2000, Nueva York",pendiente
-1328,Maureen Gallace,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1329,Kate Gilmore,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1330,Hannah Greely,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York; Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1331,Jesse Aron Green,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
+1325,Julia Fish,Whitney Biennial,,1950,"Toledo, EE.UU.",Chicago,,,https://en.wikipedia.org/wiki/Julia_Fish,"Whitney Biennial 2010, Nueva York",factual-web
+1326,Roland Flexner,Whitney Biennial | Vitamin D,,1944,"Niza, Francia",Nueva York,,,,"Whitney Biennial 2010, Nueva York",factual-web
+1327,Suzan Frecon,Whitney Biennial,,1941,"Mexico, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Suzan_Frecon,"Whitney Biennial 2010, Nueva York; Whitney Biennial 2000, Nueva York",factual-web
+1328,Maureen Gallace,Whitney Biennial,,1960,"Stamford, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Maureen_Gallace,"Whitney Biennial 2010, Nueva York",factual-web
+1329,Kate Gilmore,Whitney Biennial,,1975,"Washington D. C., EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Kate_Gilmore_(artist),"Whitney Biennial 2010, Nueva York",factual-web
+1330,Hannah Greely,Whitney Biennial,,1979,"Dickson, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Hannah_Greely,"Whitney Biennial 2010, Nueva York; Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1331,Jesse Aron Green,Whitney Biennial,,1979,"Needham, EE.UU.",,,,,"Whitney Biennial 2010, Nueva York",factual-web
 1332,Robert Grosvenor,Whitney Biennial | Bienal de Venecia,,1937,"Nueva York, Estados Unidos","East Patchogue, NY",,,,"Whitney Biennial 2010, Nueva York; Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
-1333,Thomas Houseago,Whitney Biennial | Vitamin 3-D,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
+1333,Thomas Houseago,Whitney Biennial | Vitamin 3-D,,1972,"Leeds, Reino Unido",Los Ángeles,,,https://en.wikipedia.org/wiki/Thomas_Houseago,"Whitney Biennial 2010, Nueva York",factual-web
 1334,Jessica Jackson Hutchins,Whitney Biennial | Bienal de Venecia,,1971,"Chicago, IL, Estados Unidos",,,,,"Whitney Biennial 2010, Nueva York; Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
 1335,Jeffrey Inaba,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1336,Martin Kersels,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1337,Jim Lutes,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
+1336,Martin Kersels,Whitney Biennial,,1960,"Los Ángeles, EE.UU.",,,,https://en.wikipedia.org/wiki/Martin_Kersels,"Whitney Biennial 2010, Nueva York",factual-web
+1337,Jim Lutes,Whitney Biennial,,1955,"Fort Lewis, EE.UU.",Chicago,,,,"Whitney Biennial 2010, Nueva York",factual-web
 1338,Babette Mangolte,Whitney Biennial,,1941,"Jura, France",,,,http://www.tate.org.uk/art/artists/babette-mangolte-6614,"Whitney Biennial 2010, Nueva York",factual-tate
-1339,Curtis Mann,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1340,Ari Marcopoulos,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York; Whitney Biennial 2002, Nueva York",pendiente
+1339,Curtis Mann,Whitney Biennial,,1979,"Dayton, EE.UU.",Chicago,,,,"Whitney Biennial 2010, Nueva York",factual-web
+1340,Ari Marcopoulos,Whitney Biennial,,1957,"Ámsterdam, Países Bajos",,,,https://en.wikipedia.org/wiki/Ari_Marcopoulos,"Whitney Biennial 2010, Nueva York; Whitney Biennial 2002, Nueva York",factual-web
 1341,Daniel McDonald,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1342,Josephine Meckseper,Whitney Biennial | Vitamin 3-D,,,,,,,,"Whitney Biennial 2010, Nueva York; Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1343,Rashaad Newsome,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1344,Kelly Nipper,Whitney Biennial | Vitamin Ph,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1345,Lorraine O'Grady,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1346,Emily Roysdon,Whitney Biennial | New Museum Triennial,,,,,,,,"Whitney Biennial 2010, Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
+1342,Josephine Meckseper,Whitney Biennial | Vitamin 3-D,,1964,"Lilienthal, Alemania",Nueva York,,,https://en.wikipedia.org/wiki/Josephine_Meckseper,"Whitney Biennial 2010, Nueva York; Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1343,Rashaad Newsome,Whitney Biennial,,1979,"Nueva Orleans, EE.UU.",,,,https://en.wikipedia.org/wiki/Rashaad_Newsome,"Whitney Biennial 2010, Nueva York",factual-web
+1344,Kelly Nipper,Whitney Biennial | Vitamin Ph,,1971,,Los Ángeles,,,,"Whitney Biennial 2010, Nueva York",factual-web
+1345,Lorraine O'Grady,Whitney Biennial,,1934-09-21,"Boston, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Lorraine_O%27Grady,"Whitney Biennial 2010, Nueva York; fallecida 2024",factual-web
+1346,Emily Roysdon,Whitney Biennial | New Museum Triennial,,1977,"Easton, EE.UU.",,,,https://en.wikipedia.org/wiki/Every_Ocean_Hughes,"Whitney Biennial 2010, Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 1347,Aki Sasamoto,Whitney Biennial | Bienal de Venecia,,1980,"Kanagawa, Japón",Nueva York,,,,"Whitney Biennial 2010, Nueva York; Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
-1348,Aurel Schmidt,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1349,Scott Short,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1350,Stephanie Sinclair,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1351,Ania Soliman,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1352,Storm Tharp,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
+1348,Aurel Schmidt,Whitney Biennial,,1982,"Kamloops, Canadá",Nueva York,,,https://en.wikipedia.org/wiki/Aurel_Schmidt,"Whitney Biennial 2010, Nueva York",factual-web
+1349,Scott Short,Whitney Biennial,,1964,,,,,,"Whitney Biennial 2010, Nueva York",factual-web
+1350,Stephanie Sinclair,Whitney Biennial,,1973,"Miami, EE.UU.",,,,https://en.wikipedia.org/wiki/Stephanie_Sinclair,"Whitney Biennial 2010, Nueva York",factual-web
+1351,Ania Soliman,Whitney Biennial,,1970,"Varsovia, Polonia",París,,,,"Whitney Biennial 2010, Nueva York",factual-web
+1352,Storm Tharp,Whitney Biennial,,1970-02-20,"Salem, EE.UU.",Portland,,,,"Whitney Biennial 2010, Nueva York",factual-web
 1353,Tam Tran,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
-1354,Kerry Tribe,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
+1354,Kerry Tribe,Whitney Biennial,,1973,"Boston, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Kerry_Tribe,"Whitney Biennial 2010, Nueva York",factual-web
 1355,Marianne Vitale,Whitney Biennial | Bienal de Venecia,,1973,"East Rockaway, NY, Estados Unidos",Nueva York,,,,"Whitney Biennial 2010, Nueva York; Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
-1356,Erika Vogt,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
+1356,Erika Vogt,Whitney Biennial,,1973,"East Newark, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Erika_Vogt,"Whitney Biennial 2010, Nueva York",factual-web
 1357,Pae White,Whitney Biennial | Vitamin T | Bienal de Venecia,,1963,"Pasedena, United States",,,,http://www.tate.org.uk/art/artists/pae-white-7256,"Whitney Biennial 2010, Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
-1358,Robert Williams,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
+1358,Robert Williams,Whitney Biennial,,1943-03-02,"Albuquerque, EE.UU.",,,,https://en.wikipedia.org/wiki/Robert_Williams_(artist),"Whitney Biennial 2010, Nueva York",factual-web
 1359,Rita Ackermann,Whitney Biennial,,1968,"Budapest, Hungría",Nueva York,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1360,Natalia Almada,Whitney Biennial,,1974,México,Ciudad de México; Nueva York,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1361,Edgar Arceneaux,Whitney Biennial,,1972,"Los Ángeles, CA, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
@@ -1375,7 +1375,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1374,Gardar Eide Einarsson,Whitney Biennial,,1976,"Oslo, Noruega",Nueva York,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1375,Roe Ethridge,Whitney Biennial | Vitamin Ph,,1969,"Miami, FL, Estados Unidos",Nueva York,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1376,Robert Fenz,Whitney Biennial,,1969,"Ann Arbor, MI, Estados Unidos","Cambridge, MA",,,,"Whitney Biennial 2008, Nueva York; Whitney Biennial 2002, Nueva York",factual-whitney
-1377,Gang Gang Dance,Whitney Biennial,,,,Nueva York,,,,"Whitney Biennial 2008, Nueva York",pendiente
+1377,Gang Gang Dance,Whitney Biennial,,,,Nueva York,,,https://en.wikipedia.org/wiki/Gang_Gang_Dance,"Whitney Biennial 2008, Nueva York",factual-web
 1378,Amy Granat,Whitney Biennial,,1976,"San Luis, MO, Estados Unidos",Nueva York,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1379,Drew Heitzler,Whitney Biennial,,1972,"Charleston, SC, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1380,Rashawn Griffin,Whitney Biennial,,1980,"Los Ángeles, CA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
@@ -1423,123 +1423,123 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1422,Mario Ybarra Jr.,Whitney Biennial,,1973,"Los Ángeles, CA, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1423,Marina Rosenfeld,Whitney Biennial,,1968,"Nueva York, Estados Unidos",Nueva York,,,,"Whitney Biennial 2008, Nueva York; Whitney Biennial 2012, Nueva York; Whitney Biennial 2002, Nueva York",factual-whitney
 1424,Allora & Calzadilla,Whitney Biennial | Vitamin 3-D | Bienal de Venecia,,,Estados Unidos; Cuba,San Juan,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-1425,Dawolu Jabari Anderson,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1426,Kenneth Anger,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1427,Dominic Angerame,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1428,Christina Battle,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1429,James Benning,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1425,Dawolu Jabari Anderson,Whitney Biennial,,1973,"Houston, EE.UU.",,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1426,Kenneth Anger,Whitney Biennial,,1927-02-03,"Santa Mónica, EE.UU.",,,,https://en.wikipedia.org/wiki/Kenneth_Anger,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecido 2023",factual-web
+1427,Dominic Angerame,Whitney Biennial,,1949,"Albany, EE.UU.",San Francisco,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2006",factual-web
+1428,Christina Battle,Whitney Biennial,,1975,"Edmonton, Canadá",Edmonton,,,https://en.wikipedia.org/wiki/Christina_Battle,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1429,James Benning,Whitney Biennial,,1942,"Milwaukee, EE.UU.",,,,https://en.wikipedia.org/wiki/James_Benning_(film_director),"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1430,Bernadette Corporation,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1431,Amy Blakemore,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1432,Louise Bourque,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1433,Troy Brauntuch,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1434,Anthony Burdin,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1435,George Butler,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1436,Carter,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1437,Carolina Caycedo,Whitney Biennial | New Museum Triennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
+1431,Amy Blakemore,Whitney Biennial,,1958,"Tulsa, EE.UU.",Houston,,,https://en.wikipedia.org/wiki/Amy_Blakemore,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1432,Louise Bourque,Whitney Biennial,,1963,"Edmundston, Canadá",,,,https://en.wikipedia.org/wiki/Louise_Bourque,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1433,Troy Brauntuch,Whitney Biennial,,1954,"Jersey City, EE.UU.",,,,https://en.wikipedia.org/wiki/Troy_Brauntuch,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1434,Anthony Burdin,Whitney Biennial,,1971,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1435,George Butler,Whitney Biennial,,1943-10-12,"Chester, Reino Unido",,,,https://en.wikipedia.org/wiki/George_Butler_(filmmaker),"Whitney Biennial 2006 «Day for Night», Nueva York; fallecido 2021",factual-web
+1436,Carter,Whitney Biennial,,1970,,,,,https://en.wikipedia.org/wiki/Carter_(artist),"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal Whitney (2006)",factual-web
+1437,Carolina Caycedo,Whitney Biennial | New Museum Triennial,,1978,"Londres, Reino Unido",Los Ángeles,,,https://en.wikipedia.org/wiki/Carolina_Caycedo,"Whitney Biennial 2006 «Day for Night», Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 1438,The Center for Land Use Interpretation,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1439,Lori Cheatle,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1440,Daisy Wright,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1441,Ira Cohen,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1442,Martha Colburn,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1443,Dan Colen,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1441,Ira Cohen,Whitney Biennial,,1935-02-03,"Nueva York, EE.UU.",,,,https://en.wikipedia.org/wiki/Ira_Cohen,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecido 2011",factual-web
+1442,Martha Colburn,Whitney Biennial,,1971-05-05,"Gettysburg, EE.UU.",,,,https://en.wikipedia.org/wiki/Martha_Colburn,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1443,Dan Colen,Whitney Biennial,,1979,"Leonia, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Dan_Colen,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2006",factual-web
 1444,Anne Collier,Whitney Biennial | Vitamin Ph,,1970,"Los Angeles, United States",,,,http://www.tate.org.uk/art/artists/anne-collier-12039,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
 1445,Tony Conrad,Whitney Biennial | Bienal de Venecia,,1940,"Concord, NH, Estados Unidos",,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-1446,Jamal Cyrus,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1447,Deep Dish Television Network,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1446,Jamal Cyrus,Whitney Biennial,,1973,"Houston, EE.UU.",Houston,,,https://en.wikipedia.org/wiki/Jamal_Cyrus,"Whitney Biennial 2006 «Day for Night», Nueva York; Beca Guggenheim (2023)",factual-web
+1447,Deep Dish Television Network,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Deep_Dish_Television,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1448,Lucas DeGiulio,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1449,Mark di Suvero,Whitney Biennial,,1933,"Shanghai, Zhonghua",,,,http://www.tate.org.uk/art/artists/mark-di-suvero-6327,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
 1450,Rirkrit Tiravanija,Whitney Biennial | Vitamin Txt | Bienal de Venecia,,1961,"Buenos Aires, Argentina",Nueva York; Berlín; Chiang Mai,,,http://www.tate.org.uk/art/artists/rirkrit-tiravanija-8704,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 1451,Kenya Evans,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1452,David Gatten,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2002, Nueva York",pendiente
-1453,Joe Gibbons,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2002, Nueva York; Whitney Biennial 2000, Nueva York",pendiente
+1452,David Gatten,Whitney Biennial,,1971-02-11,"Ann Arbor, EE.UU.",,,,https://en.wikipedia.org/wiki/David_Gatten,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2002, Nueva York",factual-web
+1453,Joe Gibbons,Whitney Biennial,,1953,"Providence, EE.UU.",,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2002, Nueva York; Whitney Biennial 2000, Nueva York",factual-web
 1454,Robert Gober,Whitney Biennial | Bienal de Venecia,,1954,"Wallingford, United States",,,,http://www.tate.org.uk/art/artists/robert-gober-2309,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2000, Nueva York; Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
 1455,Deva Graf,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1456,Dan Graham,Whitney Biennial,,1942,"Urbana, United States",,,,http://www.tate.org.uk/art/artists/dan-graham-1200,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
 1457,Rodney Graham,Whitney Biennial | Cream,,1949,"Abbotsford, Canada",,,,http://www.tate.org.uk/art/artists/rodney-graham-7810,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
-1458,Jay Heikes,Whitney Biennial | Vitamin 3-D,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1458,Jay Heikes,Whitney Biennial | Vitamin 3-D,,1975,"Princeton, EE.UU.",Saint Paul,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2006",factual-web
 1459,Doug Henry,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1460,Dorothy Iannone,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1461,Matthew Day Jackson,Whitney Biennial | Vitamin 3-D,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1460,Dorothy Iannone,Whitney Biennial,,1933-08-09,"Boston, EE.UU.",Berlín,,,https://en.wikipedia.org/wiki/Dorothy_Iannone,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecida 2022",factual-web
+1461,Matthew Day Jackson,Whitney Biennial | Vitamin 3-D,,1974,"Panorama City, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Matthew_Day_Jackson,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1462,Cameron Jamie,Whitney Biennial | Vitamin D2 | Bienal de Venecia,,1969,Estados Unidos,París; Colonia,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-1463,Natalie Jeremijenko,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1463,Natalie Jeremijenko,Whitney Biennial,,1966,"Mackay, Australia",Nueva York,,,https://en.wikipedia.org/wiki/Natalie_Jeremijenko,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1464,Phil Taylor,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1465,Daniel Johnston,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1466,Lewis Klahr,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1467,Andrew Lampert,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1468,Lisa Lapinski,Whitney Biennial | Vitamin 3-D,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1469,Liz Larner,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1470,Hanna Liden,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1471,Jeanne Liotta,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1472,Marie Losier,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1473,Florian Maier-Aichen,Whitney Biennial | Vitamin Ph,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1474,Monica Majoli,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1475,Yuri Masnyj,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1476,T. Kelly Mason,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1477,Diana Thater,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1478,Adam McEwen,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1479,Taylor Mead,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1480,Marilyn Minter,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1481,Momus,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1465,Daniel Johnston,Whitney Biennial,,1961-01-22,"Sacramento, EE.UU.",,,,https://en.wikipedia.org/wiki/Daniel_Johnston,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecido 2019",factual-web
+1466,Lewis Klahr,Whitney Biennial,,1956,,,,,https://en.wikipedia.org/wiki/Lewis_Klahr,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1467,Andrew Lampert,Whitney Biennial,,1976,"San Luis, EE.UU.",Nueva York,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2006",factual-web
+1468,Lisa Lapinski,Whitney Biennial | Vitamin 3-D,,1967,"Palo Alto, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Lisa_Lapinski,"Whitney Biennial 2006 «Day for Night», Nueva York; Beca Guggenheim (2004)",factual-web
+1469,Liz Larner,Whitney Biennial,,1960,"Sacramento, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Liz_Larner,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1470,Hanna Liden,Whitney Biennial,,1976,"Estocolmo, Suecia",Nueva York,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1471,Jeanne Liotta,Whitney Biennial,,1960,"Brooklyn, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Jeanne_Liotta,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1472,Marie Losier,Whitney Biennial,,1972,,Nueva York,,,https://en.wikipedia.org/wiki/Marie_Losier,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1473,Florian Maier-Aichen,Whitney Biennial | Vitamin Ph,,1973,"Stuttgart, Alemania",,,,https://en.wikipedia.org/wiki/Florian_Maier-Aichen,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1474,Monica Majoli,Whitney Biennial,,1963,"Los Ángeles, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Monica_Majoli,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1475,Yuri Masnyj,Whitney Biennial | Vitamin D,,1976,"Washington D. C., EE.UU.",Nueva York,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2006",factual-web
+1476,T. Kelly Mason,Whitney Biennial,,1964,"Hollywood, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/T._Kelly_Mason,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1477,Diana Thater,Whitney Biennial,,1962,"San Francisco, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Diana_Thater,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1478,Adam McEwen,Whitney Biennial,,1965-02-09,"Londres, Reino Unido",Nueva York,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1479,Taylor Mead,Whitney Biennial,,1924-12-31,"Grosse Pointe, EE.UU.",,,,https://en.wikipedia.org/wiki/Taylor_Mead,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecido 2013",factual-web
+1480,Marilyn Minter,Whitney Biennial,,1948,"Shreveport, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Marilyn_Minter,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1481,Momus,Whitney Biennial,,1960-02-11,"Paisley, Reino Unido",,,,https://en.wikipedia.org/wiki/Momus_(musician),"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1482,Matthew Monahan,Whitney Biennial | Vitamin 3-D | Bienal de Venecia,,1972,"Eureka, United States",,,,http://www.tate.org.uk/art/artists/matthew-monahan-8784,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
-1483,JP Munro,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1484,Jesús Bubu Negrón,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1485,Kori Newkirk,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1486,Todd Norsten,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1487,Jim O'Rourke,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2004, Nueva York",pendiente
+1483,JP Munro,Whitney Biennial,,1975,"Inglewood, EE.UU.",Los Ángeles,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1484,Jesús Bubu Negrón,Whitney Biennial,,1975,"Barceloneta, Puerto Rico",San Juan,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2006",factual-web
+1485,Kori Newkirk,Whitney Biennial,,1970,"Nueva York, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Kori_Newkirk,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1486,Todd Norsten,Whitney Biennial,,1967,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1487,Jim O'Rourke,Whitney Biennial,,1969-01-18,"Chicago, EE.UU.",Tokio,,,https://en.wikipedia.org/wiki/Jim_O'Rourke_(musician),"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2004, Nueva York",factual-web
 1488,Otabenga Jones & Associates,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1489,Tony Oursler,Whitney Biennial,,1957,"New York, United States",,,,http://www.tate.org.uk/art/artists/tony-oursler-2366,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
-1490,Mathias Poledna,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1491,Robert A. Pruitt,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1492,Jennifer Reeves,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1490,Mathias Poledna,Whitney Biennial,,1965,"Viena, Austria",Los Ángeles,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2013",factual-web
+1491,Robert A. Pruitt,Whitney Biennial,,1975,"Houston, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Robert_Pruitt_(artist),"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1492,Jennifer Reeves,Whitney Biennial,,1971,,Nueva York,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1493,Richard Serra,Whitney Biennial | Bienal de Venecia,,1939,"San Francisco, United States",,,,http://www.tate.org.uk/art/artists/richard-serra-1923,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
 1494,Gedi Sibony,Whitney Biennial | Vitamin 3-D | Bienal de Venecia,,1973,Estados Unidos,Nueva York,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-1495,Jennie Smith,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1496,Dash Snow,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1497,Michael Snow,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1495,Jennie Smith,Whitney Biennial,,1981,"San Francisco, EE.UU.",San Francisco,,,https://www.jenniesmithdrawing.com,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2006",factual-web
+1496,Dash Snow,Whitney Biennial,,1981-07-27,"Nueva York, EE.UU.",,,,https://en.wikipedia.org/wiki/Dash_Snow,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecido 2009",factual-web
+1497,Michael Snow,Whitney Biennial,,1928-12-10,"Toronto, Canadá",Toronto,,,https://en.wikipedia.org/wiki/Michael_Snow,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecido 2023",factual-web
 1498,Reena Spaulings,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1499,Rudolf Stingel,Whitney Biennial,,1956,"Merano, Italia",,,,http://www.tate.org.uk/art/artists/rudolf-stingel-11279,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
-1500,Angela Strassheim,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1501,Zoe Strauss,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1500,Angela Strassheim,Whitney Biennial,,1969,"Bloomfield, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Angela_Strassheim,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1501,Zoe Strauss,Whitney Biennial,,1970,"Filadelfia, EE.UU.",Filadelfia,,,https://en.wikipedia.org/wiki/Zoe_Strauss,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1502,Studio Film Club,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1503,Sturtevant,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1504,Billy Sullivan,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1505,Spencer Sweeney,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1503,Sturtevant,Whitney Biennial,,1924-08-23,"Lakewood, EE.UU.",,,,https://en.wikipedia.org/wiki/Elaine_Sturtevant,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecida 2014",factual-web
+1504,Billy Sullivan,Whitney Biennial,,1946,"Brooklyn, EE.UU.",East Hampton,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1505,Spencer Sweeney,Whitney Biennial,,1973,"Filadelfia, EE.UU.",Nueva York,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1506,Chris Vasell,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1507,Francesco Vezzoli,Whitney Biennial,,1971,"Brescia, Italia",,,,http://www.tate.org.uk/art/artists/francesco-vezzoli-9909,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
-1508,Aaron Young,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1509,Laylah Ali,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
+1508,Aaron Young,Whitney Biennial,,1972,"San Francisco, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Aaron_Young_(artist),"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
+1509,Laylah Ali,Whitney Biennial,,1968,"Buffalo, EE.UU.",Williamstown,,,https://en.wikipedia.org/wiki/Laylah_Ali,"Whitney Biennial 2004, Nueva York",factual-web
 1510,assume vivid astro focus,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1511,Dike Blair,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1512,Jeremy Blake,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York; Whitney Biennial 2000, Nueva York",pendiente
+1511,Dike Blair,Whitney Biennial,,1952,"New Castle, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Dike_Blair,"Whitney Biennial 2004, Nueva York",factual-web
+1512,Jeremy Blake,Whitney Biennial,,1971-10-04,"Fort Sill, EE.UU.",,,,https://en.wikipedia.org/wiki/Jeremy_Blake,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York; Whitney Biennial 2000, Nueva York; fallecido 2007",factual-web
 1513,Mel Bochner,Whitney Biennial,,1940,"Pittsburgh, United States",,,,http://www.tate.org.uk/art/artists/mel-bochner-772,"Whitney Biennial 2004, Nueva York",factual-tate
-1514,Andrea Bowers,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1515,Slater Bradley,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1516,Tom Burr,Whitney Biennial | Vitamin 3-D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1517,Ernesto Caivano,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1518,Pip Chodorov,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1519,Liz Craft,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1520,Santiago Cucullu,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1521,Amy Cutler,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1522,Paul B. Davis,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1523,Taylor Davis,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1524,Sue de Beer,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1525,Lecia Dole-Recio,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1526,Bradley Eros,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
+1514,Andrea Bowers,Whitney Biennial | Vitamin D,,1965,"Wilmington, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Andrea_Bowers,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2004",factual-web
+1515,Slater Bradley,Whitney Biennial,,1975,"San Francisco, EE.UU.",,,,https://en.wikipedia.org/wiki/Slater_Bradley,"Whitney Biennial 2004, Nueva York",factual-web
+1516,Tom Burr,Whitney Biennial | Vitamin 3-D,,1963,"New Haven, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Tom_Burr,"Whitney Biennial 2004, Nueva York",factual-web
+1517,Ernesto Caivano,Whitney Biennial | Vitamin D,,1972,"Madrid, España",Nueva York,,,https://en.wikipedia.org/wiki/Ernesto_Caivano,"Whitney Biennial 2004, Nueva York",factual-web
+1518,Pip Chodorov,Whitney Biennial,,1965-04-13,"Nueva York, EE.UU.",Seúl,,,,"Whitney Biennial 2004, Nueva York",factual-web
+1519,Liz Craft,Whitney Biennial,,1970,"Los Ángeles, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Liz_Craft,"Whitney Biennial 2004, Nueva York",factual-web
+1520,Santiago Cucullu,Whitney Biennial,,1969,"Buenos Aires, Argentina",Milwaukee,,,,"Whitney Biennial 2004, Nueva York",factual-web
+1521,Amy Cutler,Whitney Biennial | Vitamin D,,1974,"Poughkeepsie, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Amy_Cutler,"Whitney Biennial 2004, Nueva York",factual-web
+1522,Paul B. Davis,Whitney Biennial,,,,Londres,,,,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2004",factual-web
+1523,Taylor Davis,Whitney Biennial,,1959,,Boston,,,https://en.wikipedia.org/wiki/Taylor_Davis_(artist),"Whitney Biennial 2004, Nueva York",factual-web
+1524,Sue de Beer,Whitney Biennial,,1973,"Tarrytown, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Sue_de_Beer,"Whitney Biennial 2004, Nueva York",factual-web
+1525,Lecia Dole-Recio,Whitney Biennial,,1971,"San Francisco, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Lecia_Dole-Recio,"Whitney Biennial 2004, Nueva York",factual-web
+1526,Bradley Eros,Whitney Biennial,,1952,"Fairfield, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Bradley_Eros,"Whitney Biennial 2004, Nueva York",factual-web
 1527,Spencer Finch,Whitney Biennial | Vitamin D | Bienal de Venecia,,1962,"New Haven, CT, Estados Unidos",,,,,"Whitney Biennial 2004, Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-1528,Rob Fischer,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1529,Kim Fisher,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1530,Harrell Fletcher,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
+1528,Rob Fischer,Whitney Biennial,,1968,"Minneapolis, EE.UU.",Nueva York,,,,"Whitney Biennial 2004, Nueva York",factual-web
+1529,Kim Fisher,Whitney Biennial,,1973,,Los Ángeles,,,,"Whitney Biennial 2004, Nueva York",factual-web
+1530,Harrell Fletcher,Whitney Biennial,,1967,"Santa María, EE.UU.",Portland,,,https://en.wikipedia.org/wiki/Harrell_Fletcher,"Whitney Biennial 2004, Nueva York",factual-web
 1531,Miranda July,Whitney Biennial | Cream 3 | Bienal de Venecia,,1974,"Barre, VT, Estados Unidos",,,,,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-1532,James Fotopoulos,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1533,Barnaby Furnas,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1534,Sandra Gibson,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1535,Katy Grannan,Whitney Biennial | Vitamin Ph,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1536,Bill Siegel,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1537,Katie Grinnan,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1538,Mark Handforth,Whitney Biennial | Cream,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1539,Alex Hay,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
+1532,James Fotopoulos,Whitney Biennial,,1976,"Norridge, EE.UU.",,,,https://en.wikipedia.org/wiki/James_Fotopoulos,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2004",factual-web
+1533,Barnaby Furnas,Whitney Biennial,,1973,"Filadelfia, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Barnaby_Furnas,"Whitney Biennial 2004, Nueva York",factual-web
+1534,Sandra Gibson,Whitney Biennial,,1968,"Portland, EE.UU.",,,,,"Whitney Biennial 2004, Nueva York",factual-web
+1535,Katy Grannan,Whitney Biennial | Vitamin Ph,,1969,"Arlington, EE.UU.",Berkeley,,,https://en.wikipedia.org/wiki/Katy_Grannan,"Whitney Biennial 2004, Nueva York",factual-web
+1536,Bill Siegel,Whitney Biennial,,1962-12-24,,,,,,"Whitney Biennial 2004, Nueva York; fallecido 2018",factual-web
+1537,Katie Grinnan,Whitney Biennial,,1970,,Los Ángeles,,,,"Whitney Biennial 2004, Nueva York",factual-web
+1538,Mark Handforth,Whitney Biennial | Cream,,1969,"Hong Kong, China",Miami,,,https://en.wikipedia.org/wiki/Mark_Handforth,"Whitney Biennial 2004, Nueva York",factual-web
+1539,Alex Hay,Whitney Biennial,,1930-04-18,,Bisbee,,,,"Whitney Biennial 2004, Nueva York",factual-web
 1540,Jim Hodges,Whitney Biennial | Vitamin T,,1957,"Spokane, United States",,,,http://www.tate.org.uk/art/artists/jim-hodges-7335,"Whitney Biennial 2004, Nueva York",factual-tate
-1541,Christian Holstad,Whitney Biennial | Vitamin D | Vitamin 3-D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
+1541,Christian Holstad,Whitney Biennial | Vitamin D | Vitamin 3-D,,1972,"Anaheim, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Christian_Holstad,"Whitney Biennial 2004, Nueva York",factual-web
 1542,Roni Horn,Whitney Biennial | Vitamin Txt,,1955,"New York, United States",,,,http://www.tate.org.uk/art/artists/roni-horn-2402,"Whitney Biennial 2004, Nueva York",factual-tate
 1543,Peter Hutton,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York",pendiente
 1544,Glenn Kaino,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
