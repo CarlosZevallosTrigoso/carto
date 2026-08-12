@@ -29,7 +29,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 28,Tauba Auerbach,Vitamin P2 | Whitney Biennial | New Museum Triennial,,1981,"San Francisco, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Tauba_Auerbach,"Whitney Biennial 2010, Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 29,John Baldessari,Base propia | Whitney Biennial | Bienal de Venecia,https://www.baldessari.org/,1931,"National City, United States","Santa Mónica, CA",,,http://www.tate.org.uk/art/artists/john-baldessari-687,"Whitney Biennial 2008, Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); León de Oro a la trayectoria, Venecia (2009)",factual-tate
 30,Jules de Balincourt,Vitamin P2,,1972,"París, Francia",Nueva York,,,https://en.wikipedia.org/wiki/Jules_de_Balincourt,,factual-web
-31,Meriem Bennani and Orian Barki,ArtReview Top 100,,,,,,,,,pendiente
+31,Meriem Bennani and Orian Barki,ArtReview Top 100,,,,Nueva York,,,,,factual-web
 32,Matthew Barney,ArtReview Top 100 | Vitamin V | Cream,,1967,"San Francisco, United States",,,,http://www.tate.org.uk/art/artists/matthew-barney-2362,,factual-tate
 33,Hernán Bas,Vitamin P2 | Whitney Biennial,,1978,"Miami, EE.UU.",Detroit,,,https://en.wikipedia.org/wiki/Hernan_Bas,"Whitney Biennial 2004, Nueva York",factual-web
 34,Math Bass,Vitamin P3,,1981,"Nueva York, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Math_Bass,,factual-web
@@ -1333,7 +1333,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1332,Robert Grosvenor,Whitney Biennial | Bienal de Venecia,,1937,"Nueva York, Estados Unidos","East Patchogue, NY",,,,"Whitney Biennial 2010, Nueva York; Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
 1333,Thomas Houseago,Whitney Biennial | Vitamin 3-D,,1972,"Leeds, Reino Unido",Los Ángeles,,,https://en.wikipedia.org/wiki/Thomas_Houseago,"Whitney Biennial 2010, Nueva York",factual-web
 1334,Jessica Jackson Hutchins,Whitney Biennial | Bienal de Venecia,,1971,"Chicago, IL, Estados Unidos",,,,,"Whitney Biennial 2010, Nueva York; Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-1335,Jeffrey Inaba,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
+1335,Jeffrey Inaba,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York; Bienal Whitney 2010",factual-web
 1336,Martin Kersels,Whitney Biennial,,1960,"Los Ángeles, EE.UU.",,,,https://en.wikipedia.org/wiki/Martin_Kersels,"Whitney Biennial 2010, Nueva York",factual-web
 1337,Jim Lutes,Whitney Biennial,,1955,"Fort Lewis, EE.UU.",Chicago,,,,"Whitney Biennial 2010, Nueva York",factual-web
 1338,Babette Mangolte,Whitney Biennial,,1941,"Jura, France",,,,http://www.tate.org.uk/art/artists/babette-mangolte-6614,"Whitney Biennial 2010, Nueva York",factual-tate
@@ -1739,7 +1739,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1738,Chris Sullivan,Whitney Biennial,,,,Chicago,,,,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
 1739,Tran T. Kim-Trang,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Tran_T._Kim-Trang,"Whitney Biennial 2000, Nueva York; Bienal Whitney",factual-web
 1740,Richard Tuttle,Whitney Biennial | Vitamin T,,1941,"Rahway, United States",,,,http://www.tate.org.uk/art/artists/richard-tuttle-8006,"Whitney Biennial 2000, Nueva York",factual-tate
-1741,Ayanna U'Dongo,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
+1741,Ayanna U'Dongo,Whitney Biennial,,,,,,,https://whitney.org/artists/t3613,"Whitney Biennial 2000, Nueva York; Bienal Whitney 1993",factual-web
 1742,Chris Verene,Whitney Biennial,,1969-10-29,"DeKalb, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Chris_Verene,"Whitney Biennial 2000, Nueva York",factual-web
 1743,Annette Weintraub,Whitney Biennial,,1946,,Nueva York,,,https://en.wikipedia.org/wiki/Annette_Weintraub,"Whitney Biennial 2000, Nueva York",factual-web
 1744,Yvonne Welbon,Whitney Biennial,,1967,"Chicago, EE.UU.",Chicago,,,https://en.wikipedia.org/wiki/Yvonne_Welbon,"Whitney Biennial 2000, Nueva York",factual-web
@@ -1819,7 +1819,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1818,David Claerbout,Vitamin Ph | Cream 3,,1969,"Kortrijk, Bélgica",Amberes,,,https://en.wikipedia.org/wiki/David_Claerbout,,factual-web
 1819,Phil Collins,Vitamin Ph,,1970,"Runcorn, United Kingdom",,,,http://www.tate.org.uk/art/artists/phil-collins-5468,,factual-tate
 1820,Kelli Connell,Vitamin Ph,,1974,"Oklahoma City, EE.UU.",Chicago,,,https://en.wikipedia.org/wiki/Kelli_Connell,,factual-web
-1821,Eduardo Consuegra,Vitamin Ph,,,,,,,,,pendiente
+1821,Eduardo Consuegra,Vitamin Ph,,,"Bogotá, Colombia",,,,,,factual-web
 1822,Sharon Core,Vitamin Ph,,1965,"Nueva Orleans, EE.UU.",,,,https://en.wikipedia.org/wiki/Sharon_Core,,factual-web
 1823,Rochelle Costi,Vitamin Ph,,1961,"Caxias do Sul, Brasil",São Paulo,,,https://en.wikipedia.org/wiki/Rochelle_Costi,fallecida 2022,factual-web
 1824,Gregory Crewdson,Vitamin Ph,,1962,"Brooklyn, EE.UU.",,,,https://en.wikipedia.org/wiki/Gregory_Crewdson,,factual-web
@@ -2091,7 +2091,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2090,Alexandra Grant,Vitamin Txt,,1973,"Fairview Park, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Alexandra_Grant,,factual-web
 2091,Shilpa Gupta,Vitamin Txt | New Museum Triennial | Bienal de Venecia,,1976,India,Bombay,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
 2092,Nadia Hernández,Vitamin Txt,,1987,"Mérida, Venezuela",Melbourne,,,,,factual-web
-2093,Ichihara Hiroko,Vitamin Txt,,,,,,,,,pendiente
+2093,Ichihara Hiroko,Vitamin Txt,,1963,"Kioto, Japón",,,,,,factual-web
 2094,Barbara Kruger,Vitamin Txt | Bienal de Venecia,,1945,"Newark, United States",Los Ángeles,,,http://www.tate.org.uk/art/artists/barbara-kruger-1443,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-tate
 2095,Lawrence Lemaoana,Vitamin Txt,,1982,"Johannesburgo, Sudáfrica",Johannesburgo,,,,,factual-web
 2096,Lucrecia Lionti,Vitamin Txt,,1985,"Tucumán, Argentina",Buenos Aires,,,,,factual-web
@@ -2138,204 +2138,204 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2137,Rebecca Salter,Vitamin D3,,1955,"Sussex, United Kingdom",,,,http://www.tate.org.uk/art/artists/rebecca-salter-2343,,factual-tate
 2138,Ana Laura Aláez,Cream,,1964,"Bilbao, España",,,,https://en.wikipedia.org/wiki/Ana_Laura_Al%C3%A1ez,,factual-web
 2139,Tariq Alvi,Cream,,,,,,,,,pendiente
-2140,Janine Antoni,Cream,,,,,,,,,pendiente
-2141,Oladele Ajiboye Bamgboye,Cream,,,,,,,,,pendiente
+2140,Janine Antoni,Cream,,1964-01-19,"Freeport, Bahamas",Nueva York,,,https://en.wikipedia.org/wiki/Janine_Antoni,,factual-web
+2141,Oladele Ajiboye Bamgboye,Cream,,1963-10-15,"Odo-Eku, Nigeria",Londres,,,https://en.wikipedia.org/wiki/Olad%C3%A9l%C3%A9_Ajiboy%C3%A9_Bamgboy%C3%A9,documenta X (1997),factual-web
 2142,Fandra Chang,Cream,,,,,,,,,pendiente
-2143,Chen Zhen,Cream,,,,,,,,,pendiente
-2144,Philip-Lorca diCorcia,Cream,,,,,,,,,pendiente
-2145,Sharon Ellis,Cream,,,,,,,,,pendiente
-2146,Tony Feher,Cream,,,,,,,,,pendiente
-2147,Teresita Fernández,Cream,,,,,,,,,pendiente
+2143,Chen Zhen,Cream,,1955-10-04,"Shanghái, China",,,,https://en.wikipedia.org/wiki/Chen_Zhen_(artist),fallecido 2000,factual-web
+2144,Philip-Lorca diCorcia,Cream,,,"Hartford, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Philip-Lorca_diCorcia,,factual-web
+2145,Sharon Ellis,Cream,,1955,,Los Ángeles,,,,,factual-web
+2146,Tony Feher,Cream,,1956-03-02,"Albuquerque, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Tony_Feher,fallecido 2016,factual-web
+2147,Teresita Fernández,Cream,,1968,"Miami, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Teresita_Fern%C3%A1ndez,,factual-web
 2148,Liam Gillick,Cream,,1964,"Aylesbury, United Kingdom",,,,http://www.tate.org.uk/art/artists/liam-gillick-2592,,factual-tate
 2149,Kay Hassan,Cream | Bienal de Venecia,,1956,Sudáfrica,Johannesburgo,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-2150,José Antonio Hernández-Díez,Cream,,,,,,,,,pendiente
+2150,José Antonio Hernández-Díez,Cream,,1964,"Caracas, Venezuela",Barcelona,,,https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Hern%C3%A1ndez-D%C3%ADez,Bienal de Venecia 2003,factual-web
 2151,Christine & Irene Hohenbüchler,Cream,,,,,,,,,pendiente
-2152,Fabrice Hybert,Cream,,,,,,,,,pendiente
+2152,Fabrice Hybert,Cream,,1961-07-12,"Luçon, Francia",,,,https://en.wikipedia.org/wiki/Fabrice_Hybert,Bienal de Venecia 1997,factual-web
 2153,Inventory,Cream,,1996,,,,,http://www.tate.org.uk/art/artists/inventory-4561,,factual-tate
-2154,Simone Aaberg Kærn,Cream,,,,,,,,,pendiente
-2155,Kcho,Cream,,,,,,,,,pendiente
-2156,Suchan Kinoshita,Cream,,,,,,,,,pendiente
-2157,Elke Krystufek,Cream,,,,,,,,,pendiente
-2158,Matts Leiderstam,Cream,,,,,,,,,pendiente
-2159,Liew Kung Yu,Cream,,,,,,,,,pendiente
-2160,Lin Tianmiao,Cream,,,,,,,,,pendiente
-2161,Greg Lynn,Cream,,,,,,,,,pendiente
-2162,Gillian Wearing,Cream,,,,,,,,,pendiente
-2163,Wang Du,Cream,,,,,,,,,pendiente
+2154,Simone Aaberg Kærn,Cream,,1969,"Copenhague, Dinamarca",Copenhague,,,,,factual-web
+2155,Kcho,Cream,,1970-02-12,"Nueva Gerona, Cuba",La Habana,,,https://en.wikipedia.org/wiki/Kcho,Bienal de Gwangju (gran premio 1995),factual-web
+2156,Suchan Kinoshita,Cream,,1960,"Tokio, Japón",Bruselas,,,https://en.wikipedia.org/wiki/Suchan_Kinoshita,Premio de Arte Belga (premio 2025),factual-web
+2157,Elke Krystufek,Cream,,1970,"Viena, Austria",Berlín,,,https://en.wikipedia.org/wiki/Elke_Krystufek,,factual-web
+2158,Matts Leiderstam,Cream,,1956,"Gotemburgo, Suecia",Estocolmo,,,,,factual-web
+2159,Liew Kung Yu,Cream,,1960,"Kedah, Malasia",Kuala Lumpur,,,,,factual-web
+2160,Lin Tianmiao,Cream,,1961,"Taiyuan, China",Pekín,,,https://en.wikipedia.org/wiki/Lin_Tianmiao,,factual-web
+2161,Greg Lynn,Cream,,1964,"North Olmsted, EE.UU.",,,,https://en.wikipedia.org/wiki/Greg_Lynn,Bienal de Venecia 2008,factual-web
+2162,Gillian Wearing,Cream,,1963-12-10,"Birmingham, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Gillian_Wearing,Turner Prize (premio 1997),factual-web
+2163,Wang Du,Cream,,1956,"Wuhan, China",París,,,https://en.wikipedia.org/wiki/Wang_Du_(artist),,factual-web
 2164,Carsten Höller,Cream | Bienal de Venecia,,1961,"Bruxelles, België",Estocolmo,,,http://www.tate.org.uk/art/artists/carsten-holler-6253,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
-2165,Jane Alexander,Fresh Cream,,,,,,,,,pendiente
+2165,Jane Alexander,Fresh Cream,,1959,"Johannesburgo, Sudáfrica",Ciudad del Cabo,,,https://en.wikipedia.org/wiki/Jane_Alexander_(artist),,factual-web
 2166,Carlos Amorales,Fresh Cream,,1970,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/carlos-amorales-7533,,factual-tate
-2167,Arahmaiani,Fresh Cream,,,,,,,,,pendiente
-2168,Fabienne Audéoud,Fresh Cream,,,,,,,,,pendiente
-2169,Burt Barr,Fresh Cream,,,,,,,,,pendiente
-2170,Orla Barry,Fresh Cream,,,,,,,,,pendiente
+2167,Arahmaiani,Fresh Cream,,1961-05-21,"Bandung, Indonesia",Yogyakarta,,,https://en.wikipedia.org/wiki/Arahmaiani,,factual-web
+2168,Fabienne Audéoud,Fresh Cream,,1968,"Besançon, Francia",París,,,http://www.fabienneaudeoud.com,,factual-web
+2169,Burt Barr,Fresh Cream,,1938-11-12,"Lewiston, EE.UU.",Nueva York,,,,fallecido 2016,factual-web
+2170,Orla Barry,Fresh Cream,,1969,"Wexford, Irlanda",Wexford,,,https://en.wikipedia.org/wiki/Orla_Barry_(artist),,factual-web
 2171,Uta Barth,Fresh Cream,,1958,"Berlin, Deutschland",,,,http://www.tate.org.uk/art/artists/uta-barth-2678,,factual-tate
-2172,Emese Benczúr,Fresh Cream,,,,,,,,,pendiente
-2173,Montien Boonma,Fresh Cream,,,,,,,,,pendiente
-2174,Jessica Bronson,Fresh Cream,,,,,,,,,pendiente
+2172,Emese Benczúr,Fresh Cream,,1969,"Budapest, Hungría",Budapest,,,,,factual-web
+2173,Montien Boonma,Fresh Cream,,1953,"Bangkok, Tailandia",,,,,fallecido 2000,factual-web
+2174,Jessica Bronson,Fresh Cream,,,,Los Ángeles,,,,,factual-web
 2175,Bureau of Inverse Technology,Fresh Cream,,,,,,,,,pendiente
-2176,Miguel Calderón,Fresh Cream,,,,,,,,,pendiente
-2177,Chen Chieh-Jen,Fresh Cream,,,,,,,,,pendiente
-2178,Choi Jeong Hwa,Fresh Cream,,,,,,,,,pendiente
-2179,Nicola Costantino,Fresh Cream,,,,,,,,,pendiente
+2176,Miguel Calderón,Fresh Cream,,1971,"Ciudad de México, México",Ciudad de México,,,https://en.wikipedia.org/wiki/Miguel_Calder%C3%B3n,,factual-web
+2177,Chen Chieh-Jen,Fresh Cream,,1960,"Taoyuan, Taiwán",,,,,,factual-web
+2178,Choi Jeong Hwa,Fresh Cream,,1961,"Seúl, Corea del Sur",Seúl,,,https://en.wikipedia.org/wiki/Choi_Jeong_Hwa,,factual-web
+2179,Nicola Costantino,Fresh Cream,,1964,"Rosario, Argentina",Buenos Aires,,,,Bienal de Venecia 2013,factual-web
 2180,Iftikhar & Elizabeth Dadi,Fresh Cream,,,,,,,,,pendiente
-2181,Lucky DeBellevue,Fresh Cream,,,,,,,,,pendiente
-2182,Wim Delvoye,Fresh Cream,,,,,,,,,pendiente
-2183,Jason Dodge,Fresh Cream,,,,,,,,,pendiente
-2184,Heri Dono,Fresh Cream,,,,,,,,,pendiente
-2185,Marie-Louise Ekman,Fresh Cream,,,,,,,,,pendiente
-2186,Annika Eriksson,Fresh Cream,,,,,,,,,pendiente
-2187,Ayşe Erkmen,Fresh Cream,,,,,,,,,pendiente
-2188,Mary Evans,Fresh Cream,,,,,,,,,pendiente
-2189,Vadim Fishkin,Fresh Cream,,,,,,,,,pendiente
-2190,Sylvie Fleury,Fresh Cream,,,,,,,,,pendiente
-2191,Fiona Foley,Fresh Cream,,,,,,,,,pendiente
+2181,Lucky DeBellevue,Fresh Cream,,1957,"Lafayette, EE.UU.",Nueva York,,,https://www.luckydebellevue.com/,,factual-web
+2182,Wim Delvoye,Fresh Cream,,1965-01-14,"Wervik, Bélgica",Gante,,,https://en.wikipedia.org/wiki/Wim_Delvoye,,factual-web
+2183,Jason Dodge,Fresh Cream,,1969,"Newtown, EE.UU.",Berlín,,,,,factual-web
+2184,Heri Dono,Fresh Cream,,1960-06-12,"Yakarta, Indonesia",Yogyakarta,,,https://en.wikipedia.org/wiki/Heri_Dono,Bienal de Venecia 2015,factual-web
+2185,Marie-Louise Ekman,Fresh Cream,,1944-11-05,"Estocolmo, Suecia",,,,https://en.wikipedia.org/wiki/Marie-Louise_Ekman,,factual-web
+2186,Annika Eriksson,Fresh Cream,,1956,"Malmö, Suecia",Berlín,,,,,factual-web
+2187,Ayşe Erkmen,Fresh Cream,,1949,"Estambul, Turquía",,,,https://en.wikipedia.org/wiki/Ay%C5%9Fe_Erkmen,Bienal de Venecia 2011,factual-web
+2188,Mary Evans,Fresh Cream,,1963,"Lagos, Nigeria",Londres,,,https://en.wikipedia.org/wiki/Mary_Evans_(artist),,factual-web
+2189,Vadim Fishkin,Fresh Cream,,1965,"Penza, Rusia",Liubliana,,,,,factual-web
+2190,Sylvie Fleury,Fresh Cream,,1961-06-24,"Ginebra, Suiza",Ginebra,,,https://en.wikipedia.org/wiki/Sylvie_Fleury,,factual-web
+2191,Fiona Foley,Fresh Cream,,1964,"Maryborough, Australia",Hervey Bay,,,https://en.wikipedia.org/wiki/Fiona_Foley,,factual-web
 2192,Galentin Gatev,Fresh Cream,,,,,,,,,pendiente
 2193,Diego Gutiérrez,Fresh Cream,,,,,,,,,pendiente
-2194,Noritoshi Hirakawa,Fresh Cream,,,,,,,,,pendiente
-2195,Permindar Kaur,Fresh Cream,,,,,,,,,pendiente
-2196,Byron Kim,Fresh Cream,,,,,,,,,pendiente
-2197,Kaisu Koivisto,Fresh Cream,,,,,,,,,pendiente
-2198,Oleg Kulik,Fresh Cream,,,,,,,,,pendiente
+2194,Noritoshi Hirakawa,Fresh Cream,,1960,"Fukuoka, Japón",Nueva York,,,https://en.wikipedia.org/wiki/Noritoshi_Hirakawa,,factual-web
+2195,Permindar Kaur,Fresh Cream,,1965,"Nottingham, Reino Unido",,,,https://en.wikipedia.org/wiki/Permindar_Kaur,,factual-web
+2196,Byron Kim,Fresh Cream,,1961,"La Jolla, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Byron_Kim,Bienal Whitney 1993,factual-web
+2197,Kaisu Koivisto,Fresh Cream,,1962,"Seinäjoki, Finlandia",Helsinki,,,,,factual-web
+2198,Oleg Kulik,Fresh Cream,,1961,"Kiev, Ucrania",Moscú,,,https://en.wikipedia.org/wiki/Oleg_Kulik,,factual-web
 2199,Moshekwa Langa,Fresh Cream | Bienal de Venecia,,1975,"Bakenberg, Sudáfrica",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-2200,Nikki S. Lee,Fresh Cream,,,,,,,,,pendiente
-2201,Laura Lima,Fresh Cream,,,,,,,,,pendiente
-2202,Barry McGee,Fresh Cream,,,,,,,,,pendiente
-2203,Mona Marzouk,Fresh Cream,,,,,,,,,pendiente
-2204,Erbossyn Meldibekov,Fresh Cream,,,,,,,,,pendiente
+2200,Nikki S. Lee,Fresh Cream,,1970,"Geochang, Corea del Sur",Seúl,,,https://en.wikipedia.org/wiki/Nikki_S._Lee,,factual-web
+2201,Laura Lima,Fresh Cream,,1971,"Governador Valadares, Brasil",Río de Janeiro,,,https://en.wikipedia.org/wiki/Laura_Lima,,factual-web
+2202,Barry McGee,Fresh Cream,,1966,"San Francisco, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Barry_McGee,,factual-web
+2203,Mona Marzouk,Fresh Cream,,1968,"Alejandría, Egipto",Alejandría,,,,,factual-web
+2204,Erbossyn Meldibekov,Fresh Cream,,1964,"Shymkent, Kazajistán",Almatý,,,,Bienal de Venecia 2005,factual-web
 2205,Priscilla Monge,Fresh Cream,,1968,Costa Rica,,,,http://www.tate.org.uk/art/artists/priscilla-monge-9245,,factual-tate
-2206,Aydan Murtezaoğlu,Fresh Cream,,,,,,,,,pendiente
-2207,Jean-Luc Mylayne,Fresh Cream,,,,,,,,,pendiente
-2208,Marko Peljhan,Fresh Cream,,,,,,,,,pendiente
-2209,Navin Rawanchaikul,Fresh Cream,,,,,,,,,pendiente
+2206,Aydan Murtezaoğlu,Fresh Cream,,1961,"Estambul, Turquía",Estambul,,,https://en.wikipedia.org/wiki/Aydan_Murtezao%C4%9Flu,,factual-web
+2207,Jean-Luc Mylayne,Fresh Cream,,1946,"Amiens, Francia",,,,,,factual-web
+2208,Marko Peljhan,Fresh Cream,,1969,"Šempeter pri Gorici, Eslovenia",,,,,documenta X (1997),factual-web
+2209,Navin Rawanchaikul,Fresh Cream,,1971,"Chiang Mai, Tailandia",,,,,Bienal de Venecia 2011,factual-web
 2210,Jason Rhoades,Fresh Cream | Bienal de Venecia,,1965,"California, United States",,,,http://www.tate.org.uk/art/artists/jason-rhoades-7682,"fallecido/a 2006; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2211,Guia Rigvava,Fresh Cream,,,,,,,,,pendiente
-2212,Ugo Rondinone,Fresh Cream,,,,,,,,,pendiente
-2213,Francisco Ruiz de Infante,Fresh Cream,,,,,,,,,pendiente
+2212,Ugo Rondinone,Fresh Cream,,1964,"Brunnen, Suiza",Nueva York,,,https://en.wikipedia.org/wiki/Ugo_Rondinone,Bienal de Venecia 2007,factual-web
+2213,Francisco Ruiz de Infante,Fresh Cream,,1966-03-05,"Vitoria, España",Estrasburgo,,,,,factual-web
 2214,Arsen Savadov & Georgy Senchenko,Fresh Cream,,,,,,,,,pendiente
-2215,Tilo Schulz,Fresh Cream,,,,,,,,,pendiente
+2215,Tilo Schulz,Fresh Cream,,1972,"Leipzig, Alemania",Berlín,,,,,factual-web
 2216,Smith/Stewart,Fresh Cream,,,,,,,,,pendiente
-2217,Renée Stout,Fresh Cream,,,,,,,,,pendiente
-2218,Apolonija Šušteršič,Fresh Cream,,,,,,,,,pendiente
+2217,Renée Stout,Fresh Cream,,1958,"Junction City, EE.UU.",Washington,,,https://en.wikipedia.org/wiki/Renee_Stout,,factual-web
+2218,Apolonija Šušteršič,Fresh Cream,,1965,"Liubliana, Eslovenia",,,,,,factual-web
 2219,Tomoko Takahashi,Fresh Cream,,1966,"Tokyo, Nihon",,,,http://www.tate.org.uk/art/artists/tomoko-takahashi-4451,,factual-tate
 2220,Grazia Toderi,Fresh Cream | Bienal de Venecia,,1963,"Padova, Italia",,,,http://www.tate.org.uk/art/artists/grazia-toderi-11484,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
-2221,Jaan Toomik,Fresh Cream,,,,,,,,,pendiente
-2222,Sergio Vega,Fresh Cream,,,,,,,,,pendiente
-2223,Miwa Yanagi,Fresh Cream,,,,,,,,,pendiente
+2221,Jaan Toomik,Fresh Cream,,1961-10-02,"Tartu, Estonia",Tallin,,,https://en.wikipedia.org/wiki/Jaan_Toomik,,factual-web
+2222,Sergio Vega,Fresh Cream,,1959,"Buenos Aires, Argentina",,,,,,factual-web
+2223,Miwa Yanagi,Fresh Cream,,1967,"Kobe, Japón",,,,https://en.wikipedia.org/wiki/Miwa_Yanagi,,factual-web
 2224,Dolores Zinny & Juan Maidagán,Fresh Cream,,,,,,,,,pendiente
 2225,Sonia Abián,Cream 3,,,,,,,,,pendiente
-2226,Haluk Akakçe,Cream 3,,,,,,,,,pendiente
-2227,Ricci Albenda,Cream 3,,,,,,,,,pendiente
+2226,Haluk Akakçe,Cream 3,,1970,"Ankara, Turquía",,,,https://en.wikipedia.org/wiki/Haluk_Akak%C3%A7e,fallecido 2023,factual-web
+2227,Ricci Albenda,Cream 3,,1966,"Brooklyn, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Ricci_Albenda,,factual-web
 2228,Paweł Althamer,Cream 3 | Bienal de Venecia,,1967,"Varsovia, Polonia",,,,,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-2229,Emmanuelle Antille,Cream 3,,,,,,,,,pendiente
-2230,Atelier van Lieshout,Cream 3,,,,,,,,,pendiente
-2231,Elisabetta Benassi,Cream 3,,,,,,,,,pendiente
-2232,Michael Blum,Cream 3,,,,,,,,,pendiente
-2233,Iñaki Bonillas,Cream 3,,,,,,,,,pendiente
+2229,Emmanuelle Antille,Cream 3,,1972,"Lausana, Suiza",,,,https://en.wikipedia.org/wiki/Emmanuelle_Antille,Bienal de Venecia 2003,factual-web
+2230,Atelier van Lieshout,Cream 3,,,,Róterdam,,,https://en.wikipedia.org/wiki/Atelier_van_Lieshout,,factual-web
+2231,Elisabetta Benassi,Cream 3,,1966,"Roma, Italia",,,,https://en.wikipedia.org/wiki/Elisabetta_Benassi,,factual-web
+2232,Michael Blum,Cream 3,,1966,"Jerusalén, Israel",Viena,,,https://en.wikipedia.org/wiki/Michael_Blum_(artist),,factual-web
+2233,Iñaki Bonillas,Cream 3,,1981,"Ciudad de México, México",Ciudad de México,,,https://en.wikipedia.org/wiki/I%C3%B1aki_Bonillas,,factual-web
 2234,Angela Bulloch,Cream 3,,1966,"Ontario, Canada",,,,http://www.tate.org.uk/art/artists/angela-bulloch-9058,,factual-tate
 2235,Edward Burtynsky,Cream 3,,1955,"Saint Catharines, Canada",,,,http://www.tate.org.uk/art/artists/edward-burtynsky-15853,,factual-tate
-2236,Franklin Cassaro,Cream 3,,,,,,,,,pendiente
+2236,Franklin Cassaro,Cream 3,,1962-03-05,"Río de Janeiro, Brasil",Río de Janeiro,,,,,factual-web
 2237,Minerva Cuevas,Cream 3,,1975,,,,,http://www.tate.org.uk/art/artists/minerva-cuevas-11699,,factual-tate
-2238,José Dávila,Cream 3,,,,,,,,,pendiente
-2239,Yayoi Deki,Cream 3,,,,,,,,,pendiente
-2240,Elmgreen & Dragset,Cream 3,,,,,,,,,pendiente
+2238,José Dávila,Cream 3,,1974,"Guadalajara, México",Guadalajara,,,https://en.wikipedia.org/wiki/Jose_D%C3%A1vila,,factual-web
+2239,Yayoi Deki,Cream 3,,1977,"Osaka, Japón",Hiroshima,,,,,factual-web
+2240,Elmgreen & Dragset,Cream 3,,,,Berlín,,,https://en.wikipedia.org/wiki/Elmgreen_%26_Dragset,Bienal de Venecia 2009,factual-web
 2241,Hans-Peter Feldmann,Cream 3 | Bienal de Venecia,,1941,"Düsseldorf, Deutschland",,,,http://www.tate.org.uk/art/artists/hans-peter-feldmann-12632,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
-2242,Luca Frei,Cream 3,,,,,,,,,pendiente
-2243,Valery Koshlyakov,Cream 3,,,,,,,,,pendiente
-2244,Katarzyna Kozyra,Cream 3,,,,,,,,,pendiente
+2242,Luca Frei,Cream 3,,1976,"Lugano, Suiza",Malmö,,,,,factual-web
+2243,Valery Koshlyakov,Cream 3,,1962-06-21,"Salsk, Rusia",,,,,Bienal de Venecia 2003,factual-web
+2244,Katarzyna Kozyra,Cream 3,,1963-02-01,"Varsovia, Polonia",Berlín,,,https://en.wikipedia.org/wiki/Katarzyna_Kozyra,Bienal de Venecia 1999,factual-web
 2245,Lee Bul,Cream 3 | Bienal de Venecia,,1964,Corea del Sur,Seúl,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
 2246,LOT-EK,Cream 3,,,,,,,,,pendiente
 2247,Rafael Lozano-Hemmer,Cream 3,,1967,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/rafael-lozano-hemmer-11405,,factual-tate
-2248,Chad McCail,Cream 3,,,,,,,,,pendiente
-2249,Patrick McMullan,Cream 3,,,,,,,,,pendiente
+2248,Chad McCail,Cream 3,,1961,"Mánchester, Reino Unido",Thankerton,,,,,factual-web
+2249,Patrick McMullan,Cream 3,,,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Patrick_McMullan,,factual-web
 2250,Jorge Macchi,Cream 3,,1963,"La Plata, Argentina",,,,http://www.tate.org.uk/art/artists/jorge-macchi-6024,,factual-tate
-2251,Dorit Margreiter,Cream 3,,,,,,,,,pendiente
-2252,Helen Mirra,Cream 3,,,,,,,,,pendiente
+2251,Dorit Margreiter,Cream 3,,1967,"Viena, Austria",Viena,,,,,factual-web
+2252,Helen Mirra,Cream 3,,1970,"Rochester, EE.UU.",,,,https://en.wikipedia.org/wiki/Helen_Mirra,,factual-web
 2253,Jonathan Monk,Cream 3,,1969,"Leicester, United Kingdom",,,,http://www.tate.org.uk/art/artists/jonathan-monk-8296,,factual-tate
-2254,Jun Nguyen-Hatsushiba,Cream 3,,,,,,,,,pendiente
-2255,Carsten Nicolai,Cream 3,,,,,,,,,pendiente
+2254,Jun Nguyen-Hatsushiba,Cream 3,,1968,"Tokio, Japón",Ciudad Ho Chi Minh,,,https://en.wikipedia.org/wiki/Jun_Nguyen-Hatsushiba,,factual-web
+2255,Carsten Nicolai,Cream 3,,1965-09-18,"Chemnitz, Alemania",Berlín,,,https://en.wikipedia.org/wiki/Carsten_Nicolai,,factual-web
 2256,Olaf Nicolai,Cream 3 | Bienal de Venecia,,1962,Alemania,Berlín,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-2257,Motohiko Odani,Cream 3,,,,,,,,,pendiente
-2258,Marcel Odenbach,Cream 3,,,,,,,,,pendiente
+2257,Motohiko Odani,Cream 3,,1972,"Kioto, Japón",Tokio,,,,Bienal de Venecia 2003,factual-web
+2258,Marcel Odenbach,Cream 3,,1953,"Colonia, Alemania",Colonia,,,https://en.wikipedia.org/wiki/Marcel_Odenbach,documenta 8 (1987),factual-web
 2259,Philippe Parreno,Cream 3 | Bienal de Venecia,,1964,"Oran, Al-Jaza'ir",París,,,http://www.tate.org.uk/art/artists/philippe-parreno-9107,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
-2260,John Pilson,Cream 3,,,,,,,,,pendiente
-2261,Tadej Pogačar,Cream 3,,,,,,,,,pendiente
-2262,Thomas Rentmeister,Cream 3,,,,,,,,,pendiente
-2263,Jewyo Rhii,Cream 3,,,,,,,,,pendiente
+2260,John Pilson,Cream 3,,1968,"Nueva York, EE.UU.",Nueva York,,,,Bienal de Venecia 2001,factual-web
+2261,Tadej Pogačar,Cream 3,,1960,"Liubliana, Eslovenia",Liubliana,,,,,factual-web
+2262,Thomas Rentmeister,Cream 3,,1964-03-04,"Reken, Alemania",Berlín,,,https://en.wikipedia.org/wiki/Thomas_Rentmeister,,factual-web
+2263,Jewyo Rhii,Cream 3,,1971,"Seúl, Corea del Sur",Seúl,,,https://en.wikipedia.org/wiki/Jewyo_Rhii,Korea Artist Prize (premio 2019),factual-web
 2264,Nuno Ribeiro,Cream 3,,,,,,,,,pendiente
 2265,de Rijke/de Rooij,Cream 3,,,,,,,,,pendiente
 2266,Daniela Rossell,Cream 3,,1973,México,,,,http://www.tate.org.uk/art/artists/daniela-rossell-6237,,factual-tate
-2267,Maruch Sántiz Gómez,Cream 3,,,,,,,,,pendiente
-2268,Jörg Sasse,Cream 3,,,,,,,,,pendiente
-2269,Ene-Liis Semper,Cream 3,,,,,,,,,pendiente
-2270,Ana Maria Tavares,Cream 3,,,,,,,,,pendiente
-2271,Slaven Tolj,Cream 3,,,,,,,,,pendiente
-2272,Enzo Umbaca,Cream 3,,,,,,,,,pendiente
-2273,Günter Umberg,Cream 3,,,,,,,,,pendiente
-2274,Sislej Xhafa,Cream 3,,,,,,,,,pendiente
+2267,Maruch Sántiz Gómez,Cream 3,,1975,"Chamula, México",,,,,,factual-web
+2268,Jörg Sasse,Cream 3,,1962,"Bad Salzuflen, Alemania",,,,https://en.wikipedia.org/wiki/J%C3%B6rg_Sasse,,factual-web
+2269,Ene-Liis Semper,Cream 3,,1969-04-04,"Tallin, Estonia",Tallin,,,https://en.wikipedia.org/wiki/Ene-Liis_Semper,Bienal de Venecia 2001,factual-web
+2270,Ana Maria Tavares,Cream 3,,1958,"Belo Horizonte, Brasil",São Paulo,,,https://en.wikipedia.org/wiki/Ana_Maria_Tavares,,factual-web
+2271,Slaven Tolj,Cream 3,,1964-04-14,"Dubrovnik, Croacia",Dubrovnik,,,https://en.wikipedia.org/wiki/Slaven_Tolj,,factual-web
+2272,Enzo Umbaca,Cream 3,,1964,"Caulonia, Italia",Milán,,,,,factual-web
+2273,Günter Umberg,Cream 3,,1942,"Bonn, Alemania",,,,,,factual-web
+2274,Sislej Xhafa,Cream 3,,1970,"Peja, Kosovo",Nueva York,,,https://en.wikipedia.org/wiki/Sislej_Xhafa,Bienal de Venecia 2017,factual-web
 2275,Carla Zaccagnini,Cream 3,,1973,"Buenos Aires, Argentina",,,,http://www.tate.org.uk/art/artists/carla-zaccagnini-14306,,factual-tate
-2276,Vadim Zakharov,Cream 3,,,,,,,,,pendiente
+2276,Vadim Zakharov,Cream 3,,1959,"Dushanbe, Tayikistán",Berlín,,,https://en.wikipedia.org/wiki/Vadim_Zakharov,Bienal de Venecia 2013,factual-web
 2277,AIDS-3D,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2278,Ziad Antar,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2279,Wojciech Bąkowski,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2280,Dineo Seshee Bopape,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2281,Mohamed Bourouissa,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
+2278,Ziad Antar,New Museum Triennial,,1978,"Saida, Líbano",,,,https://en.wikipedia.org/wiki/Ziad_Antar,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
+2279,Wojciech Bąkowski,New Museum Triennial,,1979,"Poznań, Polonia",Varsovia,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
+2280,Dineo Seshee Bopape,New Museum Triennial,,1981,"Polokwane, Sudáfrica",Johannesburgo,,,https://en.wikipedia.org/wiki/Dineo_Seshee_Bopape,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
+2281,Mohamed Bourouissa,New Museum Triennial,,1978,"Blida, Argelia",París,,,https://en.wikipedia.org/wiki/Mohamed_Bourouissa,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Deutsche Börse Photography Prize (premio 2020)",factual-web
 2282,Chu Yun,New Museum Triennial | Bienal de Venecia,,1977,"Jiangxi, China",,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2283,Keren Cytter,New Museum Triennial | Bienal de Venecia,,1977,Yisra'el,,,,http://www.tate.org.uk/art/artists/keren-cytter-14581,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
-2284,Mariechen Danz,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2285,Faye Driscoll,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2286,Patricia Esquivias,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
+2284,Mariechen Danz,New Museum Triennial,,1980,"Dublín, Irlanda",Berlín,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
+2285,Faye Driscoll,New Museum Triennial,,1975-11-22,"Los Ángeles, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Faye_Driscoll,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
+2286,Patricia Esquivias,New Museum Triennial,,1979,"Caracas, Venezuela",Madrid,,,https://en.wikipedia.org/wiki/Patricia_Esquivias,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 2287,Mark Essen,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
 2288,Ruth Ewan,New Museum Triennial,,1980,"Aberdeen, United Kingdom",,,,http://www.tate.org.uk/art/artists/ruth-ewan-12939,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-tate
-2289,Brendan Fowler,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
+2289,Brendan Fowler,New Museum Triennial,,1978-03-24,"Berkeley, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Brendan_Fowler,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 2290,Luke Fowler,New Museum Triennial,,1978,"Glasgow, United Kingdom",,,,http://www.tate.org.uk/art/artists/luke-fowler-9061,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-tate
-2291,Liz Glynn,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
+2291,Liz Glynn,New Museum Triennial,,1981,"Boston, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Liz_Glynn,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 2292,Emre Hüner,New Museum Triennial,,1977,"Istanbul, Türkiye",,,,http://www.tate.org.uk/art/artists/emre-huner-13685,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-tate
-2293,Matt Keegan,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
+2293,Matt Keegan,New Museum Triennial,,1976,"Manhasset, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Matt_Keegan,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 2294,Tigran Khachatryan,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2295,Adriana Lara,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2296,Elad Lassry,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2297,Liu Chuang,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2298,Guthrie Lonergan,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2299,Anna Molska,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2300,Ciprian Mureşan,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2301,Ahmet Öğüt,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2302,Stephen G. Rhodes,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2303,Alexander Ugay,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
+2295,Adriana Lara,New Museum Triennial,,1978,"Ciudad de México, México",Ciudad de México,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
+2296,Elad Lassry,New Museum Triennial,,1977-12-26,"Tel Aviv, Israel",,,,https://en.wikipedia.org/wiki/Elad_Lassry,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
+2297,Liu Chuang,New Museum Triennial,,1978,"Hubei, China",Pekín,,,https://en.wikipedia.org/wiki/Liu_Chuang_(artist),"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
+2298,Guthrie Lonergan,New Museum Triennial,,1984,"Los Ángeles, EE.UU.",Los Ángeles,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
+2299,Anna Molska,New Museum Triennial,,1983,"Prudnik, Polonia",Varsovia,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
+2300,Ciprian Mureşan,New Museum Triennial,,1977,"Dej, Rumanía",Cluj-Napoca,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2009",factual-web
+2301,Ahmet Öğüt,New Museum Triennial,,1981,"Diyarbakır, Turquía",Ámsterdam,,,https://en.wikipedia.org/wiki/Ahmet_%C3%96%C4%9F%C3%BCt,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
+2302,Stephen G. Rhodes,New Museum Triennial,,1977,"Houston, EE.UU.",,,,https://en.wikipedia.org/wiki/Stephen_G._Rhodes,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
+2303,Alexander Ugay,New Museum Triennial,,1978,"Kyzylorda, Kazajistán",Almatý,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 2304,Tris Vonna-Michell,New Museum Triennial,,1982,"Rochford, United Kingdom",,,,http://www.tate.org.uk/art/artists/tris-vonna-michell-11893,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-tate
-2305,Icaro Zorbar,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
-2306,Phaidon / MOCA Store / Ocula): Lawrence Abu Hamdan,Prime,,,,,,,,,pendiente
-2307,Farah Al Qasimi,Prime,,,,,,,,,pendiente
-2308,Danielle Brathwaite-Shirley,Prime,,,,,,,,,pendiente
-2309,Jordan Casteel,Prime,,,,,,,,,pendiente
+2305,Icaro Zorbar,New Museum Triennial,,1977,"Bogotá, Colombia",,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
+2306,Phaidon / MOCA Store / Ocula): Lawrence Abu Hamdan,Prime,,1985,"Amán, Jordania",Beirut,,,https://en.wikipedia.org/wiki/Lawrence_Abu_Hamdan,Turner Prize (premio 2019),factual-web
+2307,Farah Al Qasimi,Prime,,1991,"Abu Dabi, Emiratos Árabes Unidos",Brooklyn,,,https://en.wikipedia.org/wiki/Farah_Al_Qasimi,,factual-web
+2308,Danielle Brathwaite-Shirley,Prime,,1995,"Londres, Reino Unido",,,,https://en.wikipedia.org/wiki/Danielle_Brathwaite-Shirley,,factual-web
+2309,Jordan Casteel,Prime,,1989,"Denver, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Jordan_Casteel,,factual-web
 2310,Kudzanai-Violet Hwami,Prime | Bienal de Venecia,,1993,"Gutu, Zimbabue",Londres,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
-2311,Joy Labinjo,Prime,,,,,,,,,pendiente
-2312,Lina Lapelytė,Prime,,,,,,,,,pendiente
-2313,Tyler Mitchell,Prime,,,,,,,,,pendiente
-2314,Ima-Abasi Okon,Prime,,,,,,,,,pendiente
+2311,Joy Labinjo,Prime,,1994,"Dagenham, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Joy_Labinjo,,factual-web
+2312,Lina Lapelytė,Prime,,1984,"Kaunas, Lituania",,,,,Bienal de Venecia 2019 (León de Oro),factual-web
+2313,Tyler Mitchell,Prime,,1995-04-12,"Atlanta, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Tyler_Mitchell_(photographer),,factual-web
+2314,Ima-Abasi Okon,Prime,,1981,"Londres, Reino Unido",Londres,,,,,factual-web
 2315,Thao Nguyen Phan,Prime | Bienal de Venecia,,1987,"Ciudad Ho Chi Minh, Vietnam",Ciudad Ho Chi Minh,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
-2316,Shen Xin,Prime,,,,,,,,,pendiente
-2317,Zadie Xa,Prime,,,,,,,,,pendiente
-2318,Rachel Rose,Prime,,,,,,,,,pendiente
-2319,Samara Scott,Prime | 100 Sculptors of Tomorrow,,,,,,,,,pendiente
-2320,Trevor Yeung,Prime,,,,,,,,,pendiente
-2321,beerslondon.com/exhibitions/94): Aglae Bassens,100 Painters of Tomorrow,,,,,,,,,pendiente
-2322,Julieta Aguinaco,100 Painters of Tomorrow,,,,,,,,,pendiente
-2323,Chechu Alava,100 Painters of Tomorrow,,,,,,,,,pendiente
-2324,Kristina Ališauskaitė,100 Painters of Tomorrow,,,,,,,,,pendiente
-2325,Cornelia Baltes,100 Painters of Tomorrow,,,,,,,,,pendiente
+2316,Shen Xin,Prime,,1990,"Chengdu, China",,,,,,factual-web
+2317,Zadie Xa,Prime,,1983,"Vancouver, Canadá",Londres,,,https://en.wikipedia.org/wiki/Zadie_Xa,Turner Prize (nominación 2025),factual-web
+2318,Rachel Rose,Prime,,1986,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Rachel_Rose_(artist),,factual-web
+2319,Samara Scott,Prime | 100 Sculptors of Tomorrow,,1984,"Londres, Reino Unido",Londres,,,,,factual-web
+2320,Trevor Yeung,Prime,,1988,"Dongguan, China",Hong Kong,,,,Bienal de Venecia 2024,factual-web
+2321,beerslondon.com/exhibitions/94): Aglae Bassens,100 Painters of Tomorrow,,1986,,Londres,,,,,factual-web
+2322,Julieta Aguinaco,100 Painters of Tomorrow,,1983,"Ciudad de México, México",Ciudad de México,,,,,factual-web
+2323,Chechu Alava,100 Painters of Tomorrow,,1973,"Piedras Blancas, España",París,,,,,factual-web
+2324,Kristina Ališauskaitė,100 Painters of Tomorrow,,1984,"Klaipeda, Lituania",Vilna,,,https://en.wikipedia.org/wiki/Kristina_Ali%C5%A1auskait%C4%97,,factual-web
+2325,Cornelia Baltes,100 Painters of Tomorrow,,1978,"Mönchengladbach, Alemania",,,,,,factual-web
 2326,Emma Bennett,100 Painters of Tomorrow,,,,,,,,,pendiente
-2327,GL Brierley,100 Painters of Tomorrow,,,,,,,,,pendiente
-2328,Sze Yang Boo,100 Painters of Tomorrow,,,,,,,,,pendiente
-2329,Jane Bustin,100 Painters of Tomorrow,,,,,,,,,pendiente
-2330,Carla Busuttil,100 Painters of Tomorrow,,,,,,,,,pendiente
-2331,Blake Daniels,100 Painters of Tomorrow,,,,,,,,,pendiente
-2332,Adam Dix,100 Painters of Tomorrow,,,,,,,,,pendiente
-2333,Dejan Dukic,100 Painters of Tomorrow,,,,,,,,,pendiente
+2327,GL Brierley,100 Painters of Tomorrow,,1965,"Londres, Reino Unido",Londres,,,,,factual-web
+2328,Sze Yang Boo,100 Painters of Tomorrow,,1965,"Singapur, Singapur",Singapur,,,https://www.booszeyang.com,,factual-web
+2329,Jane Bustin,100 Painters of Tomorrow,,1964,"Borehamwood, Reino Unido",Londres,,,,,factual-web
+2330,Carla Busuttil,100 Painters of Tomorrow,,1982,"Johannesburgo, Sudáfrica",Oxford,,,,,factual-web
+2331,Blake Daniels,100 Painters of Tomorrow,,1990,"Cincinnati, EE.UU.",,,,,,factual-web
+2332,Adam Dix,100 Painters of Tomorrow,,1967,,Londres,,,,,factual-web
+2333,Dejan Dukic,100 Painters of Tomorrow,,,,Viena,,,,,factual-web
 2334,Zhang Fan,100 Painters of Tomorrow,,,,,,,,,pendiente
-2335,Madeline von Foerster,100 Painters of Tomorrow,,,,,,,,,pendiente
+2335,Madeline von Foerster,100 Painters of Tomorrow,,1973,"San Francisco, EE.UU.",,,,https://en.wikipedia.org/wiki/Madeline_von_Foerster,,factual-web
 2336,Marc Freeman,100 Painters of Tomorrow,,,,,,,,,pendiente
-2337,Nuno Gil,100 Painters of Tomorrow,,,,,,,,,pendiente
+2337,Nuno Gil,100 Painters of Tomorrow,,1983,"Lisboa, Portugal",,,,,,factual-web
 2338,Pablo Griss,100 Painters of Tomorrow,,,,,,,,,pendiente
 2339,Kate Groobey,100 Painters of Tomorrow,,,,,,,,,pendiente
 2340,Andre Hemer,100 Painters of Tomorrow,,,,,,,,,pendiente
