@@ -1270,7 +1270,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1269,Ricky Swallow,Whitney Biennial | Vitamin 3-D,,1974,"San Remo, Australia",Los Ángeles,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 1270,Tony Tasset,Whitney Biennial,,1960,"Cincinnati, OH, EE.UU.",Chicago,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 1271,Sergei Tcherepnin,Whitney Biennial,,1981,"Watertown, MA, EE.UU.",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
-1272,Triple Canopy,Whitney Biennial,,,,Brooklyn,,,,"Whitney Biennial 2014, Nueva York",pendiente
+1272,Triple Canopy,Whitney Biennial,,,,Brooklyn,,,https://en.wikipedia.org/wiki/Triple_Canopy_(online_magazine),"Whitney Biennial 2014, Nueva York",factual-web
 1273,Philip Vanderhyden,Whitney Biennial,,1978,"Menasha, WI, EE.UU.",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 1274,Pedro Vélez,Whitney Biennial,,1973,"Bayamón, Puerto Rico",Chicago; Milwaukee,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
 1275,Dan Walsh,Whitney Biennial,,1960,"Filadelfia, PA, EE.UU.",Nueva York,,,,"Whitney Biennial 2014, Nueva York",factual-whitney
@@ -1713,7 +1713,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1712,Kurt Kauper,Whitney Biennial,,1966,"Indianápolis, EE.UU.",Nueva York,,,,"Whitney Biennial 2000, Nueva York",factual-web
 1713,Silvia Kolbowski,Whitney Biennial,,1953,"Buenos Aires, Argentina",Nueva York,,,https://en.wikipedia.org/wiki/Silvia_Kolbowski,"Whitney Biennial 2000, Nueva York; Bienal Whitney",factual-web
 1714,Harmony Korine,Whitney Biennial,,1973-01-04,"Bolinas, EE.UU.",Miami,,,https://en.wikipedia.org/wiki/Harmony_Korine,"Whitney Biennial 2000, Nueva York",factual-web
-1715,Ruth Leitman,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
+1715,Ruth Leitman,Whitney Biennial,,1961,"Filadelfia, EE.UU.",Chicago,,,,"Whitney Biennial 2000, Nueva York",factual-web
 1716,Annette Lemieux,Whitney Biennial,,1957,"Norfolk, EE.UU.",Boston,,,https://en.wikipedia.org/wiki/Annette_Lemieux,"Whitney Biennial 2000, Nueva York",factual-web
 1717,Les LeVeque,Whitney Biennial,,,,Nueva York,,,https://en.wikipedia.org/wiki/Les_LeVeque,"Whitney Biennial 2000, Nueva York",factual-web
 1718,Anne Makepeace,Whitney Biennial,,1947,"Middlebury, EE.UU.",,,,,"Whitney Biennial 2000, Nueva York",factual-web
@@ -1721,7 +1721,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1720,Josiah McElheny,Whitney Biennial,,1966,"Boston, United States",,,,http://www.tate.org.uk/art/artists/josiah-mcelheny-9572,"Whitney Biennial 2000, Nueva York",factual-tate
 1721,Franco Mondini-Ruiz,Whitney Biennial,,1961,"San Antonio, EE.UU.",,,,https://en.wikipedia.org/wiki/Franco_Mondini-Ruiz,"Whitney Biennial 2000, Nueva York",factual-web
 1722,Errol Morris,Whitney Biennial,,1948-02-05,"Hewlett, EE.UU.",,,,https://en.wikipedia.org/wiki/Errol_Morris,"Whitney Biennial 2000, Nueva York; Óscar al mejor documental (The Fog of War, 2004)",factual-web
-1723,Mandy Morrison,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
+1723,Mandy Morrison,Whitney Biennial,,,,,,,https://mandymorrisonart.com,"Whitney Biennial 2000, Nueva York; expuso en el Whitney Museum of American Art",factual-web
 1724,Vik Muniz,Whitney Biennial | Vitamin D,,1961,"São Paulo, Brasil",,,,http://www.tate.org.uk/art/artists/vik-muniz-4231,"Whitney Biennial 2000, Nueva York",factual-tate
 1725,Nic Nicosia,Whitney Biennial,,1951,"Dallas, EE.UU.",Dallas,,,https://en.wikipedia.org/wiki/Nic_Nicosia,"Whitney Biennial 2000, Nueva York",factual-web
 1726,Carl Pope,Whitney Biennial,,1961,"Indianápolis, EE.UU.",Indianápolis,,,https://en.wikipedia.org/wiki/Carl_Robert_Pope,"Whitney Biennial 2000, Nueva York",factual-web
@@ -2036,7 +2036,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2035,Senga Nengudi,Vitamin T,,1943-09-18,"Chicago, EE.UU.",Colorado Springs,,,https://en.wikipedia.org/wiki/Senga_Nengudi,Premio Nasher (premio 2023),factual-web
 2036,Maria Nepomuceno,Vitamin T,,1976,"Río de Janeiro, Brasil",Río de Janeiro,,,https://en.wikipedia.org/wiki/Maria_Nepomuceno,,factual-web
 2037,Eko Nugroho,Vitamin T,,1977,"Yogyakarta, Indonesia",Yogyakarta,,,,,factual-web
-2038,Katherine Nuñez & Issay Rodriguez,Vitamin T,,,,,,,,,pendiente
+2038,Katherine Nuñez & Issay Rodriguez,Vitamin T,,,,Manila,,,,participación en la Bienal de Venecia 2017,factual-web
 2039,Sara Ouhaddou,Vitamin T,,1986,"Draguignan, Francia",,,,,Manifesta 13 (2020),factual-web
 2040,Rosana Palazyan,Vitamin T,,1963,"Río de Janeiro, Brasil",Río de Janeiro,,,,,factual-web
 2041,Hardeep Pandhal,Vitamin T,,1985,"Birmingham, Reino Unido",Glasgow,,,https://en.wikipedia.org/wiki/Hardeep_Pandhal,,factual-web
@@ -2101,7 +2101,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2100,Shubigi Rao,Vitamin Txt,,1975,"Mumbai, India",Singapur,,,https://en.wikipedia.org/wiki/Shubigi_Rao,Bienal de Venecia 2022,factual-web
 2101,Kameelah Janan Rasheed,Vitamin Txt,,1985,"East Palo Alto, EE.UU.",,,,https://en.wikipedia.org/wiki/Kameelah_Janan_Rasheed,,factual-web
 2102,Ed Ruscha,Vitamin Txt,,1937-12-16,"Omaha, EE.UU.",Culver City,,,https://en.wikipedia.org/wiki/Edward_Ruscha,Bienal de Venecia 2005,factual-web
-2103,Studio for Propositional Cinema,Vitamin Txt,,,,,,,,,pendiente
+2103,Studio for Propositional Cinema,Vitamin Txt,,,,,,,https://studioforpropositionalcinema.com/,,factual-web
 2104,Hank Willis Thomas,Vitamin Txt,,1976,"Plainfield, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Hank_Willis_Thomas,,factual-web
 2105,Nora Turato,Vitamin Txt,,1991,"Zagreb, Croacia",Ámsterdam,,,https://en.wikipedia.org/wiki/Nora_Turato,,factual-web
 2106,Kaylene Whiskey,Vitamin Txt,,1976,"Alice Springs, Australia",Indulkana,,,https://en.wikipedia.org/wiki/Kaylene_Whiskey,,factual-web
@@ -2149,7 +2149,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2148,Liam Gillick,Cream,,1964,"Aylesbury, United Kingdom",,,,http://www.tate.org.uk/art/artists/liam-gillick-2592,,factual-tate
 2149,Kay Hassan,Cream | Bienal de Venecia,,1956,Sudáfrica,Johannesburgo,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2150,José Antonio Hernández-Díez,Cream,,1964,"Caracas, Venezuela",Barcelona,,,https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Hern%C3%A1ndez-D%C3%ADez,Bienal de Venecia 2003,factual-web
-2151,Christine & Irene Hohenbüchler,Cream,,,,,,,,,pendiente
+2151,Christine & Irene Hohenbüchler,Cream,,,,,,,https://www.martinjanda.at/artists/christine-irene-hohenbuchler/,representaron a Austria en la Bienal de Venecia 1999,factual-web
 2152,Fabrice Hybert,Cream,,1961-07-12,"Luçon, Francia",,,,https://en.wikipedia.org/wiki/Fabrice_Hybert,Bienal de Venecia 1997,factual-web
 2153,Inventory,Cream,,1996,,,,,http://www.tate.org.uk/art/artists/inventory-4561,,factual-tate
 2154,Simone Aaberg Kærn,Cream,,1969,"Copenhague, Dinamarca",Copenhague,,,,,factual-web
@@ -2178,7 +2178,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2177,Chen Chieh-Jen,Fresh Cream,,1960,"Taoyuan, Taiwán",,,,,,factual-web
 2178,Choi Jeong Hwa,Fresh Cream,,1961,"Seúl, Corea del Sur",Seúl,,,https://en.wikipedia.org/wiki/Choi_Jeong_Hwa,,factual-web
 2179,Nicola Costantino,Fresh Cream,,1964,"Rosario, Argentina",Buenos Aires,,,,Bienal de Venecia 2013,factual-web
-2180,Iftikhar & Elizabeth Dadi,Fresh Cream,,,,,,,,,pendiente
+2180,Iftikhar & Elizabeth Dadi,Fresh Cream,,,,Ithaca,,,http://www.dadiart.net,,factual-web
 2181,Lucky DeBellevue,Fresh Cream,,1957,"Lafayette, EE.UU.",Nueva York,,,https://www.luckydebellevue.com/,,factual-web
 2182,Wim Delvoye,Fresh Cream,,1965-01-14,"Wervik, Bélgica",Gante,,,https://en.wikipedia.org/wiki/Wim_Delvoye,,factual-web
 2183,Jason Dodge,Fresh Cream,,1969,"Newtown, EE.UU.",Berlín,,,,,factual-web
@@ -2214,7 +2214,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2213,Francisco Ruiz de Infante,Fresh Cream,,1966-03-05,"Vitoria, España",Estrasburgo,,,,,factual-web
 2214,Arsen Savadov & Georgy Senchenko,Fresh Cream,,,,,,,,,pendiente
 2215,Tilo Schulz,Fresh Cream,,1972,"Leipzig, Alemania",Berlín,,,,,factual-web
-2216,Smith/Stewart,Fresh Cream,,,,,,,,,pendiente
+2216,Smith/Stewart,Fresh Cream,,,,Glasgow,,,https://www.smithstewart.co.uk/,,factual-web
 2217,Renée Stout,Fresh Cream,,1958,"Junction City, EE.UU.",Washington,,,https://en.wikipedia.org/wiki/Renee_Stout,,factual-web
 2218,Apolonija Šušteršič,Fresh Cream,,1965,"Liubliana, Eslovenia",,,,,,factual-web
 2219,Tomoko Takahashi,Fresh Cream,,1966,"Tokyo, Nihon",,,,http://www.tate.org.uk/art/artists/tomoko-takahashi-4451,,factual-tate
@@ -2222,8 +2222,8 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2221,Jaan Toomik,Fresh Cream,,1961-10-02,"Tartu, Estonia",Tallin,,,https://en.wikipedia.org/wiki/Jaan_Toomik,,factual-web
 2222,Sergio Vega,Fresh Cream,,1959,"Buenos Aires, Argentina",,,,,,factual-web
 2223,Miwa Yanagi,Fresh Cream,,1967,"Kobe, Japón",,,,https://en.wikipedia.org/wiki/Miwa_Yanagi,,factual-web
-2224,Dolores Zinny & Juan Maidagán,Fresh Cream,,,,,,,,,pendiente
-2225,Sonia Abián,Cream 3,,,,,,,,,pendiente
+2224,Dolores Zinny & Juan Maidagán,Fresh Cream,,,,,,,https://zinny-maidagan.com/,,factual-web
+2225,Sonia Abián,Cream 3,,1966,"Posadas, Argentina",Barcelona,,,,,factual-web
 2226,Haluk Akakçe,Cream 3,,1970,"Ankara, Turquía",,,,https://en.wikipedia.org/wiki/Haluk_Akak%C3%A7e,fallecido 2023,factual-web
 2227,Ricci Albenda,Cream 3,,1966,"Brooklyn, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Ricci_Albenda,,factual-web
 2228,Paweł Althamer,Cream 3 | Bienal de Venecia,,1967,"Varsovia, Polonia",,,,,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
@@ -2244,7 +2244,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2243,Valery Koshlyakov,Cream 3,,1962-06-21,"Salsk, Rusia",,,,,Bienal de Venecia 2003,factual-web
 2244,Katarzyna Kozyra,Cream 3,,1963-02-01,"Varsovia, Polonia",Berlín,,,https://en.wikipedia.org/wiki/Katarzyna_Kozyra,Bienal de Venecia 1999,factual-web
 2245,Lee Bul,Cream 3 | Bienal de Venecia,,1964,Corea del Sur,Seúl,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-2246,LOT-EK,Cream 3,,,,,,,,,pendiente
+2246,LOT-EK,Cream 3,,,,Nueva York,,,https://en.wikipedia.org/wiki/LOT-EK,,factual-web
 2247,Rafael Lozano-Hemmer,Cream 3,,1967,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/rafael-lozano-hemmer-11405,,factual-tate
 2248,Chad McCail,Cream 3,,1961,"Mánchester, Reino Unido",Thankerton,,,,,factual-web
 2249,Patrick McMullan,Cream 3,,,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Patrick_McMullan,,factual-web
@@ -2263,7 +2263,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2262,Thomas Rentmeister,Cream 3,,1964-03-04,"Reken, Alemania",Berlín,,,https://en.wikipedia.org/wiki/Thomas_Rentmeister,,factual-web
 2263,Jewyo Rhii,Cream 3,,1971,"Seúl, Corea del Sur",Seúl,,,https://en.wikipedia.org/wiki/Jewyo_Rhii,Korea Artist Prize (premio 2019),factual-web
 2264,Nuno Ribeiro,Cream 3,,,,,,,,,pendiente
-2265,de Rijke/de Rooij,Cream 3,,,,,,,,,pendiente
+2265,de Rijke/de Rooij,Cream 3,,,,,,,,representaron a los Países Bajos en la Bienal de Venecia 2005,factual-web
 2266,Daniela Rossell,Cream 3,,1973,México,,,,http://www.tate.org.uk/art/artists/daniela-rossell-6237,,factual-tate
 2267,Maruch Sántiz Gómez,Cream 3,,1975,"Chamula, México",,,,,,factual-web
 2268,Jörg Sasse,Cream 3,,1962,"Bad Salzuflen, Alemania",,,,https://en.wikipedia.org/wiki/J%C3%B6rg_Sasse,,factual-web
@@ -2275,7 +2275,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2274,Sislej Xhafa,Cream 3,,1970,"Peja, Kosovo",Nueva York,,,https://en.wikipedia.org/wiki/Sislej_Xhafa,Bienal de Venecia 2017,factual-web
 2275,Carla Zaccagnini,Cream 3,,1973,"Buenos Aires, Argentina",,,,http://www.tate.org.uk/art/artists/carla-zaccagnini-14306,,factual-tate
 2276,Vadim Zakharov,Cream 3,,1959,"Dushanbe, Tayikistán",Berlín,,,https://en.wikipedia.org/wiki/Vadim_Zakharov,Bienal de Venecia 2013,factual-web
-2277,AIDS-3D,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
+2277,AIDS-3D,New Museum Triennial,,,,Berlín,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 2278,Ziad Antar,New Museum Triennial,,1978,"Saida, Líbano",,,,https://en.wikipedia.org/wiki/Ziad_Antar,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 2279,Wojciech Bąkowski,New Museum Triennial,,1979,"Poznań, Polonia",Varsovia,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 2280,Dineo Seshee Bopape,New Museum Triennial,,1981,"Polokwane, Sudáfrica",Johannesburgo,,,https://en.wikipedia.org/wiki/Dineo_Seshee_Bopape,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
@@ -2292,7 +2292,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2291,Liz Glynn,New Museum Triennial,,1981,"Boston, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Liz_Glynn,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 2292,Emre Hüner,New Museum Triennial,,1977,"Istanbul, Türkiye",,,,http://www.tate.org.uk/art/artists/emre-huner-13685,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-tate
 2293,Matt Keegan,New Museum Triennial,,1976,"Manhasset, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Matt_Keegan,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
-2294,Tigran Khachatryan,New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
+2294,Tigran Khachatryan,New Museum Triennial,,1980,"Ereván, Armenia",Ereván,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; participó en la Trienal del New Museum, Nueva York (2009)",factual-web
 2295,Adriana Lara,New Museum Triennial,,1978,"Ciudad de México, México",Ciudad de México,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 2296,Elad Lassry,New Museum Triennial,,1977-12-26,"Tel Aviv, Israel",,,,https://en.wikipedia.org/wiki/Elad_Lassry,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 2297,Liu Chuang,New Museum Triennial,,1978,"Hubei, China",Pekín,,,https://en.wikipedia.org/wiki/Liu_Chuang_(artist),"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
@@ -2324,7 +2324,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2323,Chechu Alava,100 Painters of Tomorrow,,1973,"Piedras Blancas, España",París,,,,,factual-web
 2324,Kristina Ališauskaitė,100 Painters of Tomorrow,,1984,"Klaipeda, Lituania",Vilna,,,https://en.wikipedia.org/wiki/Kristina_Ali%C5%A1auskait%C4%97,,factual-web
 2325,Cornelia Baltes,100 Painters of Tomorrow,,1978,"Mönchengladbach, Alemania",,,,,,factual-web
-2326,Emma Bennett,100 Painters of Tomorrow,,,,,,,,,pendiente
+2326,Emma Bennett,100 Painters of Tomorrow,,1974,"Wellington, Reino Unido",,,,,,factual-web
 2327,GL Brierley,100 Painters of Tomorrow,,1965,"Londres, Reino Unido",Londres,,,,,factual-web
 2328,Sze Yang Boo,100 Painters of Tomorrow,,1965,"Singapur, Singapur",Singapur,,,https://www.booszeyang.com,,factual-web
 2329,Jane Bustin,100 Painters of Tomorrow,,1964,"Borehamwood, Reino Unido",Londres,,,,,factual-web
@@ -2341,12 +2341,12 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2340,Andre Hemer,100 Painters of Tomorrow,,1981,Nueva Zelanda,Viena,,,https://andrehemer.com/,,factual-web
 2341,Akira Ikezoe,100 Painters of Tomorrow,,1979,"Kochi, Japón",Nueva York,,,,Bienal Whitney 2026,factual-web
 2342,James Kudo,100 Painters of Tomorrow,,1967,"Pereira Barreto, Brasil",São Paulo,,,,,factual-web
-2343,Lael Marshall,100 Painters of Tomorrow,,,,,,,,,pendiente
+2343,Lael Marshall,100 Painters of Tomorrow,,1968,"Seattle, EE.UU.",Nueva York,,,,incluida en 100 Painters of Tomorrow (2014),factual-web
 2344,Tonje Moe,100 Painters of Tomorrow,,,,,,,,,pendiente
 2345,Guillermo Mora,100 Painters of Tomorrow,,1980,"Alcalá de Henares, España",,,,,,factual-web
 2346,Kinga Nowak,100 Painters of Tomorrow,,1977,"Cracovia, Polonia",Cracovia,,,,,factual-web
 2347,Sikelela Owen,100 Painters of Tomorrow,,1984,"Londres, Reino Unido",,,,https://www.sikelelaowen.com,,factual-web
-2348,Emily Platzer,100 Painters of Tomorrow,,,,,,,,,pendiente
+2348,Emily Platzer,100 Painters of Tomorrow,,1989,"Hampshire, Reino Unido",París,,,https://www.emilyplatzer.co.uk,seleccionada en 100 Painters of Tomorrow (2014),factual-web
 2349,Anna Ring,100 Painters of Tomorrow,,,,,,,,,pendiente
 2350,Richard Roth,100 Painters of Tomorrow,,1946,"Nueva York, EE.UU.",Richmond,,,,,factual-web
 2351,Jayanta Roy,100 Painters of Tomorrow,,,,,,,,,pendiente
@@ -2358,7 +2358,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2357,Aleksandar Todorović,100 Painters of Tomorrow,,1982,"Belgrado, Serbia",,,,,,factual-web
 2358,Ivana de Vivanco,100 Painters of Tomorrow,,1989,"Lisboa, Portugal",Leipzig,,,https://www.ivanadevivanco.com/about,,factual-web
 2359,Matthew Weir,100 Painters of Tomorrow,,1977,,Londres,,,,,factual-web
-2360,old.beerslondon.com): Henny Acloque,100 Painters of Tomorrow,,,,,,,,,pendiente
+2360,old.beerslondon.com): Henny Acloque,100 Painters of Tomorrow,,1979,"Londres, Reino Unido",Londres,,,,,factual-web
 2361,Leslie Baum,100 Painters of Tomorrow,,,,Chicago,,,https://www.lesliebaum.net,,factual-web
 2362,Nina Bovasso,100 Painters of Tomorrow,,1965,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Nina_Bovasso,,factual-web
 2363,Dan Brault,100 Painters of Tomorrow,,1979,"Montreal, Canadá",Quebec,,,,,factual-web
@@ -2372,10 +2372,10 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2371,Michael Fanta,100 Painters of Tomorrow,,1989,"Graz, Austria",Viena,,,,,factual-web
 2372,Robert Fry,100 Painters of Tomorrow,,1980,"Londres, Reino Unido",Londres,,,https://robertfrystudio.com/biography/,,factual-web
 2373,Kate Gottgens,100 Painters of Tomorrow,,1965,"Durban, Sudáfrica",Ciudad del Cabo,,,https://www.kategottgens.co.za/biography,,factual-web
-2374,Shahryar Hatami,100 Painters of Tomorrow,,,,,,,,,pendiente
-2375,Hannah Hewitson,100 Painters of Tomorrow,,,,,,,,,pendiente
+2374,Shahryar Hatami,100 Painters of Tomorrow,,,"Teherán, Irán",Teherán,,,https://shahryarhatami.com/,incluido en 100 Painters of Tomorrow (2014),factual-web
+2375,Hannah Hewitson,100 Painters of Tomorrow,,1977,"Oxford, Reino Unido",Londres,,,http://www.hannahhewetson.com/biography,"seleccionada en 100 Painters of Tomorrow (Thames & Hudson, 2014)",factual-web
 2376,Alon Kedem,100 Painters of Tomorrow,,1982,"Ben Shemen, Israel",Jerusalén,,,https://www.alonkedem.art,,factual-web
-2377,Jenny Kemp,100 Painters of Tomorrow,,,,,,,,,pendiente
+2377,Jenny Kemp,100 Painters of Tomorrow,,,,Troy,,,http://www.jennykemp.com,,factual-web
 2378,Tamara K.E,100 Painters of Tomorrow,,1971,"Tiflis, Georgia",Brooklyn,,,,Bienal de Venecia 2003,factual-web
 2379,Frank Maier,100 Painters of Tomorrow,,1966,"Stuttgart, Alemania",Berlín,,,,,factual-web
 2380,Gorka Mohammad,100 Painters of Tomorrow,,1978,"Santander, España",,,,https://www.gorkamohamed.com/biography,,factual-web
@@ -2395,10 +2395,10 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2394,Shulamit Nazarian): Chris Bogia,100 Sculptors of Tomorrow,,1977,"Wilmington, EE.UU.",Nueva York,,,,,factual-web
 2395,Shane Darwent,100 Sculptors of Tomorrow,,1983,,Tulsa,,,,,factual-web
 2396,Mark Whalen,100 Sculptors of Tomorrow,,1982,"Sídney, Australia",Los Ángeles,,,https://markwhalenstudio.com/about/,,factual-web
-2397,Troika,100 Sculptors of Tomorrow,,,,,,,,,pendiente
+2397,Troika,100 Sculptors of Tomorrow,,,,Londres,,,https://troika.uk.com/,,factual-web
 2398,Haroon Mirza,100 Sculptors of Tomorrow | 21st-Century Art Book,,1977,"Londres, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Haroon_Mirza,Bienal de Venecia 2011,factual-web
-2399,Ghost of a Dream,100 Sculptors of Tomorrow,,,,,,,,,pendiente
-2400,Zac Harmon,100 Sculptors of Tomorrow,,,,,,,,,pendiente
+2399,Ghost of a Dream,100 Sculptors of Tomorrow,,,,,,,https://www.ghostofadream.com/,,factual-web
+2400,Zac Harmon,100 Sculptors of Tomorrow,,1981,"Holon, Israel",Nueva York,,,,,factual-web
 2401,Michelle Segre,100 Sculptors of Tomorrow,,1965,"Tel Aviv, Israel",Nueva York,,,,,factual-web
 2402,Alex Chinneck,100 Sculptors of Tomorrow,,1984-10-01,"Bedford, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Alex_Chinneck,,factual-web
 2403,Ben Long,100 Sculptors of Tomorrow,,1978,"Lancaster, Reino Unido",,,,https://en.wikipedia.org/wiki/Ben_Long_(British_artist),,factual-web
@@ -2417,13 +2417,13 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2416,Cindy Sherman,21st-Century Art Book | Bienal de Venecia,,1954,"Glen Ridge, United States",,,,http://www.tate.org.uk/art/artists/cindy-sherman-1938,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
 2417,Banksy,21st-Century Art Book,,,,,,,https://en.wikipedia.org/wiki/Banksy,,factual-web
 2418,Mircea Cantor,21st-Century Art Book,,1977,"Oradea, Rumanía",París,,,https://en.wikipedia.org/wiki/Mircea_Cantor,Premio Marcel Duchamp (premio 2011),factual-web
-2419,Charles Okereke,Art Cities of the Future,,,,,,,,,pendiente
+2419,Charles Okereke,Art Cities of the Future,,1966,"Kano, Nigeria",Lagos,,,,,factual-web
 2420,Donna Ong,Art Cities of the Future,,1978-07-30,"Singapur, Singapur",Singapur,,,https://en.wikipedia.org/wiki/Donna_Ong,,factual-web
 2421,Sandy Adsett,Bienal de Venecia,,1939,"Wairoa, Nueva Zelanda","Hastings, Nueva Zelanda",,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2422,Dia al-Azzawi,Bienal de Venecia,,1939,"Bagdad, Irak",Londres; Jordania; Líbano,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2423,Claudia Alarcón & Silät,Bienal de Venecia,,1989,"Comunidad La Puntana, Salta, Argentina",Comunidad La Puntana,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2424,Claudia Andujar,Bienal de Venecia,,1931,"Neuchâtel, Suiza",São Paulo,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
-2425,Aravani Art Project,Bienal de Venecia,,,"Bangalore, India",India (varias ciudades),,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",pendiente
+2425,Aravani Art Project,Bienal de Venecia,,,"Bangalore, India",India (varias ciudades),,,https://en.wikipedia.org/wiki/Aravani_Art_Project,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-web
 2426,Iván Argote,Bienal de Venecia,,1983,"Bogotá, Colombia",París,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2427,Karimah Ashadu,Bienal de Venecia,,1985,"Londres, Reino Unido",Hamburgo; Lagos,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2428,Dana Awartani,Bienal de Venecia,,1987,"Yeda, Arabia Saudita",Yeda,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
@@ -2434,7 +2434,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2433,Isaac Chong Wai,Bienal de Venecia,,1990,Hong Kong,Berlín; Hong Kong,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2434,Chaouki Choukini,Bienal de Venecia,,1946,"Choukine, Líbano","La Verrière, Francia",,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2435,Chua Mia Tee,Bienal de Venecia,,1931,"Shantou, China",Singapur,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
-2436,Claire Fontaine,Bienal de Venecia,,,"París, Francia",Palermo,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",pendiente
+2436,Claire Fontaine,Bienal de Venecia,,,"París, Francia",Palermo,,,https://en.wikipedia.org/wiki/Claire_Fontaine,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-web
 2437,Manauara Clandestina,Bienal de Venecia,,1992,"Manaos, Brasil",São Paulo,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2438,River Claure,Bienal de Venecia,,1997,"Cochabamba, Bolivia",Cochabamba; La Paz,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2439,Liz Collins,Bienal de Venecia,,1968,"Alexandria, VA, EE.UU.",Brooklyn,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
@@ -2452,7 +2452,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2451,Marlene Gilson,Bienal de Venecia,,1944,"Warrnambool, Australia","Gordon, Australia",,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2452,Brett Graham,Bienal de Venecia,,1967,"Auckland, Nueva Zelanda",Auckland,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2453,Fred Graham,Bienal de Venecia,,1928,"Arapuni, Nueva Zelanda","Waiuku, Nueva Zelanda",,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
-2454,Antonio Jose Guzman & Iva Jankovic,Bienal de Venecia,,,"Ciudad de Panamá; Ruma, Serbia",Ámsterdam; Ciudad de Panamá,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",pendiente
+2454,Antonio Jose Guzman & Iva Jankovic,Bienal de Venecia,,,"Ciudad de Panamá; Ruma, Serbia",Ámsterdam; Ciudad de Panamá,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa); participación en la Bienal de Venecia 2024",factual-web
 2455,Samia Halaby,Bienal de Venecia,,1936,"Jerusalén, Palestina",Nueva York,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2456,Mohamed Hamidi,Bienal de Venecia,,1941,"Casablanca, Marruecos",Casablanca; Azemmour,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2457,Evan Ifekoya,Bienal de Venecia,,1988,"Iperu, Nigeria",Londres,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
@@ -2515,7 +2515,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2514,Sara Jordenö,Bienal de Venecia,,1974,"Umeå, Suecia",Boston,,,http://www.jordeno.com,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive)",factual-web
 2515,Bani Khoshnoudi,Bienal de Venecia,,1977,"Teherán, Irán",,,,https://banikhoshnoudi.com,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive)",factual-web
 2516,Maria Kourkouta & Niki Giannari,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive)",pendiente
-2517,LIMINAL & Border Forensics,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive)",pendiente
+2517,LIMINAL & Border Forensics,Bienal de Venecia,,,,,,,https://liminal-lab.org/,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive); participaron en la 60.a Bienal de Venecia 2024",factual-web
 2518,Jota Mombaça,Bienal de Venecia,,1991,"Natal, Brasil",,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive)",factual-web
 2519,Carlos Motta,Bienal de Venecia,,1978,"Bogotá, Colombia",Nueva York,,,https://en.wikipedia.org/wiki/Carlos_Motta_(artist),"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive); Bienal de Venecia 2024",factual-web
 2520,Pınar Öğrenci,Bienal de Venecia,,1973,"Van, Turquía",Berlín,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive); Bienal de Venecia 2024",factual-web
@@ -2768,7 +2768,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2767,Sunil Gawde,Bienal de Venecia,,1960,"Bombay, India",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2768,Gilbert & George,Bienal de Venecia,,1942,"Londres, Reino Unido",,,,http://www.tate.org.uk/art/artists/gilbert-george-1163,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 2769,Tamara Grcic,Bienal de Venecia,,1964,"Múnich, Alemania",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-2770,Guyton\Walker,Bienal de Venecia,,,EE.UU.,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",pendiente
+2770,Guyton\Walker,Bienal de Venecia,,,EE.UU.,Nueva York,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-web
 2771,Gonkar Gyatso,Bienal de Venecia,,1961,"Lhasa, Tíbet",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2772,Jan Håfström,Bienal de Venecia,,1937,"Estocolmo, Suecia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2773,Anawana Haloba,Bienal de Venecia,,1978,"Livingstone, Zambia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
@@ -2794,7 +2794,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2793,Héctor Zamora,Bienal de Venecia,,1974,Ciudad de México,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2794,Anya Zholud,Bienal de Venecia,,1981,"San Petersburgo, Rusia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2795,Ignasi Aballí,Bienal de Venecia,,1958,"Barcelona, España",Barcelona,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2022 (Pabellón de España)",factual-web
-2796,Alterazioni Video,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2796,Alterazioni Video,Bienal de Venecia,,,,,,,https://en.wikipedia.org/wiki/Alterazioni_Video,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 2797,Giovanni Anselmo,Bienal de Venecia,,1934,"Piemonte, Italia",,,,http://www.tate.org.uk/art/artists/giovanni-anselmo-12475,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2798,Gabriele Basilico,Bienal de Venecia,,1944-08-12,"Milán, Italia",,,,https://en.wikipedia.org/wiki/Gabriele_Basilico,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido 2013",factual-web
 2799,Jan Christiaan Braun,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
@@ -2822,7 +2822,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2821,Sol LeWitt,Bienal de Venecia,,1928,"Hartford, United States",,,,http://www.tate.org.uk/art/artists/sol-lewitt-1504,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2007",factual-tate
 2822,Rosario López,Bienal de Venecia,,1970,"Bogotá, Colombia",Bogotá,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2007",factual-web
 2823,Hiroharu Mori,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
-2824,Projeto Morrinho,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2824,Projeto Morrinho,Bienal de Venecia,,,,Río de Janeiro,,,https://en.wikipedia.org/wiki/Project_Morrinho,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 2825,Oscar Muñoz,Bienal de Venecia,,1951,Colombia,,,,http://www.tate.org.uk/art/artists/oscar-munoz-9099,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2826,Elizabeth Murray,Bienal de Venecia,,1940,"Chicago, United States",,,,http://www.tate.org.uk/art/artists/elizabeth-murray-1683,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2827,Zoran Naskovski,Bienal de Venecia,,1960,"Izbište, Serbia",,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2007",factual-web
@@ -2831,16 +2831,16 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2830,Melik Ohanian,Bienal de Venecia,,1969,,,,,http://www.tate.org.uk/art/artists/melik-ohanian-10282,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2831,Sigmar Polke,Bienal de Venecia,,1941,Niederschlesien,,,,http://www.tate.org.uk/art/artists/sigmar-polke-2213,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2010",factual-tate
 2832,Emily Prince,Bienal de Venecia,,1981,"Gold Run, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Emily_Prince,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2007",factual-web
-2833,José Alejandro Restrepo,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
-2834,David Riff,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2833,José Alejandro Restrepo,Bienal de Venecia,,1959,,Bogotá,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); participó en la 52ª Bienal de Venecia (2007)",factual-web
+2834,David Riff,Bienal de Venecia,,1975,"Londres, Reino Unido",,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); participó en la 52ª Bienal de Venecia (2007)",factual-web
 2835,Susan Rothenberg,Bienal de Venecia,,1945,"Buffalo, United States",,,,http://www.tate.org.uk/art/artists/susan-rothenberg-1872,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2836,Robert Ryman,Bienal de Venecia,,1930,"Nashville-Davidson, United States",,,,http://www.tate.org.uk/art/artists/robert-ryman-1888,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
-2837,Margaret Salmon,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
-2838,Chéri Samba,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2837,Margaret Salmon,Bienal de Venecia,,1975-06-01,"Suffern, EE.UU.",Glasgow,,,https://en.wikipedia.org/wiki/Margaret_Salmon,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); primera ganadora del Max Mara Art Prize for Women (2006)",factual-web
+2838,Chéri Samba,Bienal de Venecia,,1956-12-30,"Kinto M'Vuila, República Democrática del Congo",Kinshasa,,,https://en.wikipedia.org/wiki/Ch%C3%A9ri_Samba,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 2839,Nancy Spero,Bienal de Venecia,,1926,"Cleveland, United States",,,,http://www.tate.org.uk/art/artists/nancy-spero-2399,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2009",factual-tate
-2840,Tabaimo,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
-2841,Elaine Tedesco,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
-2842,Paula Trope,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2840,Tabaimo,Bienal de Venecia,,1975,"Hyogo, Japón",Nagano,,,https://en.wikipedia.org/wiki/Tabaimo,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); representó a Japón en la 54.a Bienal de Venecia 2011",factual-web
+2841,Elaine Tedesco,Bienal de Venecia,,1963,"Porto Alegre, Brasil",Porto Alegre,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); participó en la 52.ª Bienal de Venecia (2007)",factual-web
+2842,Paula Trope,Bienal de Venecia,,1962,"Río de Janeiro, Brasil",Río de Janeiro,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Prêmio Marcantonio Vilaça 2004",factual-web
 2843,Franz West,Bienal de Venecia,,1947,"Wien, Österreich",,,,http://www.tate.org.uk/art/artists/franz-west-2700,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2012",factual-tate
-2844,Yang Zhenzhong,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
-2845,Tomoko Yoneda,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2844,Yang Zhenzhong,Bienal de Venecia,,1968,"Hangzhou, China",Shanghái,,,https://yangzhenzhong.com,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); participó en la Bienal de Venecia (2003 y 2007)",factual-web
+2845,Tomoko Yoneda,Bienal de Venecia,,1965,"Akashi, Japón",Londres,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
