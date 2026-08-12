@@ -16,7 +16,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 15,Ellen Altfest,Vitamin P2 | Bienal de Venecia,,1970,"Nueva York, EE.UU.",Nueva York,,,https://www.whitecube.com/artists/ellen-altfest,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
 16,Kai Althoff,Vitamin P1 | Whitney Biennial | Cream 3,,1966,"Colonia, Alemania",Nueva York,,,https://www.michaelwerner.com/artists/kai-althoff/biography,"Whitney Biennial 2012, Nueva York",factual-web
 17,David Altmejd,Vitamin P1 | Whitney Biennial | Vitamin 3-D,,1974,"Montreal, Canadá",Los Ángeles,,,https://www.davidkordanskygallery.com/artist/david-altmejd,"Whitney Biennial 2004, Nueva York",factual-web
-18,Francis Alÿs,Vitamin P1 | Frieze 25 (2000s) | Documenta | Vitamin D | Cream | Bienal de Venecia | Bienal de São Paulo,,1959,"Antwerpen, België",Ciudad de México,,,http://www.tate.org.uk/art/artists/francis-alys-4427; https://www.moma.org/artists/8383,"documenta 13, Kassel (2012); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); 32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-tate
+18,Francis Alÿs,Vitamin P1 | Frieze 25 (2000s) | Documenta | Vitamin D | Cream | Bienal de Venecia | Bienal de São Paulo | Bienal de La Habana,,1959,"Antwerpen, België",Ciudad de México,,,http://www.tate.org.uk/art/artists/francis-alys-4427; https://www.moma.org/artists/8383,"documenta 13, Kassel (2012); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); 32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-tate
 19,El Anatsui,Base propia | ArtReview Top 100 | Vitamin T | Bienal de Venecia,,1944,"Anyako, Ghana",Nsukka (Nigeria); Tema (Ghana),,,https://elanatsui.art,"León de Oro a la trayectoria, Venecia (2015); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 20,Hurvin Anderson,Vitamin P2,,1965,"Birmingham, United Kingdom",Cambridge; Londres,,,http://www.tate.org.uk/art/artists/hurvin-anderson-12583; https://www.thomasdanegallery.com/artists/28-hurvin-anderson/biography/,,factual-tate
 21,Karin Mamma Andersson,Vitamin P2,,1962,"Luleå, Suecia",Estocolmo,,,https://www.davidzwirner.com/artists/mamma-andersson,,factual-web
@@ -45,7 +45,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 44,Zander Blom,Vitamin P3,,1982,"Pretoria, Sudáfrica",Ciudad del Cabo,,,,,factual-web
 45,Amoako Boafo,Base propia | Prime,,1984-05-10,"Accra, Ghana",Accra; Viena,,,https://en.wikipedia.org/wiki/Amoako_Boafo,,factual-web
 46,John Bock,Vitamin P1 | Documenta | Cream 3 | Bienal de Venecia,,1965,"Gribbohm, Alemania",,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-47,Christian Boltanski,Base propia | Bienal de Venecia,,1944,"Paris, France",París,,,http://www.tate.org.uk/art/artists/christian-boltanski-2305,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-tate
+47,Christian Boltanski,Base propia | Bienal de Venecia | Bienal de La Habana,,1944,"Paris, France",París,,,http://www.tate.org.uk/art/artists/christian-boltanski-2305,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-tate
 48,Peter Bonde,Vitamin P1,,1958,"Copenhague, Dinamarca",Copenhague,,,,,factual-web
 49,Monica Bonvicini,Base propia | Bienal de Venecia | Bienal de São Paulo,,1965,Italia,Berlín,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-venecia
 50,Michaël Borremans,Vitamin P2 | Vitamin D,,1963,"Geraardsbergen, Bélgica",Gante,,,https://en.wikipedia.org/wiki/Micha%C3%ABl_Borremans,,factual-web
@@ -53,11 +53,11 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 52,Mark Bradford,Vitamin P2 | ArtReview Top 100 | Whitney Biennial | Bienal de São Paulo,,1961,"Los Angeles, United States",,,,http://www.tate.org.uk/art/artists/mark-bradford-9242,"Whitney Biennial 2006 «Day for Night», Nueva York; 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-tate
 53,Joe Bradley,Vitamin P3 | Whitney Biennial,,1975,"Old Orchard Beach, ME, EE.UU.",Nueva York,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 54,Sascha Braunig,Vitamin P3,,1983,"Qualicum Beach, Canadá",Portland (Maine),,,https://en.wikipedia.org/wiki/Sascha_Braunig,,factual-web
-55,Lisa Brice,Vitamin P2,,1968,"Ciudad del Cabo, Sudáfrica",Londres,,,https://en.wikipedia.org/wiki/Lisa_Brice,,factual-web
+55,Lisa Brice,Vitamin P2 | Bienal de La Habana,,1968,"Ciudad del Cabo, Sudáfrica",Londres,,,https://en.wikipedia.org/wiki/Lisa_Brice,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),factual-web
 56,Marcel Broodthaers,Base propia,,1924,"Saint-Gilles, België",,,,http://www.tate.org.uk/art/artists/marcel-broodthaers-815,fallecido/a 1976,factual-tate
 57,Cecily Brown,Vitamin P1 | Whitney Biennial,,1969,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/cecily-brown-2703,"Whitney Biennial 2004, Nueva York",factual-tate
 58,Glenn Brown,Vitamin P1 | Bienal de São Paulo,,1966,"Hexham, Reino Unido",Londres,,,https://glenn-brown.co.uk,"25ª Bienal de São Paulo «Iconografias metropolitanas» (2002, Hug)",factual-web
-59,Tania Bruguera,ArtReview Top 100 | Documenta | Fresh Cream | Bienal de Venecia,,1968,"La Habana, Cuba",Nueva York,,,http://www.tate.org.uk/art/artists/tania-bruguera-11982,"documenta 11, Kassel (2002); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-tate
+59,Tania Bruguera,ArtReview Top 100 | Documenta | Fresh Cream | Bienal de Venecia | Bienal de La Habana,,1968,"La Habana, Cuba",Nueva York,,,http://www.tate.org.uk/art/artists/tania-bruguera-11982,"documenta 11, Kassel (2002); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-tate
 60,Kerstin Brätsch,Vitamin P2 | Whitney Biennial | New Museum Triennial | Bienal de Venecia,,1979,"Hamburgo, Alemania",Nueva York; Berlín,,,,"Whitney Biennial 2017, Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
 61,Rafał Bujnowski,Vitamin P2,,1974-02-03,"Wadowice, Polonia",,,,https://en.wikipedia.org/wiki/Rafa%C5%82_Bujnowski,,factual-web
 62,Stephen Bush,Vitamin P2,,1958,"Colac, Australia",Melbourne,,,,,factual-web
@@ -173,7 +173,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 172,Camille Henrot,ArtReview Top 100 | Frieze 25 (2000s) | 21st-Century Art Book | Bienal de Venecia,,1978,"París, Francia",,,,,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni); León de Plata al participante joven prometedor, Venecia (2013)",factual-venecia
 173,Arturo Herrera,Vitamin P1 | Whitney Biennial | Vitamin D | Fresh Cream,,1959,"Caracas, Venezuela",,,,http://www.tate.org.uk/art/artists/arturo-herrera-6003,"Whitney Biennial 2002, Nueva York",factual-tate
 174,Carmen Herrera,Vitamin P2,,1915,"La Habana, Cuba",,,,http://www.tate.org.uk/art/artists/carmen-herrera-9101,,factual-tate
-175,Federico Herrero,Vitamin P1,,1978,"San José, Costa Rica",San José,,,,Bienal de Venecia 2001 (León de Oro artista joven),factual-web
+175,Federico Herrero,Vitamin P1 | Bienal de La Habana,,1978,"San José, Costa Rica",San José,,,,Bienal de Venecia 2001 (León de Oro artista joven); 8ª Bienal de La Habana (2003),factual-web
 176,Charline von Heyl,Vitamin P2 | Whitney Biennial | Bienal de Venecia,,1960,"Maguncia, Alemania",Nueva York,,,,"Whitney Biennial 2014, Nueva York; Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-whitney
 177,Lubaina Himid,Base propia | Turner Prize | Vitamin P4 | African Artists,,1954,"Zanzibar, Tanzania",,,,http://www.tate.org.uk/art/artists/lubaina-himid-2356,Turner Prize (premio 2017),factual-tate
 178,Roger Hiorns,Vitamin P1 | Turner Prize | Vitamin 3-D | Bienal de Venecia,,1975,"Birmingham, United Kingdom",,,,http://www.tate.org.uk/art/artists/roger-hiorns-7255,"Turner Prize (nominación 2009); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
@@ -184,7 +184,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 183,Tishan Hsu,ArtReview Top 100 | Bienal de Venecia,,1951,"Boston, MA, EE.UU.",Nueva York,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
 184,Alex Hubbard,Vitamin P2 | Whitney Biennial,,1975,"Toledo, EE.UU.",Los Ángeles,,,,"Whitney Biennial 2010, Nueva York",factual-web
 185,Jacqueline Humphries,Vitamin P2 | Whitney Biennial | Bienal de Venecia,,1960,"Nueva Orleans, LA, EE.UU.",Nueva York,,,,"Whitney Biennial 2014, Nueva York; Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-whitney
-186,Pierre Huyghe,ArtReview Top 100 | Frieze 25 (2000s) | Documenta | Whitney Biennial | Cream | Bienal de São Paulo,,1962,"Paris, France",,,,http://www.tate.org.uk/art/artists/pierre-huyghe-5463,"documenta 13, Kassel (2012); documenta 11, Kassel (2002); Whitney Biennial 2006 «Day for Night», Nueva York; 32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-tate
+186,Pierre Huyghe,ArtReview Top 100 | Frieze 25 (2000s) | Documenta | Whitney Biennial | Cream | Bienal de São Paulo | Bienal de La Habana,,1962,"Paris, France",,,,http://www.tate.org.uk/art/artists/pierre-huyghe-5463,"documenta 13, Kassel (2012); documenta 11, Kassel (2002); Whitney Biennial 2006 «Day for Night», Nueva York; 32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-tate
 187,Nathan Hylden,Vitamin P2,,1978,"Fergus Falls, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Nathan_Hylden,,factual-web
 188,Anne Imhof,Frieze 25 (2000s),,1978,"Gießen, Alemania",Fráncfort,,,https://en.wikipedia.org/wiki/Anne_Imhof,León de Oro Bienal de Venecia 2017,factual-web
 189,Emily Jacir,ArtReview Top 100 | Frieze 25 (2000s) | Whitney Biennial | Vitamin Ph | Bienal de Venecia | Bienal de São Paulo,,1970,"Belén, Palestina",,,,https://en.wikipedia.org/wiki/Emily_Jacir,"Whitney Biennial 2004, Nueva York; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); León de Oro al artista joven, Venecia (2007); Bienal de Venecia 2007; 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-web
@@ -208,7 +208,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 207,Ewa Juszkiewicz,Vitamin P3 | 100 Painters of Tomorrow,,1984,"Gdańsk, Polonia",,,,https://en.wikipedia.org/wiki/Ewa_Juszkiewicz,,factual-web
 208,Hayv Kahraman,Vitamin P3,,1981,"Bagdad, Irak",Los Ángeles,,,https://en.wikipedia.org/wiki/Hayv_Kahraman,,factual-web
 209,Johannes Kahrs,Vitamin P1,,1965,"Bremen, Alemania",Berlín,,,https://en.wikipedia.org/wiki/Johannes_Kahrs_(artist),,factual-web
-210,Jitish Kallat,Vitamin P2,,1974,"Bombay, India",Bombay,,,https://en.wikipedia.org/wiki/Jitish_Kallat,,factual-web
+210,Jitish Kallat,Vitamin P2 | Bienal de La Habana,,1974,"Bombay, India",Bombay,,,https://en.wikipedia.org/wiki/Jitish_Kallat,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),factual-web
 211,Maki Na Kamura,Vitamin P2,,,"Osaka, Japón",Berlín,,,,,factual-web
 212,Sanya Kantarovsky,Vitamin P3,,1982,"Moscú, Rusia",Nueva York,,,,,factual-web
 213,Amar Kanwar,ArtReview Top 100 | Documenta | Bienal de São Paulo,,1964,,,,,http://www.tate.org.uk/art/artists/amar-kanwar-18243,"documenta 14, Kassel/Atenas (2017); documenta 13, Kassel (2012); documenta 11, Kassel (2002); documenta 12, Kassel (2007); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-tate
@@ -253,10 +253,10 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 252,Tala Madani,Vitamin P2 | Whitney Biennial | New Museum Triennial,,1981,Îran,Los Ángeles,,,http://www.tate.org.uk/art/artists/tala-madani-14729,"Whitney Biennial 2017, Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-tate
 253,Jill Magid,ArtReview Top 100,,1973,"Bridgeport, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Jill_Magid,,factual-web
 254,Ibrahim Mahama,Frieze 25 (2000s) | Documenta | Vitamin T | Bienal de Venecia | Bienal de São Paulo,,1987,Ghana,Tamale,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); 35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-venecia
-255,Nalini Malani,Vitamin P2 | Base propia | Documenta | Bienal de Venecia | Bienal de São Paulo,,1946,"Karachi, India británica",,,,https://en.wikipedia.org/wiki/Nalini_Malani,"documenta 13, Kassel (2012); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); documenta 13 (2012); 34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti)",factual-web
+255,Nalini Malani,Vitamin P2 | Base propia | Documenta | Bienal de Venecia | Bienal de São Paulo | Bienal de La Habana,,1946,"Karachi, India británica",,,,https://en.wikipedia.org/wiki/Nalini_Malani,"documenta 13, Kassel (2012); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); documenta 13 (2012); 34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-web
 256,Victor Man,Vitamin P2 | Vitamin P4 | Bienal de Venecia,,1974,Rumania,Berlín,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 257,Britta Marakatt-Labba,ArtReview Top 100 | Documenta | Vitamin T | Bienal de Venecia,,1951,"Idivuoma, Sápmi, Suecia","Övre Soppero, Sápmi",,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
-258,Fabián Marcaccio,Vitamin P1 | Documenta,,1963,"Rosario, Argentina",Nueva York,,,https://en.wikipedia.org/wiki/Fabian_Marcaccio,"documenta 11, Kassel (2002)",factual-web
+258,Fabián Marcaccio,Vitamin P1 | Documenta | Bienal de La Habana,,1963,"Rosario, Argentina",Nueva York,,,https://en.wikipedia.org/wiki/Fabian_Marcaccio,"documenta 11, Kassel (2002); 8ª Bienal de La Habana (2003)",factual-web
 259,Christian Marclay,ArtReview Top 100 | Frieze 25 (2000s) | Whitney Biennial | Vitamin C+ | Bienal de Venecia,,1955,"San Rafael, United States",Londres,,,http://www.tate.org.uk/art/artists/christian-marclay-6852,"Whitney Biennial 2002, Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-tate
 260,Marepe,Vitamin P1 | Vitamin 3-D | Bienal de São Paulo,,1970,"Santo Antônio de Jesus, Brasil",,,,http://www.tate.org.uk/art/artists/marepe-11145,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-tate
 261,Teresa Margolles,Base propia | ArtReview Top 100 | Vitamin T | Cream 3 | Bienal de Venecia,,1963,"Culiacán, México",Ciudad de México; Madrid,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
@@ -289,7 +289,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 288,Miguel Montt,Vitamin P1,,,,,,,,,pendiente
 289,Katy Moran,Vitamin P2,,1975,"Manchester, United Kingdom",,,,http://www.tate.org.uk/art/artists/katy-moran-11554,,factual-tate
 290,Kristine Moran,Vitamin P2,,1974,"Montreal, Canadá",Brooklyn,,,https://www.kristinemoran.com,,factual-web
-291,Delcy Morelos,ArtReview Top 100 | Bienal de Venecia,,1967,"Tierralta, Colombia",Bogotá,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
+291,Delcy Morelos,ArtReview Top 100 | Bienal de Venecia | Bienal de La Habana,,1967,"Tierralta, Colombia",Bogotá,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-venecia
 292,Antonio Ballester Moreno,Vitamin P2 | Bienal de São Paulo,,1977,"Madrid, España",Madrid,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-web
 293,Sabine Moritz,Vitamin P3,,1969,"Quedlinburg, Alemania",,,,https://en.wikipedia.org/wiki/Sabine_Moritz,,factual-web
 294,Sarah Morris,Vitamin P1,,1967,"Kent, United Kingdom",,,,http://www.tate.org.uk/art/artists/sarah-morris-3099,,factual-tate
@@ -308,12 +308,12 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 307,Bruce Nauman,Base propia | Bienal de Venecia | Bienal de São Paulo,https://www.speronewestwater.com/artists/bruce-nauman#tab:slideshow,1941,"Fort Wayne, United States",Nuevo México,,,http://www.tate.org.uk/art/artists/bruce-nauman-1691,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); 33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-tate
 308,Paulo Nazareth,ArtReview Top 100 | Bienal de São Paulo,,1977,"Governador Valadares, Brasil",Belo Horizonte,,,https://en.wikipedia.org/wiki/Paulo_Nazareth,"34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti)",factual-web
 309,Elizabeth Neel,Vitamin P3,,1975,"Stowe, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Elizabeth_Neel,,factual-web
-310,Shirin Neshat,Base propia | Documenta | Whitney Biennial | Vitamin Txt,,1957,"Qazvin, Îran",,,,http://www.tate.org.uk/art/artists/shirin-neshat-5459,"documenta 11, Kassel (2002); Whitney Biennial 2000, Nueva York",factual-tate
+310,Shirin Neshat,Base propia | Documenta | Whitney Biennial | Vitamin Txt | Bienal de La Habana,,1957,"Qazvin, Îran",,,,http://www.tate.org.uk/art/artists/shirin-neshat-5459,"documenta 11, Kassel (2002); Whitney Biennial 2000, Nueva York; 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015); 9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006)",factual-tate
 311,Blessing Ngobeni,Vitamin P3,,1985,"Tzaneen, Sudáfrica",Johannesburgo,,,,,factual-web
 312,Caro Niederer,Vitamin P1,,1963,"Zúrich, Suiza",Zúrich,,,https://en.wikipedia.org/wiki/Caro_Niederer,,factual-web
 313,Aliza Nisenbaum,Vitamin P3 | Whitney Biennial,,1977,"Ciudad de México, México",Nueva York,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 314,Serge Alain Nitegeka,Vitamin P3,,1983,,Johannesburgo,,,,,factual-web
-315,Otobong Nkanga,Base propia | Documenta | Vitamin T | Vitamin D3 | Bienal de Venecia | Bienal de São Paulo,,1974,Nigeria,Amberes,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); 31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",factual-venecia
+315,Otobong Nkanga,Base propia | Documenta | Vitamin T | Vitamin D3 | Bienal de Venecia | Bienal de São Paulo | Bienal de La Habana,,1974,Nigeria,Amberes,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); 31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); 8ª Bienal de La Habana (2003)",factual-venecia
 316,Mairead O'Heocha,Vitamin P3,,1962,"Dublín, Irlanda",Dublín,,,https://en.wikipedia.org/wiki/Mairead_O%27hEocha,,factual-web
 317,Mendi & Keith Obadike,ArtReview Top 100,,,,,,,https://en.wikipedia.org/wiki/Mendi_%26_Keith_Obadike,,factual-web
 318,Manuel Ocampo,Vitamin P1,,1965,"Ciudad Quezón, Filipinas",Manila,,,https://en.wikipedia.org/wiki/Manuel_Ocampo,,factual-web
@@ -324,7 +324,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 323,Alex Olson,Vitamin P3,,1978,"Boston, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Alex_Olson_(artist),,factual-web
 324,Catherine Opie,Base propia | Whitney Biennial | Vitamin Ph | Bienal de São Paulo,,1961,"Sandusky, United States",,,,http://www.tate.org.uk/art/artists/catherine-opie-4641,"Whitney Biennial 2004, Nueva York; 26ª Bienal de São Paulo «Território Livre» (2004, Hug)",factual-tate
 325,New Red Order,ArtReview Top 100,,,,,,,,Bienal Whitney 2019,factual-web
-326,Gabriel Orozco,Base propia | Documenta | Vitamin D | Vitamin C | Cream,,1962,México,,,,http://www.tate.org.uk/art/artists/gabriel-orozco-2685,"documenta 11, Kassel (2002)",factual-tate
+326,Gabriel Orozco,Base propia | Documenta | Vitamin D | Vitamin C | Cream | Bienal de La Habana,,1962,México,,,,http://www.tate.org.uk/art/artists/gabriel-orozco-2685,"documenta 11, Kassel (2002); 11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012)",factual-tate
 327,Christopher Orr,Vitamin P2,,1967,"Helensburgh, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Christopher_Orr_(artist),,factual-web
 328,Anna Ostoya,Vitamin P3,,1978,"Cracovia, Polonia",Nueva York,,,https://annaostoya.com,,factual-web
 329,Silke Otto-Knapp,Vitamin P2 | Cream 3 | Bienal de São Paulo,,1970,"Osnabrück, Alemania",Los Ángeles,,,https://en.wikipedia.org/wiki/Silke_Otto-Knapp,"fallecida 2022; 34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti)",factual-web
@@ -395,7 +395,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 394,Maaike Schoorel,Vitamin P2,,1973,"Santpoort, Países Bajos",,,,https://en.wikipedia.org/wiki/Maaike_Schoorel,,factual-web
 395,Dana Schutz,Vitamin P2 | ArtReview Top 100 | Whitney Biennial,,1976,"Livonia, MI, EE.UU.",Brooklyn,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 396,Sean Scully,Vitamin P1 | Bienal de São Paulo,,1945,"Dublin, Éire",,,,http://www.tate.org.uk/art/artists/sean-scully-1917,"25ª Bienal de São Paulo «Iconografias metropolitanas» (2002, Hug)",factual-tate
-397,Tino Sehgal,ArtReview Top 100 | Documenta | Bienal de Venecia,,1976,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/tino-sehgal-8300,"documenta 13, Kassel (2012); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni); León de Oro al mejor participante, Venecia (2013)",factual-tate
+397,Tino Sehgal,ArtReview Top 100 | Documenta | Bienal de Venecia | Bienal de La Habana,,1976,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/tino-sehgal-8300,"documenta 13, Kassel (2012); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni); León de Oro al mejor participante, Venecia (2013); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-tate
 398,Tschabalala Self,Base propia | Vitamin T | Vitamin P4 | Prime,,1990,"Nueva York, EE.UU.",,,,https://en.wikipedia.org/wiki/Tschabalala_Self,,factual-web
 399,George Shaw,Vitamin P1,,1966,"Coventry, United Kingdom",,,,http://www.tate.org.uk/art/artists/george-shaw-5253,,factual-tate
 400,Raqib Shaw,Vitamin P2,,1974,"Calcutta, Bharat",,,,http://www.tate.org.uk/art/artists/raqib-shaw-9784,,factual-tate
@@ -477,7 +477,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 476,Lynette Yiadom-Boakye,Vitamin P2 | Base propia | Bienal de Venecia,,1977,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/lynette-yiadom-boakye-16784,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
 477,Liang Yuanwei,Vitamin P2,,1977,"Xi'an, China",Pekín,,,,Bienal de Venecia 2011,factual-web
 478,Lisa Yuskavage,Vitamin P1 | Whitney Biennial,,1962-05-16,"Filadelfia, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Lisa_Yuskavage,"Whitney Biennial 2000, Nueva York",factual-web
-479,Luiz Zerbini,Vitamin P2 | Bienal de São Paulo,,1959,"São Paulo, Brasil",Río de Janeiro,,,,"Bienal de São Paulo (2010); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-web
+479,Luiz Zerbini,Vitamin P2 | Bienal de São Paulo | Bienal de La Habana,,1959,"São Paulo, Brasil",Río de Janeiro,,,,"Bienal de São Paulo (2010); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-web
 480,Jakub Julian Ziółkowski,Vitamin P2 | New Museum Triennial | Bienal de Venecia,,1980,"Zamość, Polonia",,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
 481,Ciudad Abierta,Documenta | Bienal de São Paulo,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017); 30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
 482,Abounaddara,Documenta | Bienal de Venecia,,,Siria (fundado 2010),Damasco,,,https://en.wikipedia.org/wiki/Abounaddara,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); documenta 14 (2017)",factual-venecia
@@ -552,7 +552,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 551,David Harding,Documenta,,1937-03-03,"Edimburgo, Reino Unido",Glasgow,,,https://en.wikipedia.org/wiki/David_Harding_(artist),"documenta 14, Kassel/Atenas (2017); documenta 14 (2017), fallecido 2026",factual-web
 552,Maria Hassabi,Documenta,,1973,"Nicosia, Chipre",Nueva York,,,https://en.wikipedia.org/wiki/Maria_Hassabi,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 553,Edi Hila,Documenta,,1944,"Shkodra, Albania",Tirana,,,,"documenta 14, Kassel/Atenas (2017)",factual-web
-554,Susan Hiller,Documenta,,1940,"New York, United States",,,,http://www.tate.org.uk/art/artists/susan-hiller-1286,"documenta 14, Kassel/Atenas (2017); documenta 13, Kassel (2012)",factual-tate
+554,Susan Hiller,Documenta | Bienal de La Habana,,1940,"New York, United States",,,,http://www.tate.org.uk/art/artists/susan-hiller-1286,"documenta 14, Kassel/Atenas (2017); documenta 13, Kassel (2012); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-tate
 555,Damien Hirst,Turner Prize,,1965,"Bristol, United Kingdom",,,,http://www.tate.org.uk/art/artists/damien-hirst-2308,Turner Prize (premio),factual-tate
 556,Howard Hodgkin,Turner Prize,,1932,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/howard-hodgkin-1295,Turner Prize (premio 1985),factual-tate
 557,Olaf Holzapfel,Documenta,,1967,"Dresde, Alemania",,,,https://olafholzapfel.de/en/bio/,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
@@ -596,7 +596,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 595,Mike Nelson,Turner Prize | Vitamin 3-D,,1967,"Loughborough, United Kingdom",,,,http://www.tate.org.uk/art/artists/mike-nelson-4020,Turner Prize (nominación 2007 y 2001),factual-tate
 596,Kettly Noël,Documenta,,1966,"Puerto Príncipe, Haití",Bamako,,,https://en.wikipedia.org/wiki/Kettly_No%C3%ABl,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 597,Emeka Ogboh,Documenta | Bienal de Venecia | Bienal de São Paulo,,1977,Nigeria,Lagos; Berlín,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); 36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",factual-venecia
-598,Olu Oguibe,Documenta | Bienal de São Paulo,,1964,"Aba, Nigeria",,,,https://en.wikipedia.org/wiki/Olu_Oguibe,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017); 36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",factual-web
+598,Olu Oguibe,Documenta | Bienal de São Paulo | Bienal de La Habana,,1964,"Aba, Nigeria",,,,https://en.wikipedia.org/wiki/Olu_Oguibe,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017); 36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-web
 599,Rainer Oldendorf,Documenta,,1961,"Lüchow, Alemania",,,,https://www.documenta14.de/en/artists/13701/rainer-oldendorf,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 600,Pauline Oliveros,Documenta,,1932-05-30,"Houston, EE.UU.",,,,https://en.wikipedia.org/wiki/Pauline_Oliveros,"documenta 14, Kassel/Atenas (2017); fallecida 2016",factual-web
 601,Christos Papoulias,Documenta,,1953,"Atenas, Grecia",Atenas,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017); fallecido 2024",factual-web
@@ -689,7 +689,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 688,Kudzanai Chiurai,Documenta | Bienal de Venecia,,1980,"Harare, Zimbabue",Harare,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 689,Daniel Gustav Cramer,Documenta,,1975,"Neuss, Alemania",Berlín,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 690,Critical Art Ensemble,Documenta | Whitney Biennial | Bienal de Venecia,,,,,,,https://en.wikipedia.org/wiki/Critical_Art_Ensemble,"documenta 13, Kassel (2012); Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa) (Disobedience Archive)",factual-web
-691,Abraham Cruzvillegas,Documenta | Vitamin 3-D,,1968,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/abraham-cruzvillegas-13142,"documenta 13, Kassel (2012)",factual-tate
+691,Abraham Cruzvillegas,Documenta | Vitamin 3-D | Bienal de La Habana,,1968,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/abraham-cruzvillegas-13142,"documenta 13, Kassel (2012); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-tate
 692,István Csákány,Documenta,,1978,"Sfântu Gheorghe, Rumanía",,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 693,Attila Csörgő,Documenta,,1965,"Budapest, Hungría",,,,,"documenta 13, Kassel (2012); Premio Nam June Paik (premio 2008)",factual-web
 694,Mark Dion,Documenta | Bienal de São Paulo,,1961,"New Bedford, United States",,,,http://www.tate.org.uk/art/artists/mark-dion-2789,"documenta 13, Kassel (2012); 33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro); 26ª Bienal de São Paulo «Território Livre» (2004, Hug)",factual-tate
@@ -708,7 +708,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 707,Llyn Foulkes,Documenta,,1934-11-17,"Yakima, EE.UU.",,,,https://en.wikipedia.org/wiki/Llyn_Foulkes,"documenta 13, Kassel (2012); fallecido 2025",factual-web
 708,Chiara Fumai,Documenta,,1978,"Roma, Italia",,,,https://en.wikipedia.org/wiki/Chiara_Fumai,"documenta 13, Kassel (2012); documenta 14 (2017), fallecida 2017",factual-web
 709,Rene Gabri,Documenta,,1968,"Teherán, Irán",Nueva York,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
-710,Ryan Gander,Documenta | Vitamin 3-D | New Museum Triennial,,1976,"Chester, United Kingdom",,,,http://www.tate.org.uk/art/artists/ryan-gander-9102,"documenta 13, Kassel (2012); New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-tate
+710,Ryan Gander,Documenta | Vitamin 3-D | New Museum Triennial | Bienal de La Habana,,1976,"Chester, United Kingdom",,,,http://www.tate.org.uk/art/artists/ryan-gander-9102,"documenta 13, Kassel (2012); New Museum Triennial 2009 «Younger Than Jesus», Nueva York; 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-tate
 711,Dora García,Documenta | Bienal de Venecia | Bienal de São Paulo,,1965,España,Barcelona,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-venecia
 712,Mario García Torres,Documenta | Bienal de Venecia | Bienal de São Paulo,,1975,"Monclova, México",,,,http://www.tate.org.uk/art/artists/mario-garcia-torres-10370,"documenta 13, Kassel (2012); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-tate
 713,Theaster Gates,Documenta | Whitney Biennial | Vitamin C | 21st-Century Art Book | Bienal de Venecia,,1973,EE.UU.,Chicago,,,,"documenta 13, Kassel (2012); Whitney Biennial 2010, Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
@@ -719,7 +719,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 718,Fiona Margaret Hall,Documenta,,1953,"Sídney, Australia",Adelaida,,,https://en.wikipedia.org/wiki/Fiona_Hall_(artist),"documenta 13, Kassel (2012); Bienal de Venecia 2015",factual-web
 719,Tamara Henderson,Documenta | Vitamin T | Bienal de São Paulo,,1982,"Sackville, Canadá",Londres,,,https://en.wikipedia.org/wiki/Tamara_Henderson,"documenta 13, Kassel (2012); documenta 14 (2017); 34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti)",factual-web
 720,Horst Hoheisel,Documenta,,1944,"Poznań, Polonia",Kassel,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
-721,Judith Hopf,Documenta,,1969,"Karlsruhe, Alemania",Berlín,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
+721,Judith Hopf,Documenta | Bienal de La Habana,,1969,"Karlsruhe, Alemania",Berlín,,,,"documenta 13, Kassel (2012); documenta 13 (2012); 8ª Bienal de La Habana (2003)",factual-web
 722,Khaled Hourani,Documenta,,1965,"Hebrón, Palestina",Ramala,,,https://en.wikipedia.org/wiki/Khaled_Hourani,"documenta 13, Kassel (2012)",factual-web
 723,Toril Johannessen,Documenta,,1978,"Harstad, Noruega",Bergen,,,,"documenta 13, Kassel (2012)",factual-web
 724,Joan Jonas,Documenta | Bienal de Venecia | Bienal de São Paulo,,1936,"New York, United States",,,,http://www.tate.org.uk/art/artists/joan-jonas-7726,"documenta 13, Kassel (2012); documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti); 28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",factual-tate
@@ -727,14 +727,14 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 726,Duane Linklater,Documenta | Whitney Biennial | Bienal de São Paulo,,1976,"Territorio del Tratado 9, Ontario, Canadá","North Bay, Canadá",,,,"documenta 13, Kassel (2012); Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York; 35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-whitney
 727,Robin Kahn,Documenta,,1961,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Robin_Kahn,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 728,Masood Kamandy,Documenta,,1981,"Fort Collins, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Masood_Kamandy,"documenta 13, Kassel (2012)",factual-web
-729,William Kentridge,Documenta | Vitamin D | Vitamin V | Cream | African Artists | Bienal de São Paulo,,1955,"Johannesburg, South Africa",,,,http://www.tate.org.uk/art/artists/william-kentridge-2680,"documenta 13, Kassel (2012); documenta 11, Kassel (2002); 24ª Bienal de São Paulo «Antropofagia», Roteiros (1998, Herkenhoff)",factual-tate
+729,William Kentridge,Documenta | Vitamin D | Vitamin V | Cream | African Artists | Bienal de São Paulo | Bienal de La Habana,,1955,"Johannesburg, South Africa",,,,http://www.tate.org.uk/art/artists/william-kentridge-2680,"documenta 13, Kassel (2012); documenta 11, Kassel (2002); 24ª Bienal de São Paulo «Antropofagia», Roteiros (1998, Herkenhoff); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-tate
 730,Hassan Khan,Documenta,,1975,"Londres, Reino Unido",El Cairo,,,https://en.wikipedia.org/wiki/Hassan_Khan_(artist),"documenta 13, Kassel (2012); León de Plata Bienal de Venecia 2017",factual-web
 731,Erkki Kurenniemi,Documenta,,1941-07-10,"Hämeenlinna, Finlandia",,,,https://en.wikipedia.org/wiki/Erkki_Kurenniemi,"documenta 13, Kassel (2012); fallecido 2017",factual-web
 732,Dinh Q. Lê,Documenta,,1968,"Ha Tien, Vietnam",Ciudad Ho Chi Minh,,,https://en.wikipedia.org/wiki/Dinh_Q._L%C3%AA,"documenta 13, Kassel (2012); fallecido 2024",factual-web
 733,Gabriel Lester,Documenta,,1972,"Ámsterdam, Países Bajos",Ámsterdam,,,https://en.wikipedia.org/wiki/Gabriel_Lester,"documenta 13, Kassel (2012)",factual-web
 734,David Link,Documenta,,,,Colonia,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 735,Maria Loboda,Documenta | Bienal de Venecia,,1979,Polonia,Berlín,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-736,Aníbal López,Documenta,,1964,"Ciudad de Guatemala, Guatemala",,,,https://en.wikipedia.org/wiki/An%C3%ADbal_L%C3%B3pez,"documenta 13, Kassel (2012); fallecido 2014",factual-web
+736,Aníbal López,Documenta | Bienal de La Habana,,1964,"Ciudad de Guatemala, Guatemala",,,,https://en.wikipedia.org/wiki/An%C3%ADbal_L%C3%B3pez,"documenta 13, Kassel (2012); fallecido 2014; 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-web
 737,Renata Lucas,Documenta | Vitamin 3-D | Bienal de Venecia | Bienal de São Paulo,,1971,"Ribeirão Preto, Brasil",,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-venecia
 738,Marcos Lutyens,Documenta,,1964,"Londres, Reino Unido",Los Ángeles,,,https://en.wikipedia.org/wiki/Marcos_Lutyens,"documenta 13, Kassel (2012)",factual-web
 739,Sissel Tolaas,Documenta,,1961,"Stavanger, Noruega",Berlín,,,https://en.wikipedia.org/wiki/Sissel_Tolaas,"documenta 13, Kassel (2012)",factual-web
@@ -750,7 +750,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 749,M. A. Numminen,Documenta,,1940,"Somero, Finlandia",,,,https://en.wikipedia.org/wiki/M._A._Numminen,"documenta 13, Kassel (2012)",factual-web
 750,Shinro Ohtake,Documenta | Bienal de Venecia,,1955,"Tokio, Japón",,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
 751,Rahraw Omarzad,Documenta,,1964,"Kabul, Afganistán",,,,https://en.wikipedia.org/wiki/Rahraw_Omarzad,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
-752,Roman Ondák,Documenta | Vitamin D | Cream 3 | Bienal de São Paulo,,1966,"Zilina, Slovenská Republika",,,,http://www.tate.org.uk/art/artists/roman-ondak-7622,"documenta 13, Kassel (2012); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-tate
+752,Roman Ondák,Documenta | Vitamin D | Cream 3 | Bienal de São Paulo | Bienal de La Habana,,1966,"Zilina, Slovenská Republika",,,,http://www.tate.org.uk/art/artists/roman-ondak-7622,"documenta 13, Kassel (2012); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-tate
 753,Füsun Onur,Documenta | Vitamin T,,1938,"Estambul, Turquía",Estambul,,,https://en.wikipedia.org/wiki/F%C3%BCsun_Onur,"documenta 13, Kassel (2012); Bienal de Venecia 2022",factual-web
 754,Christodoulos Panayiotou,Documenta,,1978,"Limasol, Chipre",Limasol,,,https://en.wikipedia.org/wiki/Christodoulos_Panayiotou,"documenta 13, Kassel (2012); Bienal de Venecia 2015",factual-web
 755,Giuseppe Penone,Documenta,,1947,"Garessio, Italia",,,,http://www.tate.org.uk/art/artists/giuseppe-penone-1754,"documenta 13, Kassel (2012)",factual-tate
@@ -768,7 +768,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 767,Julia Isídrez,Documenta | Bienal de Venecia,,1967,"Itá, Paraguay",Itá,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 768,Paul Ryan,Documenta,,1943,,,,,https://en.wikipedia.org/wiki/Paul_Ryan_(video_artist),"documenta 13, Kassel (2012); fallecido 2013",factual-web
 769,Natascha Sadr Haghighian,Documenta,,,,,,,https://en.wikipedia.org/wiki/Natascha_Sadr_Haghighian,"documenta 13, Kassel (2012); Bienal de Venecia 2019",factual-web
-770,Anri Sala,Documenta | Vitamin Ph | Cream 3 | Bienal de São Paulo,,1974,"Tiranë, Shqipëria",,,,http://www.tate.org.uk/art/artists/anri-sala-6602,"documenta 13, Kassel (2012); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-tate
+770,Anri Sala,Documenta | Vitamin Ph | Cream 3 | Bienal de São Paulo | Bienal de La Habana,,1974,"Tiranë, Shqipëria",,,,http://www.tate.org.uk/art/artists/anri-sala-6602,"documenta 13, Kassel (2012); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-tate
 771,Issa Samb,Documenta,,1945,"Dakar, Senegal",,,,https://en.wikipedia.org/wiki/Issa_Samb,"documenta 13, Kassel (2012); fallecido 2017",factual-web
 772,Ines Schaber,Documenta,,1969,"Reutlingen, Alemania",,,,https://de.wikipedia.org/wiki/Ines_Schaber,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 773,Albert Serra,Documenta,,1975-10-09,"Banyoles, España",Banyoles,,,https://en.wikipedia.org/wiki/Albert_Serra,"documenta 13, Kassel (2012); documenta 14 (2017)",factual-web
@@ -787,7 +787,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 786,Anton Vidokle,Documenta,,1965,"Moskva, Rossiya",,,,http://www.tate.org.uk/art/artists/anton-vidokle-6856,"documenta 13, Kassel (2012)",factual-tate
 787,Warlimpirrnga Tjapaltjarri,Documenta,,1958,"Lago Mackay, Australia",Kiwirrkura,,,https://en.wikipedia.org/wiki/Warlimpirrnga_Tjapaltjarri,"documenta 13, Kassel (2012); documenta 14 (2017)",factual-web
 788,Rattana Vandy,Documenta,,1980,"Phnom Penh, Camboya",,,,https://en.wikipedia.org/wiki/Vandy_Rattana,"documenta 13, Kassel (2012)",factual-web
-789,Adrián Villar Rojas,Documenta | Vitamin D2,,1980,"Rosario, Argentina",,,,https://en.wikipedia.org/wiki/Adri%C3%A1n_Villar_Rojas,"documenta 13, Kassel (2012); Bienal de Venecia 2011",factual-web
+789,Adrián Villar Rojas,Documenta | Vitamin D2 | Bienal de La Habana,,1980,"Rosario, Argentina",,,,https://en.wikipedia.org/wiki/Adri%C3%A1n_Villar_Rojas,"documenta 13, Kassel (2012); Bienal de Venecia 2011; 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-web
 790,Jessica Warboys,Documenta,,1977,"Newport, Reino Unido",,,,,"documenta 13, Kassel (2012)",factual-web
 791,Clemens von Wedemeyer,Documenta,,1974,"Göttingen, Deutschland",,,,http://www.tate.org.uk/art/artists/clemens-von-wedemeyer-10651,"documenta 13, Kassel (2012)",factual-tate
 792,Apichatpong Weerasethakul,Documenta | Cream 3 | Bienal de Venecia | Bienal de São Paulo,,1970,"Krung Thep, Prathet Thai",Chiang Mai,,,http://www.tate.org.uk/art/artists/apichatpong-weerasethakul-14213,"documenta 13, Kassel (2012); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-tate
@@ -815,7 +815,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 814,Frédéric Bruly Bouabré,Documenta | Bienal de Venecia | Bienal de São Paulo,,1923,"Zéprégüé, Costa de Marfil",,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni); 30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-venecia
 815,Louise Bourgeois,Documenta | Bienal de Venecia,,1911-12-25,"París, Francia",,,,https://en.wikipedia.org/wiki/Louise_Bourgeois,"documenta 11, Kassel (2002); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecida 2010",factual-web
 816,Stanley Brouwn,Documenta,,1935,Nederland,,,,http://www.tate.org.uk/art/artists/stanley-brouwn-8785,"documenta 11, Kassel (2002)",factual-tate
-817,Luis Camnitzer,Documenta | Whitney Biennial,,1937,"Lübeck, Deutschland",,,,http://www.tate.org.uk/art/artists/luis-camnitzer-6211,"documenta 11, Kassel (2002); Whitney Biennial 2000, Nueva York",factual-tate
+817,Luis Camnitzer,Documenta | Whitney Biennial | Bienal de La Habana,,1937,"Lübeck, Deutschland",,,,http://www.tate.org.uk/art/artists/luis-camnitzer-6211,"documenta 11, Kassel (2002); Whitney Biennial 2000, Nueva York; 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-tate
 818,James Coleman,Documenta | Bienal de São Paulo,,1941,"Dublin, Éire",,,,http://www.tate.org.uk/art/artists/james-coleman-2375,"documenta 11, Kassel (2002); documenta 12, Kassel (2007); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-tate
 819,Constant,Documenta,,1920,"Amsterdam, Nederland",,,,http://www.tate.org.uk/art/artists/constant-constant-a-nieuwenhuys-937,"documenta 11, Kassel (2002); fallecido/a 2005",factual-tate
 820,Margit Czenki,Documenta,,1941,,,,,,"documenta 11, Kassel (2002); documenta 11 (2002)",factual-web
@@ -823,13 +823,13 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 822,Stan Douglas,Documenta | Vitamin V | Cream | Bienal de Venecia,,1960,"Vancouver, Canada",Vancouver,,,http://www.tate.org.uk/art/artists/stan-douglas-3038,"documenta 11, Kassel (2002); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-tate
 823,Cecilia Edefalk,Documenta,,1954,"Norrköping, Suecia",,,,,"documenta 11, Kassel (2002)",factual-web
 824,William Eggleston,Documenta,,1939-07-27,"Memphis, EE.UU.",Memphis,,,https://en.wikipedia.org/wiki/William_Eggleston,"documenta 11, Kassel (2002); exposición individual MoMA (1976)",factual-web
-825,Touhami Ennadre,Documenta,,1953,"Casablanca, Marruecos",París,,,,"documenta 11, Kassel (2002); documenta 11 (2002)",factual-web
+825,Touhami Ennadre,Documenta | Bienal de La Habana,,1953,"Casablanca, Marruecos",París,,,,"documenta 11, Kassel (2002); documenta 11 (2002); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-web
 826,Cerith Wyn Evans,Documenta | Cream 3 | Bienal de Venecia,,1958,"Llanelli, United Kingdom",,,,http://www.tate.org.uk/art/artists/cerith-wyn-evans-2662,"documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 827,Feng Mengbo,Documenta,,1966,"Pekín, China",Pekín,,,https://en.wikipedia.org/wiki/Feng_Mengbo,"documenta 11, Kassel (2002)",factual-web
 828,Yona Friedman,Documenta | Bienal de Venecia,,1923,"Budapest, Hungría",,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 829,Meschac Gaba,Documenta | Bienal de São Paulo,,1961,"Cotonou, Bénin",,,,http://www.tate.org.uk/art/artists/meschac-gaba-8313,"documenta 11, Kassel (2002); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-tate
 830,Giuseppe Gabellone,Documenta | Cream,,1973,"Brindisi, Italia",París,,,https://en.wikipedia.org/wiki/Giuseppe_Gabellone,"documenta 11, Kassel (2002); documenta 11 (2002)",factual-web
-831,Carlos Garaicoa,Documenta | Fresh Cream | Bienal de São Paulo,,1967,"La Habana, Cuba",,,,http://www.tate.org.uk/art/artists/carlos-garaicoa-6876,"documenta 11, Kassel (2002); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 26ª Bienal de São Paulo «Território Livre» (2004, Hug)",factual-tate
+831,Carlos Garaicoa,Documenta | Fresh Cream | Bienal de São Paulo | Bienal de La Habana,,1967,"La Habana, Cuba",,,,http://www.tate.org.uk/art/artists/carlos-garaicoa-6876,"documenta 11, Kassel (2002); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 26ª Bienal de São Paulo «Território Livre» (2004, Hug); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-tate
 832,Kendell Geers,Documenta | Cream | Bienal de São Paulo,,1968,"Johannesburgo, Sudáfrica",Bruselas,,,https://en.wikipedia.org/wiki/Kendell_Geers,"documenta 11, Kassel (2002); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-web
 833,Jef Geys,Documenta,,1934,"Leopoldsburg, Bélgica",,,,https://en.wikipedia.org/wiki/Jef_Geys,"documenta 11, Kassel (2002); fallecido 2018",factual-web
 834,David Goldblatt,Documenta | Vitamin Ph | African Artists | Bienal de São Paulo,,1930,"Randfontein, South Africa",,,,http://www.tate.org.uk/art/artists/david-goldblatt-6558,"documenta 11, Kassel (2002); documenta 12, Kassel (2007); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-tate
@@ -855,7 +855,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 854,Ken Lum,Documenta | Whitney Biennial,,1956,"Vancouver, Canadá",Vancouver; Filadelfia,,,,"documenta 11, Kassel (2002); Whitney Biennial 2014, Nueva York",factual-whitney
 855,Mark Manders,Documenta | Vitamin D | Vitamin 3-D,,1968,"Volkel, Países Bajos",Ronse,,,https://en.wikipedia.org/wiki/Mark_Manders,"documenta 11, Kassel (2002)",factual-web
 856,Cildo Meireles,Documenta | Bienal de Venecia | Bienal de São Paulo,,1948,"Rio de Janeiro, Brasil",,,,http://www.tate.org.uk/art/artists/cildo-meireles-6633,"documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-tate
-857,Annette Messager,Documenta | Vitamin T,,1943,"Berck, France",,,,http://www.tate.org.uk/art/artists/annette-messager-2670,"documenta 11, Kassel (2002)",factual-tate
+857,Annette Messager,Documenta | Vitamin T | Bienal de La Habana,,1943,"Berck, France",,,,http://www.tate.org.uk/art/artists/annette-messager-2670,"documenta 11, Kassel (2002); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-tate
 858,Ryuji Miyamoto,Documenta,,1947,"Tokio, Japón",Tokio,,,https://en.wikipedia.org/wiki/Ry%C5%ABji_Miyamoto,"documenta 11, Kassel (2002)",factual-web
 859,Santu Mofokeng,Documenta,,1956,"Johannesburg, South Africa",,,,http://www.tate.org.uk/art/artists/santu-mofokeng-13378,"documenta 11, Kassel (2002)",factual-tate
 860,Multiplicity,Documenta,,,,,,,,"documenta 11, Kassel (2002); documenta 11 (2002)",factual-web
@@ -878,14 +878,14 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 877,Eyal Sivan,Documenta,,1964,"Haifa, Israel",París,,,https://en.wikipedia.org/wiki/Eyal_Sivan,"documenta 11, Kassel (2002)",factual-web
 878,David Small,Documenta,,,,,,,https://www.davidsmall.com,"documenta 11, Kassel (2002); documenta 11 (2002)",factual-web
 879,Fiona Tan,Documenta | Bienal de São Paulo,,1966,"Pakanbaru, Indonesia",,,,http://www.tate.org.uk/art/artists/fiona-tan-7376,"documenta 11, Kassel (2002); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-tate
-880,Pascale Marthine Tayou,Documenta | Bienal de Venecia,,1967,"Yaundé, Camerún",,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+880,Pascale Marthine Tayou,Documenta | Bienal de Venecia | Bienal de La Habana,,1967,"Yaundé, Camerún",,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-venecia
 881,Jean-Marie Teno,Documenta,,1954,"Famleng, Camerún",,,,https://en.wikipedia.org/wiki/Jean-Marie_Teno,"documenta 11, Kassel (2002)",factual-web
 882,Trinh T. Minh-ha,Documenta | Whitney Biennial | Bienal de São Paulo,,1952,"Hanói, Vietnam",Berkeley,,,https://en.wikipedia.org/wiki/Trinh_T._Minh-ha,"documenta 11, Kassel (2002); Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York; 35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 883,tsunamii.net,Documenta,,,,Singapur,,,,"documenta 11, Kassel (2002); documenta 11 (2002)",factual-web
 884,Joëlle Tuerlinckx,Documenta | Cream 3,,1958,"Bruselas, Bélgica",Bruselas,,,https://en.wikipedia.org/wiki/Jo%C3%ABlle_Tuerlinckx,"documenta 11, Kassel (2002); documenta X (1997)",factual-web
 885,Nomeda & Gediminas Urbonas,Documenta | Bienal de São Paulo,,,,Vilnius,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2007; 32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
 886,Jeff Wall,Documenta | 21st-Century Art Book,,1946,"Vancouver, Canada",,,,http://www.tate.org.uk/art/artists/jeff-wall-2359,"documenta 11, Kassel (2002)",factual-tate
-887,Nari Ward,Documenta | Whitney Biennial | Bienal de São Paulo,,1963,"Saint Andrew, Jamaica",Nueva York,,,https://en.wikipedia.org/wiki/Nari_Ward,"documenta 11, Kassel (2002); Whitney Biennial 2006 «Day for Night», Nueva York; 36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",factual-web
+887,Nari Ward,Documenta | Whitney Biennial | Bienal de São Paulo | Bienal de La Habana,,1963,"Saint Andrew, Jamaica",Nueva York,,,https://en.wikipedia.org/wiki/Nari_Ward,"documenta 11, Kassel (2002); Whitney Biennial 2006 «Day for Night», Nueva York; 36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); 8ª Bienal de La Habana (2003)",factual-web
 888,Ouattara Watts,Documenta | Whitney Biennial,,1957-05-27,"Abiyán, Costa de Marfil",Nueva York,,,https://en.wikipedia.org/wiki/Ouattara_Watts,"documenta 11, Kassel (2002); Whitney Biennial 2002, Nueva York",factual-web
 889,Sonia Abian Rose,Documenta,,1966,"Posadas, Argentina",,,,,"documenta 12, Kassel (2007); documenta 12 (2007)",factual-web
 890,Ferran Adrià,Documenta,,1962,"L'Hospitalet de Llobregat, España",Barcelona,,,https://en.wikipedia.org/wiki/Ferran_Adri%C3%A0,"documenta 12, Kassel (2007); documenta 12 (2007)",factual-web
@@ -906,19 +906,19 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 905,Alice Creischer,Documenta,,1960,"Gerolstein, Alemania",Berlín,,,https://en.wikipedia.org/wiki/Alice_Creischer,"documenta 12, Kassel (2007); documenta 12 (2007)",factual-web
 906,Danica Dakić,Documenta | Bienal de São Paulo,,1962,"Sarajevo, Bosnia y Herzegovina",Düsseldorf,,,https://en.wikipedia.org/wiki/Danica_Daki%C4%87,"documenta 12, Kassel (2007); documenta 12 (2007); 31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 907,Juan Dávila,Documenta,,1946,"Santiago, Chile",Melbourne,,,https://en.wikipedia.org/wiki/Juan_Davila_(artist),"documenta 12, Kassel (2007); documenta 12 (2007)",factual-web
-908,Dias & Riedweg,Documenta | Bienal de São Paulo,,,,,,,https://www.dias-riedweg.com,"documenta 12, Kassel (2007); documenta 12 (2007); 24ª Bienal de São Paulo «Antropofagia», Roteiros (1998, Herkenhoff)",factual-web
+908,Dias & Riedweg,Documenta | Bienal de São Paulo | Bienal de La Habana,,,,,,,https://www.dias-riedweg.com,"documenta 12, Kassel (2007); documenta 12 (2007); 24ª Bienal de São Paulo «Antropofagia», Roteiros (1998, Herkenhoff); 8ª Bienal de La Habana (2003)",factual-web
 909,Gonzalo Díaz,Documenta,,1947-03-13,"Santiago, Chile",Santiago,,,,"documenta 12, Kassel (2007); fallecido 2025",factual-web
 910,Ines Doujak,Documenta,,1959,"Klagenfurt, Austria",Viena,,,https://en.wikipedia.org/wiki/Ines_Doujak,"documenta 12, Kassel (2007); documenta 12 (2007)",factual-web
 911,Lili Dujourie,Documenta,,1941,"Roeselare, Bélgica",Gante,,,https://en.wikipedia.org/wiki/Lili_Dujourie,"documenta 12, Kassel (2007)",factual-web
 912,Lukas Duwenhögger,Documenta,,1956,"Múnich, Alemania",Estambul,,,,"documenta 12, Kassel (2007)",factual-web
-913,León Ferrari,Documenta | Bienal de Venecia | Bienal de São Paulo,,1920,"Buenos Aires, Argentina",,,,http://www.tate.org.uk/art/artists/leon-ferrari-10613,"documenta 12, Kassel (2007); fallecido/a 2013; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); León de Oro al mejor participante, Venecia (2007); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-tate
+913,León Ferrari,Documenta | Bienal de Venecia | Bienal de São Paulo | Bienal de La Habana,,1920,"Buenos Aires, Argentina",,,,http://www.tate.org.uk/art/artists/leon-ferrari-10613,"documenta 12, Kassel (2007); fallecido/a 2013; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); León de Oro al mejor participante, Venecia (2007); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-tate
 914,Iole de Freitas,Documenta,,1945,"Belo Horizonte, Brasil",,,,https://en.wikipedia.org/wiki/Iole_de_Freitas,"documenta 12, Kassel (2007)",factual-web
 915,Andrea Geyer,Documenta | Bienal de São Paulo,,1971,"Friburgo, Alemania",Nueva York,,,https://en.wikipedia.org/wiki/Andrea_Geyer,"documenta 12, Kassel (2007); documenta 12 (2007); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-web
 916,Sheela Gowda,Documenta | Vitamin T | Bienal de Venecia | Bienal de São Paulo,,1957,"Bhadravati, India",,,,,"documenta 12, Kassel (2007); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-venecia
 917,Ion Grigorescu,Documenta,,1945-03-15,"Bucarest, Rumanía",Bucarest,,,https://en.wikipedia.org/wiki/Ion_Grigorescu,"documenta 12, Kassel (2007); documenta 12 (2007)",factual-web
 918,Grupo de Artistas de Vanguardia,Documenta,,,,,,,,"documenta 12, Kassel (2007); Tucumán Arde (1968)",factual-web
 919,Dmitri Gutov,Documenta | Fresh Cream | Bienal de Venecia,,1960,"Moscú, Rusia",Moscú,,,,"documenta 12, Kassel (2007); Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
-920,Romuald Hazoumé,Documenta,,1962,"Porto-Novo, Benín",Porto-Novo,,,https://en.wikipedia.org/wiki/Romuald_Hazoum%C3%A8,"documenta 12, Kassel (2007); documenta 12 (2007)",factual-web
+920,Romuald Hazoumé,Documenta | Bienal de La Habana,,1962,"Porto-Novo, Benín",Porto-Novo,,,https://en.wikipedia.org/wiki/Romuald_Hazoum%C3%A8,"documenta 12, Kassel (2007); documenta 12 (2007); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-web
 921,Hu Xiaoyuan,Documenta,,1977,"Harbin, China",Pekín,,,https://en.wikipedia.org/wiki/Hu_Xiaoyuan,"documenta 12, Kassel (2007); documenta 12 (2007)",factual-web
 922,Luis Jacob,Documenta,,1971,"Lima, Perú",Toronto,,,https://en.wikipedia.org/wiki/Luis_Jacob,"documenta 12, Kassel (2007); documenta 12 (2007)",factual-web
 923,Jorge Mario Jáuregui,Documenta,,1948,,Río de Janeiro,,,http://www.jauregui.arq.br/biography_jauregui.html,"documenta 12, Kassel (2007)",factual-web
@@ -1422,7 +1422,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1421,James Welling,Whitney Biennial,,1951,"Hartford, CT, EE.UU.",Los Ángeles,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1422,Mario Ybarra Jr.,Whitney Biennial,,1973,"Los Ángeles, CA, EE.UU.",Los Ángeles,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1423,Marina Rosenfeld,Whitney Biennial,,1968,"Nueva York, EE.UU.",Nueva York,,,,"Whitney Biennial 2008, Nueva York; Whitney Biennial 2012, Nueva York; Whitney Biennial 2002, Nueva York",factual-whitney
-1424,Allora & Calzadilla,Whitney Biennial | Vitamin 3-D | Bienal de Venecia | Bienal de São Paulo,,,EE.UU.; Cuba,San Juan,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-venecia
+1424,Allora & Calzadilla,Whitney Biennial | Vitamin 3-D | Bienal de Venecia | Bienal de São Paulo | Bienal de La Habana,,,EE.UU.; Cuba,San Juan,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-venecia
 1425,Dawolu Jabari Anderson,Whitney Biennial,,1973,"Houston, EE.UU.",,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1426,Kenneth Anger,Whitney Biennial,,1927-02-03,"Santa Mónica, EE.UU.",,,,https://en.wikipedia.org/wiki/Kenneth_Anger,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecido 2023",factual-web
 1427,Dominic Angerame,Whitney Biennial,,1949,"Albany, EE.UU.",San Francisco,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2006",factual-web
@@ -1699,7 +1699,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1698,Tara Donovan,Whitney Biennial | Vitamin 3-D,,1969,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Tara_Donovan,"Whitney Biennial 2000, Nueva York",factual-web
 1699,James Drake,Whitney Biennial | Bienal de Venecia,,1946,"Lubbock, EE.UU.",Santa Fe,,,https://en.wikipedia.org/wiki/James_Drake_(visual_artist),"Whitney Biennial 2000, Nueva York; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2007",factual-web
 1700,Theresa Duncan,Whitney Biennial,,1966,"Lapeer, EE.UU.",,,,https://en.wikipedia.org/wiki/Theresa_Duncan,"Whitney Biennial 2000, Nueva York; fallecida 2007",factual-web
-1701,Leandro Erlich,Whitney Biennial | Cream 3 | Bienal de São Paulo,,1973,"Buenos Aires, Argentina",,,,https://en.wikipedia.org/wiki/Leandro_Erlich,"Whitney Biennial 2000, Nueva York; Bienal de Venecia 2001; 26ª Bienal de São Paulo «Território Livre» (2004, Hug)",factual-web
+1701,Leandro Erlich,Whitney Biennial | Cream 3 | Bienal de São Paulo | Bienal de La Habana,,1973,"Buenos Aires, Argentina",,,,https://en.wikipedia.org/wiki/Leandro_Erlich,"Whitney Biennial 2000, Nueva York; Bienal de Venecia 2001; 26ª Bienal de São Paulo «Território Livre» (2004, Hug); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-web
 1702,Fakeshop,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2002",factual-web
 1703,Vernon Fisher,Whitney Biennial,,1943,"Fort Worth, EE.UU.",Fort Worth,,,https://en.wikipedia.org/wiki/Vernon_Fisher,"Whitney Biennial 2000, Nueva York; fallecido 2023",factual-web
 1704,Brian Fridge,Whitney Biennial,,1969,"Fort Worth, EE.UU.",Fort Worth,,,https://en.wikipedia.org/wiki/Brian_Fridge,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
@@ -1754,7 +1754,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1753,Shannon Bool,Vitamin D,,1972,"Comox, Canadá",Berlín,,,https://en.wikipedia.org/wiki/Shannon_Bool,,factual-web
 1754,Jesse Bransford,Vitamin D,,1972,"Atlanta, EE.UU.",Nueva York,,,https://www.jessebransford.com/,,factual-web
 1755,Fernando Bryce,Vitamin D | Bienal de São Paulo,,1965,"Lima, Perú",,,,http://www.tate.org.uk/art/artists/fernando-bryce-9098,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); 26ª Bienal de São Paulo «Território Livre» (2004, Hug)",factual-tate
-1756,Los Carpinteros,Vitamin D,,1971,Cuba,,,,http://www.tate.org.uk/art/artists/los-carpinteros-marco-antonio-castillo-valdes-dagoberto-rodriguez-sanchez-9596,,factual-tate
+1756,Los Carpinteros,Vitamin D | Bienal de La Habana,,1971,Cuba,,,,http://www.tate.org.uk/art/artists/los-carpinteros-marco-antonio-castillo-valdes-dagoberto-rodriguez-sanchez-9596,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),factual-tate
 1757,Raimond Chaves,Vitamin D,,1963,"Santafé de Bogotá, D.C., Colombia",,,,http://www.tate.org.uk/art/artists/raimond-chaves-11461,,factual-tate
 1758,Sandra Cinto,Vitamin D | Vitamin P4,,1968,"Santo André, Brasil",São Paulo,,,https://en.wikipedia.org/wiki/Sandra_Cinto,,factual-web
 1759,Russell Crotty,Vitamin D,,1956,"San Rafael, EE.UU.",Malibú,,,https://en.wikipedia.org/wiki/Russell_Crotty,,factual-web
@@ -1772,16 +1772,16 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1771,Nobuya Hoki,Vitamin D,,1966,"Kioto, Japón",Kioto,,,,,factual-web
 1772,Huang Yong Ping,Vitamin D | Cream | Bienal de Venecia,,1954,"Xiamen, China",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 1773,Dean Hughes,Vitamin D,,1974,"Salford, Reino Unido",,,,,,factual-web
-1774,Gareth James,Vitamin D,,,,Nueva York,,,https://whitney.org/artists/13743,,factual-web
+1774,Gareth James,Vitamin D | Bienal de La Habana,,,,Nueva York,,,https://whitney.org/artists/13743,8ª Bienal de La Habana (2003),factual-web
 1775,Kerstin Kartscher,Vitamin D,,1966,"Núremberg, Alemania",Londres,,,https://en.wikipedia.org/wiki/Kerstin_Kartscher,,factual-web
 1776,Toba Khedoori,Vitamin D | Bienal de Venecia | Bienal de São Paulo,,1964,"Sídney, Australia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 26ª Bienal de São Paulo «Território Livre» (2004, Hug)",factual-venecia
-1777,Dr. Lakra,Vitamin D,,1972,,Oaxaca,,,https://en.wikipedia.org/wiki/Dr_Lakra,,factual-web
+1777,Dr. Lakra,Vitamin D | Bienal de La Habana,,1972,,Oaxaca,,,https://en.wikipedia.org/wiki/Dr_Lakra,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),factual-web
 1778,Michael Landy,Vitamin D,,1963,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/michael-landy-2409,,factual-tate
-1779,Ricardo Lanzarini,Vitamin D,,1963,"Montevideo, Uruguay",Montevideo,,,,,factual-web
+1779,Ricardo Lanzarini,Vitamin D | Bienal de La Habana,,1963,"Montevideo, Uruguay",Montevideo,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997),factual-web
 1780,Graham Little,Vitamin D,,1972,"Dundee, Reino Unido",Londres,,,,,factual-web
 1781,Mark Lombardi,Vitamin D,,1951,"Syracuse, EE.UU.",,,,https://en.wikipedia.org/wiki/Mark_Lombardi,fallecido 2000,factual-web
 1782,Mindaugas Lukosaitis,Vitamin D,,1980,"Šiauliai, Lituania",Vilna,,,,Bienal de São Paulo (2004),factual-web
-1783,Marco Maggi,Vitamin D,,1957,"Montevideo, Uruguay",Nueva York,,,https://en.wikipedia.org/wiki/Marco_Maggi,Bienal de Venecia 2015,factual-web
+1783,Marco Maggi,Vitamin D | Bienal de La Habana,,1957,"Montevideo, Uruguay",Nueva York,,,https://en.wikipedia.org/wiki/Marco_Maggi,Bienal de Venecia 2015; 8ª Bienal de La Habana (2003),factual-web
 1784,Frank Magnotta,Vitamin D,,,,Nueva York,,,https://www.moma.org/artists/28700,,factual-web
 1785,Dominic McGill,Vitamin D,,1963,,Brighton,,,,,factual-web
 1786,Mrzyk & Moriceau (Jean-François Moriceau y Petra Mrzyk),Vitamin D,,,,Montjean-sur-Loire,,,,,factual-web
@@ -1808,7 +1808,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1807,Amelie von Wulffen,Vitamin D,,1966,"Breitenbrunn, Alemania",Berlín,,,,,factual-web
 1808,Daniel Zeller,Vitamin D,,1965,"San Rafael, EE.UU.",Nueva York,,,http://www.danielzeller.net/,,factual-web
 1809,Armando Andrade Tudela,Vitamin Ph | Bienal de São Paulo,,1975,"Lima, Perú",,,,http://www.tate.org.uk/art/artists/armando-andrade-tudela-8961,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-tate
-1810,Alexander Apostól,Vitamin Ph,,1969,"Barquisimeto, Venezuela",,,,http://www.tate.org.uk/art/artists/alexander-apostol-10241,,factual-tate
+1810,Alexander Apostól,Vitamin Ph | Bienal de La Habana,,1969,"Barquisimeto, Venezuela",,,,http://www.tate.org.uk/art/artists/alexander-apostol-10241,6ª Bienal de La Habana «El individuo y su memoria» (1997),factual-tate
 1811,Miriam Bäckström,Vitamin Ph | Fresh Cream,,1967,"Stockholm, Sverige",,,,http://www.tate.org.uk/art/artists/miriam-backstrom-13866,,factual-tate
 1812,Erica Baum,Vitamin Ph | Bienal de São Paulo,,1961,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Erica_Baum,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
 1813,Valérie Belin,Vitamin Ph,,1964,"Boulogne-Billancourt, Francia",París,,,https://en.wikipedia.org/wiki/Val%C3%A9rie_Belin,Prix Pictet (premio 2015),factual-web
@@ -1854,13 +1854,13 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1853,Scott McFarland,Vitamin Ph,,1975,"Hamilton, Canadá",Vancouver,,,,,factual-web
 1854,Ryan McGinley,Vitamin Ph,,1977-10-17,"Ramsey, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Ryan_McGinley,,factual-web
 1855,Trish Morrissey,Vitamin Ph,,1967,"Dublín, Irlanda",Londres,,,https://en.wikipedia.org/wiki/Trish_Morrissey,,factual-web
-1856,Zwelethu Mthethwa,Vitamin Ph | Fresh Cream,,1960,"Durban, Sudáfrica",,,,https://en.wikipedia.org/wiki/Zwelethu_Mthethwa,,factual-web
+1856,Zwelethu Mthethwa,Vitamin Ph | Fresh Cream | Bienal de La Habana,,1960,"Durban, Sudáfrica",,,,https://en.wikipedia.org/wiki/Zwelethu_Mthethwa,8ª Bienal de La Habana (2003),factual-web
 1857,Oliver Musovik,Vitamin Ph,,1971,"Skopie, Macedonia del Norte",Skopie,,,https://olivermusovik.art/,Manifesta 4 (2002),factual-web
-1858,Nils Norman,Vitamin Ph,,1966,"Sevenoaks, Reino Unido",,,,https://en.wikipedia.org/wiki/Nils_Norman,,factual-web
+1858,Nils Norman,Vitamin Ph | Bienal de La Habana,,1966,"Sevenoaks, Reino Unido",,,,https://en.wikipedia.org/wiki/Nils_Norman,8ª Bienal de La Habana (2003),factual-web
 1859,Esteban Pastorino Díaz,Vitamin Ph,,1972,"Buenos Aires, Argentina",Buenos Aires,,,,,factual-web
 1860,Sarah Pickering,Vitamin Ph,,1972,"Durham, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Sarah_Pickering,,factual-web
 1861,Peter Piller,Vitamin Ph,,1968,"Fritzlar, Alemania",Hamburgo,,,,,factual-web
-1862,Rosângela Rennó,Vitamin Ph | Bienal de São Paulo,,1962,"Belo Horizonte, Brasil",,,,http://www.tate.org.uk/art/artists/rosangela-renno-8376,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-tate
+1862,Rosângela Rennó,Vitamin Ph | Bienal de São Paulo | Bienal de La Habana,,1962,"Belo Horizonte, Brasil",,,,http://www.tate.org.uk/art/artists/rosangela-renno-8376,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-tate
 1863,Mauro Restiffe,Vitamin Ph | Bienal de São Paulo,,1970,"São Paulo, Brasil",,,,http://www.tate.org.uk/art/artists/mauro-restiffe-11979,"34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-tate
 1864,Sophy Rickett,Vitamin Ph,,1970-09-22,"Londres, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Sophy_Rickett,,factual-web
 1865,Noguchi Rika,Vitamin Ph,,1971,"Saitama, Japón",Naha,,,https://en.wikipedia.org/wiki/Rika_Noguchi,,factual-web
@@ -1924,18 +1924,18 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1923,Daniel Joglar,Vitamin 3-D,,1966,"Mar del Plata, Argentina",Buenos Aires,,,,,factual-web
 1924,Matt Johnson,Vitamin 3-D,,1978,"Nueva York, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Matt_Johnson_(artist),,factual-web
 1925,Kitty Kraus,Vitamin 3-D | New Museum Triennial,,1976,"Heidelberg, Alemania",Berlín,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
-1926,Gabriel Kuri,Vitamin 3-D,,1970,México,,,,http://www.tate.org.uk/art/artists/gabriel-kuri-10169,,factual-tate
+1926,Gabriel Kuri,Vitamin 3-D | Bienal de La Habana,,1970,México,,,,http://www.tate.org.uk/art/artists/gabriel-kuri-10169,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),factual-tate
 1927,Robert Kusmirowski,Vitamin 3-D,,1973,"Łódź, Polonia",Lublin,,,https://en.wikipedia.org/wiki/Robert_Ku%C5%9Bmirowski,,factual-web
 1928,Camilla Low,Vitamin 3-D,,1976,"Oslo, Noruega",Oslo,,,https://en.wikipedia.org/wiki/Camilla_L%C3%B8w,,factual-web
 1929,Nathan Mabry,Vitamin 3-D | 100 Sculptors of Tomorrow,,1978,"Durango, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Nathan_Mabry,,factual-web
 1930,Kris Martin,Vitamin 3-D,,1972,"Kortrijk, Bélgica",Gante,,,https://en.wikipedia.org/wiki/Kris_Martin,,factual-web
 1931,Michaela Meise,Vitamin 3-D,,1976,"Hanau, Alemania",Berlín,,,,,factual-web
-1932,Ernesto Neto,Vitamin 3-D | Vitamin T | Bienal de São Paulo,,1964,"Rio de Janeiro, Brasil",,,,http://www.tate.org.uk/art/artists/ernesto-neto-2791,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-tate
+1932,Ernesto Neto,Vitamin 3-D | Vitamin T | Bienal de São Paulo | Bienal de La Habana,,1964,"Rio de Janeiro, Brasil",,,,http://www.tate.org.uk/art/artists/ernesto-neto-2791,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 8ª Bienal de La Habana (2003)",factual-tate
 1933,Rivane Neuenschwander,Vitamin 3-D | Vitamin T | Bienal de São Paulo,,1967,Brasil,,,,http://www.tate.org.uk/art/artists/rivane-neuenschwander-10170,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-tate
-1934,Damian Ortega,Vitamin 3-D | Fresh Cream | Bienal de São Paulo,,1967,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/damian-ortega-8133,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-tate
+1934,Damian Ortega,Vitamin 3-D | Fresh Cream | Bienal de São Paulo | Bienal de La Habana,,1967,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/damian-ortega-8133,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012)",factual-tate
 1935,Mai-Thu Perret,Vitamin 3-D,,1976,"Ginebra, Suiza",Ginebra,,,https://en.wikipedia.org/wiki/Mai-Thu_Perret,,factual-web
 1936,Falke Pisano,Vitamin 3-D | Bienal de Venecia,,1978,"Ámsterdam, Países Bajos",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-1937,Wilfredo Prieto,Vitamin 3-D | Bienal de São Paulo,,1978,"Zaza del Medio, Cuba",,,,https://en.wikipedia.org/wiki/Wilfredo_Prieto,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-web
+1937,Wilfredo Prieto,Vitamin 3-D | Bienal de São Paulo | Bienal de La Habana,,1978,"Zaza del Medio, Cuba",,,,https://en.wikipedia.org/wiki/Wilfredo_Prieto,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 8ª Bienal de La Habana (2003)",factual-web
 1938,Tobias Putrih,Vitamin 3-D | Bienal de São Paulo,,1972,"Kranj, Eslovenia",,,,https://www.moma.org/artists/28769-tobias-putrih,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-web
 1939,Lisi Raskin,Vitamin 3-D,,1974,"Miami, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Lisi_Raskin,,factual-web
 1940,David Renggli,Vitamin 3-D,,1974,,Zúrich,,,,,factual-web
@@ -2022,7 +2022,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2021,Nury González,Vitamin T,,1960-09-20,"Santiago, Chile",Santiago,,,,,factual-web
 2022,Kyungah Ham,Vitamin T | Vitamin Txt,,1966,"Seúl, Corea del Sur",Seúl,,,https://en.wikipedia.org/wiki/Kyungah_Ham,,factual-web
 2023,Channing Hansen,Vitamin T,,1972,"Los Ángeles, EE.UU.",Los Ángeles,,,,,factual-web
-2024,Nicholas Hlobo,Vitamin T,,1975,"Cape Town, South Africa",,,,http://www.tate.org.uk/art/artists/nicholas-hlobo-12497,,factual-tate
+2024,Nicholas Hlobo,Vitamin T | Bienal de La Habana,,1975,"Cape Town, South Africa",,,,http://www.tate.org.uk/art/artists/nicholas-hlobo-12497,"Bienal de La Habana (participación documentada, edición por precisar)",factual-tate
 2025,Zon Ito,Vitamin T,,1971,"Osaka, Japón",Kioto,,,,,factual-web
 2026,Takahiro Iwasaki,Vitamin T,,1975,"Hiroshima, Japón",Hiroshima,,,https://en.wikipedia.org/wiki/Takahiro_Iwasaki,Bienal de Venecia 2017,factual-web
 2027,Reena Saini Kallat,Vitamin T,,1973,"Delhi, India",Bombay,,,https://en.wikipedia.org/wiki/Reena_Saini_Kallat,,factual-web
@@ -2038,7 +2038,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2037,Eko Nugroho,Vitamin T,,1977,"Yogyakarta, Indonesia",Yogyakarta,,,,,factual-web
 2038,Katherine Nuñez & Issay Rodriguez,Vitamin T,,,,Manila,,,,participación en la Bienal de Venecia 2017,factual-web
 2039,Sara Ouhaddou,Vitamin T,,1986,"Draguignan, Francia",,,,,Manifesta 13 (2020),factual-web
-2040,Rosana Palazyan,Vitamin T | Bienal de São Paulo,,1963,"Río de Janeiro, Brasil",Río de Janeiro,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",factual-web
+2040,Rosana Palazyan,Vitamin T | Bienal de São Paulo | Bienal de La Habana,,1963,"Río de Janeiro, Brasil",Río de Janeiro,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-web
 2041,Hardeep Pandhal,Vitamin T,,1985,"Birmingham, Reino Unido",Glasgow,,,https://en.wikipedia.org/wiki/Hardeep_Pandhal,,factual-web
 2042,Zoë Paul,Vitamin T,,1987,"Londres, Reino Unido",Atenas,,,https://en.wikipedia.org/wiki/Zo%C3%AB_Paul,,factual-web
 2043,Sheila Pepe,Vitamin T,,1959,"Morristown, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Sheila_Pepe,,factual-web
@@ -2089,7 +2089,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2088,Heman Chong,Vitamin Txt,,1977,"Muar, Malasia",Singapur,,,,Bienal de Venecia 2003,factual-web
 2089,Tim Etchells,Vitamin Txt,,1962,"Stevenage, Reino Unido",Sheffield,,,https://en.wikipedia.org/wiki/Tim_Etchells,,factual-web
 2090,Alexandra Grant,Vitamin Txt,,1973,"Fairview Park, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Alexandra_Grant,,factual-web
-2091,Shilpa Gupta,Vitamin Txt | New Museum Triennial | Bienal de Venecia,,1976,India,Bombay,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
+2091,Shilpa Gupta,Vitamin Txt | New Museum Triennial | Bienal de Venecia | Bienal de La Habana,,1976,India,Bombay,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-venecia
 2092,Nadia Hernández,Vitamin Txt,,1987,"Mérida, Venezuela",Melbourne,,,,,factual-web
 2093,Ichihara Hiroko,Vitamin Txt,,1963,"Kioto, Japón",,,,,,factual-web
 2094,Barbara Kruger,Vitamin Txt | Bienal de Venecia,,1945,"Newark, United States",Los Ángeles,,,http://www.tate.org.uk/art/artists/barbara-kruger-1443,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-tate
@@ -2153,7 +2153,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2152,Fabrice Hybert,Cream,,1961-07-12,"Luçon, Francia",,,,https://en.wikipedia.org/wiki/Fabrice_Hybert,Bienal de Venecia 1997,factual-web
 2153,Inventory,Cream,,1996,,,,,http://www.tate.org.uk/art/artists/inventory-4561,,factual-tate
 2154,Simone Aaberg Kærn,Cream,,1969,"Copenhague, Dinamarca",Copenhague,,,,,factual-web
-2155,Kcho,Cream,,1970-02-12,"Nueva Gerona, Cuba",La Habana,,,https://en.wikipedia.org/wiki/Kcho,Bienal de Gwangju (gran premio 1995),factual-web
+2155,Kcho,Cream | Bienal de La Habana,,1970-02-12,"Nueva Gerona, Cuba",La Habana,,,https://en.wikipedia.org/wiki/Kcho,Bienal de Gwangju (gran premio 1995); 14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022); 6ª Bienal de La Habana «El individuo y su memoria» (1997); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),factual-web
 2156,Suchan Kinoshita,Cream,,1960,"Tokio, Japón",Bruselas,,,https://en.wikipedia.org/wiki/Suchan_Kinoshita,Premio de Arte Belga (premio 2025),factual-web
 2157,Elke Krystufek,Cream,,1970,"Viena, Austria",Berlín,,,https://en.wikipedia.org/wiki/Elke_Krystufek,,factual-web
 2158,Matts Leiderstam,Cream,,1956,"Gotemburgo, Suecia",Estocolmo,,,,,factual-web
@@ -2163,9 +2163,9 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2162,Gillian Wearing,Cream,,1963-12-10,"Birmingham, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Gillian_Wearing,Turner Prize (premio 1997),factual-web
 2163,Wang Du,Cream,,1956,"Wuhan, China",París,,,https://en.wikipedia.org/wiki/Wang_Du_(artist),,factual-web
 2164,Carsten Höller,Cream | Bienal de Venecia | Bienal de São Paulo,,1961,"Bruxelles, België",Estocolmo,,,http://www.tate.org.uk/art/artists/carsten-holler-6253,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",factual-tate
-2165,Jane Alexander,Fresh Cream | Bienal de São Paulo,,1959,"Johannesburgo, Sudáfrica",Ciudad del Cabo,,,https://en.wikipedia.org/wiki/Jane_Alexander_(artist),"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
-2166,Carlos Amorales,Fresh Cream,,1970,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/carlos-amorales-7533,,factual-tate
-2167,Arahmaiani,Fresh Cream,,1961-05-21,"Bandung, Indonesia",Yogyakarta,,,https://en.wikipedia.org/wiki/Arahmaiani,,factual-web
+2165,Jane Alexander,Fresh Cream | Bienal de São Paulo | Bienal de La Habana,,1959,"Johannesburgo, Sudáfrica",Ciudad del Cabo,,,https://en.wikipedia.org/wiki/Jane_Alexander_(artist),"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-web
+2166,Carlos Amorales,Fresh Cream | Bienal de La Habana,,1970,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/carlos-amorales-7533,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),factual-tate
+2167,Arahmaiani,Fresh Cream | Bienal de La Habana,,1961-05-21,"Bandung, Indonesia",Yogyakarta,,,https://en.wikipedia.org/wiki/Arahmaiani,6ª Bienal de La Habana «El individuo y su memoria» (1997),factual-web
 2168,Fabienne Audéoud,Fresh Cream,,1968,"Besançon, Francia",París,,,http://www.fabienneaudeoud.com,,factual-web
 2169,Burt Barr,Fresh Cream,,1938-11-12,"Lewiston, EE.UU.",Nueva York,,,,fallecido 2016,factual-web
 2170,Orla Barry,Fresh Cream,,1969,"Wexford, Irlanda",Wexford,,,https://en.wikipedia.org/wiki/Orla_Barry_(artist),,factual-web
@@ -2177,12 +2177,12 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2176,Miguel Calderón,Fresh Cream,,1971,"Ciudad de México, México",Ciudad de México,,,https://en.wikipedia.org/wiki/Miguel_Calder%C3%B3n,,factual-web
 2177,Chen Chieh-Jen,Fresh Cream,,1960,"Taoyuan, Taiwán",,,,,,factual-web
 2178,Choi Jeong Hwa,Fresh Cream,,1961,"Seúl, Corea del Sur",Seúl,,,https://en.wikipedia.org/wiki/Choi_Jeong_Hwa,,factual-web
-2179,Nicola Costantino,Fresh Cream,,1964,"Rosario, Argentina",Buenos Aires,,,,Bienal de Venecia 2013,factual-web
+2179,Nicola Costantino,Fresh Cream | Bienal de La Habana,,1964,"Rosario, Argentina",Buenos Aires,,,,Bienal de Venecia 2013; 8ª Bienal de La Habana (2003),factual-web
 2180,Iftikhar & Elizabeth Dadi,Fresh Cream,,,,Ithaca,,,http://www.dadiart.net,,factual-web
 2181,Lucky DeBellevue,Fresh Cream,,1957,"Lafayette, EE.UU.",Nueva York,,,https://www.luckydebellevue.com/,,factual-web
 2182,Wim Delvoye,Fresh Cream,,1965-01-14,"Wervik, Bélgica",Gante,,,https://en.wikipedia.org/wiki/Wim_Delvoye,,factual-web
 2183,Jason Dodge,Fresh Cream,,1969,"Newtown, EE.UU.",Berlín,,,,,factual-web
-2184,Heri Dono,Fresh Cream | Bienal de São Paulo,,1960-06-12,"Yakarta, Indonesia",Yogyakarta,,,https://en.wikipedia.org/wiki/Heri_Dono,"Bienal de Venecia 2015; 26ª Bienal de São Paulo «Território Livre» (2004, Hug)",factual-web
+2184,Heri Dono,Fresh Cream | Bienal de São Paulo | Bienal de La Habana,,1960-06-12,"Yakarta, Indonesia",Yogyakarta,,,https://en.wikipedia.org/wiki/Heri_Dono,"Bienal de Venecia 2015; 26ª Bienal de São Paulo «Território Livre» (2004, Hug); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-web
 2185,Marie-Louise Ekman,Fresh Cream,,1944-11-05,"Estocolmo, Suecia",,,,https://en.wikipedia.org/wiki/Marie-Louise_Ekman,,factual-web
 2186,Annika Eriksson,Fresh Cream,,1956,"Malmö, Suecia",Berlín,,,,,factual-web
 2187,Ayşe Erkmen,Fresh Cream,,1949,"Estambul, Turquía",,,,https://en.wikipedia.org/wiki/Ay%C5%9Fe_Erkmen,Bienal de Venecia 2011,factual-web
@@ -2197,17 +2197,17 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2196,Byron Kim,Fresh Cream,,1961,"La Jolla, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Byron_Kim,Bienal Whitney 1993,factual-web
 2197,Kaisu Koivisto,Fresh Cream,,1962,"Seinäjoki, Finlandia",Helsinki,,,,,factual-web
 2198,Oleg Kulik,Fresh Cream,,1961,"Kiev, Ucrania",Moscú,,,https://en.wikipedia.org/wiki/Oleg_Kulik,,factual-web
-2199,Moshekwa Langa,Fresh Cream | Bienal de Venecia | Bienal de São Paulo,,1975,"Bakenberg, Sudáfrica",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-venecia
+2199,Moshekwa Langa,Fresh Cream | Bienal de Venecia | Bienal de São Paulo | Bienal de La Habana,,1975,"Bakenberg, Sudáfrica",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-venecia
 2200,Nikki S. Lee,Fresh Cream,,1970,"Geochang, Corea del Sur",Seúl,,,https://en.wikipedia.org/wiki/Nikki_S._Lee,,factual-web
 2201,Laura Lima,Fresh Cream,,1971,"Governador Valadares, Brasil",Río de Janeiro,,,https://en.wikipedia.org/wiki/Laura_Lima,,factual-web
 2202,Barry McGee,Fresh Cream,,1966,"San Francisco, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Barry_McGee,,factual-web
-2203,Mona Marzouk,Fresh Cream,,1968,"Alejandría, Egipto",Alejandría,,,,,factual-web
+2203,Mona Marzouk,Fresh Cream | Bienal de La Habana,,1968,"Alejandría, Egipto",Alejandría,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),factual-web
 2204,Erbossyn Meldibekov,Fresh Cream,,1964,"Shymkent, Kazajistán",Almatý,,,,Bienal de Venecia 2005,factual-web
-2205,Priscilla Monge,Fresh Cream,,1968,Costa Rica,,,,http://www.tate.org.uk/art/artists/priscilla-monge-9245,,factual-tate
+2205,Priscilla Monge,Fresh Cream | Bienal de La Habana,,1968,Costa Rica,,,,http://www.tate.org.uk/art/artists/priscilla-monge-9245,6ª Bienal de La Habana «El individuo y su memoria» (1997),factual-tate
 2206,Aydan Murtezaoğlu,Fresh Cream,,1961,"Estambul, Turquía",Estambul,,,https://en.wikipedia.org/wiki/Aydan_Murtezao%C4%9Flu,,factual-web
 2207,Jean-Luc Mylayne,Fresh Cream,,1946,"Amiens, Francia",,,,,,factual-web
 2208,Marko Peljhan,Fresh Cream,,1969,"Šempeter pri Gorici, Eslovenia",,,,,documenta X (1997),factual-web
-2209,Navin Rawanchaikul,Fresh Cream | Bienal de São Paulo,,1971,"Chiang Mai, Tailandia",,,,,"Bienal de Venecia 2011; 26ª Bienal de São Paulo «Território Livre» (2004, Hug)",factual-web
+2209,Navin Rawanchaikul,Fresh Cream | Bienal de São Paulo | Bienal de La Habana,,1971,"Chiang Mai, Tailandia",,,,,"Bienal de Venecia 2011; 26ª Bienal de São Paulo «Território Livre» (2004, Hug); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-web
 2210,Jason Rhoades,Fresh Cream | Bienal de Venecia,,1965,"California, United States",,,,http://www.tate.org.uk/art/artists/jason-rhoades-7682,"fallecido/a 2006; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2211,Guia Rigvava,Fresh Cream,,1956,"Tiflis, Georgia",Múnich,,,,,factual-web
 2212,Ugo Rondinone,Fresh Cream,,1964,"Brunnen, Suiza",Nueva York,,,https://en.wikipedia.org/wiki/Ugo_Rondinone,Bienal de Venecia 2007,factual-web
@@ -2234,7 +2234,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2233,Iñaki Bonillas,Cream 3 | Bienal de São Paulo,,1981,"Ciudad de México, México",Ciudad de México,,,https://en.wikipedia.org/wiki/I%C3%B1aki_Bonillas,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
 2234,Angela Bulloch,Cream 3,,1966,"Ontario, Canada",,,,http://www.tate.org.uk/art/artists/angela-bulloch-9058,,factual-tate
 2235,Edward Burtynsky,Cream 3 | Bienal de São Paulo,,1955,"Saint Catharines, Canada",,,,http://www.tate.org.uk/art/artists/edward-burtynsky-15853,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",factual-tate
-2236,Franklin Cassaro,Cream 3,,1962-03-05,"Río de Janeiro, Brasil",Río de Janeiro,,,,,factual-web
+2236,Franklin Cassaro,Cream 3 | Bienal de La Habana,,1962-03-05,"Río de Janeiro, Brasil",Río de Janeiro,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),factual-web
 2237,Minerva Cuevas,Cream 3 | Bienal de São Paulo,,1975,,,,,http://www.tate.org.uk/art/artists/minerva-cuevas-11699,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-tate
 2238,José Dávila,Cream 3,,1974,"Guadalajara, México",Guadalajara,,,https://en.wikipedia.org/wiki/Jose_D%C3%A1vila,,factual-web
 2239,Yayoi Deki,Cream 3,,1977,"Osaka, Japón",Hiroshima,,,,,factual-web
@@ -2245,15 +2245,15 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2244,Katarzyna Kozyra,Cream 3,,1963-02-01,"Varsovia, Polonia",Berlín,,,https://en.wikipedia.org/wiki/Katarzyna_Kozyra,Bienal de Venecia 1999,factual-web
 2245,Lee Bul,Cream 3 | Bienal de Venecia,,1964,Corea del Sur,Seúl,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
 2246,LOT-EK,Cream 3,,,,Nueva York,,,https://en.wikipedia.org/wiki/LOT-EK,,factual-web
-2247,Rafael Lozano-Hemmer,Cream 3,,1967,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/rafael-lozano-hemmer-11405,,factual-tate
+2247,Rafael Lozano-Hemmer,Cream 3 | Bienal de La Habana,,1967,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/rafael-lozano-hemmer-11405,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),factual-tate
 2248,Chad McCail,Cream 3,,1961,"Mánchester, Reino Unido",Thankerton,,,,,factual-web
 2249,Patrick McMullan,Cream 3,,,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Patrick_McMullan,,factual-web
-2250,Jorge Macchi,Cream 3 | Bienal de São Paulo,,1963,"La Plata, Argentina",,,,http://www.tate.org.uk/art/artists/jorge-macchi-6024,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 26ª Bienal de São Paulo «Território Livre» (2004, Hug)",factual-tate
+2250,Jorge Macchi,Cream 3 | Bienal de São Paulo | Bienal de La Habana,,1963,"La Plata, Argentina",,,,http://www.tate.org.uk/art/artists/jorge-macchi-6024,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 26ª Bienal de São Paulo «Território Livre» (2004, Hug); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-tate
 2251,Dorit Margreiter,Cream 3,,1967,"Viena, Austria",Viena,,,,,factual-web
 2252,Helen Mirra,Cream 3 | Bienal de São Paulo,,1970,"Rochester, EE.UU.",,,,https://en.wikipedia.org/wiki/Helen_Mirra,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
 2253,Jonathan Monk,Cream 3,,1969,"Leicester, United Kingdom",,,,http://www.tate.org.uk/art/artists/jonathan-monk-8296,,factual-tate
 2254,Jun Nguyen-Hatsushiba,Cream 3,,1968,"Tokio, Japón",Ciudad Ho Chi Minh,,,https://en.wikipedia.org/wiki/Jun_Nguyen-Hatsushiba,,factual-web
-2255,Carsten Nicolai,Cream 3,,1965-09-18,"Chemnitz, Alemania",Berlín,,,https://en.wikipedia.org/wiki/Carsten_Nicolai,,factual-web
+2255,Carsten Nicolai,Cream 3 | Bienal de La Habana,,1965-09-18,"Chemnitz, Alemania",Berlín,,,https://en.wikipedia.org/wiki/Carsten_Nicolai,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),factual-web
 2256,Olaf Nicolai,Cream 3 | Bienal de Venecia,,1962,Alemania,Berlín,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2257,Motohiko Odani,Cream 3,,1972,"Kioto, Japón",Tokio,,,,Bienal de Venecia 2003,factual-web
 2258,Marcel Odenbach,Cream 3,,1953,"Colonia, Alemania",Colonia,,,https://en.wikipedia.org/wiki/Marcel_Odenbach,documenta 8 (1987),factual-web
@@ -2268,7 +2268,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2267,Maruch Sántiz Gómez,Cream 3,,1975,"Chamula, México",,,,,,factual-web
 2268,Jörg Sasse,Cream 3,,1962,"Bad Salzuflen, Alemania",,,,https://en.wikipedia.org/wiki/J%C3%B6rg_Sasse,,factual-web
 2269,Ene-Liis Semper,Cream 3,,1969-04-04,"Tallin, Estonia",Tallin,,,https://en.wikipedia.org/wiki/Ene-Liis_Semper,Bienal de Venecia 2001,factual-web
-2270,Ana Maria Tavares,Cream 3,,1958,"Belo Horizonte, Brasil",São Paulo,,,https://en.wikipedia.org/wiki/Ana_Maria_Tavares,,factual-web
+2270,Ana Maria Tavares,Cream 3 | Bienal de La Habana,,1958,"Belo Horizonte, Brasil",São Paulo,,,https://en.wikipedia.org/wiki/Ana_Maria_Tavares,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),factual-web
 2271,Slaven Tolj,Cream 3,,1964-04-14,"Dubrovnik, Croacia",Dubrovnik,,,https://en.wikipedia.org/wiki/Slaven_Tolj,,factual-web
 2272,Enzo Umbaca,Cream 3,,1964,"Caulonia, Italia",Milán,,,,,factual-web
 2273,Günter Umberg,Cream 3,,1942,"Bonn, Alemania",,,,,,factual-web
@@ -2651,7 +2651,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2650,Meriç Algün Ringborg,Bienal de Venecia,,1983,Turquía,Estocolmo,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2651,Ernesto Ballesteros,Bienal de Venecia,,1963,Argentina,Buenos Aires,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2652,Georg Baselitz,Bienal de Venecia,,1938,Alemania,Múnich,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-2653,Eduardo Basualdo,Bienal de Venecia,,1977,Argentina,Buenos Aires,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
+2653,Eduardo Basualdo,Bienal de Venecia | Bienal de La Habana,,1977,Argentina,Buenos Aires,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-venecia
 2654,Petra Bauer,Bienal de Venecia,,1970,Suecia,Estocolmo,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2655,Sonia Boyce,Bienal de Venecia,,1962,Reino Unido,Londres,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2656,Ricardo Brey,Bienal de Venecia,,1955,Cuba,Gante,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
@@ -2780,7 +2780,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2779,Yoko Ono,Bienal de Venecia,,1933,"Tokio, Japón",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); León de Oro a la trayectoria, Venecia (2009)",factual-venecia
 2780,Jorge Otero-Pailos,Bienal de Venecia,,1971,"Madrid, España",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2781,Anna Parkina,Bienal de Venecia,,1979,"Moscú, Rusia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-2782,Michelangelo Pistoletto,Bienal de Venecia,,1933,"Biella, Italia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
+2782,Michelangelo Pistoletto,Bienal de Venecia | Bienal de La Habana,,1933,"Biella, Italia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-venecia
 2783,Att Poomtangon,Bienal de Venecia,,1973,"Bangkok, Tailandia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); Bienal de Venecia 2009",factual-web
 2784,Marjetica Potrč,Bienal de Venecia | Bienal de São Paulo,,1953,"Liubliana, Eslovenia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-venecia
 2785,Sara Ramo,Bienal de Venecia | Bienal de São Paulo,,1975,"Madrid, España",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-venecia
@@ -2791,14 +2791,14 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2790,Richard Wentworth,Bienal de Venecia,,1947,Samoa,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2791,Florian Hecker,Bienal de Venecia,,1975,"Augsburgo, Alemania",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2792,Xu Tan,Bienal de Venecia,,1957,"Wuhan, China",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-2793,Héctor Zamora,Bienal de Venecia | Bienal de São Paulo,,1974,Ciudad de México,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-venecia
+2793,Héctor Zamora,Bienal de Venecia | Bienal de São Paulo | Bienal de La Habana,,1974,Ciudad de México,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-venecia
 2794,Anya Zholud,Bienal de Venecia,,1981,"San Petersburgo, Rusia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2795,Ignasi Aballí,Bienal de Venecia,,1958,"Barcelona, España",Barcelona,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2022 (Pabellón de España)",factual-web
 2796,Alterazioni Video,Bienal de Venecia,,,,,,,https://en.wikipedia.org/wiki/Alterazioni_Video,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 2797,Giovanni Anselmo,Bienal de Venecia,,1934,"Piemonte, Italia",,,,http://www.tate.org.uk/art/artists/giovanni-anselmo-12475,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2798,Gabriele Basilico,Bienal de Venecia,,1944-08-12,"Milán, Italia",,,,https://en.wikipedia.org/wiki/Gabriele_Basilico,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido 2013",factual-web
 2799,Jan Christiaan Braun,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
-2800,Daniel Buren,Bienal de Venecia,,1938,"Boulogne-Billancourt, France",,,,http://www.tate.org.uk/art/artists/daniel-buren-833,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
+2800,Daniel Buren,Bienal de Venecia | Bienal de La Habana,,1938,"Boulogne-Billancourt, France",,,,http://www.tate.org.uk/art/artists/daniel-buren-833,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-tate
 2801,Luca Buvoli,Bienal de Venecia,,1963,"Brescia, Italia",Nueva York,,,https://lucabuvoli.com,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2007",factual-web
 2802,Waltercio Caldas,Bienal de Venecia | Bienal de São Paulo,,1946-11-06,"Río de Janeiro, Brasil",Río de Janeiro,,,https://en.wikipedia.org/wiki/Walt%C3%A9rcio_Caldas,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); 33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2803,Paolo Canevari,Bienal de Venecia,,1963,"Roma, Italia",Nueva York,,,https://en.wikipedia.org/wiki/Paolo_Canevari,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
@@ -2812,18 +2812,18 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2811,Neil Hamon,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
 2812,Christine Hill,Bienal de Venecia,,1968,"Binghamton, EE.UU.",Berlín,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); documenta X (1997)",factual-web
 2813,Marine Hugonnier,Bienal de Venecia,,1969,"París, Francia",Londres,,,https://en.wikipedia.org/wiki/Marine_Hugonnier,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
-2814,Ilya & Emilia Kabakov,Bienal de Venecia | Bienal de São Paulo,,,,,,,http://www.kabakov.net/about-ba/,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 1993; 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-web
+2814,Ilya & Emilia Kabakov,Bienal de Venecia | Bienal de São Paulo | Bienal de La Habana,,,,,,,http://www.kabakov.net/about-ba/,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 1993; 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015); 11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012)",factual-web
 2815,Y.Z. Kami,Bienal de Venecia,,1956,"Teherán, Irán",Nueva York,,,https://en.wikipedia.org/wiki/Y.Z._Kami,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 2816,Izumi Kato,Bienal de Venecia,,1969,"Shimane, Japón",Tokio,,,https://en.wikipedia.org/wiki/Izumi_Kat%C5%8D_(artist),"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 2817,Ellsworth Kelly,Bienal de Venecia,,1923,"Newburgh, United States",,,,http://www.tate.org.uk/art/artists/ellsworth-kelly-1391,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2818,Riyas Komu,Bienal de Venecia,,1971,"Thrissur, India",Bombay,,,https://en.wikipedia.org/wiki/Riyas_Komu,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2007",factual-web
-2819,Guillermo Kuitca,Bienal de Venecia,,1961,"Buenos Aires, Argentina",,,,http://www.tate.org.uk/art/artists/guillermo-kuitca-7334,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
+2819,Guillermo Kuitca,Bienal de Venecia | Bienal de La Habana,,1961,"Buenos Aires, Argentina",,,,http://www.tate.org.uk/art/artists/guillermo-kuitca-7334,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); 9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006)",factual-tate
 2820,Rosemary Laing,Bienal de Venecia,,1959,"Brisbane, Australia",,,,https://en.wikipedia.org/wiki/Rosemary_Laing,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecida 2024",factual-web
 2821,Sol LeWitt,Bienal de Venecia,,1928,"Hartford, United States",,,,http://www.tate.org.uk/art/artists/sol-lewitt-1504,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2007",factual-tate
 2822,Rosario López,Bienal de Venecia,,1970,"Bogotá, Colombia",Bogotá,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2007",factual-web
 2823,Hiroharu Mori,Bienal de Venecia,,,,Tokio,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 2824,Projeto Morrinho,Bienal de Venecia,,,,Río de Janeiro,,,https://en.wikipedia.org/wiki/Project_Morrinho,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
-2825,Oscar Muñoz,Bienal de Venecia,,1951,Colombia,,,,http://www.tate.org.uk/art/artists/oscar-munoz-9099,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
+2825,Oscar Muñoz,Bienal de Venecia | Bienal de La Habana,,1951,Colombia,,,,http://www.tate.org.uk/art/artists/oscar-munoz-9099,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-tate
 2826,Elizabeth Murray,Bienal de Venecia,,1940,"Chicago, United States",,,,http://www.tate.org.uk/art/artists/elizabeth-murray-1683,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2827,Zoran Naskovski,Bienal de Venecia,,1960,"Izbište, Serbia",,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2007",factual-web
 2828,Éyoum Ngangué & Faustin Titi,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2007",factual-web
@@ -2831,7 +2831,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2830,Melik Ohanian,Bienal de Venecia,,1969,,,,,http://www.tate.org.uk/art/artists/melik-ohanian-10282,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2831,Sigmar Polke,Bienal de Venecia,,1941,Niederschlesien,,,,http://www.tate.org.uk/art/artists/sigmar-polke-2213,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2010",factual-tate
 2832,Emily Prince,Bienal de Venecia,,1981,"Gold Run, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Emily_Prince,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2007",factual-web
-2833,José Alejandro Restrepo,Bienal de Venecia,,1959,,Bogotá,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); participó en la 52ª Bienal de Venecia (2007)",factual-web
+2833,José Alejandro Restrepo,Bienal de Venecia | Bienal de La Habana,,1959,,Bogotá,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); participó en la 52ª Bienal de Venecia (2007); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-web
 2834,David Riff,Bienal de Venecia,,1975,"Londres, Reino Unido",,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); participó en la 52ª Bienal de Venecia (2007)",factual-web
 2835,Susan Rothenberg,Bienal de Venecia,,1945,"Buffalo, United States",,,,http://www.tate.org.uk/art/artists/susan-rothenberg-1872,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
 2836,Robert Ryman,Bienal de Venecia,,1930,"Nashville-Davidson, United States",,,,http://www.tate.org.uk/art/artists/robert-ryman-1888,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-tate
@@ -2840,7 +2840,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2839,Nancy Spero,Bienal de Venecia,,1926,"Cleveland, United States",,,,http://www.tate.org.uk/art/artists/nancy-spero-2399,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2009",factual-tate
 2840,Tabaimo,Bienal de Venecia,,1975,"Hyogo, Japón",Nagano,,,https://en.wikipedia.org/wiki/Tabaimo,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); representó a Japón en la 54.a Bienal de Venecia 2011",factual-web
 2841,Elaine Tedesco,Bienal de Venecia,,1963,"Porto Alegre, Brasil",Porto Alegre,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); participó en la 52.ª Bienal de Venecia (2007)",factual-web
-2842,Paula Trope,Bienal de Venecia | Bienal de São Paulo,,1962,"Río de Janeiro, Brasil",Río de Janeiro,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Prêmio Marcantonio Vilaça 2004; 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
+2842,Paula Trope,Bienal de Venecia | Bienal de São Paulo | Bienal de La Habana,,1962,"Río de Janeiro, Brasil",Río de Janeiro,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Prêmio Marcantonio Vilaça 2004; 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-web
 2843,Franz West,Bienal de Venecia,,1947,"Wien, Österreich",,,,http://www.tate.org.uk/art/artists/franz-west-2700,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); fallecido/a 2012",factual-tate
 2844,Yang Zhenzhong,Bienal de Venecia,,1968,"Hangzhou, China",Shanghái,,,https://yangzhenzhong.com,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); participó en la Bienal de Venecia (2003 y 2007)",factual-web
 2845,Tomoko Yoneda,Bienal de Venecia,,1965,"Akashi, Japón",Londres,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
@@ -2872,7 +2872,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2871,Diego Araúja & Laís Machado,Bienal de São Paulo,,,"Salvador, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
 2872,Edgar Calel,Bienal de São Paulo,,1987,"San Juan Comalapa, Guatemala",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2873,Elda Cerrato,Bienal de São Paulo,,1930,"Asti, Italia",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); fallecido/a 2023",factual-saopaulo
-2874,Eustáquio Neves,Bienal de São Paulo,,1955,"Juatuba, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
+2874,Eustáquio Neves,Bienal de São Paulo | Bienal de La Habana,,1955,"Juatuba, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-saopaulo
 2875,flo6x8,Bienal de São Paulo,,,"Sevilla, España",,,,https://flo6x8.com/,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); Bienal de São Paulo 2023",factual-web
 2876,Frente 3 de Fevereiro,Bienal de São Paulo,,,"São Paulo, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
 2877,Geraldine Javier,Bienal de São Paulo,,1970,"Manila, Filipinas",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
@@ -2951,7 +2951,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2950,Olivia Plender,Bienal de São Paulo,,1977,"Londres, Reino Unido",,,,,"34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti)",factual-saopaulo
 2951,Paulo Kapela,Bienal de São Paulo,,1947,"Uíge, Angola",,,,,"34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti); fallecido/a 2020",factual-saopaulo
 2952,Philipp Fleischmann,Bienal de São Paulo,,1985,"Hollabrunn, Austria",,,,,"34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti)",factual-saopaulo
-2953,Regina Silveira,Bienal de São Paulo,,1939,"Porto Alegre, Brasil",,,,,"34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti)",factual-saopaulo
+2953,Regina Silveira,Bienal de São Paulo | Bienal de La Habana,,1939,"Porto Alegre, Brasil",,,,,"34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",factual-saopaulo
 2954,Sueli Maxakali,Bienal de São Paulo,,1976,"Territorio Maxakali, Brasil",,,,,"34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti)",factual-saopaulo
 2955,Sung Tieu,Bienal de São Paulo,,1987,"Hai Duong, Vietnam",,,,,"34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti)",factual-saopaulo
 2956,Trajal Harrell,Bienal de São Paulo,,1973,"Douglasville, GA, EE.UU.",,,,,"34ª Bienal de São Paulo «Faz escuro mas eu canto» (2021, Crivelli Visconti)",factual-saopaulo
@@ -3024,7 +3024,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3023,Helen Sebidi,Bienal de São Paulo,,1943-03-05,"Marapyane, Sudáfrica",,,,https://en.wikipedia.org/wiki/Helen_Sebidi,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
 3024,Iza Tarasewicz,Bienal de São Paulo,,1981,"Białystok, Polonia",,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
 3025,Jonathas de Andrade,Bienal de São Paulo,,1982,"Maceió, Brasil",,,,http://www.tate.org.uk/art/artists/jonathas-de-andrade-15587,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-tate
-3026,Jorge Menna Barreto,Bienal de São Paulo,,1970,"Araçatuba, Brasil",,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de São Paulo 2016",factual-web
+3026,Jorge Menna Barreto,Bienal de São Paulo | Bienal de La Habana,,1970,"Araçatuba, Brasil",,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de São Paulo 2016; 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-web
 3027,José Bento,Bienal de São Paulo,,1962,"Salvador, Brasil",Belo Horizonte,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de São Paulo 2016",factual-web
 3028,Kathy Barry,Bienal de São Paulo,,,,Wellington,,,https://kathybarry.co.nz/,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de São Paulo 2016",factual-web
 3029,Katia Sepúlveda,Bienal de São Paulo,,1978,"Santiago, Chile",Colonia,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
@@ -3037,7 +3037,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3036,Misheck Masamvu,Bienal de São Paulo,,1980,"Penhalonga, Zimbabue",Harare,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de Venecia 2011",factual-web
 3037,Naufus Ramírez-Figueroa,Bienal de São Paulo,,1978,"Ciudad de Guatemala, Guatemala",Berlín,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
 3038,Oficina de imaginação política,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
-3039,OPAVIVARÁ!,Bienal de São Paulo,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",pendiente
+3039,OPAVIVARÁ!,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",pendiente
 3040,Pia Lindman,Bienal de São Paulo,,1965,"Espoo, Finlandia",,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
 3041,Pilar Quinteros,Bienal de São Paulo,,1988,"Santiago de Chile, Chile",Santiago de Chile,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz)",factual-web
 3042,Priscila Fernandes,Bienal de São Paulo,,1981,"Coimbra, Portugal",Rotterdam,,,,"32ª Bienal de São Paulo «Incerteza Viva» (2016, Volz); Bienal de São Paulo 2016",factual-web
@@ -3065,15 +3065,15 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3064,Etcétera,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Bienal de São Paulo 2010",factual-web
 3065,Gabriel Mascaro,Bienal de São Paulo,,1983-09-24,"Recife, Brasil",Recife,,,https://en.wikipedia.org/wiki/Gabriel_Mascaro,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3066,Graziela Kunsch,Bienal de São Paulo,,1979,"São Paulo, Brasil",São Paulo,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); documenta 15 (2022)",factual-web
-3067,Gülsün Karamustafa,Bienal de São Paulo,,1946,Türkiye,,,,http://www.tate.org.uk/art/artists/gulsun-karamustafa-15930,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-tate
+3067,Gülsün Karamustafa,Bienal de São Paulo | Bienal de La Habana,,1946,Türkiye,,,,http://www.tate.org.uk/art/artists/gulsun-karamustafa-15930,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 8ª Bienal de La Habana (2003)",factual-tate
 3068,Ines Doujak & John Barker,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
 3069,Jakob Jakobsen & María Berríos,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Bienal de São Paulo 2014",factual-web
 3070,Johanna Calle,Bienal de São Paulo,,1965,"Bogotá, Colombia",Bogotá,,,https://en.wikipedia.org/wiki/Johanna_Calle,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3071,Jonas Staal,Bienal de São Paulo,,1981,"Zwolle, Países Bajos",Rotterdam,,,https://en.wikipedia.org/wiki/Jonas_Staal,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
-3072,Juan Carlos Romero,Bienal de São Paulo,,1931,"Avellaneda, Argentina",,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); fallecido 2017",factual-web
+3072,Juan Carlos Romero,Bienal de São Paulo | Bienal de La Habana,,1931,"Avellaneda, Argentina",,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); fallecido 2017; 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-web
 3073,Juan Pérez Agirregoikoa,Bienal de São Paulo,,1963,"San Sebastián, España",París,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3074,Kasper Akhøj,Bienal de São Paulo,,1976,"Copenhague, Dinamarca",,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
-3075,Lázaro Saavedra,Bienal de São Paulo,,1964,"La Habana, Cuba",La Habana,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Premio Nacional de Artes Plásticas (Cuba, 2014)",factual-web
+3075,Lázaro Saavedra,Bienal de São Paulo | Bienal de La Habana,,1964,"La Habana, Cuba",La Habana,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Premio Nacional de Artes Plásticas (Cuba, 2014); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-web
 3076,Leigh Orpaz,Bienal de São Paulo,,1977,"Nueva York, EE.UU.",Tel Aviv,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3077,Lia Perjovschi,Bienal de São Paulo,,1961,"Sibiu, Rumania",Bucarest,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3078,Mapa Teatro,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
@@ -3093,7 +3093,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3092,Yonamine,Bienal de São Paulo,,1975,"Luanda, Angola",,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",factual-web
 3093,Tony Chakar,Bienal de São Paulo,,1968,"Beirut, Líbano",Beirut,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3094,Virginia de Medeiros,Bienal de São Paulo,,1973,"Feira de Santana, Brasil",São Paulo,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Premio PIPA (2015)",factual-web
-3095,Voluspa Jarpa,Bienal de São Paulo,,1971,"Rancagua, Chile",Santiago de Chile,,,https://en.wikipedia.org/wiki/Voluspa_Jarpa,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Bienal de Venecia 2019",factual-web
+3095,Voluspa Jarpa,Bienal de São Paulo | Bienal de La Habana,,1971,"Rancagua, Chile",Santiago de Chile,,,https://en.wikipedia.org/wiki/Voluspa_Jarpa,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Bienal de Venecia 2019; 6ª Bienal de La Habana «El individuo y su memoria» (1997)",factual-web
 3096,Yuri Firmeza,Bienal de São Paulo,,1982,"São Paulo, Brasil",Fortaleza,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3097,Yochai Avrahami,Bienal de São Paulo,,1970,"Afula, Israel",Tel Aviv,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3098,Alberto Bitar,Bienal de São Paulo,,1970,"Belém, Brasil",,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
@@ -3147,7 +3147,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3146,Michel Aubry,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
 3147,Mobile Radio,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
 3148,Moris,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
-3149,Nicolás Paris,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
+3149,Nicolás Paris,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",pendiente
 3150,Olivier Nottellet,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
 3151,Pablo Accinelli,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
 3152,Saul Fletcher,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
@@ -3184,7 +3184,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3183,Henrique Oliveira,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
 3184,Jacobo Borges,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
 3185,José Spaniol,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
-3186,Joseph Kosuth,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
+3186,Joseph Kosuth,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",pendiente
 3187,Juliana Stein,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
 3188,Martin Beck,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
 3189,Karina Skvirsky Aguilera,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
@@ -3208,7 +3208,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3207,Pixação SP,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
 3208,Qiu Anxiong,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
 3209,Roberto Jacoby,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
-3210,Rochele Costi,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
+3210,Rochele Costi,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",pendiente
 3211,Rodrigo Andrade,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
 3212,Ronald Duarte,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
 3213,Simon Fujiwara,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
@@ -3227,7 +3227,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3226,Goldin+Senneby,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
 3227,O Grivo,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
 3228,Maurício Ianês,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3229,Dora Longo Bahia,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
+3229,Dora Longo Bahia,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",pendiente
 3230,Cristina Lucas,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
 3231,Rubens Mano,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
 3232,João Modé,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
@@ -3244,20 +3244,20 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3243,Andrew McLeod,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3244,Ann Lislegaard,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3245,Antal Lakner,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3246,Antoni Miralda,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
+3246,Antoni Miralda,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006)",pendiente
 3247,Aya Ben Ron,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3248,Barbara Visser,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3249,Bregtje van der Haak,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3250,Brendon Wilkinson,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3251,Cao Guimarães,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3252,Cláudia Cristóvão,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3253,Diango Hernández,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
+3253,Diango Hernández,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 8ª Bienal de La Habana (2003)",pendiente
 3254,Didier Faustino,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3255,Esra Ersen,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3256,Fastwürms,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3257,Francesco Jodice,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3258,Ivan Cardoso,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3259,Jarbas Lopes,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
+3259,Jarbas Lopes,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 8ª Bienal de La Habana (2003)",pendiente
 3260,Jardim Miriam Arte Clube (JAMAC),Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3261,Jarosław Kozłowski,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3262,Jean-Luc Godard,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
@@ -3280,7 +3280,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3279,Narda Alvarado,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3280,Nikos Charalambidis,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3281,Ola Pehrson,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3282,Pepón Osorio,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
+3282,Pepón Osorio,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",pendiente
 3283,Pieter Hugo,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3284,Randa Shaat,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
 3285,Sanghee Song,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
@@ -3293,13 +3293,13 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3292,Ângela Detanico & Rafael Lain,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
 3293,Bruno Peinado,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
 3294,Caio Reisewitz,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3295,Chelpa Ferro,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
+3295,Chelpa Ferro,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 8ª Bienal de La Habana (2003)",pendiente
 3296,Chen Shaofeng,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
 3297,David Batchelor,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3298,Eduardo Kac,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
+3298,Eduardo Kac,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",pendiente
 3299,Eulàlia Valldosera,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
 3300,Fabiano Marques,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3301,Geysell Capetillo,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
+3301,Geysell Capetillo,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 8ª Bienal de La Habana (2003)",pendiente
 3302,Hans Hamid Rasmussen,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
 3303,Henrik Håkansson,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
 3304,Ieda Oliveira,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
@@ -3319,10 +3319,10 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3318,Naoya Hatakeyama,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
 3319,Neistat Brothers,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
 3320,Pablo Vargas-Lugo,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3321,Paulo Climachauska,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
+3321,Paulo Climachauska,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",pendiente
 3322,Rachel Berwick,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
 3323,Rassim,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3324,René Francisco,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
+3324,René Francisco,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",pendiente
 3325,Su-Mei Tse,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
 3326,Tiago Bortolozzo,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
 3327,Tom Sachs,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
@@ -3346,7 +3346,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3345,Berenice Olmedo,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
 3346,Camille Turner,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
 3347,Carla Gueye,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3348,Christopher Cozier,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
+3348,Christopher Cozier,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",pendiente
 3349,Cici Wu,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
 3350,Cynthia Hawkins,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
 3351,Edival Ramosa,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
@@ -3372,7 +3372,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3371,Mansour Ciss Kanakassy,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
 3372,Mao Ishikawa,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
 3373,Márcia Falcão,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3374,María Magdalena Campos-Pons,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
+3374,María Magdalena Campos-Pons,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); Bienal de La Habana (participación documentada, edición por precisar)",pendiente
 3375,Marlene Almeida,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
 3376,Maxwell Alexandre,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
 3377,Metta Pracrutti,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
@@ -3408,3 +3408,474 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3407,Dorothée Munyaneza,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
 3408,Marcelo Evelin,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
 3409,MEXA,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
+3410,Abel Azcona,Bienal de La Habana,,,,,,,,14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022),pendiente
+3411,Isabel Muñoz,Bienal de La Habana,,,,,,,,14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022),pendiente
+3412,Sonia Cunliffe,Bienal de La Habana,,,,,,,,14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022),pendiente
+3413,La Usurpadora,Bienal de La Habana,,,,,,,,14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022),pendiente
+3414,Valérie Mréjen,Bienal de La Habana,,,,,,,,14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022),pendiente
+3415,Antoni Muntadas,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3416,Marta Palau,Bienal de La Habana,,,,,,,,"Bienal de La Habana (participación documentada, edición por precisar)",pendiente
+3417,Liliana Porter,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3418,José Bedia,Bienal de La Habana,,,,,,,,"Bienal de La Habana (participación documentada, edición por precisar)",pendiente
+3419,Nadín Ospina,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3420,Juvenal Ravelo,Bienal de La Habana,,,,,,,,"Bienal de La Habana (participación documentada, edición por precisar)",pendiente
+3421,Rachel Valdés,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3422,Manuel Mendive,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3423,Roberto Fabelo,Bienal de La Habana,,,,,,,,"Bienal de La Habana (participación documentada, edición por precisar)",pendiente
+3424,José A. Toirac,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3425,Eduardo Ponjuán,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3426,Alexia Miranda,Bienal de La Habana,,,,,,,,"Bienal de La Habana (participación documentada, edición por precisar)",pendiente
+3427,Roberto Behar,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3428,Edgardo Madanes,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3429,Rosario Marquardt,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3430,Jorge Orta,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3431,Silvia Rivas,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3432,Taller La Estampa,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3433,Gabriel Valansi,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3434,Patricia Piccinini,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3435,Craig Walsh,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3436,Ariane Müller,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3437,Karina Nimmerfall,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3438,Yasser Musa,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3439,Gilvano Swasey,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3440,Dominique Zinkpé,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3441,José Patrício Bezerra,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3442,Guaraci Gabriel Campo,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3443,Grupo Bijarí,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3444,Daniel Lima,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3445,Pazé,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3446,Courtney Smith,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3447,Jayce Salloum,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3448,Claudio Correa,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3449,Patrick Hamilton,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3450,Sebastián Preece,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3451,Juan Castillo,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3452,Qiu Ping,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3453,Fernando Arias Gaviria,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3454,Alejandro Castaño,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3455,Grupo Nómada,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3456,Oswaldo Macià,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3457,MMJ,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3458,Beatriz Olano,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3459,Libia Posada,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3460,Guillermo Quintero,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3461,Alfonso Suárez,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3462,Iván Capote,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3463,Yoan Capote,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3464,Liset Castillo,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3465,Colectivo Enema,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3466,Departamento de Intervenciones Públicas,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3467,Aimée García,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3468,Alexander Guerra,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3469,Glenda León,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3470,Armando Mariño,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003); 6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3471,Alain Pino,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3472,Nelson Ramírez,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3473,Ángel Ricardo Ríos,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3474,Adrián Rumbaut,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3475,Jorge Luis Santana,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3476,David Sardiñas,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3477,Liudmila Velazco,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3478,José Ángel Vincench,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3479,Darío Oleaga,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3480,Raquel Paiewonsky,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3481,Jorge Pineda,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3482,Artes No Decorativas S.A.,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3483,Mohamed Abla,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3484,Sabah Naim,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3485,Kaarina Kaikkonen,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3486,Claude Levêque,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3487,AnArchitektur,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3488,Helga Griffiths,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3489,Jens J. Meyer,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3490,Katrin Pesh,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3491,Theoretical TV,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3492,Simon Tegala,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3493,Darío Escobar,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3494,Navjot Altaf,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3495,Subodh Gupta,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3496,Open Circle,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3497,Ghazel,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3498,Grupo A12,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3499,Jems Robert Koko-Bi,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3500,Norbert Francis Attard,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3501,Ernest Breleur,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3502,Mauricio Alejo,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3503,Grupo Torolab,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3504,Ariel Guzik,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3505,Pablo Helguera,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3506,Richard Moszka,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3507,Betsabeé Romero,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3508,Melanie Smith,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3509,José Ferreira,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3510,Luis Basto,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3511,Zeger Reyers,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3512,Emeka Udemba,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3513,Gustavo Araujo,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3514,Humberto Vélez,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3515,Christian Ceuppens,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3516,Adriana González Brun,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3517,Ricardo Migliorisi,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3518,Luis García Zapatero,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3519,Emilio Santiesteban,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3520,Alma Quinto,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3521,Rosa Irigoyen,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003); 6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3522,Charles Juhasz-Alvarado,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3523,Arnaldo Morales,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3524,Carlos Rivera,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3525,Ousmane Ndiaye Dago,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3526,Noni Kaur,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3527,Oláfur Arni-Olafsson,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3528,Lluis Barba,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3529,José A. Martín,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3530,Libia Pérez,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3531,Javier Sicilia,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3532,Néstor Torrens,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3533,Arlene Amaler-Raviv,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3534,Sam Nhlengethwa,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3535,Rodney Place,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3536,Dale Yudelman,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3537,Fabiana de Barros,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3538,Yute Sailer,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3539,Sutee Kunavichayanont,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3540,Surasi Kusolwong,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3541,Nipan Oranniwesna,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3542,Kamol Phaosavasdi,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3543,Can Altay,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3544,Oda Projesi,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3545,Levent Senturk,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3546,Hale Tenger,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3547,Mürüvvet Turkylmaz,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3548,Martin Sastre,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3549,Alejandro Díaz,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3550,Nan González,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3551,José Luis López,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3552,Mariana Monteagudo,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3553,David Brazier,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3554,Calvin Dondo,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3555,Tapfuma Gutsa,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3556,Cirilio Julien Abath,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3557,Yaquelín Abdalá,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3558,Regina María Aguilar Pinel,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3559,Alfredo & Isabel Aquilizan,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3560,Gustavo Artigas,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3561,Nora Aslán,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3562,Asociación Incorpore,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3563,Emilia Azcárate,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3564,Irwan Bagja Dermawan,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3565,Alessandro Balteo,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3566,Lucas Bambozzi,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3567,Enrique Banfi,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3568,Pedro Barrail,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3569,Fabiana Barreda,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3570,Abel Barroso,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3571,Javier Bassi,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3572,Tuly Bauman,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3573,Patricia Belli,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3574,Ricardo Benaim,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3575,Jack Damien Beng-Thi,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3576,Howard Ben-Tré,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3577,Juan Betancourt,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3578,Carlos Blanco,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3579,Willem Boshoff,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3580,Kevin Brand,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3581,Alex Burke,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3582,Rodrigo Cabezas,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3583,Nelson Carrilho,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3584,Valia Carvalho,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3585,Claudia Casarino,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3586,Marlon Castellanos,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3587,Sila Chanto Quesada,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3588,Sheba Chhachhi,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3589,Albert Chong,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3590,José Antonio Choy,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3591,Osvaldo Cibils,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3592,Adolfo Cifuentes,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3593,Soly Cissé,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3594,Raúl Cordero,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3595,José A. Cruz,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3596,Viyé Dibá,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3597,Diana Domingues,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3598,Godfried Donkor,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3599,Anita Dube,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3600,Youssef Dweik,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3601,Clemencia Echeverri,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3602,Benni Efrat,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3603,Carlos Estévez,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3604,Rodrigo Facundo,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3605,Tonel (Antonio Eligio Fernández),Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3606,Alain Fleischer,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3607,Patricia Furlong,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3608,Gabinete Ordo Amoris,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3609,Galería Dupp,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3610,Galería Metropolitana,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3611,María Francisca García,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3612,Juan García,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3613,Andrea Goic,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3614,Luis Gómez,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3615,José Gómez Fresquet (Frémez),Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3616,Sid Gómez Hildawa,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3617,Mónica González,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3618,José Miguel González Casanova,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3619,Grupo Escombros,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3620,Grupo Grafito,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3621,Grupo Revarte,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3622,Serge Guodin-Thebia,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3623,Rubén Gutiérrez,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3624,Amanda Heng,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3625,Mohammed Ahmed Ibrahim,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3626,Jaime Iregui,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3627,Shigeaki Iwai,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3628,Marisel Jiménez,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3629,Anomán Jonás,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3630,Remy Jungerman,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3631,Godfried Kabjo (Goddy Leye),Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3632,Mohammed Kazem,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3633,Jac Leirner,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3634,Ndary Lo,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3635,Julieta López Aranda,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3636,Angel Marcos,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3637,Alida Martínez,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3638,César Martínez,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3639,Anamaría McCarthy,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3640,María Angélica Medina,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3641,Gonzalo Mezza,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3642,Peter Minshall,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3643,Luis Molina Pantin,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3644,Rosana Monnerat,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3645,Joel Mpah Dooh,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3646,Krisna Murti,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3647,Mónica Nador,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3648,Arthur Omar,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3649,Néstor Otero,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3650,Clemente Padín,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3651,Shirley Paes Leme,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3652,Manisha Parekh,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3653,Silvana Pearl,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3654,William Pérez,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3655,Impy Pilapil,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3656,Barbara Prezeau,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3657,Marcos Ramírez,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3658,Jean Pierre Raynaud,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3659,Guy Raz,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3660,David Reeb,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3661,Ricardo Ribenboim,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3662,Miguel Angel Ríos,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3663,Dhara Rivera,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3664,Gustavo Romano,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3665,Nelbia Romero,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3666,Graciela Sacco,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3667,Aaron I. Salabarrías,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3668,Osvaldo Salerno,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3669,Carolina Salinas,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3670,Esterio Segura,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3671,Mamady Seidy,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3672,Hassan Sharif,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3673,Cristian Silva,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3674,Diana Lisette de Solares,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3675,Auraeus Solito,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3676,Eliezer Sonnenschein,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3677,Ellen Francien Spijkstra,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3678,Jaime Suárez,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3679,Gerardo Suter,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3680,José Tence Ruíz,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3681,Diego Toledo,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3682,Bruna Truffa,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3683,Iké Udé,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3684,Pablo Uribe,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3685,Conny Viera,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3686,Páris Volta,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3687,Judi Werthein,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3688,Junyee,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3689,Enrique Zamudio,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3690,Manuel Zumbado Retana,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3691,Rachid Koraïchi,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3692,Fernando Alvim,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3693,Antonio Ole,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3694,Claudia Aranovich,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3695,Luis Benedit,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3696,Kuki Benski,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3697,Pat Binder,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3698,Oscar Bony,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3699,Guillermo Conte,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3700,Claudia Del Río,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3701,Roberto Fernández,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3702,Carlos Gallardo,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3703,Daniel García,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3704,Leandro Katz,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3705,Marcos López,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3706,Eduardo Medici,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3707,Marcela Moujan,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3708,Luis Niveiro,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3709,Daniel Ontiveros,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3710,Alfredo Portillos,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3711,Diana Schuffer,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3712,Raúl Stolkiner,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3713,Martín Weber,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3714,Glenda Heyleger,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3715,Elvis López,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3716,Osaira Muyale,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3717,Mike Parr,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3718,Sol Mateo,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3719,Gastón Ugalde,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3720,Arnaldo Antunes,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3721,Vicente De Mello,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3722,Alex Flemming,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3723,Angela Freiberger,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3724,Ana Bella Geiger,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3725,Rogerio Ghomes,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3726,Claudio Goulart,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3727,Sandra Kogut,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3728,Lia Mena Barreto,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3729,Nina Moraes,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3730,Jeanette Musatti,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3731,Flavio Pons,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3732,José Rufino,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3733,Antonio Saggese,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3734,Edilson Viriato,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3735,Marcia Xavier,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3736,Bill Akwa Betote,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3737,Billy Bidjocka,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3738,Carlos Altamirano,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3739,Francisco Casas,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3740,Arturo Duclos,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3741,Ismael Frigerio,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3742,Pedro Lemebel,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3743,Macarena Oñate,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3744,Ian Szdylowski,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3745,Edith Arbeláez,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3746,Patricia Bravo,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3747,Victor Laignelet,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3748,Germán Martínez Cañas,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3749,Ana Claudia Múnera,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3750,Eduardo Pradilla,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3751,Víctor Robledo,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3752,Pablo Van Wong,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3753,Juan Carlos Alom,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3754,Lidzie Alvisa Jiménez,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3755,Agustín Bejarano,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3756,Yamilys Brito,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3757,José Manuel Fors,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3758,Ramón Pacheco,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3759,René Peña,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3760,Ernesto Pujol,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3761,Belkis Ramírez,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3762,Inés Tolentino,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3763,Lucía Chiriboga,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3764,Jenny Jaramillo,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3765,Luis Paredes,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3766,Owusu Ankomah,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3767,Bill Woodrow,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3768,Luis González Palma,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3769,Mario Benjamín,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3770,Edouard Duval Carrié,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3771,Sutapa Biswas,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3772,Vivan Sundaram,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3773,Nindityo Adipurnomo,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3774,Andar Manik,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3775,Sirait Marintan,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3776,Agus Suwage,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3777,David Boxer,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3778,Laura Facey,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3779,Petrona Morrison,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3780,Tokihiro Sato,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3781,Marc Latamie,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3782,Lourdes Almeida,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3783,Laura Anderson,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3784,Tatiana Parcero,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3785,Joaquín Rodríguez del Paso,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3786,Teresa Serrano,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3787,Vida Yovanovich,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3788,Farid Belkahia,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3789,Sokari Douglas Camp,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3790,Carlos Spatuzza,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3791,Karina Yaluk,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3792,Juan E. Bedoya,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3793,Milagros De la Torre,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3794,Roberto Huarcaya,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3795,Cecilia Paredes,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3796,María Cecilia Piazza,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3797,Eduardo Tokeshi,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3798,Susana Torres,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3799,Alfredo Aquilizan,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3800,Agnes Arellano,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3801,Reamillo & Juliet,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3802,Victor Vázquez,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3803,Amadou Gayé,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3804,Bouma Medoune Seye,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3805,Djibril Sy,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3806,Chandrasekaran,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3807,Suzann Victor,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3808,Lee Weng,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3809,Wilma Cruise,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3810,Penny Siopis,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3811,Bernardí Roig,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3812,Hichem Driss,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3813,Pablo Conde,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3814,Gerardo Goldwasser,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3815,Ignacio Iturria,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3816,Jorge Francisco Soto,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3817,Ernesto Vila,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3818,Alvaro Zinno,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3819,Whitfield Lowell,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3820,Roger Welch,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3821,Esso Álvarez,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3822,Eduardo Bárcenas,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3823,Gloria Fiallo,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3824,Oscar Machado,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3825,Edgar Moreno,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3826,Antonio Moya,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3827,Vasco Szinetar,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3828,Lihie Talmor,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3829,Braco Dimitrijevic,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
+3830,Humberto Díaz,Bienal de La Habana,,,,,,,,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3831,Francisca Benítez,Bienal de La Habana,,,,,,,,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3832,CRAC Valparaíso,Bienal de La Habana,,,,,,,,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3833,Sandra Monterroso,Bienal de La Habana,,,,,,,,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3834,Anish Kapoor,Bienal de La Habana,,,,,,,,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3835,Antonio José Guzmán,Bienal de La Habana,,,,,,,,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3836,José Carlos Martinat,Bienal de La Habana,,,,,,,,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3837,Chemi Rosado,Bienal de La Habana,,,,,,,,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3838,Alonso + Craciun,Bienal de La Habana,,,,,,,,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3839,Roberto Diago,Bienal de La Habana,,,,,,,,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015); 9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3840,Llobet y Pons,Bienal de La Habana,,,,,,,,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3841,Boamistura,Bienal de La Habana,,,,,,,,12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
+3842,Museo Aero Solar,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3843,Carlito Carvalhosa,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3844,Hermann Nitsch,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3845,Tony Labat,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3846,Mauricio Abad,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3847,Susana Delahante Matienzo,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3848,Rewell Altunaga,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3849,Naivy Pérez,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3850,Rafael Gómez Barros,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3851,Camilo Martínez & Gabriel Zea,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3852,Maksaens Denis,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3853,Marcel Pinas,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3854,Jean-François Boclé,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3855,Joëlle Ferly,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3856,Colectivo Quintapata,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3857,Sheena Rose,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3858,Marxz Rosado Ríos,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3859,Aissa Santiso,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3860,Octavio Irving,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3861,Rafael García,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
+3862,Jean Nouvel,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3863,Lucy Orta,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3864,Anne & Patrick Poirier,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3865,Carlos Saura,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3866,Spencer Tunick,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3867,Laura Messing,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3868,Michael Najjar,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3869,Polibio Díaz,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3870,Duvier del Dago,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3871,Sze Tsung Leong,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3872,Liu Guangyung,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3873,Alejandro Ramírez,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3874,Roberto Stephenson,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3875,Yennyferth Becerra,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3876,Hany El-Gowley,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3877,Dolores Cáceres,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3878,Sue Williamson,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3879,Claudia del Fierro,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
+3880,Eder Santos,Bienal de La Habana,,,,,,,,9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006),pendiente
