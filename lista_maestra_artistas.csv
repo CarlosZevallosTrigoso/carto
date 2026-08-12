@@ -2157,7 +2157,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2156,Suchan Kinoshita,Cream,,1960,"Tokio, Japón",Bruselas,,,https://en.wikipedia.org/wiki/Suchan_Kinoshita,Premio de Arte Belga (premio 2025),factual-web
 2157,Elke Krystufek,Cream,,1970,"Viena, Austria",Berlín,,,https://en.wikipedia.org/wiki/Elke_Krystufek,,factual-web
 2158,Matts Leiderstam,Cream,,1956,"Gotemburgo, Suecia",Estocolmo,,,,,factual-web
-2159,Liew Kung Yu,Cream,,1960,,Kuala Lumpur,,,,,factual-web
+2159,Liew Kung Yu,Cream,,1960,"Kedah, Malasia",Kuala Lumpur,,,,,factual-web
 2160,Lin Tianmiao,Cream,,1961,"Taiyuan, China",Pekín,,,https://en.wikipedia.org/wiki/Lin_Tianmiao,,factual-web
 2161,Greg Lynn,Cream,,1964,"North Olmsted, EE.UU.",,,,https://en.wikipedia.org/wiki/Greg_Lynn,Bienal de Venecia 2008,factual-web
 2162,Gillian Wearing,Cream,,1963-12-10,"Birmingham, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Gillian_Wearing,Turner Prize (premio 1997),factual-web
@@ -2195,7 +2195,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2194,Noritoshi Hirakawa,Fresh Cream,,1960,"Fukuoka, Japón",Nueva York,,,https://en.wikipedia.org/wiki/Noritoshi_Hirakawa,,factual-web
 2195,Permindar Kaur,Fresh Cream,,1965,"Nottingham, Reino Unido",,,,https://en.wikipedia.org/wiki/Permindar_Kaur,,factual-web
 2196,Byron Kim,Fresh Cream,,1961,"La Jolla, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Byron_Kim,Bienal Whitney 1993,factual-web
-2197,Kaisu Koivisto,Fresh Cream,,1962,,Helsinki,,,,,factual-web
+2197,Kaisu Koivisto,Fresh Cream,,1962,"Seinäjoki, Finlandia",Helsinki,,,,,factual-web
 2198,Oleg Kulik,Fresh Cream,,1961,"Kiev, Ucrania",Moscú,,,https://en.wikipedia.org/wiki/Oleg_Kulik,,factual-web
 2199,Moshekwa Langa,Fresh Cream | Bienal de Venecia,,1975,"Bakenberg, Sudáfrica",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2200,Nikki S. Lee,Fresh Cream,,1970,"Geochang, Corea del Sur",Seúl,,,https://en.wikipedia.org/wiki/Nikki_S._Lee,,factual-web
@@ -2320,12 +2320,12 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2319,Samara Scott,Prime | 100 Sculptors of Tomorrow,,1984,"Londres, Reino Unido",Londres,,,,,factual-web
 2320,Trevor Yeung,Prime,,1988,"Dongguan, China",Hong Kong,,,,Bienal de Venecia 2024,factual-web
 2321,beerslondon.com/exhibitions/94): Aglae Bassens,100 Painters of Tomorrow,,1986,,Londres,,,,,factual-web
-2322,Julieta Aguinaco,100 Painters of Tomorrow,,,,Ciudad de México,,,,,factual-web
+2322,Julieta Aguinaco,100 Painters of Tomorrow,,1983,"Ciudad de México, México",Ciudad de México,,,,,factual-web
 2323,Chechu Alava,100 Painters of Tomorrow,,1973,"Piedras Blancas, España",París,,,,,factual-web
 2324,Kristina Ališauskaitė,100 Painters of Tomorrow,,1984,"Klaipeda, Lituania",Vilna,,,https://en.wikipedia.org/wiki/Kristina_Ali%C5%A1auskait%C4%97,,factual-web
 2325,Cornelia Baltes,100 Painters of Tomorrow,,1978,"Mönchengladbach, Alemania",,,,,,factual-web
 2326,Emma Bennett,100 Painters of Tomorrow,,,,,,,,,pendiente
-2327,GL Brierley,100 Painters of Tomorrow,,1965,,Londres,,,,,factual-web
+2327,GL Brierley,100 Painters of Tomorrow,,1965,"Londres, Reino Unido",Londres,,,,,factual-web
 2328,Sze Yang Boo,100 Painters of Tomorrow,,1965,"Singapur, Singapur",Singapur,,,https://www.booszeyang.com,,factual-web
 2329,Jane Bustin,100 Painters of Tomorrow,,1964,"Borehamwood, Reino Unido",Londres,,,,,factual-web
 2330,Carla Busuttil,100 Painters of Tomorrow,,1982,"Johannesburgo, Sudáfrica",Oxford,,,,,factual-web
