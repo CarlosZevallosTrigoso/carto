@@ -2140,7 +2140,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2139,Tariq Alvi,Cream,,1965,"Newcastle upon Tyne, Reino Unido",Londres,,,http://www.tariqalvi.com/Text.html,,factual-web
 2140,Janine Antoni,Cream,,1964-01-19,"Freeport, Bahamas",Nueva York,,,https://en.wikipedia.org/wiki/Janine_Antoni,,factual-web
 2141,Oladele Ajiboye Bamgboye,Cream,,1963-10-15,"Odo-Eku, Nigeria",Londres,,,https://en.wikipedia.org/wiki/Olad%C3%A9l%C3%A9_Ajiboy%C3%A9_Bamgboy%C3%A9,documenta X (1997),factual-web
-2142,Fandra Chang,Cream,,,,,,,,,pendiente
+2142,Fandra Chang,Cream,,1964,,Los Ángeles,,,,,factual-web
 2143,Chen Zhen,Cream,,1955-10-04,"Shanghái, China",,,,https://en.wikipedia.org/wiki/Chen_Zhen_(artist),fallecido 2000,factual-web
 2144,Philip-Lorca diCorcia,Cream,,,"Hartford, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Philip-Lorca_diCorcia,,factual-web
 2145,Sharon Ellis,Cream,,1955,,Los Ángeles,,,,,factual-web
@@ -2787,7 +2787,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2786,Pietro Roccasalva,Bienal de Venecia,,1970,"Módica, Italia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2787,Amy Simon,Bienal de Venecia,,1957,EE.UU.,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-web
 2788,Madelon Vriesendorp,Bienal de Venecia,,1945,"Bilthoven, Países Bajos",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-2789,Tian Tian Wang,Bienal de Venecia,,,China,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",pendiente
+2789,Tian Tian Wang,Bienal de Venecia,,,China,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum); participa en la 53ª Bienal de Venecia 2009",factual-web
 2790,Richard Wentworth,Bienal de Venecia,,1947,Samoa,,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2791,Florian Hecker,Bienal de Venecia,,1975,"Augsburgo, Alemania",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2792,Xu Tan,Bienal de Venecia,,1957,"Wuhan, China",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
@@ -2895,7 +2895,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2894,François Pain,Bienal de São Paulo,,1945,Francia,,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2895,Morzaniel Ɨramari,Bienal de São Paulo,,1980,"Territorio Yanomami, Brasil",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); Bienal de São Paulo 2023",factual-web
 2896,Nadal Walcot,Bienal de São Paulo,,1964,"Georgetown, Guyana",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
-2897,Nadir Bouhmouch & Soumeya Ait Ahmed,Bienal de São Paulo,,,Marruecos,,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",pendiente
+2897,Nadir Bouhmouch & Soumeya Ait Ahmed,Bienal de São Paulo,,,Marruecos,,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel); realizan el documental Amussu en 2019; participan en la 35.ª Bienal de São Paulo en 2023",factual-web
 2898,Nikau Hindin,Bienal de São Paulo,,1991,"Aotearoa, Nueva Zelanda",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2899,Nontsikelelo Mutiti,Bienal de São Paulo,,1982,"Harare, Zimbabue",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
 2900,Patricia Gómez & María Jesús González,Bienal de São Paulo,,1978,"Valencia, España",,,,,"35ª Bienal de São Paulo «coreografias do impossível» (2023, Lima/Kilomba/Menezes/Borja-Villel)",factual-saopaulo
@@ -3154,7 +3154,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3153,Savvas Christodoulides,Bienal de São Paulo,,1961,"Pafos, Chipre",Nicosia,,,https://savvaschristodoulides.com,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); representó a Chipre en la Bienal de Venecia 1996; participó en la Bienal de São Paulo 2012",factual-web
 3154,Sigurdur Gudmundsson,Bienal de São Paulo,,1942,"Reikiavik, Islandia",,,,https://en.wikipedia.org/wiki/Sigur%C3%B0ur_Gu%C3%B0mundsson,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); representó a Islandia en la Bienal de Venecia 1976",factual-web
 3155,Tehching Hsieh,Bienal de São Paulo,,1950-12-31,"Nanzhou, Taiwán",Nueva York,,,https://en.wikipedia.org/wiki/Tehching_Hsieh,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); One Year Performance (Cage Piece) 1978; One Year Performance (Time Clock Piece) 1980; Thirteen Year Plan 1986",factual-web
-3156,Thomas Sipp,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",pendiente
+3156,Thomas Sipp,Bienal de São Paulo,,,,,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); 30ª Bienal de São Paulo 2012",factual-web
 3157,Viola Yesiltac,Bienal de São Paulo,,,"Hannover, Alemania",Nueva York,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas)",factual-web
 3158,Yuki Kimura,Bienal de São Paulo,,1971,"Kioto, Japón",Kioto,,,,"30ª Bienal de São Paulo «A iminência das poéticas» (2012, Pérez-Oramas); 2012 participa en la 30ª Bienal de São Paulo",factual-web
 3159,Aernout Mik,Bienal de São Paulo,,1962-07-03,"Groningen, Países Bajos",Ámsterdam,,,https://en.wikipedia.org/wiki/Aernout_Mik,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 26ª Bienal de São Paulo «Território Livre» (2004, Hug); Bienal de Venecia 2007",factual-web
@@ -3291,75 +3291,75 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3290,Vladimir Arkhipov,Bienal de São Paulo,,1961,"Riazán, Rusia",Moscú,,,https://en.wikipedia.org/wiki/Vladimir_Arkhipov,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Inicia su archivo post-folk de objetos hechos a mano 1994",factual-web
 3291,Wang Youshen,Bienal de São Paulo,,1964,"Pekín, China",Pekín,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
 3292,Ângela Detanico & Rafael Lain,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); recibieron el Premio Nam June Paik en 2004; representaron a Brasil en la 52ª Bienal de Venecia en 2007",factual-web
-3293,Bruno Peinado,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3294,Caio Reisewitz,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3295,Chelpa Ferro,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 8ª Bienal de La Habana (2003)",pendiente
+3293,Bruno Peinado,Bienal de São Paulo,,1970,"Montpellier, Francia",Douarnenez,,,https://en.wikipedia.org/wiki/Bruno_Peinado,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); presenta The Big One World en 2000; nominado al Premio Marcel Duchamp en 2006",factual-web
+3294,Caio Reisewitz,Bienal de São Paulo,,1967,"São Paulo, Brasil",São Paulo,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); representa a Brasil en la Bienal de Venecia 2005; primera individual en EE.UU. en el International Center of Photography 2014",factual-web
+3295,Chelpa Ferro,Bienal de São Paulo | Bienal de La Habana,,,,Río de Janeiro,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 8ª Bienal de La Habana (2003); colectivo fundado en 1995 por Barrão, Luiz Zerbini y Sergio Mekler",factual-web
 3296,Chen Shaofeng,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3297,David Batchelor,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3298,Eduardo Kac,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015)",pendiente
-3299,Eulàlia Valldosera,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3300,Fabiano Marques,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
+3297,David Batchelor,Bienal de São Paulo,,1955,"Dundee, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/David_Batchelor_(artist_and_writer),"26ª Bienal de São Paulo «Território Livre» (2004, Hug); Publica Minimalism 1997; publica Chromophobia 2000",factual-web
+3298,Eduardo Kac,Bienal de São Paulo | Bienal de La Habana,,1962-07-03,"Río de Janeiro, Brasil",Chicago,,,https://en.wikipedia.org/wiki/Eduardo_Kac,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015); inventó la holopoesía 1983; GFP Bunny 2000",factual-web
+3299,Eulàlia Valldosera,Bienal de São Paulo,,1963-10-22,"Vilafranca del Penedès, España",,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); Premio Nacional de Artes Plásticas de España 2002",factual-web
+3300,Fabiano Marques,Bienal de São Paulo,,1970,"São Paulo, Brasil",São Paulo,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); participó en la 26ª Bienal de São Paulo 2004",factual-web
 3301,Geysell Capetillo,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 8ª Bienal de La Habana (2003)",pendiente
-3302,Hans Hamid Rasmussen,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3303,Henrik Håkansson,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3304,Ieda Oliveira,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3305,Jorge Pardo,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3306,Jorge Queiroz,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3307,João Paulo Feliciano,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3308,Juan Fernando Herrán,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3309,Julian Rosefeldt,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3310,Karim Aïnouz & Marcelo Gomes,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3311,Krzysztof Zieliński,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3312,Laura Vinci,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3313,Lois Renner,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3314,Lívia Flores,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3315,Maxim Malhado,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3316,Milton Marques,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3317,Moataz Nasr,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3318,Naoya Hatakeyama,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3319,Neistat Brothers,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3320,Pablo Vargas-Lugo,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3321,Paulo Climachauska,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",pendiente
-3322,Rachel Berwick,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3323,Rassim,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3324,René Francisco,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",pendiente
-3325,Su-Mei Tse,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3326,Tiago Bortolozzo,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3327,Tom Sachs,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3328,Veronika Zapletalová,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
+3302,Hans Hamid Rasmussen,Bienal de São Paulo,,1963,"Argel, Argelia",Oslo,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); profesor de arte textil en la Academia Nacional de las Artes de Oslo 2008-2020",factual-web
+3303,Henrik Håkansson,Bienal de São Paulo,,1968,"Helsingborg, Suecia",Berlín,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); participó en la Bienal de Venecia en 1997 y 2003; participó en la Bienal de São Paulo en 2004",factual-web
+3304,Ieda Oliveira,Bienal de São Paulo,,1969-09-09,"Santo Antônio de Jesus, Brasil",Salvador,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 26.ª Bienal Internacional de São Paulo 2004",factual-web
+3305,Jorge Pardo,Bienal de São Paulo,,1963,"La Habana, Cuba",Mérida,,,https://en.wikipedia.org/wiki/Jorge_Pardo_(artist),"26ª Bienal de São Paulo «Território Livre» (2004, Hug); Lucelia Artist Award 2001; MacArthur Fellowship 2010",factual-web
+3306,Jorge Queiroz,Bienal de São Paulo,,1966,"Lisboa, Portugal",Lisboa,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); Bienal de Venecia 2003; 26ª Bienal de São Paulo 2004",factual-web
+3307,João Paulo Feliciano,Bienal de São Paulo,,1963,"Caldas da Rainha, Portugal",Lisboa,,,https://joaopaulofeliciano.com,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); participa en Sonic Boom, Hayward Gallery, Londres 2002; participa en la 26ª Bienal de São Paulo 2004",factual-web
+3308,Juan Fernando Herrán,Bienal de São Paulo,,1963,"Bogotá, Colombia",Bogotá,,,https://arte.uniandes.edu.co/miembro/juan-fernando-herran/,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",factual-web
+3309,Julian Rosefeldt,Bienal de São Paulo,,1965,"Múnich, Alemania",Berlín,,,https://en.wikipedia.org/wiki/Julian_Rosefeldt,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); profesor en la Academia de Bellas Artes de Múnich desde 2011; realiza la videoinstalación Manifesto en 2015",factual-web
+3310,Karim Aïnouz & Marcelo Gomes,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); codirigen ""Viajo Porque Preciso, Volto Porque te Amo"" 2009, seleccionada en la sección Orizzonti de la Mostra de Venecia",factual-web
+3311,Krzysztof Zieliński,Bienal de São Paulo,,1974,"Wąbrzeźno, Polonia",Berlín,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); graduado de la escuela de cine FAMU de Praga en 2001; serie fotográfica Briesen realizada entre 1995 y 2009",factual-web
+3312,Laura Vinci,Bienal de São Paulo,,1962,"São Paulo, Brasil",São Paulo,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 26.ª Bienal Internacional de São Paulo 2004",factual-web
+3313,Lois Renner,Bienal de São Paulo,,1961,"Salzburgo, Austria",,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); Premio Monsignor Otto Mauer 1992; fallecido/a 2021",factual-web
+3314,Lívia Flores,Bienal de São Paulo,,1959,"Río de Janeiro, Brasil",Río de Janeiro,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 26ª Bienal de São Paulo 2004",factual-web
+3315,Maxim Malhado,Bienal de São Paulo,,1967-01-15,"Ibicaraí, Brasil",Massarandupió,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); participa en la 26ª Bienal de São Paulo 2004",factual-web
+3316,Milton Marques,Bienal de São Paulo,,1971,"Brasilia, Brasil",,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); participó en la 26ª Bienal de São Paulo 2004; integró la 5ª Bienal do Mercosul 2005",factual-web
+3317,Moataz Nasr,Bienal de São Paulo,,1961,"Alejandría, Egipto",El Cairo,,,https://en.wikipedia.org/wiki/Moataz_Nasr,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); Gran Premio en la 8.ª Bienal Internacional de El Cairo en 2001",factual-web
+3318,Naoya Hatakeyama,Bienal de São Paulo,,1958,"Rikuzentakata, Japón",Tokio,,,https://en.wikipedia.org/wiki/Naoya_Hatakeyama,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); gana el Premio Kimura Ihei 1997; participa en la Bienal de Venecia 2001; retrospectiva en el SFMOMA 2012",factual-web
+3319,Neistat Brothers,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); serie Science Experiments incluida en la 26ª Bienal de São Paulo en 2004; serie televisiva The Neistat Brothers en HBO en 2010",factual-web
+3320,Pablo Vargas-Lugo,Bienal de São Paulo,,1968,"Ciudad de México, México",Ciudad de México,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 26.ª Bienal Internacional de São Paulo 2004",factual-web
+3321,Paulo Climachauska,Bienal de São Paulo | Bienal de La Habana,,1962,"São Paulo, Brasil",São Paulo,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-web
+3322,Rachel Berwick,Bienal de São Paulo,,1962,"Somers Point, EE.UU.",,,,https://en.wikipedia.org/wiki/Rachel_Berwick,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); may-por-é 1996; Martha 2003",factual-web
+3323,Rassim,Bienal de São Paulo,,1972,"Orehovitsa, Bulgaria",Sofía,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); participa en la 26ª Bienal de São Paulo 2004",factual-web
+3324,René Francisco,Bienal de São Paulo | Bienal de La Habana,,1960,"Holguín, Cuba",La Habana,,,https://en.wikipedia.org/wiki/Ren%C3%A9_Francisco,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 6ª Bienal de La Habana «El individuo y su memoria» (1997); recibió el Premio Nacional de Artes Plásticas de Cuba 2010",factual-web
+3325,Su-Mei Tse,Bienal de São Paulo,,1973-01-29,"Ciudad de Luxemburgo, Luxemburgo",Berlín,,,https://en.wikipedia.org/wiki/Su-Mei_Tse,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); gana el León de Oro en la Bienal de Venecia en 2003",factual-web
+3326,Tiago Bortolozzo,Bienal de São Paulo,,1976-08-13,"São Paulo, Brasil",Campinas,,,https://thiagobortolozzo.wordpress.com/,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); recibe el premio DAAD para estudiantes extranjeros 2011; máster en poéticas visuales por la Unicamp 2018",factual-web
+3327,Tom Sachs,Bienal de São Paulo,,1966-07-26,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Tom_Sachs,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); primera exposición individual Cultural Prosthetics en 1995; réplica del módulo lunar del Apolo en 2007",factual-web
+3328,Veronika Zapletalová,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); serie fotográfica Chatařství 2000-2005",factual-web
 3329,Victor Mutale,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3330,Walmor Corrêa,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
-3331,Thomas Ruff,Bienal de São Paulo,,,,,,,,"25ª Bienal de São Paulo «Iconografias metropolitanas» (2002, Hug)",pendiente
-3332,Jeff Koons,Bienal de São Paulo,,,,,,,,"25ª Bienal de São Paulo «Iconografias metropolitanas» (2002, Hug)",pendiente
-3333,Carlos Fajardo,Bienal de São Paulo,,,,,,,,"25ª Bienal de São Paulo «Iconografias metropolitanas» (2002, Hug)",pendiente
-3334,Karin Lambrecht,Bienal de São Paulo,,,,,,,,"25ª Bienal de São Paulo «Iconografias metropolitanas» (2002, Hug)",pendiente
-3335,Julião Sarmento,Bienal de São Paulo,,,,,,,,"25ª Bienal de São Paulo «Iconografias metropolitanas» (2002, Hug)",pendiente
-3336,Adama Delphine Fawundu,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3337,Adjani Okpu-Egbe,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3338,Aislan Pankararu,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3339,Alain Padeau,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3340,Alberto Pitta,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3341,Aline Baiana,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3342,Amina Agueznay,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3343,Ana Raylander Mártis dos Anjos,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3344,Antonio Társis,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3345,Berenice Olmedo,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3346,Camille Turner,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3347,Carla Gueye,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3348,Christopher Cozier,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",pendiente
-3349,Cici Wu,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3350,Cynthia Hawkins,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3351,Edival Ramosa,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3352,Frank Bowling,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3353,Frankétienne,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); fallecido/a 2025",pendiente
-3354,Gê Viana,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3355,Gervane de Paula,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3356,Gōzō Yoshimasu,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3357,Hajra Waheed,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3358,Hamedine Kane,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3359,Hao Jingban,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3360,Helena Uambembe,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3361,Josèfa Ntjam,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
+3330,Walmor Corrêa,Bienal de São Paulo,,1960,"Florianópolis, Brasil",São Paulo,,,https://www.walmorcorrea.com.br,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 26ª Bienal de São Paulo 2004",factual-web
+3331,Thomas Ruff,Bienal de São Paulo,,1958-02-10,"Zell am Harmersbach, Alemania",Düsseldorf,,,https://en.wikipedia.org/wiki/Thomas_Ruff,"25ª Bienal de São Paulo «Iconografias metropolitanas» (2002, Hug); estudia en la Kunstakademie Düsseldorf 1977-1985; participa en la 26ª Bienal de São Paulo 2004",factual-web
+3332,Jeff Koons,Bienal de São Paulo,,1955-01-21,"York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Jeff_Koons,"25ª Bienal de São Paulo «Iconografias metropolitanas» (2002, Hug); récord de subasta para un artista vivo con Balloon Dog (Orange) 2013; récord de subasta con Rabbit 2019",factual-web
+3333,Carlos Fajardo,Bienal de São Paulo,,1941-09-10,"São Paulo, Brasil",São Paulo,,,,"25ª Bienal de São Paulo «Iconografias metropolitanas» (2002, Hug); cofundador del Grupo Rex en 1966; cofundador de la Escola Brasil en 1970",factual-web
+3334,Karin Lambrecht,Bienal de São Paulo,,1957,"Porto Alegre, Brasil",,,,,"25ª Bienal de São Paulo «Iconografias metropolitanas» (2002, Hug); debuta en la 18ª Bienal de São Paulo 1985",factual-web
+3335,Julião Sarmento,Bienal de São Paulo,,1948-11-04,"Lisboa, Portugal",,,,https://en.wikipedia.org/wiki/Juli%C3%A3o_Sarmento,"25ª Bienal de São Paulo «Iconografias metropolitanas» (2002, Hug); representó a Portugal en la Bienal de Venecia en 1997; fallecido 2021",factual-web
+3336,Adama Delphine Fawundu,Bienal de São Paulo,,1971,"Brooklyn, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Delphine_Fawundu,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); libro MFON: Women Photographers of the African Diaspora 2017; beca Guggenheim 2024; 36.ª Bienal de São Paulo 2025",factual-web
+3337,Adjani Okpu-Egbe,Bienal de São Paulo,,1979,"Kumba, Camerún",Londres,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",factual-web
+3338,Aislan Pankararu,Bienal de São Paulo,,1990,"Petrolândia, Brasil",Salvador,,,https://www.aislanpankararu.com,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); Premiado PIPA 2024; 36ª Bienal de São Paulo 2025",factual-web
+3339,Alain Padeau,Bienal de São Paulo,,1956,"Saint-Denis, Reunión",Le Tampon,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); realiza la escultura pública Le Collier d'Esclave 1999; participa en la 36ª Bienal de São Paulo 2025",factual-web
+3340,Alberto Pitta,Bienal de São Paulo,,1961,"Salvador, Brasil",Salvador,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); fundó el bloco Cortejo Afro 1998",factual-web
+3341,Aline Baiana,Bienal de São Paulo,,1985,"Salvador, Brasil",Río de Janeiro,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participa en la 14.ª Bienal de Sharjah en 2019; participa en la 11.ª Bienal de Berlín en 2020",factual-web
+3342,Amina Agueznay,Bienal de São Paulo,,1963,"Casablanca, Marruecos",Marrakech,,,https://en.wikipedia.org/wiki/Amina_Agueznay,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participa en la 16ª Bienal de Lyon 2022",factual-web
+3343,Ana Raylander Mártis dos Anjos,Bienal de São Paulo,,1995,"João Monlevade, Brasil",São Paulo,,,https://anaraylandermartisdosanjos.com/,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participó en la 36ª Bienal de São Paulo en 2025",factual-web
+3344,Antonio Társis,Bienal de São Paulo,,1995,"Salvador, Brasil",Salvador,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); Prêmio EDP nas Artes 2016; VIA Arts Prize 2019; Biennale College Arte, Bienal de Venecia 2022",factual-web
+3345,Berenice Olmedo,Bienal de São Paulo,,1987,"Oaxaca, México",Ciudad de México,,,https://en.wikipedia.org/wiki/Berenice_Olmedo,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); 36ª Bienal de São Paulo 2025",factual-web
+3346,Camille Turner,Bienal de São Paulo,,1960-03-11,"Kingston, Jamaica",Los Ángeles,,,https://en.wikipedia.org/wiki/Camille_Turner,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); Miss Canadiana desde 2002",factual-web
+3347,Carla Gueye,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participa en la 36ª Bienal de São Paulo 2025",factual-web
+3348,Christopher Cozier,Bienal de São Paulo | Bienal de La Habana,,1959,"Puerto España, Trinidad y Tobago",Puerto España,,,https://en.wikipedia.org/wiki/Christopher_Cozier,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); 7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001)",factual-web
+3349,Cici Wu,Bienal de São Paulo,,1989,"Pekín, China",Nueva York,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); cofunda el espacio PRACTICE en Nueva York en 2015",factual-web
+3350,Cynthia Hawkins,Bienal de São Paulo,,1950,"Nueva York, EE.UU.",,,,https://en.wikipedia.org/wiki/Cynthia_Hawkins,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); primera exposición individual en Just Above Midtown 1981; recibe el Helen Frankenthaler Award for Painting 2023",factual-web
+3351,Edival Ramosa,Bienal de São Paulo,,1940,"São Gonçalo, Brasil",,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); trabajó en el atelier de los hermanos Pomodoro en Milán desde 1964; fallecido 2015",factual-web
+3352,Frank Bowling,Bienal de São Paulo,,1934-02-26,"Bartica, Guyana",Londres,,,https://en.wikipedia.org/wiki/Frank_Bowling,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); elegido miembro de la Royal Academy of Arts 2005; retrospectiva en Tate Britain 2019; nombrado caballero (Knight Bachelor) 2020",factual-web
+3353,Frankétienne,Bienal de São Paulo,,1936-04-12,"Ravine-Sèche, Haití",Puerto Príncipe,,,https://en.wikipedia.org/wiki/Frank%C3%A9tienne,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); fallecido/a 2025; Candidato al Premio Nobel de Literatura 2009; UNESCO Artista por la Paz 2010",factual-web
+3354,Gê Viana,Bienal de São Paulo,,1986,"Santa Luzia, Brasil",São Luís,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); 36ª Bienal de São Paulo 2025",factual-web
+3355,Gervane de Paula,Bienal de São Paulo,,1961-01-21,"Cuiabá, Brasil",Cuiabá,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participa en Como Vai Você, Geração 80? 1984",factual-web
+3356,Gōzō Yoshimasu,Bienal de São Paulo,,1939-02-22,"Tokio, Japón",Tokio,,,https://en.wikipedia.org/wiki/G%C5%8Dz%C5%8D_Yoshimasu,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); recibió el Premio Takami Jun 1971; condecorado con la Orden del Sol Naciente 2013",factual-web
+3357,Hajra Waheed,Bienal de São Paulo,,1980,"Calgary, Canadá",Montreal,,,https://en.wikipedia.org/wiki/Hajra_Waheed,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participa en la 11.ª Bienal de Gwangju en 2016; participa en la 57.ª Bienal de Venecia en 2017",factual-web
+3358,Hamedine Kane,Bienal de São Paulo,,1983,"Nuakchot, Mauritania",Bruselas,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); mención especial del jurado en el IDFA 2020 por su película ""La Maison Bleue""",factual-web
+3359,Hao Jingban,Bienal de São Paulo,,1985,"Taiyuan, China",Pekín,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); proyecto Beijing Ballroom iniciado en 2012; premio Han Nefkens Foundation–ARCOmadrid de videoarte en 2019",factual-web
+3360,Helena Uambembe,Bienal de São Paulo,,1994,"Pomfret, Sudáfrica",,,,http://www.uambembe.com,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); David Koloane Award 2019; Baloise Art Prize (Art Basel) 2022; beca DAAD 2023",factual-web
+3361,Josèfa Ntjam,Bienal de São Paulo,,1992,"Metz, Francia",Saint-Étienne,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",factual-web
 3362,Juliana dos Santos,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
 3363,Julianknxx,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
 3364,Kamala Ibrahim Ishag,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
