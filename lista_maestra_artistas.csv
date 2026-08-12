@@ -493,7 +493,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 492,Michel Auder,Documenta | Whitney Biennial,,1945,"Soissons, Francia",Brooklyn,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2014, Nueva York",factual-whitney
 493,Alexandra Bachzetsis,Documenta,,1974,"Zúrich, Suiza",,,,https://en.wikipedia.org/wiki/Alexandra_Bachzetsis,"documenta 14, Kassel/Atenas (2017); documenta 13, Kassel (2012); documenta 14 (2017)",factual-web
 494,Nairy Baghramian,Documenta | Vitamin 3-D | Bienal de Venecia,,1971,Irán,Berlín,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-495,Marie Cool Fabio Balducci,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017)",pendiente
+495,Marie Cool Fabio Balducci,Documenta,,,,,,,https://www.documenta14.de/en/artists/13710/marie-cool-fabio-balducci,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 496,Sammy Baloji,Documenta | Bienal de Venecia,,1978,República Democrática del Congo,Lubumbashi; Bruselas,,,,"documenta 14, Kassel/Atenas (2017); Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 497,Arben Basha,Documenta,,,,,,,,"documenta 14, Kassel/Atenas (2017); documenta 14 (2017)",factual-web
 498,Rebecca Belmore,Documenta | Whitney Biennial,,1960,"Upsala, Canadá",Vancouver,,,,"documenta 14, Kassel/Atenas (2017); Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-whitney
@@ -664,7 +664,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 663,Guillermo Calzadilla,Documenta,,1971,"La Habana, Cuba",,,,http://www.tate.org.uk/art/artists/guillermo-calzadilla-6260,"documenta 13, Kassel (2012)",factual-tate
 664,Maria Thereza Alves,Documenta,,1961,"São Paulo, Brasil",Berlín,,,https://en.wikipedia.org/wiki/Maria_Thereza_Alves,"documenta 13, Kassel (2012); documenta 14 (2017)",factual-web
 665,Ayreen Anastas,Documenta,,1976,"Belén, Palestina",Nueva York,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
-666,AND AND AND,Documenta,,,,,,,,"documenta 13, Kassel (2012)",pendiente
+666,AND AND AND,Documenta,,,,,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 667,Ida Applebroog,Documenta,,1929,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Ida_Applebroog,"documenta 13, Kassel (2012); fallecida 2023",factual-web
 668,Doug Ashford,Documenta,,1958,"Rabat, Marruecos",Nueva York,,,,"documenta 13, Kassel (2012); documenta 13 (2012)",factual-web
 669,Tarek Atoui,Documenta | Bienal de Venecia,,1980,Líbano,París,,,,"documenta 13, Kassel (2012); Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
@@ -881,7 +881,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 880,Pascale Marthine Tayou,Documenta | Bienal de Venecia,,1967,"Yaundé, Camerún",,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 881,Jean-Marie Teno,Documenta,,1954,"Famleng, Camerún",,,,https://en.wikipedia.org/wiki/Jean-Marie_Teno,"documenta 11, Kassel (2002)",factual-web
 882,Trinh T. Minh-ha,Documenta | Whitney Biennial,,1952,"Hanói, Vietnam",Berkeley,,,https://en.wikipedia.org/wiki/Trinh_T._Minh-ha,"documenta 11, Kassel (2002); Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-web
-883,tsunamii.net,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
+883,tsunamii.net,Documenta,,,,Singapur,,,,"documenta 11, Kassel (2002); documenta 11 (2002)",factual-web
 884,Joëlle Tuerlinckx,Documenta | Cream 3,,1958,"Bruselas, Bélgica",Bruselas,,,https://en.wikipedia.org/wiki/Jo%C3%ABlle_Tuerlinckx,"documenta 11, Kassel (2002); documenta X (1997)",factual-web
 885,Nomeda & Gediminas Urbonas,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
 886,Jeff Wall,Documenta | 21st-Century Art Book,,1946,"Vancouver, Canada",,,,http://www.tate.org.uk/art/artists/jeff-wall-2359,"documenta 11, Kassel (2002)",factual-tate
@@ -1091,7 +1091,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1090,Kota Ezawa,Whitney Biennial,,1969,"Colonia, Alemania",Oakland,,,,"Whitney Biennial 2019, Nueva York",factual-whitney
 1091,Brendan Fernandes,Whitney Biennial,,1979,"Nairobi, Kenia",Chicago,,,,"Whitney Biennial 2019, Nueva York",factual-whitney
 1092,FIERCE,Whitney Biennial,,,"Nueva York, Estados Unidos",Nueva York,,,,"Whitney Biennial 2019, Nueva York; Whitney Biennial 2019",factual-web
-1093,Paper Tiger Television,Whitney Biennial,,,"Nueva York, Estados Unidos",Nueva York,,,,"Whitney Biennial 2019, Nueva York",pendiente
+1093,Paper Tiger Television,Whitney Biennial,,,"Nueva York, Estados Unidos",Nueva York,,,https://en.wikipedia.org/wiki/Paper_Tiger_Television,"Whitney Biennial 2019, Nueva York",factual-web
 1094,Marcus Fischer,Whitney Biennial,,1977,"Torrance, CA, Estados Unidos",Portland,,,,"Whitney Biennial 2019, Nueva York",factual-whitney
 1095,Forensic Architecture,Whitney Biennial | Vitamin V,,,"Londres, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Forensic_Architecture,"Whitney Biennial 2019, Nueva York; Turner Prize (nominado 2018)",factual-web
 1096,Ellie Ga,Whitney Biennial,,1976,"Nueva York, Estados Unidos",Estocolmo,,,,"Whitney Biennial 2019, Nueva York",factual-whitney
@@ -1166,7 +1166,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1165,Sky Hopinka,Whitney Biennial | Vitamin V,,1984,"Bellingham, WA, Estados Unidos",Milwaukee,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1166,Shara Hughes,Whitney Biennial,,1981,"Atlanta, GA, Estados Unidos",Brooklyn,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1167,Aaron Flint Jamison,Whitney Biennial,,1979,"Billings, MT, Estados Unidos",Portland; Seattle,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
-1168,KAYA,Whitney Biennial,,,,,,,,"Whitney Biennial 2017, Nueva York",pendiente
+1168,KAYA,Whitney Biennial,,,,,,,,"Whitney Biennial 2017, Nueva York; Bienal Whitney 2019",factual-web
 1169,Jon Kessler,Whitney Biennial,,1957,"Yonkers, NY, Estados Unidos",Nueva York,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1170,James N. Kienitz Wilkins,Whitney Biennial,,1983,"Boston, MA, Estados Unidos",Brooklyn,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1171,Ajay Kurian,Whitney Biennial,,1984,"Baltimore, MD, Estados Unidos",Brooklyn,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
@@ -1178,7 +1178,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1177,Julien Nguyen,Whitney Biennial,,1990,"Washington, DC, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1178,Tuan Andrew Nguyen,Whitney Biennial,,1976,"Saigón, Vietnam",Ciudad Ho Chi Minh,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1179,Raúl de Nieves,Whitney Biennial,,1983,"Morelia, México",Brooklyn,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
-1180,Occupy Museums,Whitney Biennial,,,,,,,,"Whitney Biennial 2017, Nueva York",pendiente
+1180,Occupy Museums,Whitney Biennial,,,,,,,,"Whitney Biennial 2017, Nueva York; Bienal Whitney 2017",factual-web
 1181,Jessi Reaves,Whitney Biennial,,1986,"Portland, OR, Estados Unidos",Brooklyn,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1182,John Riepenhoff,Whitney Biennial,,1982,"Milwaukee, WI, Estados Unidos",Milwaukee,,,,"Whitney Biennial 2017, Nueva York",factual-whitney
 1183,Chemi Rosado-Seijo,Whitney Biennial,,1973,"Vega Alta, Puerto Rico",San Juan; Naranjito,,,,"Whitney Biennial 2017, Nueva York; Whitney Biennial 2002, Nueva York",factual-whitney
@@ -1279,7 +1279,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1278,Charles Atlas,Whitney Biennial,,1958,"Saint Louis City, United States",,,,http://www.tate.org.uk/art/artists/charles-atlas-15557,"Whitney Biennial 2012, Nueva York",factual-tate
 1279,Lutz Bacher,Whitney Biennial,,1943,,Nueva York,,,https://en.wikipedia.org/wiki/Lutz_Bacher,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2000, Nueva York; fallecida 2019",factual-web
 1280,Michael Clark,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
-1281,Cameron Crawford,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
+1281,Cameron Crawford,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York; Bienal Whitney 2012",factual-web
 1282,Liz Deschenes,Whitney Biennial,,1966,"Boston, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Liz_Deschenes,"Whitney Biennial 2012, Nueva York",factual-web
 1283,Nathaniel Dorsky,Whitney Biennial,,1943,"Nueva York, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Nathaniel_Dorsky,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2000, Nueva York",factual-web
 1284,Vincent Fecteau,Whitney Biennial | Vitamin 3-D,,1969,"Islip, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Vincent_Fecteau,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2002, Nueva York",factual-web
@@ -1299,7 +1299,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1298,Nick Mauss,Whitney Biennial,,1980,"Nueva York, EE.UU.",Nueva York,,,,"Whitney Biennial 2012, Nueva York; Bienal Whitney (2012)",factual-web
 1299,Richard Maxwell,Whitney Biennial,,1967,"West Fargo, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Richard_Maxwell_(director),"Whitney Biennial 2012, Nueva York",factual-web
 1300,Sarah Michelson,Whitney Biennial,,1964,"Mánchester, Reino Unido",Nueva York,,,https://en.wikipedia.org/wiki/Sarah_Michelson,"Whitney Biennial 2012, Nueva York",factual-web
-1301,Alicia Hall Moran,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
+1301,Alicia Hall Moran,Whitney Biennial,,1973,,Nueva York,,,http://www.aliciahallmoran.com/,"Whitney Biennial 2012, Nueva York; Bienal Whitney 2012",factual-web
 1302,Jason Moran,Whitney Biennial | Bienal de Venecia,,1975,Estados Unidos,Nueva York,,,,"Whitney Biennial 2012, Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 1303,Laura Poitras,Whitney Biennial,,1964-02-02,"Boston, EE.UU.",Berlín,,,https://en.wikipedia.org/wiki/Laura_Poitras,"Whitney Biennial 2012, Nueva York",factual-web
 1304,Matt Porterfield,Whitney Biennial,,1977-10-06,"Baltimore, EE.UU.",,,,https://en.wikipedia.org/wiki/Matthew_Porterfield,"Whitney Biennial 2012, Nueva York",factual-web
@@ -1308,7 +1308,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1307,Kelly Reichardt,Whitney Biennial,,1964-03-03,"Miami, EE.UU.",,,,https://en.wikipedia.org/wiki/Kelly_Reichardt,"Whitney Biennial 2012, Nueva York",factual-web
 1308,Elaine Reichek,Whitney Biennial | Vitamin T,,1943,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Elaine_Reichek,"Whitney Biennial 2012, Nueva York",factual-web
 1309,Michael Robinson,Whitney Biennial,,1981,,,,,,"Whitney Biennial 2012, Nueva York",factual-web
-1310,Tom Thayer,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
+1310,Tom Thayer,Whitney Biennial,,1970,,Nueva Jersey,,,,"Whitney Biennial 2012, Nueva York; Bienal Whitney 2012",factual-web
 1311,Oscar Tuazon,Whitney Biennial | Vitamin 3-D,,1975,"Indianola, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Oscar_Tuazon,"Whitney Biennial 2012, Nueva York",factual-web
 1312,Gisèle Vienne,Whitney Biennial,,1976,"Charleville-Mézières, Francia",París,,,,"Whitney Biennial 2012, Nueva York",factual-web
 1313,Frederick Wiseman,Whitney Biennial,,1930-01-01,"Boston, EE.UU.",,,,https://en.wikipedia.org/wiki/Frederick_Wiseman,"Whitney Biennial 2012, Nueva York; fallecido 2026",factual-web
@@ -1339,7 +1339,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1338,Babette Mangolte,Whitney Biennial,,1941,"Jura, France",,,,http://www.tate.org.uk/art/artists/babette-mangolte-6614,"Whitney Biennial 2010, Nueva York",factual-tate
 1339,Curtis Mann,Whitney Biennial,,1979,"Dayton, EE.UU.",Chicago,,,,"Whitney Biennial 2010, Nueva York",factual-web
 1340,Ari Marcopoulos,Whitney Biennial,,1957,"Ámsterdam, Países Bajos",,,,https://en.wikipedia.org/wiki/Ari_Marcopoulos,"Whitney Biennial 2010, Nueva York; Whitney Biennial 2002, Nueva York",factual-web
-1341,Daniel McDonald,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
+1341,Daniel McDonald,Whitney Biennial,,1971,"Los Ángeles, EE.UU.",Nueva York,,,,"Whitney Biennial 2010, Nueva York",factual-web
 1342,Josephine Meckseper,Whitney Biennial | Vitamin 3-D,,1964,"Lilienthal, Alemania",Nueva York,,,https://en.wikipedia.org/wiki/Josephine_Meckseper,"Whitney Biennial 2010, Nueva York; Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1343,Rashaad Newsome,Whitney Biennial,,1979,"Nueva Orleans, EE.UU.",,,,https://en.wikipedia.org/wiki/Rashaad_Newsome,"Whitney Biennial 2010, Nueva York",factual-web
 1344,Kelly Nipper,Whitney Biennial | Vitamin Ph,,1971,,Los Ángeles,,,,"Whitney Biennial 2010, Nueva York",factual-web
@@ -1351,7 +1351,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1350,Stephanie Sinclair,Whitney Biennial,,1973,"Miami, EE.UU.",,,,https://en.wikipedia.org/wiki/Stephanie_Sinclair,"Whitney Biennial 2010, Nueva York",factual-web
 1351,Ania Soliman,Whitney Biennial,,1970,"Varsovia, Polonia",París,,,,"Whitney Biennial 2010, Nueva York",factual-web
 1352,Storm Tharp,Whitney Biennial,,1970-02-20,"Salem, EE.UU.",Portland,,,,"Whitney Biennial 2010, Nueva York",factual-web
-1353,Tam Tran,Whitney Biennial,,,,,,,,"Whitney Biennial 2010, Nueva York",pendiente
+1353,Tam Tran,Whitney Biennial,,1986,,Memphis,,,,"Whitney Biennial 2010, Nueva York; Bienal Whitney 2010",factual-web
 1354,Kerry Tribe,Whitney Biennial,,1973,"Boston, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Kerry_Tribe,"Whitney Biennial 2010, Nueva York",factual-web
 1355,Marianne Vitale,Whitney Biennial | Bienal de Venecia,,1973,"East Rockaway, NY, Estados Unidos",Nueva York,,,,"Whitney Biennial 2010, Nueva York; Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
 1356,Erika Vogt,Whitney Biennial,,1973,"East Newark, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Erika_Vogt,"Whitney Biennial 2010, Nueva York",factual-web
@@ -1368,7 +1368,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1367,Olaf Breuning,Whitney Biennial | Vitamin Ph | Fresh Cream,,1970,"Schaffhausen, Suiza",Nueva York,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1368,Jedediah Caesar,Whitney Biennial | Vitamin 3-D,,1973,"Oakland, CA, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1369,William Cordova,Whitney Biennial | Vitamin 3-D,,1971,"Lima, Perú",Houston; Miami,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
-1370,Dexter Sinister,Whitney Biennial,,,,Nueva York,,,,"Whitney Biennial 2008, Nueva York",pendiente
+1370,Dexter Sinister,Whitney Biennial,,,,Nueva York,,,http://www.dextersinister.org,"Whitney Biennial 2008, Nueva York",factual-web
 1371,Harry Dodge,Whitney Biennial,,1966,"San Francisco, CA, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1372,Stanya Kahn,Whitney Biennial,,1968,"San Francisco, CA, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1373,Shannon Ebner,Whitney Biennial,,1971,"Englewood, NJ, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
@@ -1397,7 +1397,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1396,Jennifer Montgomery,Whitney Biennial,,1961,"Nueva York, Estados Unidos",Chicago,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1397,Olivier Mosset,Whitney Biennial,,1944,"Berna, Suiza","Tucson, AZ",,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1398,Matt Mullican,Whitney Biennial | Bienal de Venecia,,1951,"Santa Mónica, CA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2008, Nueva York; Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-whitney
-1399,Neighborhood Public Radio,Whitney Biennial,,,,Oakland; San Francisco; Chicago,,,,"Whitney Biennial 2008, Nueva York",pendiente
+1399,Neighborhood Public Radio,Whitney Biennial,,,,Oakland; San Francisco; Chicago,,,,"Whitney Biennial 2008, Nueva York; Bienal Whitney 2008",factual-web
 1400,Ruben Ochoa,Whitney Biennial | Vitamin 3-D,,1974,"Oceanside, CA, Estados Unidos",Los Ángeles,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
 1401,DJ Olive,Whitney Biennial,,1961,"Boston, MA, Estados Unidos",Nueva York,,,,"Whitney Biennial 2008, Nueva York; Whitney Biennial 2002, Nueva York",factual-whitney
 1402,Mitzi Pederson,Whitney Biennial | Vitamin 3-D,,1976,"Stuart, FL, Estados Unidos",San Francisco,,,,"Whitney Biennial 2008, Nueva York",factual-whitney
@@ -1428,7 +1428,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1427,Dominic Angerame,Whitney Biennial,,1949,"Albany, EE.UU.",San Francisco,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2006",factual-web
 1428,Christina Battle,Whitney Biennial,,1975,"Edmonton, Canadá",Edmonton,,,https://en.wikipedia.org/wiki/Christina_Battle,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1429,James Benning,Whitney Biennial,,1942,"Milwaukee, EE.UU.",,,,https://en.wikipedia.org/wiki/James_Benning_(film_director),"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
-1430,Bernadette Corporation,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1430,Bernadette Corporation,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Bernadette_Corporation,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1431,Amy Blakemore,Whitney Biennial,,1958,"Tulsa, EE.UU.",Houston,,,https://en.wikipedia.org/wiki/Amy_Blakemore,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1432,Louise Bourque,Whitney Biennial,,1963,"Edmundston, Canadá",,,,https://en.wikipedia.org/wiki/Louise_Bourque,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1433,Troy Brauntuch,Whitney Biennial,,1954,"Jersey City, EE.UU.",,,,https://en.wikipedia.org/wiki/Troy_Brauntuch,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
@@ -1436,9 +1436,9 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1435,George Butler,Whitney Biennial,,1943-10-12,"Chester, Reino Unido",,,,https://en.wikipedia.org/wiki/George_Butler_(filmmaker),"Whitney Biennial 2006 «Day for Night», Nueva York; fallecido 2021",factual-web
 1436,Carter,Whitney Biennial,,1970,,,,,https://en.wikipedia.org/wiki/Carter_(artist),"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal Whitney (2006)",factual-web
 1437,Carolina Caycedo,Whitney Biennial | New Museum Triennial,,1978,"Londres, Reino Unido",Los Ángeles,,,https://en.wikipedia.org/wiki/Carolina_Caycedo,"Whitney Biennial 2006 «Day for Night», Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
-1438,The Center for Land Use Interpretation,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1438,The Center for Land Use Interpretation,Whitney Biennial,,,,Los Ángeles,,,https://en.wikipedia.org/wiki/Center_for_Land_Use_Interpretation,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal Whitney 2006",factual-web
 1439,Lori Cheatle,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
-1440,Daisy Wright,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1440,Daisy Wright,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal Whitney 2006",factual-web
 1441,Ira Cohen,Whitney Biennial,,1935-02-03,"Nueva York, EE.UU.",,,,https://en.wikipedia.org/wiki/Ira_Cohen,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecido 2011",factual-web
 1442,Martha Colburn,Whitney Biennial,,1971-05-05,"Gettysburg, EE.UU.",,,,https://en.wikipedia.org/wiki/Martha_Colburn,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1443,Dan Colen,Whitney Biennial,,1979,"Leonia, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Dan_Colen,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2006",factual-web
@@ -1446,14 +1446,14 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1445,Tony Conrad,Whitney Biennial | Bienal de Venecia,,1940,"Concord, NH, Estados Unidos",,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 1446,Jamal Cyrus,Whitney Biennial,,1973,"Houston, EE.UU.",Houston,,,https://en.wikipedia.org/wiki/Jamal_Cyrus,"Whitney Biennial 2006 «Day for Night», Nueva York; Beca Guggenheim (2023)",factual-web
 1447,Deep Dish Television Network,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Deep_Dish_Television,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
-1448,Lucas DeGiulio,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1448,Lucas DeGiulio,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal Whitney 2008",factual-web
 1449,Mark di Suvero,Whitney Biennial,,1933,"Shanghai, Zhonghua",,,,http://www.tate.org.uk/art/artists/mark-di-suvero-6327,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
 1450,Rirkrit Tiravanija,Whitney Biennial | Vitamin Txt | Bienal de Venecia,,1961,"Buenos Aires, Argentina",Nueva York; Berlín; Chiang Mai,,,http://www.tate.org.uk/art/artists/rirkrit-tiravanija-8704,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
 1451,Kenya Evans,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
 1452,David Gatten,Whitney Biennial,,1971-02-11,"Ann Arbor, EE.UU.",,,,https://en.wikipedia.org/wiki/David_Gatten,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2002, Nueva York",factual-web
 1453,Joe Gibbons,Whitney Biennial,,1953,"Providence, EE.UU.",,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2002, Nueva York; Whitney Biennial 2000, Nueva York",factual-web
 1454,Robert Gober,Whitney Biennial | Bienal de Venecia,,1954,"Wallingford, United States",,,,http://www.tate.org.uk/art/artists/robert-gober-2309,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2000, Nueva York; Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
-1455,Deva Graf,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1455,Deva Graf,Whitney Biennial,,,,Nueva York,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1456,Dan Graham,Whitney Biennial,,1942,"Urbana, United States",,,,http://www.tate.org.uk/art/artists/dan-graham-1200,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
 1457,Rodney Graham,Whitney Biennial | Cream,,1949,"Abbotsford, Canada",,,,http://www.tate.org.uk/art/artists/rodney-graham-7810,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
 1458,Jay Heikes,Whitney Biennial | Vitamin 3-D,,1975,"Princeton, EE.UU.",Saint Paul,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2006",factual-web
@@ -1486,7 +1486,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1485,Kori Newkirk,Whitney Biennial,,1970,"Nueva York, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Kori_Newkirk,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1486,Todd Norsten,Whitney Biennial,,1967,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1487,Jim O'Rourke,Whitney Biennial,,1969-01-18,"Chicago, EE.UU.",Tokio,,,https://en.wikipedia.org/wiki/Jim_O'Rourke_(musician),"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2004, Nueva York",factual-web
-1488,Otabenga Jones & Associates,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1488,Otabenga Jones & Associates,Whitney Biennial,,,,Houston,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal Whitney 2006",factual-web
 1489,Tony Oursler,Whitney Biennial,,1957,"New York, United States",,,,http://www.tate.org.uk/art/artists/tony-oursler-2366,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
 1490,Mathias Poledna,Whitney Biennial,,1965,"Viena, Austria",Los Ángeles,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal de Venecia 2013",factual-web
 1491,Robert A. Pruitt,Whitney Biennial,,1975,"Houston, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Robert_Pruitt_(artist),"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
@@ -1500,11 +1500,11 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1499,Rudolf Stingel,Whitney Biennial,,1956,"Merano, Italia",,,,http://www.tate.org.uk/art/artists/rudolf-stingel-11279,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
 1500,Angela Strassheim,Whitney Biennial,,1969,"Bloomfield, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Angela_Strassheim,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1501,Zoe Strauss,Whitney Biennial,,1970,"Filadelfia, EE.UU.",Filadelfia,,,https://en.wikipedia.org/wiki/Zoe_Strauss,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
-1502,Studio Film Club,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1502,Studio Film Club,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal Whitney 2006",factual-web
 1503,Sturtevant,Whitney Biennial,,1924-08-23,"Lakewood, EE.UU.",,,,https://en.wikipedia.org/wiki/Elaine_Sturtevant,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecida 2014",factual-web
 1504,Billy Sullivan,Whitney Biennial,,1946,"Brooklyn, EE.UU.",East Hampton,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1505,Spencer Sweeney,Whitney Biennial,,1973,"Filadelfia, EE.UU.",Nueva York,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
-1506,Chris Vasell,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1506,Chris Vasell,Whitney Biennial,,1974,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal Whitney 2006",factual-web
 1507,Francesco Vezzoli,Whitney Biennial,,1971,"Brescia, Italia",,,,http://www.tate.org.uk/art/artists/francesco-vezzoli-9909,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
 1508,Aaron Young,Whitney Biennial,,1972,"San Francisco, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Aaron_Young_(artist),"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1509,Laylah Ali,Whitney Biennial,,1968,"Buffalo, EE.UU.",Williamstown,,,https://en.wikipedia.org/wiki/Laylah_Ali,"Whitney Biennial 2004, Nueva York",factual-web
@@ -1541,174 +1541,174 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1540,Jim Hodges,Whitney Biennial | Vitamin T,,1957,"Spokane, United States",,,,http://www.tate.org.uk/art/artists/jim-hodges-7335,"Whitney Biennial 2004, Nueva York",factual-tate
 1541,Christian Holstad,Whitney Biennial | Vitamin D | Vitamin 3-D,,1972,"Anaheim, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Christian_Holstad,"Whitney Biennial 2004, Nueva York",factual-web
 1542,Roni Horn,Whitney Biennial | Vitamin Txt,,1955,"New York, United States",,,,http://www.tate.org.uk/art/artists/roni-horn-2402,"Whitney Biennial 2004, Nueva York",factual-tate
-1543,Peter Hutton,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York",pendiente
-1544,Glenn Kaino,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
+1543,Peter Hutton,Whitney Biennial,,1944-08-24,"Detroit, EE.UU.",,,,https://en.wikipedia.org/wiki/Peter_Hutton_(filmmaker),"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York; fallecido 2016",factual-web
+1544,Glenn Kaino,Whitney Biennial,,1972,"Los Ángeles, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Glenn_Kaino,"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
 1545,Terence Koh,Whitney Biennial,,1977,"Beijing, Zhonghua",,,,http://www.tate.org.uk/art/artists/terence-koh-10838,"Whitney Biennial 2004, Nueva York",factual-tate
 1546,Yayoi Kusama,Whitney Biennial,,1929,"Matsumoto, Nihon",,,,http://www.tate.org.uk/art/artists/yayoi-kusama-8094,"Whitney Biennial 2004, Nueva York",factual-tate
-1547,Noémie Lafrance,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1548,Golan Levin,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
+1547,Noémie Lafrance,Whitney Biennial,,1973-11-22,,Nueva York,,,https://en.wikipedia.org/wiki/No%C3%A9mie_Lafrance,"Whitney Biennial 2004, Nueva York",factual-web
+1548,Golan Levin,Whitney Biennial,,1972,"Nueva York, EE.UU.",Pittsburgh,,,https://en.wikipedia.org/wiki/Golan_Levin,"Whitney Biennial 2004, Nueva York",factual-web
 1549,Sharon Lockhart,Whitney Biennial | Vitamin Ph | Fresh Cream,,1964,"Norwood, United States",,,,http://www.tate.org.uk/art/artists/sharon-lockhart-6007,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2000, Nueva York",factual-tate
 1550,Robert Longo,Whitney Biennial,,1953,"Brooklyn, United States",,,,http://www.tate.org.uk/art/artists/robert-longo-1526,"Whitney Biennial 2004, Nueva York",factual-tate
 1551,Los Super Elegantes,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
 1552,Robert Mangold,Whitney Biennial,,1937,"North Tonawanda, United States",,,,http://www.tate.org.uk/art/artists/robert-mangold-1568,"Whitney Biennial 2004, Nueva York",factual-tate
-1553,Cameron Martin,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1554,Virgil Marti,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
+1553,Cameron Martin,Whitney Biennial,,1970,"Seattle, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Cameron_Martin_(artist),"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
+1554,Virgil Marti,Whitney Biennial,,1962,"San Luis, EE.UU.",Filadelfia,,,https://en.wikipedia.org/wiki/Virgil_Marti,"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
 1555,Anthony McCall,Whitney Biennial,,1946,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/anthony-mccall-7491,"Whitney Biennial 2004, Nueva York",factual-tate
-1556,Bruce McClure,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York",pendiente
-1557,Lee Mingwei,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
+1556,Bruce McClure,Whitney Biennial,,,,Nueva York,,,,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York",factual-web
+1557,Lee Mingwei,Whitney Biennial,,1964,"Taichung, Taiwán",,,,https://en.wikipedia.org/wiki/Lee_Mingwei,"Whitney Biennial 2004, Nueva York",factual-web
 1558,Aleksandra Mir,Whitney Biennial | Vitamin D2 | Bienal de Venecia,,1967,Polska,,,,http://www.tate.org.uk/art/artists/aleksandra-mir-10038,"Whitney Biennial 2004, Nueva York; Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-tate
-1559,Dave Muller,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1560,Julie Murray,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1561,Julie Atlas Muz,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1562,Andrew Noren,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York",pendiente
-1563,Robyn O'Neil,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1564,Chloe Piene,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1565,Jack Pierson,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1566,Luis Recoder,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York",pendiente
+1559,Dave Muller,Whitney Biennial | Vitamin D,,1964,"San Francisco, EE.UU.",,,,,"Whitney Biennial 2004, Nueva York",factual-web
+1560,Julie Murray,Whitney Biennial,,,"Dublín, Irlanda",,,,https://julifilm.org/,"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
+1561,Julie Atlas Muz,Whitney Biennial,,1973-05-30,"Detroit, EE.UU.",,,,https://en.wikipedia.org/wiki/Julie_Atlas_Muz,"Whitney Biennial 2004, Nueva York",factual-web
+1562,Andrew Noren,Whitney Biennial,,1943,"Santa Fe, EE.UU.",,,,https://en.wikipedia.org/wiki/Andrew_Noren,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York; fallecido 2015",factual-web
+1563,Robyn O'Neil,Whitney Biennial | Vitamin D,,1977,"Omaha, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Robyn_O%27Neil,"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
+1564,Chloe Piene,Whitney Biennial | Vitamin D,,1972,,Nueva York,,,https://en.wikipedia.org/wiki/Chloe_Piene,"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
+1565,Jack Pierson,Whitney Biennial,,1960,"Plymouth, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Jack_Pierson,"Whitney Biennial 2004, Nueva York",factual-web
+1566,Luis Recoder,Whitney Biennial,,1971,"San Francisco, EE.UU.",,,,,"Whitney Biennial 2004, Nueva York; Whitney Biennial 2002, Nueva York",factual-web
 1567,Liisa Roberts,Whitney Biennial | Bienal de Venecia,,1969,Francia,Nueva York; Helsinki; San Petersburgo,,,,"Whitney Biennial 2004, Nueva York; Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
-1568,Dario Robleto,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1569,Matthew Ronay,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1570,Aïda Ruilova,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1571,Anne-Marie Schleiner,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1572,Brody Condon,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1573,Joan Leandre,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1574,James Siena,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1575,Zak Smith,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
+1568,Dario Robleto,Whitney Biennial,,1972,"San Antonio, EE.UU.",Houston,,,https://en.wikipedia.org/wiki/Dario_Robleto,"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
+1569,Matthew Ronay,Whitney Biennial,,1976,"Louisville, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Matthew_Ronay,"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
+1570,Aïda Ruilova,Whitney Biennial,,1974,"Wheeling, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/A%C3%AFda_Ruilova,"Whitney Biennial 2004, Nueva York",factual-web
+1571,Anne-Marie Schleiner,Whitney Biennial,,1970,"Providence, EE.UU.",,,,https://en.wikipedia.org/wiki/Anne-Marie_Schleiner,"Whitney Biennial 2004, Nueva York",factual-web
+1572,Brody Condon,Whitney Biennial,,1974,"Tuxpan, México",,,,https://en.wikipedia.org/wiki/Brody_Condon,"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
+1573,Joan Leandre,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
+1574,James Siena,Whitney Biennial | Vitamin D,,1957-10-28,"Oceanside, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/James_Siena,"Whitney Biennial 2004, Nueva York",factual-web
+1575,Zak Smith,Whitney Biennial | Vitamin D,,1976-07-16,"Syracuse, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Zak_Smith,"Whitney Biennial 2004, Nueva York",factual-web
 1576,Yutaka Sone,Whitney Biennial | Fresh Cream,,1965,"Shizuoka, Nihon",,,,http://www.tate.org.uk/art/artists/yutaka-sone-6628,"Whitney Biennial 2004, Nueva York",factual-tate
-1577,Alec Soth,Whitney Biennial | Vitamin Ph,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1578,Deborah Stratman,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1579,Eve Sussman,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1580,Julianne Swartz,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1581,Erick Swenson,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1582,Wynne Greenwood,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1583,Jim Trainor,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1584,Tam Van Tran,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1585,Banks Violette,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1586,Olav Westphalen,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
-1587,T. J. Wilcox,Whitney Biennial,,,,,,,,"Whitney Biennial 2004, Nueva York",pendiente
+1577,Alec Soth,Whitney Biennial | Vitamin Ph,,1969,"Mineápolis, EE.UU.",Mineápolis,,,https://en.wikipedia.org/wiki/Alec_Soth,"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
+1578,Deborah Stratman,Whitney Biennial,,1967,,Chicago,,,https://en.wikipedia.org/wiki/Deborah_Stratman,"Whitney Biennial 2004, Nueva York",factual-web
+1579,Eve Sussman,Whitney Biennial,,1961,"Londres, Reino Unido",Brooklyn,,,,"Whitney Biennial 2004, Nueva York",factual-web
+1580,Julianne Swartz,Whitney Biennial,,1967,"Phoenix, EE.UU.",Stone Ridge,,,https://en.wikipedia.org/wiki/Julianne_Swartz,"Whitney Biennial 2004, Nueva York",factual-web
+1581,Erick Swenson,Whitney Biennial,,1972,"Phoenixville, EE.UU.",Dallas,,,https://en.wikipedia.org/wiki/Erick_Swenson,"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
+1582,Wynne Greenwood,Whitney Biennial,,1977,,Seattle,,,https://en.wikipedia.org/wiki/Wynne_Greenwood,"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
+1583,Jim Trainor,Whitney Biennial,,1961,"Filadelfia, EE.UU.",Chicago,,,https://en.wikipedia.org/wiki/Jim_Trainor,"Whitney Biennial 2004, Nueva York",factual-web
+1584,Tam Van Tran,Whitney Biennial,,1966,"Kontum, Vietnam",Los Ángeles,,,https://en.wikipedia.org/wiki/Tam_Van_Tran,"Whitney Biennial 2004, Nueva York",factual-web
+1585,Banks Violette,Whitney Biennial | Vitamin D,,1973-10-10,"Ithaca, EE.UU.",Ithaca,,,https://en.wikipedia.org/wiki/Banks_Violette,"Whitney Biennial 2004, Nueva York; Bienal Whitney 2004",factual-web
+1586,Olav Westphalen,Whitney Biennial | Vitamin D,,1963,"Hamburgo, Alemania",Estocolmo,,,,"Whitney Biennial 2004, Nueva York",factual-web
+1587,T. J. Wilcox,Whitney Biennial,,1965,"Seattle, EE.UU.",Nueva York,,,,"Whitney Biennial 2004, Nueva York",factual-web
 1588,Andrea Zittel,Whitney Biennial | Vitamin T,,1965,"Sausalito, United States",,,,http://www.tate.org.uk/art/artists/andrea-zittel-2395,"Whitney Biennial 2004, Nueva York",factual-tate
-1589,Peggy Ahwesh,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1590,Bosmat Alon,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1591,Tirtza Even,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1592,José Alvarez,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1593,Maryanne Amacher,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
+1589,Peggy Ahwesh,Whitney Biennial,,1954,"Canonsburg, EE.UU.",,,,https://en.wikipedia.org/wiki/Peggy_Ahwesh,"Whitney Biennial 2002, Nueva York",factual-web
+1590,Bosmat Alon,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1591,Tirtza Even,Whitney Biennial,,1963,"Jerusalén, Israel",Chicago,,,,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1592,José Alvarez,Whitney Biennial,,1961,,,,,,"Whitney Biennial 2002, Nueva York",factual-web
+1593,Maryanne Amacher,Whitney Biennial,,1938-02-25,"Kane, EE.UU.",,,,https://en.wikipedia.org/wiki/Maryanne_Amacher,"Whitney Biennial 2002, Nueva York; fallecida 2009",factual-web
 1594,Archive (Chris Kubick y Anne Walsh),Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1595,Irit Batsry,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1596,Zoe Beloff,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1597,Sanford Biggers,Whitney Biennial | Vitamin T,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1598,Jennifer Zackin,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
+1595,Irit Batsry,Whitney Biennial,,1957,"Ramat Gan, Israel",,,,https://en.wikipedia.org/wiki/Irit_Batsry,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1596,Zoe Beloff,Whitney Biennial,,1958,"Edimburgo, Reino Unido",Nueva York,,,https://en.wikipedia.org/wiki/Zoe_Beloff,"Whitney Biennial 2002, Nueva York",factual-web
+1597,Sanford Biggers,Whitney Biennial | Vitamin T,,1970,"Los Ángeles, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Sanford_Biggers,"Whitney Biennial 2002, Nueva York",factual-web
+1598,Jennifer Zackin,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
 1599,Susan Black,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1600,AA Bronson,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1601,James Buckhouse,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1602,Javier Cambre,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1603,Jim Campbell,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1604,Karin Campbell,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
+1600,AA Bronson,Whitney Biennial,,1946-06-18,"Vancouver, Canadá",Berlín,,,https://en.wikipedia.org/wiki/AA_Bronson,"Whitney Biennial 2002, Nueva York",factual-web
+1601,James Buckhouse,Whitney Biennial,,1972,"Logan, EE.UU.",San Francisco,,,,"Whitney Biennial 2002, Nueva York",factual-web
+1602,Javier Cambre,Whitney Biennial,,1966,"San Juan, Puerto Rico",,,,https://en.wikipedia.org/wiki/Javier_Cambre,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1603,Jim Campbell,Whitney Biennial,,1956,"Chicago, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Jim_Campbell_(artist),"Whitney Biennial 2002, Nueva York",factual-web
+1604,Karin Campbell,Whitney Biennial,,1962,"San Diego, EE.UU.",Brooklyn,,,http://www.karincampbell.com,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
 1605,Peter Campus,Whitney Biennial,,1937,"New York, United States",,,,http://www.tate.org.uk/art/artists/peter-campus-11797,"Whitney Biennial 2002, Nueva York",factual-tate
-1606,Chan Chao,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1607,Richard Chartier,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1608,Stephen Dean,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
+1606,Chan Chao,Whitney Biennial,,1966,"Kalemyo, Birmania",Washington,,,https://en.wikipedia.org/wiki/Chan_Chao,"Whitney Biennial 2002, Nueva York",factual-web
+1607,Richard Chartier,Whitney Biennial,,1971-03-29,"Arlington, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Richard_Chartier,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1608,Stephen Dean,Whitney Biennial,,1968,"París, Francia",Nueva York,,,,"Whitney Biennial 2002, Nueva York; Bienal de Venecia 2005",factual-web
 1609,Destroy All Monsters Collective,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
 1610,Keith Edmier,Whitney Biennial,,1967,"Chicago, United States",,,,http://www.tate.org.uk/art/artists/keith-edmier-3096,"Whitney Biennial 2002, Nueva York",factual-tate
-1611,Ken Feingold,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1612,Mary Flanagan,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1613,Glen Fogel,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1614,Forcefield,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1615,Benjamin Fry,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1616,Brian Frye,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1617,Futurefarmers,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1618,Luis Gispert,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1619,Gogol Bordello,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1620,Janine Gordon,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1621,Alfred Guzzetti,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1622,Trenton Doyle Hancock,Whitney Biennial | Vitamin D,,,,,,,,"Whitney Biennial 2002, Nueva York; Whitney Biennial 2000, Nueva York",pendiente
-1623,Tim Hawkinson,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1624,Evan Holloway,Whitney Biennial | Vitamin 3-D,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1625,Dennis Hopper,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1626,Ken Jacobs,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
+1611,Ken Feingold,Whitney Biennial,,1952,"Pittsburgh, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Ken_Feingold,"Whitney Biennial 2002, Nueva York",factual-web
+1612,Mary Flanagan,Whitney Biennial,,1969,"Milwaukee, EE.UU.",,,,https://en.wikipedia.org/wiki/Mary_Flanagan,"Whitney Biennial 2002, Nueva York",factual-web
+1613,Glen Fogel,Whitney Biennial,,1977,"Denver, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Glen_Fogel,"Whitney Biennial 2002, Nueva York",factual-web
+1614,Forcefield,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Forcefield_(art_collective),"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1615,Benjamin Fry,Whitney Biennial,,1975,"Ann Arbor, EE.UU.",,,,https://en.wikipedia.org/wiki/Ben_Fry,"Whitney Biennial 2002, Nueva York",factual-web
+1616,Brian Frye,Whitney Biennial,,1974,,,,,https://en.wikipedia.org/wiki/Brian_L._Frye,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1617,Futurefarmers,Whitney Biennial,,,,,,,https://www.futurefarmers.com,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1618,Luis Gispert,Whitney Biennial,,1972,"Jersey City, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Luis_Gispert,"Whitney Biennial 2002, Nueva York",factual-web
+1619,Gogol Bordello,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Gogol_Bordello,"Whitney Biennial 2002, Nueva York",factual-web
+1620,Janine Gordon,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Janine_Gordon,"Whitney Biennial 2002, Nueva York",factual-web
+1621,Alfred Guzzetti,Whitney Biennial,,1942,"Filadelfia, EE.UU.",,,,https://en.wikipedia.org/wiki/Alfred_Guzzetti,"Whitney Biennial 2002, Nueva York",factual-web
+1622,Trenton Doyle Hancock,Whitney Biennial | Vitamin D,,1974,"Oklahoma City, EE.UU.",Houston,,,https://en.wikipedia.org/wiki/Trenton_Doyle_Hancock,"Whitney Biennial 2002, Nueva York; Whitney Biennial 2000, Nueva York",factual-web
+1623,Tim Hawkinson,Whitney Biennial,,1960,"San Francisco, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Tim_Hawkinson,"Whitney Biennial 2002, Nueva York",factual-web
+1624,Evan Holloway,Whitney Biennial | Vitamin 3-D,,1967,"Whittier, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Evan_Holloway,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1625,Dennis Hopper,Whitney Biennial,,1936,"Dodge City, EE.UU.",,,,https://en.wikipedia.org/wiki/Dennis_Hopper,"Whitney Biennial 2002, Nueva York; fallecido 2010",factual-web
+1626,Ken Jacobs,Whitney Biennial,,1933-05-25,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Ken_Jacobs,"Whitney Biennial 2002, Nueva York; fallecido 2025",factual-web
 1627,Christian Jankowski,Whitney Biennial | Cream 3,,1968,"Göttingen, Deutschland",,,,http://www.tate.org.uk/art/artists/christian-jankowski-6880,"Whitney Biennial 2002, Nueva York",factual-tate
-1628,Lisa Jevbratt,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1629,Yael Kanarek,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1630,Kimsooja,Whitney Biennial | Vitamin T,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
+1628,Lisa Jevbratt,Whitney Biennial,,1967,"Vaxholm, Suecia",San José,,,http://jevbratt.com,"Whitney Biennial 2002, Nueva York",factual-web
+1629,Yael Kanarek,Whitney Biennial,,1967,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Yael_Kanarek,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1630,Kimsooja,Whitney Biennial | Vitamin T,,1957,"Daegu, Corea del Sur",,,,https://en.wikipedia.org/wiki/Kimsooja,"Whitney Biennial 2002, Nueva York; Bienal de Venecia 2013",factual-web
 1631,Diane Kitchen,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1632,John Klima,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1633,Mark LaPore,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1634,Robert Lazzarini,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1635,John Leaños,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1636,Margot Lovejoy,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1637,Vera Lutter,Whitney Biennial | Vitamin Ph,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1638,Conor McGrady,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1639,Meredith Monk,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1640,Julie Moos,Whitney Biennial | Cream 3,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1641,Tracie Morris,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1642,Mark Napier,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1643,Robert Nideffer,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1644,Josh On,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1645,Roxy Paine,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1646,Hirsch Perlman,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1647,Leighton Pierce,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
+1632,John Klima,Whitney Biennial,,1965,"Redondo Beach, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/John_Klima_(artist),"Whitney Biennial 2002, Nueva York",factual-web
+1633,Mark LaPore,Whitney Biennial,,1952,,,,,,"Whitney Biennial 2002, Nueva York; fallecido 2005",factual-web
+1634,Robert Lazzarini,Whitney Biennial,,1965,"Denville, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Robert_Lazzarini,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1635,John Leaños,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/John_Jota_Lea%C3%B1os,"Whitney Biennial 2002, Nueva York",factual-web
+1636,Margot Lovejoy,Whitney Biennial,,1930-10-21,,,,,https://en.wikipedia.org/wiki/Margot_Lovejoy,"Whitney Biennial 2002, Nueva York; fallecida 2019",factual-web
+1637,Vera Lutter,Whitney Biennial | Vitamin Ph,,1960,"Kaiserslautern, Alemania",Nueva York,,,https://en.wikipedia.org/wiki/Vera_Lutter,"Whitney Biennial 2002, Nueva York",factual-web
+1638,Conor McGrady,Whitney Biennial,,1970,"Downpatrick, Reino Unido",,,,,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1639,Meredith Monk,Whitney Biennial,,1942-11-20,,,,,https://en.wikipedia.org/wiki/Meredith_Monk,"Whitney Biennial 2002, Nueva York",factual-web
+1640,Julie Moos,Whitney Biennial | Cream 3,,1966,,,,,https://en.wikipedia.org/wiki/Julie_Moos,"Whitney Biennial 2002, Nueva York",factual-web
+1641,Tracie Morris,Whitney Biennial,,,"Brooklyn, EE.UU.",,,,https://en.wikipedia.org/wiki/Tracie_Morris,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1642,Mark Napier,Whitney Biennial,,1961,"Springfield, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Mark_Napier_(artist),"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1643,Robert Nideffer,Whitney Biennial,,1964,"Ventura, EE.UU.",,,,,"Whitney Biennial 2002, Nueva York",factual-web
+1644,Josh On,Whitney Biennial,,,,San Francisco,,,,"Whitney Biennial 2002, Nueva York",factual-web
+1645,Roxy Paine,Whitney Biennial,,1966,"Nueva York, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Roxy_Paine,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1646,Hirsch Perlman,Whitney Biennial,,1960,,Los Ángeles,,,https://en.wikipedia.org/wiki/Hirsch_Perlman,"Whitney Biennial 2002, Nueva York; Bienal de Venecia 1993",factual-web
+1647,Leighton Pierce,Whitney Biennial,,1954-10-27,"Rochester, EE.UU.",,,,https://en.wikipedia.org/wiki/Leighton_Pierce,"Whitney Biennial 2002, Nueva York",factual-web
 1648,Praxis (Delia Bajo y Brainard Carey),Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1649,Erwin Redl,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1650,The Rural Studio,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
+1649,Erwin Redl,Whitney Biennial,,1963,"Gföhl, Austria",,,,https://en.wikipedia.org/wiki/Erwin_Redl,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1650,The Rural Studio,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Rural_Studio,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
 1651,Salon de Fleurus,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
 1652,Keith Sanborn,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1653,Peter Sarkisian,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1654,Judith Schaechter,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1655,Collier Schorr,Whitney Biennial | Vitamin Ph,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
+1653,Peter Sarkisian,Whitney Biennial,,1965,,Santa Fe,,,https://en.wikipedia.org/wiki/Peter_Sarkisian,"Whitney Biennial 2002, Nueva York; fallecido 2025",factual-web
+1654,Judith Schaechter,Whitney Biennial,,1961,"Gainesville, EE.UU.",Filadelfia,,,https://en.wikipedia.org/wiki/Judith_Schaechter,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1655,Collier Schorr,Whitney Biennial | Vitamin Ph,,1963,"Nueva York, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Collier_Schorr,"Whitney Biennial 2002, Nueva York",factual-web
 1656,silt,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1657,Gerry Snyder,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1658,Stom Sogo,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1659,Phil Solomon,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1660,Scott Stark,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1661,Steina,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1662,Brian Tolle,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1663,Rosie Lee Tompkins,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1664,Lauretta Vinciarelli,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1665,Stephen Vitiello,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1666,Chris Ware,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1667,Peter Williams,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1668,Anne Wilson,Whitney Biennial | Vitamin T,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1669,Lebbeus Woods,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1670,Fred Worden,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1671,Zhang Huan,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1672,John Zurier,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
-1673,Dennis Adams,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1674,Doug Aitken,Whitney Biennial | Fresh Cream,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1675,Ghada Amer,Whitney Biennial | Vitamin T | Vitamin Txt | Fresh Cream,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1676,Mark Amerika,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1677,Craig Baldwin,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1678,Lew Baldwin,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1679,Rina Banerjee,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1680,Rebecca Baron,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1681,Vanessa Beecroft,Whitney Biennial | Fresh Cream,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1682,Rolf Belgum,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1683,Ben Benjamin,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1684,Robin Bernat,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1685,Linda Besemer,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1686,Chakaia Booker,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1687,M. W. Burns,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
+1657,Gerry Snyder,Whitney Biennial,,,,,,,https://whitney.org/artists/7884,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1658,Stom Sogo,Whitney Biennial,,1975,"Osaka, Japón",,,,,"Whitney Biennial 2002, Nueva York; fallecido 2012",factual-web
+1659,Phil Solomon,Whitney Biennial,,1954-01-03,"Nueva York, EE.UU.",Boulder,,,https://en.wikipedia.org/wiki/Phil_Solomon_(filmmaker),"Whitney Biennial 2002, Nueva York; fallecido 2019",factual-web
+1660,Scott Stark,Whitney Biennial,,,,Austin,,,,"Whitney Biennial 2002, Nueva York",factual-web
+1661,Steina,Whitney Biennial,,1940-01-30,"Reikiavik, Islandia",Santa Fe,,,https://en.wikipedia.org/wiki/Steina_Vasulka,"Whitney Biennial 2002, Nueva York",factual-web
+1662,Brian Tolle,Whitney Biennial,,1964,"Nueva York, EE.UU.",Nueva York,,,,"Whitney Biennial 2002, Nueva York",factual-web
+1663,Rosie Lee Tompkins,Whitney Biennial,,1936-09-06,"Gould, EE.UU.",,,,https://en.wikipedia.org/wiki/Rosie_Lee_Tompkins,"Whitney Biennial 2002, Nueva York; fallecida 2006",factual-web
+1664,Lauretta Vinciarelli,Whitney Biennial,,1943-08-02,"Arbe, Italia",,,,https://en.wikipedia.org/wiki/Lauretta_Vinciarelli,"Whitney Biennial 2002, Nueva York; fallecida 2011",factual-web
+1665,Stephen Vitiello,Whitney Biennial,,1964-11-05,"Nueva York, EE.UU.",Richmond,,,https://en.wikipedia.org/wiki/Stephen_Vitiello,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1666,Chris Ware,Whitney Biennial,,1967,"Omaha, EE.UU.",Oak Park,,,https://en.wikipedia.org/wiki/Chris_Ware,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1667,Peter Williams,Whitney Biennial,,1952,,Wilmington,,,https://en.wikipedia.org/wiki/Peter_Williams_(painter),"Whitney Biennial 2002, Nueva York; fallecido 2021",factual-web
+1668,Anne Wilson,Whitney Biennial | Vitamin T,,1949,"Detroit, EE.UU.",Chicago,,,https://en.wikipedia.org/wiki/Anne_Wilson_(artist),"Whitney Biennial 2002, Nueva York",factual-web
+1669,Lebbeus Woods,Whitney Biennial,,1940-05-31,"Lansing, EE.UU.",,,,https://en.wikipedia.org/wiki/Lebbeus_Woods,"Whitney Biennial 2002, Nueva York; fallecido 2012",factual-web
+1670,Fred Worden,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Fred_Worden,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
+1671,Zhang Huan,Whitney Biennial,,1965,"Anyang, China",Shanghái,,,https://en.wikipedia.org/wiki/Zhang_Huan,"Whitney Biennial 2002, Nueva York",factual-web
+1672,John Zurier,Whitney Biennial,,1956,"Santa Mónica, EE.UU.",Berkeley,,,https://en.wikipedia.org/wiki/John_Zurier,"Whitney Biennial 2002, Nueva York",factual-web
+1673,Dennis Adams,Whitney Biennial,,1948,"Des Moines, EE.UU.",,,,https://en.wikipedia.org/wiki/Dennis_Adams,"Whitney Biennial 2000, Nueva York; Bienal Whitney 1989",factual-web
+1674,Doug Aitken,Whitney Biennial | Fresh Cream,,1968,"Redondo Beach, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Doug_Aitken,"Whitney Biennial 2000, Nueva York; Bienal de Venecia 1999",factual-web
+1675,Ghada Amer,Whitney Biennial | Vitamin T | Vitamin Txt | Fresh Cream,,1963-05-22,"El Cairo, Egipto",Nueva York,,,https://en.wikipedia.org/wiki/Ghada_Amer,"Whitney Biennial 2000, Nueva York",factual-web
+1676,Mark Amerika,Whitney Biennial,,1960,"Miami, EE.UU.",,,,https://en.wikipedia.org/wiki/Mark_Amerika,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2002",factual-web
+1677,Craig Baldwin,Whitney Biennial,,1952,"Oakland, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Craig_Baldwin,"Whitney Biennial 2000, Nueva York",factual-web
+1678,Lew Baldwin,Whitney Biennial,,1969,"East Brunswick, EE.UU.",Los Ángeles,,,https://www.lewbaldwin.com/,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
+1679,Rina Banerjee,Whitney Biennial,,1963-06-05,"Calcuta, India",Nueva York,,,https://en.wikipedia.org/wiki/Rina_Banerjee,"Whitney Biennial 2000, Nueva York",factual-web
+1680,Rebecca Baron,Whitney Biennial,,1968,"Baltimore, EE.UU.",,,,,"Whitney Biennial 2000, Nueva York",factual-web
+1681,Vanessa Beecroft,Whitney Biennial | Fresh Cream,,1969-04-25,"Génova, Italia",Los Ángeles,,,https://en.wikipedia.org/wiki/Vanessa_Beecroft,"Whitney Biennial 2000, Nueva York",factual-web
+1682,Rolf Belgum,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2002",factual-web
+1683,Ben Benjamin,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2002",factual-web
+1684,Robin Bernat,Whitney Biennial,,1965,"Monroe, EE.UU.",Atlanta,,,https://www.robinbernat.com,"Whitney Biennial 2000, Nueva York",factual-web
+1685,Linda Besemer,Whitney Biennial,,1957,"South Bend, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Linda_Besemer,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
+1686,Chakaia Booker,Whitney Biennial,,1953,"Newark, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Chakaia_Booker,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
+1687,M. W. Burns,Whitney Biennial,,1958,"Stamford, EE.UU.",,,,https://en.wikipedia.org/wiki/M._W._Burns,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
 1688,Cai Guo-Qiang,Whitney Biennial | Vitamin D | Fresh Cream,,1957,"Quanzhou, Zhonghua",,,,http://www.tate.org.uk/art/artists/cai-guo-qiang-8144,"Whitney Biennial 2000, Nueva York",factual-tate
-1689,Ingrid Calame,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1690,Jem Cohen,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
+1689,Ingrid Calame,Whitney Biennial,,1965,"Nueva York, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Ingrid_Calame,"Whitney Biennial 2000, Nueva York",factual-web
+1690,Jem Cohen,Whitney Biennial,,1962,"Kabul, Afganistán",Nueva York,,,https://en.wikipedia.org/wiki/Jem_Cohen,"Whitney Biennial 2000, Nueva York",factual-web
 1691,John Coplans,Whitney Biennial,,1920,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/john-coplans-2353,"Whitney Biennial 2000, Nueva York; fallecido/a 2003",factual-tate
-1692,Petah Coyne,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1693,E.V. Day,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
+1692,Petah Coyne,Whitney Biennial,,1953,"Ciudad de Oklahoma, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Petah_Coyne,"Whitney Biennial 2000, Nueva York; Bienal Whitney 1995",factual-web
+1693,E.V. Day,Whitney Biennial,,1967-12-09,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/E.V._Day,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
 1694,William De Lottie,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1695,Roman De Salvo,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1696,Kim Dingle,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1697,Anthony Discenza,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1698,Tara Donovan,Whitney Biennial | Vitamin 3-D,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1699,James Drake,Whitney Biennial | Bienal de Venecia,,,,,,,,"Whitney Biennial 2000, Nueva York; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
-1700,Theresa Duncan,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1701,Leandro Erlich,Whitney Biennial | Cream 3,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1702,Fakeshop,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1703,Vernon Fisher,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1704,Brian Fridge,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1705,Dara Friedman,Whitney Biennial | Fresh Cream,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1706,Jill Godmilow,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1707,Ken Goldberg,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1708,Kojo Griffin,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1709,Joseph Havel,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
-1710,Salomón Huerta,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
+1695,Roman De Salvo,Whitney Biennial,,1965,"San Francisco, EE.UU.",San Diego,,,https://en.wikipedia.org/wiki/Roman_De_Salvo,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
+1696,Kim Dingle,Whitney Biennial,,1951,"Pomona, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Kim_Dingle,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
+1697,Anthony Discenza,Whitney Biennial,,1967,,Oakland,,,,"Whitney Biennial 2000, Nueva York",factual-web
+1698,Tara Donovan,Whitney Biennial | Vitamin 3-D,,1969,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Tara_Donovan,"Whitney Biennial 2000, Nueva York",factual-web
+1699,James Drake,Whitney Biennial | Bienal de Venecia,,1946,"Lubbock, EE.UU.",Santa Fe,,,https://en.wikipedia.org/wiki/James_Drake_(visual_artist),"Whitney Biennial 2000, Nueva York; Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2007",factual-web
+1700,Theresa Duncan,Whitney Biennial,,1966,"Lapeer, EE.UU.",,,,https://en.wikipedia.org/wiki/Theresa_Duncan,"Whitney Biennial 2000, Nueva York; fallecida 2007",factual-web
+1701,Leandro Erlich,Whitney Biennial | Cream 3,,1973,"Buenos Aires, Argentina",,,,https://en.wikipedia.org/wiki/Leandro_Erlich,"Whitney Biennial 2000, Nueva York; Bienal de Venecia 2001",factual-web
+1702,Fakeshop,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2002",factual-web
+1703,Vernon Fisher,Whitney Biennial,,1943,"Fort Worth, EE.UU.",Fort Worth,,,https://en.wikipedia.org/wiki/Vernon_Fisher,"Whitney Biennial 2000, Nueva York; fallecido 2023",factual-web
+1704,Brian Fridge,Whitney Biennial,,1969,"Fort Worth, EE.UU.",Fort Worth,,,https://en.wikipedia.org/wiki/Brian_Fridge,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
+1705,Dara Friedman,Whitney Biennial | Fresh Cream,,1968,"Bad Kreuznach, Alemania",Miami,,,https://en.wikipedia.org/wiki/Dara_Friedman,"Whitney Biennial 2000, Nueva York",factual-web
+1706,Jill Godmilow,Whitney Biennial,,1943-11-23,"Filadelfia, EE.UU.",,,,https://en.wikipedia.org/wiki/Jill_Godmilow,"Whitney Biennial 2000, Nueva York; fallecida 2025",factual-web
+1707,Ken Goldberg,Whitney Biennial,,1961,"Ibadán, Nigeria",Berkeley,,,https://en.wikipedia.org/wiki/Ken_Goldberg,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
+1708,Kojo Griffin,Whitney Biennial,,1971,"Farmville, EE.UU.",Atlanta,,,https://en.wikipedia.org/wiki/Kojo_Griffin,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
+1709,Joseph Havel,Whitney Biennial,,1954,"Minneapolis, EE.UU.",Houston,,,https://en.wikipedia.org/wiki/Joseph_Havel,"Whitney Biennial 2000, Nueva York",factual-web
+1710,Salomón Huerta,Whitney Biennial,,1965,"Tijuana, México",Los Ángeles,,,https://en.wikipedia.org/wiki/Salom%C3%B3n_Huerta,"Whitney Biennial 2000, Nueva York",factual-web
 1711,Michael Joo,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
 1712,Kurt Kauper,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
 1713,Silvia Kolbowski,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
