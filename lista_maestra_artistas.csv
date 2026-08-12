@@ -2380,7 +2380,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2379,Frank Maier,100 Painters of Tomorrow,,1966,"Stuttgart, Alemania",Berlín,,,,,factual-web
 2380,Gorka Mohammad,100 Painters of Tomorrow,,1978,"Santander, España",,,,https://www.gorkamohamed.com/biography,,factual-web
 2381,Caroline Mousseau,100 Painters of Tomorrow,,1989,"Winnipeg, Canadá",Winnipeg,,,https://carolinemousseau.com/bio/,,factual-web
-2382,Mark Nader,100 Painters of Tomorrow,,,,,,,,,pendiente
+2382,Mark Nader,100 Painters of Tomorrow,,,,,,,https://www.marknader.co.uk/,incluido en el libro 100 Painters of Tomorrow en 2014,factual-web
 2383,Kaido Ole,100 Painters of Tomorrow,,1963-02-23,"Tallin, Estonia",Tallin,,,https://en.wikipedia.org/wiki/Kaido_Ole,,factual-web
 2384,Selma Parlour,100 Painters of Tomorrow,,1976,"Johannesburgo, Sudáfrica",Londres,,,https://www.selmaparlour.com,,factual-web
 2385,Heriberto Quesnel,100 Painters of Tomorrow,,,,,,,https://www.heribertoquesnel.com,,factual-web
@@ -2809,7 +2809,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2808,Rainer Ganahl,Bienal de Venecia,,1961-10-18,"Bludenz, Austria",Nueva York,,,https://en.wikipedia.org/wiki/Rainer_Ganahl,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 2809,Tomer Ganihar,Bienal de Venecia,,1970,"Tel Aviv, Israel",Jaffa,,,https://en.wikipedia.org/wiki/Tomer_Ganihar,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 2810,Felix Gmelin,Bienal de Venecia,,1962-03-24,"Heidelberg, Alemania",Estocolmo,,,https://en.wikipedia.org/wiki/Felix_Gmelin,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 2003",factual-web
-2811,Neil Hamon,Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+2811,Neil Hamon,Bienal de Venecia,,1975,"Jersey, Reino Unido",Londres,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); participa en la Bienal de Venecia 2007",factual-web
 2812,Christine Hill,Bienal de Venecia,,1968,"Binghamton, EE.UU.",Berlín,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); documenta X (1997)",factual-web
 2813,Marine Hugonnier,Bienal de Venecia,,1969,"París, Francia",Londres,,,https://en.wikipedia.org/wiki/Marine_Hugonnier,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 2814,Ilya & Emilia Kabakov,Bienal de Venecia | Bienal de São Paulo | Bienal de La Habana,,,,,,,http://www.kabakov.net/about-ba/,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr); Bienal de Venecia 1993; 29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015); 11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012)",factual-web
@@ -2984,14 +2984,14 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2983,Daniel Bozhkov,Bienal de São Paulo,,1959,"Sofía, Bulgaria",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2984,Elba Bairon,Bienal de São Paulo,,1947,"La Paz, Bolivia",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2985,Katrín Sigurdardóttir,Bienal de São Paulo,,1967,"Reikiavik, Islandia",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
-2986,Pablo Martín Ruiz,Bienal de São Paulo,,,Argentina,,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",pendiente
+2986,Pablo Martín Ruiz,Bienal de São Paulo,,1964,Argentina,,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro); participación en la 33ª Bienal de São Paulo 2018",factual-web
 2987,Paola Sferco,Bienal de São Paulo,,1974,Argentina,,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro); Bienal de São Paulo 2018",factual-web
 2988,Roderick Hietbrink,Bienal de São Paulo,,1975,"Gorinchem, Países Bajos",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2989,Sebastián Castagna,Bienal de São Paulo,,1965,"Buenos Aires, Argentina",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2990,Žilvinas Landzbergas,Bienal de São Paulo,,1979,"Kaunas, Lituania",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2991,Mamma Andersson,Bienal de São Paulo,,1962,"Luleå, Suecia",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2992,Gunvor Nelson,Bienal de São Paulo,,1931,"Kristinehamn, Suecia",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
-2993,José Moreno Cascales,Bienal de São Paulo,,,España,,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",pendiente
+2993,José Moreno Cascales,Bienal de São Paulo,,,España,,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro); obras incluidas en la 33ª Bienal de São Paulo en 2018",factual-web
 2994,Rafael Sánchez-Mateos Paniagua,Bienal de São Paulo,,1979,España,Madrid,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-web
 2995,John Miller,Bienal de São Paulo,,1954,"Cleveland, OH, EE.UU.",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
 2996,Oliver Laric,Bienal de São Paulo,,1981,"Innsbruck, Austria",,,,,"33ª Bienal de São Paulo «Afinidades afetivas» (2018, Pérez-Barreiro)",factual-saopaulo
@@ -3221,76 +3221,76 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3220,Vasco Araújo,Bienal de São Paulo,,1975,"Lisboa, Portugal",Lisboa,,,http://www.vascoaraujo.org,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); primera exposición individual en la Galeria César, Lisboa 2002",factual-web
 3221,Sarnath Banerjee,Bienal de São Paulo,,1972,"Calcuta, India",Nueva Delhi,,,https://en.wikipedia.org/wiki/Sarnath_Banerjee,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); publicó Corridor, considerada la primera novela gráfica de India, 2004; publicó The Harappa Files 2011",factual-web
 3222,Mabe Bethônico,Bienal de São Paulo,,1966,"Belo Horizonte, Brasil",Ginebra,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); 27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); profesora en la Escola de Belas Artes da UFMG 2001-2017",factual-web
-3223,Leya Mira Brander,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
+3223,Leya Mira Brander,Bienal de São Paulo,,1976,"São Paulo, Brasil",São Paulo,,,https://www.leyamirabrander.com.br/,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",factual-web
 3224,Ângela Ferreira,Bienal de São Paulo,,1958,"Maputo, Mozambique",Lisboa,,,https://en.wikipedia.org/wiki/%C3%82ngela_Ferreira,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); representó a Portugal en la Bienal de Venecia 2007",factual-web
 3225,Fischerspooner,Bienal de São Paulo,,,,Nueva York,,,https://en.wikipedia.org/wiki/Fischerspooner,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); formación del dúo en Nueva York 1998",factual-web
 3226,Goldin+Senneby,Bienal de São Paulo,,,,Estocolmo,,,https://en.wikipedia.org/wiki/Goldin%2BSenneby,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); dúo formado 2004",factual-web
 3227,O Grivo,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); dúo fundado en 1990 en Belo Horizonte; participó en la 28ª Bienal de São Paulo en 2008",factual-web
 3228,Maurício Ianês,Bienal de São Paulo,,1973,"Santos, Brasil",São Paulo,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); participa en la 28.ª Bienal de São Paulo 2008; participa en la 29.ª Bienal de São Paulo 2010; seleccionado por Marina Abramović 2021",factual-web
-3229,Dora Longo Bahia,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",pendiente
-3230,Cristina Lucas,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3231,Rubens Mano,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3232,João Modé,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3233,Carlos Navarrete,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3234,Javier Peñafiel,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3235,Alexander Pilis,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3236,Paul Ramírez Jonas,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3237,Nicolás Robbio,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3238,Joe Sheehan,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3239,Gabriel Sierra,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3240,Vibeke Tandberg,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3241,Anarcademia,Bienal de São Paulo,,,,,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",pendiente
-3242,Alberto Baraya,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3243,Andrew McLeod,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3244,Ann Lislegaard,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3245,Antal Lakner,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3246,Antoni Miralda,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006)",pendiente
-3247,Aya Ben Ron,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3248,Barbara Visser,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3249,Bregtje van der Haak,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3250,Brendon Wilkinson,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3251,Cao Guimarães,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3252,Cláudia Cristóvão,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3253,Diango Hernández,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 8ª Bienal de La Habana (2003)",pendiente
-3254,Didier Faustino,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3255,Esra Ersen,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3256,Fastwürms,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3257,Francesco Jodice,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3258,Ivan Cardoso,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3259,Jarbas Lopes,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 8ª Bienal de La Habana (2003)",pendiente
-3260,Jardim Miriam Arte Clube (JAMAC),Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3261,Jarosław Kozłowski,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3262,Jean-Luc Godard,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3263,Jeanne Faust,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3264,Julio Bressane,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3265,Kristina Solomoukha,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3266,Lara Almarcegui,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3267,Lars Ramberg,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3268,Loulou Cherinet,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3269,Lu Chunsheng,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3270,Lúcia Koch,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3271,Marcellvs L.,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3272,Marcos Bonisson,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3273,María Teresa Hincapié,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3274,Mario Navarro,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3275,Martinho Patrício,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3276,Marwan Rechmaoui,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3277,Miki Kratsman,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3278,Mustafa Maluka,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3279,Narda Alvarado,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3280,Nikos Charalambidis,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3281,Ola Pehrson,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3282,Pepón Osorio,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 6ª Bienal de La Habana «El individuo y su memoria» (1997)",pendiente
-3283,Pieter Hugo,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3284,Randa Shaat,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3285,Sanghee Song,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3286,Servet Kocyigit,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3287,Shaun Gladwell,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3288,Shimabuku,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3289,Vangelis Vlahos,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3290,Vladimir Arkhipov,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3291,Wang Youshen,Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",pendiente
-3292,Ângela Detanico & Rafael Lain,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
+3229,Dora Longo Bahia,Bienal de São Paulo | Bienal de La Habana,,1961,"São Paulo, Brasil",São Paulo,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); 6ª Bienal de La Habana «El individuo y su memoria» (1997); licenciatura en Educação Artística en la FAAP 1987",factual-web
+3230,Cristina Lucas,Bienal de São Paulo,,1973,,Madrid,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); se licencia en Bellas Artes por la Universidad Complutense de Madrid 1998; participa en Manifesta 12, Palermo 2018",factual-web
+3231,Rubens Mano,Bienal de São Paulo,,1960,"São Paulo, Brasil",São Paulo,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); 25ª Bienal de São Paulo 2002; 28ª Bienal de São Paulo 2008",factual-web
+3232,João Modé,Bienal de São Paulo,,1961,"Resende, Brasil",Río de Janeiro,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen)",factual-web
+3233,Carlos Navarrete,Bienal de São Paulo,,1968-04-05,"Santiago, Chile",Santiago,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); participa en la 28.ª Bienal de São Paulo 2008",factual-web
+3234,Javier Peñafiel,Bienal de São Paulo,,1964,"Zaragoza, España",Barcelona,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); Proyecto egolactante 1997-2007; Bienal de São Paulo 2008",factual-web
+3235,Alexander Pilis,Bienal de São Paulo,,,"Río de Janeiro, Brasil",,,,https://en.wikipedia.org/wiki/Alexander_Pilis,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); participación en la Bienal de São Paulo 1987, 2002 y 2004",factual-web
+3236,Paul Ramírez Jonas,Bienal de São Paulo,,1965,"Pomona, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Paul_Ramirez_Jonas,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); participó en la 28ª Bienal de São Paulo en 2008; realizó el proyecto público Key to the City para Creative Time en 2010",factual-web
+3237,Nicolás Robbio,Bienal de São Paulo,,1975,"Mar del Plata, Argentina",São Paulo,,,,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); Premio Marcantonio Vilaça 2015",factual-web
+3238,Joe Sheehan,Bienal de São Paulo,,1976,"Nelson, Nueva Zelanda",,,,https://en.wikipedia.org/wiki/Joe_Sheehan_(artist),"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); recibe el New Generation Award de la Arts Foundation of New Zealand 2006",factual-web
+3239,Gabriel Sierra,Bienal de São Paulo,,1975,"San Juan Nepomuceno, Colombia",Bogotá,,,https://en.wikipedia.org/wiki/Gabriel_Sierra,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); New Museum Triennial 'The Ungovernables' 2012; 56th Carnegie International 2013",factual-web
+3240,Vibeke Tandberg,Bienal de São Paulo,,1967,"Oslo, Noruega",,,,https://en.wikipedia.org/wiki/Vibeke_Tandberg,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); serie Bride 1993; Premio Lorck Schive Kunstpris 2017",factual-web
+3241,Anarcademia,Bienal de São Paulo,,,,,,,https://www.anarcademia.org/,"28ª Bienal de São Paulo «Em vivo contato» (2008, Mesquita/Cohen); proyecto para la 28.ª Bienal de São Paulo 2008",factual-web
+3242,Alberto Baraya,Bienal de São Paulo,,1968,"Bogotá, Colombia",Bogotá,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Inicia la serie Herbario de plantas artificiales 2003",factual-web
+3243,Andrew McLeod,Bienal de São Paulo,,1976,"Rotorua, Nueva Zelanda",Auckland,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); licenciatura en Bellas Artes por la Universidad de Auckland 1998; National Drawing Award 2004; residencia en McCahon House 2007; Arts Foundation Award 2010",factual-web
+3244,Ann Lislegaard,Bienal de São Paulo,,1962,"Tønsberg, Noruega",Copenhague,,,https://en.wikipedia.org/wiki/Ann_Lislegaard,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
+3245,Antal Lakner,Bienal de São Paulo,,1966,,Budapest,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); graduado en la Universidad Húngara de Bellas Artes 1992; Manifesta 4, Fráncfort 2002",factual-web
+3246,Antoni Miralda,Bienal de São Paulo | Bienal de La Habana,,1942,"Terrassa, España",Barcelona,,,https://en.wikipedia.org/wiki/Antoni_Miralda,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 9ª Bienal de La Habana «Dinámicas de la cultura urbana» (2006); desarrolla el Honeymoon Project entre 1986 y 1992",factual-web
+3247,Aya Ben Ron,Bienal de São Paulo,,1967,"Haifa, Israel",Tel Aviv,,,https://en.wikipedia.org/wiki/Aya_Ben_Ron,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); representó a Israel en la Bienal de Venecia 2019",factual-web
+3248,Barbara Visser,Bienal de São Paulo,,1966-05-20,"Haarlem, Países Bajos",Ámsterdam,,,https://en.wikipedia.org/wiki/Barbara_Visser_(artist),"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Premio Charlotte Köhler 1996; Premio David Roëll 2007",factual-web
+3249,Bregtje van der Haak,Bienal de São Paulo,,1966,"Utrecht, Países Bajos",Ámsterdam,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); nombrada directora del Eye Filmmuseum 2023",factual-web
+3250,Brendon Wilkinson,Bienal de São Paulo,,1974,"Masterton, Nueva Zelanda",Wellington,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
+3251,Cao Guimarães,Bienal de São Paulo,,1965,"Belo Horizonte, Brasil",Belo Horizonte,,,https://www.caoguimaraes.com/en/,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); presentó films en el Festival de Cannes 2005; participó en el Festival de Sundance 2007",factual-web
+3252,Cláudia Cristóvão,Bienal de São Paulo,,,,Ámsterdam,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); participó en la 27ª Bienal de São Paulo en 2006",factual-web
+3253,Diango Hernández,Bienal de São Paulo | Bienal de La Habana,,1970,"Sancti Spíritus, Cuba",Düsseldorf,,,https://en.wikipedia.org/wiki/Diango_Hern%C3%A1ndez,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 8ª Bienal de La Habana (2003); cofunda Ordo Amoris Cabinet 1994; Bienal de Venecia 2005; Bienal de São Paulo 2006",factual-web
+3254,Didier Faustino,Bienal de São Paulo,,1968,"Chennevières-sur-Marne, Francia",,,,https://didierfaustino.com,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); participa en el pabellón portugués de la Bienal de Venecia 2004; participa en la Bienal de São Paulo 2006",factual-web
+3255,Esra Ersen,Bienal de São Paulo,,1970,"Ankara, Turquía",Estambul,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
+3256,Fastwürms,Bienal de São Paulo,,,,Toronto,,,https://en.wikipedia.org/wiki/FASTW%C3%9CRMS,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); colectivo fundado 1979; Napoleon Brousseau deja el colectivo 1991",factual-web
+3257,Francesco Jodice,Bienal de São Paulo,,1967,"Nápoles, Italia",Milán,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
+3258,Ivan Cardoso,Bienal de São Paulo,,1952-10-01,"Río de Janeiro, Brasil",Río de Janeiro,,,https://en.wikipedia.org/wiki/Ivan_Cardoso_(director),"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Dirige O Segredo da Múmia 1982; As Sete Vampiras 1986",factual-web
+3259,Jarbas Lopes,Bienal de São Paulo | Bienal de La Habana,,1964,"Nova Iguaçu, Brasil",Maricá,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 8ª Bienal de La Habana (2003); graduado en Escultura por la Escola de Belas Artes de la UFRJ 1992",factual-web
+3260,Jardim Miriam Arte Clube (JAMAC),Bienal de São Paulo,,,,,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); fundado en São Paulo en 2004 por Mônica Nador",factual-web
+3261,Jarosław Kozłowski,Bienal de São Paulo,,1945-01-28,"Śrem, Polonia",Poznań,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); cofunda la red internacional NET 1971; funda la galería Akumulatory 2 1972; representa a Polonia en la Bienal de São Paulo 2006",factual-web
+3262,Jean-Luc Godard,Bienal de São Paulo,,1930-12-03,"París, Francia",Rolle,,,https://en.wikipedia.org/wiki/Jean-Luc_Godard,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); estrena su primer largometraje À bout de souffle 1960; fallecido 2022",factual-web
+3263,Jeanne Faust,Bienal de São Paulo,,1968-11-25,"Wiesbaden, Alemania",Hamburgo,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Premio Edwin Scharff 2008; beca Villa Massimo 2012",factual-web
+3264,Julio Bressane,Bienal de São Paulo,,1946-02-13,"Río de Janeiro, Brasil",Río de Janeiro,,,https://en.wikipedia.org/wiki/J%C3%BAlio_Bressane,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); debut como director con Cara a Cara 1967; funda la productora Belair Filmes 1970; Tabu 1982",factual-web
+3265,Kristina Solomoukha,Bienal de São Paulo,,1971,"Kiev, Ucrania",París,,,http://kspc.fr/,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); codirige La maison de l'ours desde 2020",factual-web
+3266,Lara Almarcegui,Bienal de São Paulo,,1972,"Zaragoza, España",Róterdam,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Representa a España en la Bienal de Venecia 2013",factual-web
+3267,Lars Ramberg,Bienal de São Paulo,,1964,"Oslo, Noruega",Berlín,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
+3268,Loulou Cherinet,Bienal de São Paulo,,1970,"Gotemburgo, Suecia",Estocolmo,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
+3269,Lu Chunsheng,Bienal de São Paulo,,1968,"Changchun, China",Shanghái,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
+3270,Lúcia Koch,Bienal de São Paulo,,1966,"Porto Alegre, Brasil",São Paulo,,,https://www.luciakoch.com/en/bio/,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); integra el colectivo Arte Construtora entre 1992 y 1996; participa en la 27ª Bienal de São Paulo 2006",factual-web
+3271,Marcellvs L.,Bienal de São Paulo,,1980,"Belo Horizonte, Brasil",Berlín,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); premio principal del Festival de Cortometrajes de Oberhausen 2005; 27ª Bienal de São Paulo 2006; 16ª Bienal de Sídney 2008",factual-web
+3272,Marcos Bonisson,Bienal de São Paulo,,,,Río de Janeiro,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Beca Rio Arte 2001; Bienal de São Paulo 2006",factual-web
+3273,María Teresa Hincapié,Bienal de São Paulo,,,"Armenia, Colombia",,,,https://en.wikipedia.org/wiki/María_Teresa_Hincapié,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); primer premio en el Salón Nacional de Artistas de Colombia 1990; fallecida 2008",factual-web
+3274,Mario Navarro,Bienal de São Paulo,,1970,"Santiago, Chile",Santiago,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Obra Red Diamond sobre el proyecto Cybersyn 2006",factual-web
+3275,Martinho Patrício,Bienal de São Paulo,,1964,"João Pessoa, Brasil",,,,https://martinhopatricio.com.br/,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); participación en la 27ª Bienal de São Paulo 2006",factual-web
+3276,Marwan Rechmaoui,Bienal de São Paulo,,1964,"Beirut, Líbano",Beirut,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); recibió el Abraaj Capital Art Prize en 2011; participó en la Bienal de Venecia en 2015",factual-web
+3277,Miki Kratsman,Bienal de São Paulo,,1959,"Buenos Aires, Argentina",Tel Aviv,,,https://en.wikipedia.org/wiki/Miki_Kratsman,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); jefe del departamento de fotografía de Bezalel 2006-2014; Bienal de São Paulo 2006",factual-web
+3278,Mustafa Maluka,Bienal de São Paulo,,1976,"Ciudad del Cabo, Sudáfrica",,,,https://en.wikipedia.org/wiki/Mustafa_Maluka,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
+3279,Narda Alvarado,Bienal de São Paulo,,1975,"La Paz, Bolivia",La Paz,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
+3280,Nikos Charalambidis,Bienal de São Paulo,,1967,"Limasol, Chipre",,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); representa a Chipre en la Bienal de Venecia 1997; representa a Chipre en la Bienal de Venecia 2003",factual-web
+3281,Ola Pehrson,Bienal de São Paulo,,1964,"Estocolmo, Suecia",,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Yucca Invest Trading Plant 1999; fallecido 2006",factual-web
+3282,Pepón Osorio,Bienal de São Paulo | Bienal de La Habana,,1955,"Santurce, Puerto Rico",Filadelfia,,,https://en.wikipedia.org/wiki/Pep%C3%B3n_Osorio,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); 6ª Bienal de La Habana «El individuo y su memoria» (1997); Obra El Chandelier 1987",factual-web
+3283,Pieter Hugo,Bienal de São Paulo,,1976,"Johannesburgo, Sudáfrica",Ciudad del Cabo,,,https://en.wikipedia.org/wiki/Pieter_Hugo,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); serie The Hyena and Other Men 2005-2007; Discovery Award en los Rencontres d'Arles 2008; premio Seydou Keïta en la Bienal de Bamako 2011",factual-web
+3284,Randa Shaat,Bienal de São Paulo,,1963,"Filadelfia, EE.UU.",El Cairo,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); representó a Egipto en la Bienal de São Paulo en 2006",factual-web
+3285,Sanghee Song,Bienal de São Paulo,,1970,"Seúl, Corea del Sur",Seúl,,,https://en.wikipedia.org/wiki/Sanghee_Song,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Premio Hermès Foundation Missulsang 2008; Korea Artist Prize 2017",factual-web
+3286,Servet Kocyigit,Bienal de São Paulo,,1971,"Kaman, Turquía",Ámsterdam,,,https://en.wikipedia.org/wiki/Servet_Ko%C3%A7yi%C4%9Fit,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); recibe el Shpilman International Prize for Excellence in Photography 2016",factual-web
+3287,Shaun Gladwell,Bienal de São Paulo,,1972,"Sídney, Australia",,,,https://en.wikipedia.org/wiki/Shaun_Gladwell,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); representó a Australia en la Bienal de Venecia 2009",factual-web
+3288,Shimabuku,Bienal de São Paulo,,1969,"Kobe, Japón",Naha,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Bienal de Venecia 2003; Bienal de São Paulo 2006; Bienal de Venecia 2017",factual-web
+3289,Vangelis Vlahos,Bienal de São Paulo,,1971,"Atenas, Grecia",Atenas,,,https://en.wikipedia.org/wiki/Vangelis_Vlahos,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); participa en documenta 14 2017",factual-web
+3290,Vladimir Arkhipov,Bienal de São Paulo,,1961,"Riazán, Rusia",Moscú,,,https://en.wikipedia.org/wiki/Vladimir_Arkhipov,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado); Inicia su archivo post-folk de objetos hechos a mano 1994",factual-web
+3291,Wang Youshen,Bienal de São Paulo,,1964,"Pekín, China",Pekín,,,,"27ª Bienal de São Paulo «Como Viver Junto» (2006, Lagnado)",factual-web
+3292,Ângela Detanico & Rafael Lain,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); recibieron el Premio Nam June Paik en 2004; representaron a Brasil en la 52ª Bienal de Venecia en 2007",factual-web
 3293,Bruno Peinado,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
 3294,Caio Reisewitz,Bienal de São Paulo,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug)",pendiente
 3295,Chelpa Ferro,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"26ª Bienal de São Paulo «Território Livre» (2004, Hug); 8ª Bienal de La Habana (2003)",pendiente
