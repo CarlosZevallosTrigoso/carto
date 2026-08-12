@@ -883,7 +883,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 882,Trinh T. Minh-ha,Documenta | Whitney Biennial,,1952,"Hanói, Vietnam",Berkeley,,,https://en.wikipedia.org/wiki/Trinh_T._Minh-ha,"documenta 11, Kassel (2002); Whitney Biennial 2022 «Quiet as It’s Kept», Nueva York",factual-web
 883,tsunamii.net,Documenta,,,,Singapur,,,,"documenta 11, Kassel (2002); documenta 11 (2002)",factual-web
 884,Joëlle Tuerlinckx,Documenta | Cream 3,,1958,"Bruselas, Bélgica",Bruselas,,,https://en.wikipedia.org/wiki/Jo%C3%ABlle_Tuerlinckx,"documenta 11, Kassel (2002); documenta X (1997)",factual-web
-885,Nomeda & Gediminas Urbonas,Documenta,,,,,,,,"documenta 11, Kassel (2002)",pendiente
+885,Nomeda & Gediminas Urbonas,Documenta,,,,Vilnius,,,,"documenta 11, Kassel (2002); Bienal de Venecia 2007",factual-web
 886,Jeff Wall,Documenta | 21st-Century Art Book,,1946,"Vancouver, Canada",,,,http://www.tate.org.uk/art/artists/jeff-wall-2359,"documenta 11, Kassel (2002)",factual-tate
 887,Nari Ward,Documenta | Whitney Biennial,,1963,"Saint Andrew, Jamaica",Nueva York,,,https://en.wikipedia.org/wiki/Nari_Ward,"documenta 11, Kassel (2002); Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 888,Ouattara Watts,Documenta | Whitney Biennial,,1957-05-27,"Abiyán, Costa de Marfil",Nueva York,,,https://en.wikipedia.org/wiki/Ouattara_Watts,"documenta 11, Kassel (2002); Whitney Biennial 2002, Nueva York",factual-web
@@ -1278,7 +1278,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1277,Thom Andersen,Whitney Biennial,,1943,"Chicago, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Thom_Andersen,"Whitney Biennial 2012, Nueva York",factual-web
 1278,Charles Atlas,Whitney Biennial,,1958,"Saint Louis City, United States",,,,http://www.tate.org.uk/art/artists/charles-atlas-15557,"Whitney Biennial 2012, Nueva York",factual-tate
 1279,Lutz Bacher,Whitney Biennial,,1943,,Nueva York,,,https://en.wikipedia.org/wiki/Lutz_Bacher,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2000, Nueva York; fallecida 2019",factual-web
-1280,Michael Clark,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York",pendiente
+1280,Michael Clark,Whitney Biennial,,1946,"Austin, EE.UU.",,,,https://en.wikipedia.org/wiki/Michael_Clark_(artist),"Whitney Biennial 2012, Nueva York",factual-web
 1281,Cameron Crawford,Whitney Biennial,,,,,,,,"Whitney Biennial 2012, Nueva York; Bienal Whitney 2012",factual-web
 1282,Liz Deschenes,Whitney Biennial,,1966,"Boston, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Liz_Deschenes,"Whitney Biennial 2012, Nueva York",factual-web
 1283,Nathaniel Dorsky,Whitney Biennial,,1943,"Nueva York, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Nathaniel_Dorsky,"Whitney Biennial 2012, Nueva York; Whitney Biennial 2000, Nueva York",factual-web
@@ -1437,7 +1437,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1436,Carter,Whitney Biennial,,1970,,,,,https://en.wikipedia.org/wiki/Carter_(artist),"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal Whitney (2006)",factual-web
 1437,Carolina Caycedo,Whitney Biennial | New Museum Triennial,,1978,"Londres, Reino Unido",Los Ángeles,,,https://en.wikipedia.org/wiki/Carolina_Caycedo,"Whitney Biennial 2006 «Day for Night», Nueva York; New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 1438,The Center for Land Use Interpretation,Whitney Biennial,,,,Los Ángeles,,,https://en.wikipedia.org/wiki/Center_for_Land_Use_Interpretation,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal Whitney 2006",factual-web
-1439,Lori Cheatle,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1439,Lori Cheatle,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal Whitney 2006",factual-web
 1440,Daisy Wright,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal Whitney 2006",factual-web
 1441,Ira Cohen,Whitney Biennial,,1935-02-03,"Nueva York, EE.UU.",,,,https://en.wikipedia.org/wiki/Ira_Cohen,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecido 2011",factual-web
 1442,Martha Colburn,Whitney Biennial,,1971-05-05,"Gettysburg, EE.UU.",,,,https://en.wikipedia.org/wiki/Martha_Colburn,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
@@ -1496,7 +1496,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1495,Jennie Smith,Whitney Biennial,,1981,"San Francisco, EE.UU.",San Francisco,,,https://www.jenniesmithdrawing.com,"Whitney Biennial 2006 «Day for Night», Nueva York; Whitney Biennial 2006",factual-web
 1496,Dash Snow,Whitney Biennial,,1981-07-27,"Nueva York, EE.UU.",,,,https://en.wikipedia.org/wiki/Dash_Snow,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecido 2009",factual-web
 1497,Michael Snow,Whitney Biennial,,1928-12-10,"Toronto, Canadá",Toronto,,,https://en.wikipedia.org/wiki/Michael_Snow,"Whitney Biennial 2006 «Day for Night», Nueva York; fallecido 2023",factual-web
-1498,Reena Spaulings,Whitney Biennial,,,,,,,,"Whitney Biennial 2006 «Day for Night», Nueva York",pendiente
+1498,Reena Spaulings,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Reena_Spaulings,"Whitney Biennial 2006 «Day for Night», Nueva York; Bienal Whitney 2006",factual-web
 1499,Rudolf Stingel,Whitney Biennial,,1956,"Merano, Italia",,,,http://www.tate.org.uk/art/artists/rudolf-stingel-11279,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-tate
 1500,Angela Strassheim,Whitney Biennial,,1969,"Bloomfield, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Angela_Strassheim,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
 1501,Zoe Strauss,Whitney Biennial,,1970,"Filadelfia, EE.UU.",Filadelfia,,,https://en.wikipedia.org/wiki/Zoe_Strauss,"Whitney Biennial 2006 «Day for Night», Nueva York",factual-web
@@ -1592,7 +1592,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1591,Tirtza Even,Whitney Biennial,,1963,"Jerusalén, Israel",Chicago,,,,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
 1592,José Alvarez,Whitney Biennial,,1961,,,,,,"Whitney Biennial 2002, Nueva York",factual-web
 1593,Maryanne Amacher,Whitney Biennial,,1938-02-25,"Kane, EE.UU.",,,,https://en.wikipedia.org/wiki/Maryanne_Amacher,"Whitney Biennial 2002, Nueva York; fallecida 2009",factual-web
-1594,Archive (Chris Kubick y Anne Walsh),Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
+1594,Archive (Chris Kubick y Anne Walsh),Whitney Biennial,,,,San Francisco,,,,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
 1595,Irit Batsry,Whitney Biennial,,1957,"Ramat Gan, Israel",,,,https://en.wikipedia.org/wiki/Irit_Batsry,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
 1596,Zoe Beloff,Whitney Biennial,,1958,"Edimburgo, Reino Unido",Nueva York,,,https://en.wikipedia.org/wiki/Zoe_Beloff,"Whitney Biennial 2002, Nueva York",factual-web
 1597,Sanford Biggers,Whitney Biennial | Vitamin T,,1970,"Los Ángeles, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Sanford_Biggers,"Whitney Biennial 2002, Nueva York",factual-web
@@ -1607,7 +1607,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1606,Chan Chao,Whitney Biennial,,1966,"Kalemyo, Birmania",Washington,,,https://en.wikipedia.org/wiki/Chan_Chao,"Whitney Biennial 2002, Nueva York",factual-web
 1607,Richard Chartier,Whitney Biennial,,1971-03-29,"Arlington, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Richard_Chartier,"Whitney Biennial 2002, Nueva York; Bienal Whitney 2002",factual-web
 1608,Stephen Dean,Whitney Biennial,,1968,"París, Francia",Nueva York,,,,"Whitney Biennial 2002, Nueva York; Bienal de Venecia 2005",factual-web
-1609,Destroy All Monsters Collective,Whitney Biennial,,,,,,,,"Whitney Biennial 2002, Nueva York",pendiente
+1609,Destroy All Monsters Collective,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Destroy_All_Monsters_(band),"Whitney Biennial 2002, Nueva York",factual-web
 1610,Keith Edmier,Whitney Biennial,,1967,"Chicago, United States",,,,http://www.tate.org.uk/art/artists/keith-edmier-3096,"Whitney Biennial 2002, Nueva York",factual-tate
 1611,Ken Feingold,Whitney Biennial,,1952,"Pittsburgh, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Ken_Feingold,"Whitney Biennial 2002, Nueva York",factual-web
 1612,Mary Flanagan,Whitney Biennial,,1969,"Milwaukee, EE.UU.",,,,https://en.wikipedia.org/wiki/Mary_Flanagan,"Whitney Biennial 2002, Nueva York",factual-web
@@ -1736,7 +1736,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1735,Al Souza,Whitney Biennial,,1944,"Plymouth, EE.UU.",Houston,,,,"Whitney Biennial 2000, Nueva York",factual-web
 1736,Darcy Steinke,Whitney Biennial,,1962-04-25,"Oneida, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Darcey_Steinke,"Whitney Biennial 2000, Nueva York",factual-web
 1737,Elisabeth Subrin,Whitney Biennial,,1965,"Boston, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Elisabeth_Subrin,"Whitney Biennial 2000, Nueva York",factual-web
-1738,Chris Sullivan,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
+1738,Chris Sullivan,Whitney Biennial,,,,Chicago,,,,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
 1739,Tran T. Kim-Trang,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/Tran_T._Kim-Trang,"Whitney Biennial 2000, Nueva York; Bienal Whitney",factual-web
 1740,Richard Tuttle,Whitney Biennial | Vitamin T,,1941,"Rahway, United States",,,,http://www.tate.org.uk/art/artists/richard-tuttle-8006,"Whitney Biennial 2000, Nueva York",factual-tate
 1741,Ayanna U'Dongo,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
@@ -1771,7 +1771,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1770,Björn Hegardt,Vitamin D,,1974,"Örebro, Suecia",,,,,,factual-web
 1771,Nobuya Hoki,Vitamin D,,1966,"Kioto, Japón",Kioto,,,,,factual-web
 1772,Huang Yong Ping,Vitamin D | Cream | Bienal de Venecia,,1954,"Xiamen, China",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-1773,Dean Hughes,Vitamin D,,,,,,,,,pendiente
+1773,Dean Hughes,Vitamin D,,1974,"Salford, Reino Unido",,,,,,factual-web
 1774,Gareth James,Vitamin D,,,,Nueva York,,,https://whitney.org/artists/13743,,factual-web
 1775,Kerstin Kartscher,Vitamin D,,1966,"Núremberg, Alemania",Londres,,,https://en.wikipedia.org/wiki/Kerstin_Kartscher,,factual-web
 1776,Toba Khedoori,Vitamin D | Bienal de Venecia,,1964,"Sídney, Australia",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
@@ -1832,7 +1832,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1831,Anna Gaskell,Vitamin Ph | Cream,,1969,"Iowa, United States",,,,http://www.tate.org.uk/art/artists/anna-gaskell-2696,,factual-tate
 1832,Anthony Goicolea,Vitamin Ph,,1971,"Atlanta, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Anthony_Goicolea,,factual-web
 1833,Geert Goiris,Vitamin Ph,,1971,"Bornem, Bélgica",Amberes,,,,,factual-web
-1834,AES+F,Vitamin Ph | Cream,,,,,,,,,pendiente
+1834,AES+F,Vitamin Ph | Cream,,,,,,,https://en.wikipedia.org/wiki/AES%2BF,Bienal de Venecia 2007,factual-web
 1835,Mauricio Guillen,Vitamin Ph,,1971,"Ciudad de México, México",Ciudad de México,,,,,factual-web
 1836,Jitka Hanzlová,Vitamin Ph,,1958,"Náchod, Chequia",Essen,,,https://en.wikipedia.org/wiki/Jitka_Hanzlov%C3%A1,,factual-web
 1837,Anne Hardy,Vitamin Ph,,1970,"Londres, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Anne_Hardy,,factual-web
@@ -1918,225 +1918,225 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1917,Mounir Fatmi,Vitamin 3-D,,1970,"Tánger, Marruecos",París,,,https://en.wikipedia.org/wiki/Mounir_Fatmi,,factual-web
 1918,Daphne Fitzpatrick,Vitamin 3-D,,1964,"Long Island, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Daphne_Fitzpatrick,,factual-web
 1919,Gelitin,Vitamin 3-D,,,,,,,https://en.wikipedia.org/wiki/Gelitin,,factual-web
-1920,Loris Greaud,Vitamin 3-D | New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
+1920,Loris Greaud,Vitamin 3-D | New Museum Triennial,,1979-02-07,"Eaubonne, Francia",París,,,https://en.wikipedia.org/wiki/Loris_Gr%C3%A9aud,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 1921,Jeppe Hein,Vitamin 3-D | Bienal de Venecia,,1974,"København, Danmark",Berlín,,,http://www.tate.org.uk/art/artists/jeppe-hein-7275,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-tate
-1922,Koo Jeong-A,Vitamin 3-D | Cream,,,,,,,,,pendiente
-1923,Daniel Joglar,Vitamin 3-D,,,,,,,,,pendiente
-1924,Matt Johnson,Vitamin 3-D,,,,,,,,,pendiente
-1925,Kitty Kraus,Vitamin 3-D | New Museum Triennial,,,,,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",pendiente
+1922,Koo Jeong-A,Vitamin 3-D | Cream,,1967,"Seúl, Corea del Sur",,,,https://en.wikipedia.org/wiki/Koo_Jeong_A,,factual-web
+1923,Daniel Joglar,Vitamin 3-D,,1966,"Mar del Plata, Argentina",Buenos Aires,,,,,factual-web
+1924,Matt Johnson,Vitamin 3-D,,1978,"Nueva York, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Matt_Johnson_(artist),,factual-web
+1925,Kitty Kraus,Vitamin 3-D | New Museum Triennial,,1976,"Heidelberg, Alemania",Berlín,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York",factual-web
 1926,Gabriel Kuri,Vitamin 3-D,,1970,México,,,,http://www.tate.org.uk/art/artists/gabriel-kuri-10169,,factual-tate
-1927,Robert Kusmirowski,Vitamin 3-D,,,,,,,,,pendiente
-1928,Camilla Low,Vitamin 3-D,,,,,,,,,pendiente
-1929,Nathan Mabry,Vitamin 3-D | 100 Sculptors of Tomorrow,,,,,,,,,pendiente
-1930,Kris Martin,Vitamin 3-D,,,,,,,,,pendiente
-1931,Michaela Meise,Vitamin 3-D,,,,,,,,,pendiente
+1927,Robert Kusmirowski,Vitamin 3-D,,1973,"Łódź, Polonia",Lublin,,,https://en.wikipedia.org/wiki/Robert_Ku%C5%9Bmirowski,,factual-web
+1928,Camilla Low,Vitamin 3-D,,1976,"Oslo, Noruega",Oslo,,,https://en.wikipedia.org/wiki/Camilla_L%C3%B8w,,factual-web
+1929,Nathan Mabry,Vitamin 3-D | 100 Sculptors of Tomorrow,,1978,"Durango, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Nathan_Mabry,,factual-web
+1930,Kris Martin,Vitamin 3-D,,1972,"Kortrijk, Bélgica",Gante,,,https://en.wikipedia.org/wiki/Kris_Martin,,factual-web
+1931,Michaela Meise,Vitamin 3-D,,1976,"Hanau, Alemania",Berlín,,,,,factual-web
 1932,Ernesto Neto,Vitamin 3-D | Vitamin T,,1964,"Rio de Janeiro, Brasil",,,,http://www.tate.org.uk/art/artists/ernesto-neto-2791,,factual-tate
 1933,Rivane Neuenschwander,Vitamin 3-D | Vitamin T,,1967,Brasil,,,,http://www.tate.org.uk/art/artists/rivane-neuenschwander-10170,,factual-tate
 1934,Damian Ortega,Vitamin 3-D | Fresh Cream,,1967,"Ciudad de México, México",,,,http://www.tate.org.uk/art/artists/damian-ortega-8133,,factual-tate
-1935,Mai-Thu Perret,Vitamin 3-D,,,,,,,,,pendiente
+1935,Mai-Thu Perret,Vitamin 3-D,,1976,"Ginebra, Suiza",Ginebra,,,https://en.wikipedia.org/wiki/Mai-Thu_Perret,,factual-web
 1936,Falke Pisano,Vitamin 3-D | Bienal de Venecia,,1978,"Ámsterdam, Países Bajos",,,,,"Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-1937,Wilfredo Prieto,Vitamin 3-D,,,,,,,,,pendiente
-1938,Tobias Putrih,Vitamin 3-D,,,,,,,,,pendiente
-1939,Lisi Raskin,Vitamin 3-D,,,,,,,,,pendiente
-1940,David Renggli,Vitamin 3-D,,,,,,,,,pendiente
-1941,Mandla Reuter,Vitamin 3-D,,,,,,,,,pendiente
+1937,Wilfredo Prieto,Vitamin 3-D,,1978,"Zaza del Medio, Cuba",,,,https://en.wikipedia.org/wiki/Wilfredo_Prieto,,factual-web
+1938,Tobias Putrih,Vitamin 3-D,,1972,"Kranj, Eslovenia",,,,https://www.moma.org/artists/28769-tobias-putrih,,factual-web
+1939,Lisi Raskin,Vitamin 3-D,,1974,"Miami, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Lisi_Raskin,,factual-web
+1940,David Renggli,Vitamin 3-D,,1974,,Zúrich,,,,,factual-web
+1941,Mandla Reuter,Vitamin 3-D,,1975,"Nqutu, Sudáfrica",Berlín,,,,,factual-web
 1942,Lili Reynaud-Dewar,Vitamin 3-D | Bienal de Venecia,,1975,Francia,Grenoble,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 1943,Eva Rothschild,Vitamin 3-D,,1971,"Dublin, Éire",,,,http://www.tate.org.uk/art/artists/eva-rothschild-4734,,factual-tate
 1944,Tomas Saraceno,Vitamin 3-D | Bienal de Venecia,,1973,Argentina,Berlín,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
-1945,Bojan Sarcevic,Vitamin 3-D,,,,,,,,,pendiente
-1946,Arcangelo Sassolino,Vitamin 3-D,,,,,,,,,pendiente
-1947,Felix Schramm,Vitamin 3-D,,,,,,,,,pendiente
-1948,Nora Schultz,Vitamin 3-D,,,,,,,,,pendiente
-1949,Anna Sew Hoy,Vitamin 3-D,,,,,,,,,pendiente
-1950,Mindy Shapero,Vitamin 3-D,,,,,,,,,pendiente
-1951,Ranjani Shettar,Vitamin 3-D,,,,,,,,,pendiente
-1952,Sudarshan Shetty,Vitamin 3-D,,,,,,,,,pendiente
+1945,Bojan Sarcevic,Vitamin 3-D,,1974,"Belgrado, Serbia",Berlín,,,https://en.wikipedia.org/wiki/Bojan_%C5%A0ar%C4%8Devi%C4%87,,factual-web
+1946,Arcangelo Sassolino,Vitamin 3-D,,1967,"Vicenza, Italia",Vicenza,,,https://en.wikipedia.org/wiki/Arcangelo_Sassolino,,factual-web
+1947,Felix Schramm,Vitamin 3-D,,1970,"Hamburgo, Alemania",Düsseldorf,,,https://en.wikipedia.org/wiki/Felix_Schramm,,factual-web
+1948,Nora Schultz,Vitamin 3-D,,1975,"Fráncfort del Meno, Alemania",,,,,,factual-web
+1949,Anna Sew Hoy,Vitamin 3-D,,1976,"Auckland, Nueva Zelanda",Los Ángeles,,,https://en.wikipedia.org/wiki/Anna_Sew_Hoy,,factual-web
+1950,Mindy Shapero,Vitamin 3-D,,1974,"Louisville, EE.UU.",Los Ángeles,,,,,factual-web
+1951,Ranjani Shettar,Vitamin 3-D,,1977,"Bangalore, India",Bangalore,,,https://en.wikipedia.org/wiki/Ranjani_Shettar,,factual-web
+1952,Sudarshan Shetty,Vitamin 3-D,,1961,"Mangalore, India",Bombay,,,https://en.wikipedia.org/wiki/Sudarshan_Shetty,,factual-web
 1953,Monika Sosnowska,Vitamin 3-D,,1972,,,,,http://www.tate.org.uk/art/artists/monika-sosnowska-13098,,factual-tate
-1954,Katja Strunz,Vitamin 3-D,,,,,,,,,pendiente
-1955,Luca Trevisani,Vitamin 3-D,,,,,,,,,pendiente
-1956,Tatiana Trouve,Vitamin 3-D | Bienal de Venecia,,,,,,,,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",pendiente
+1954,Katja Strunz,Vitamin 3-D,,1970,"Ottweiler, Alemania",Berlín,,,,,factual-web
+1955,Luca Trevisani,Vitamin 3-D,,1979,"Verona, Italia",Berlín,,,,,factual-web
+1956,Tatiana Trouve,Vitamin 3-D | Bienal de Venecia,,1968-08-04,"Cosenza, Italia",París,,,https://en.wikipedia.org/wiki/Tatiana_Trouv%C3%A9,"Bienal de Venecia 2007 «Think with the Senses, Feel with the Mind», muestra internacional (Storr)",factual-web
 1957,Francis Upritchard,Vitamin 3-D | 100 Sculptors of Tomorrow,,1976,"New Plymouth, New Zealand",,,,http://www.tate.org.uk/art/artists/francis-upritchard-7285,,factual-tate
 1958,Rebecca Warren,Vitamin 3-D,,1965,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/rebecca-warren-9134,,factual-tate
 1959,Gary Webb,Vitamin 3-D,,1973,"Dorset, United Kingdom",,,,http://www.tate.org.uk/art/artists/gary-webb-4736,,factual-tate
-1960,Klaus Weber,Vitamin 3-D,,,,,,,,,pendiente
-1961,Tarek Zaki,Vitamin 3-D,,,,,,,,,pendiente
+1960,Klaus Weber,Vitamin 3-D,,1967,"Sigmaringen, Alemania",Berlín,,,,,factual-web
+1961,Tarek Zaki,Vitamin 3-D,,1975,"Riad, Arabia Saudí",El Cairo,,,,,factual-web
 1962,Thomas Zipp,Vitamin 3-D,,1966,"Heppenheim an der Bergstrasse, Deutschland",,,,http://www.tate.org.uk/art/artists/thomas-zipp-9937,,factual-tate
-1963,Rafal Bujnowski,Vitamin P2,,,,,,,,,pendiente
+1963,Rafal Bujnowski,Vitamin P2,,1974,"Wadowice, Polonia",,,,https://en.wikipedia.org/wiki/Rafa%C5%82_Bujnowski,,factual-web
 1964,Michel Majerus,Vitamin P2,,1967,"Esch-sur-Alzette, Luxembourg",,,,http://www.tate.org.uk/art/artists/michel-majerus-6307,fallecido/a 2002,factual-tate
-1965,Paulina Olowska,Vitamin P2,,,,,,,,,pendiente
+1965,Paulina Olowska,Vitamin P2,,1976,"Gdansk, Polonia",,,,https://en.wikipedia.org/wiki/Paulina_Olowska,,factual-web
 1966,Jakub Julian Ziolkowski,Vitamin P2,,1980,,,,,http://www.tate.org.uk/art/artists/jakub-julian-ziolkowski-13099,,factual-tate
 1967,Charles Avery,Vitamin D2,,1973,"Oban, United Kingdom",,,,http://www.tate.org.uk/art/artists/charles-avery-10764,,factual-tate
 1968,Pablo Bronstein,Vitamin D2,,1977,"Buenos Aires, Argentina",,,,http://www.tate.org.uk/art/artists/pablo-bronstein-11761,,factual-tate
 1969,Ewan Gibbs,Vitamin D2,,1973,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/ewan-gibbs-2737,,factual-tate
-1970,David Haines,Vitamin D2,,,,,,,,,pendiente
-1971,Steven C. Harvey,Vitamin D2,,,,,,,,,pendiente
-1972,Amalia Pica,Vitamin D2,,,,,,,,,pendiente
-1973,J. Ariadhitya Pramuhendra,Vitamin D2,,,,,,,,,pendiente
-1974,J. Parker Valentine,Vitamin D2,,,,,,,,,pendiente
-1975,Bálint Zsako,Vitamin D2,,,,,,,,,pendiente
-1976,Nathan Cash Davidson,Vitamin P3,,,,,,,,,pendiente
-1977,Yuan Yuan,Vitamin P3,,,,,,,,,pendiente
-1978,Caroline Achaintre,Vitamin C | Vitamin T,,,,,,,,,pendiente
-1979,Aaron Angell,Vitamin C,,,,,,,,,pendiente
-1980,Salvatore Arancio,Vitamin C,,,,,,,,,pendiente
-1981,Phoebe Cummings,Vitamin C,,,,,,,,,pendiente
-1982,Edmund de Waal,Vitamin C,,,,,,,,,pendiente
+1970,David Haines,Vitamin D2,,1969,"Nottingham, Reino Unido",Ámsterdam,,,https://en.wikipedia.org/wiki/David_Haines_(artist),,factual-web
+1971,Steven C. Harvey,Vitamin D2,,1967,"Stafford, Reino Unido",Atenas,,,https://en.wikipedia.org/wiki/Steven_C._Harvey,,factual-web
+1972,Amalia Pica,Vitamin D2,,1978,"Neuquén, Argentina",Londres,,,https://en.wikipedia.org/wiki/Amalia_Pica,,factual-web
+1973,J. Ariadhitya Pramuhendra,Vitamin D2,,1984,"Semarang, Indonesia",,,,https://en.wikipedia.org/wiki/J_Ariadhitya_Pramuhendra,,factual-web
+1974,J. Parker Valentine,Vitamin D2,,1980,"Austin, EE.UU.",,,,,,factual-web
+1975,Bálint Zsako,Vitamin D2,,1979,"Budapest, Hungría",,,,,,factual-web
+1976,Nathan Cash Davidson,Vitamin P3,,1988,"Londres, Reino Unido",Londres,,,,,factual-web
+1977,Yuan Yuan,Vitamin P3,,1973,"Hangzhou, China",,,,,,factual-web
+1978,Caroline Achaintre,Vitamin C | Vitamin T,,1969,"Toulouse, Francia",Londres,,,https://en.wikipedia.org/wiki/Caroline_Achaintre,,factual-web
+1979,Aaron Angell,Vitamin C,,1987,"Kent, Reino Unido",Londres,,,,,factual-web
+1980,Salvatore Arancio,Vitamin C,,1974,"Catania, Italia",Londres,,,,,factual-web
+1981,Phoebe Cummings,Vitamin C,,1981,"Walsall, Reino Unido",Stafford,,,,,factual-web
+1982,Edmund de Waal,Vitamin C,,1964-09-10,"Nottingham, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Edmund_de_Waal,,factual-web
 1983,Alexandra Engelfried,Vitamin C,,,,,,,,,pendiente
-1984,Jessica Harrison,Vitamin C,,,,,,,,,pendiente
+1984,Jessica Harrison,Vitamin C,,1982,"St Bees, Reino Unido",Edimburgo,,,,,factual-web
 1985,Marisa Merz,Vitamin C | Bienal de Venecia,,1931,"Torino, Italia",,,,http://www.tate.org.uk/art/artists/marisa-merz-12525,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni); León de Oro a la trayectoria, Venecia (2013)",factual-tate
-1986,Aurèlia Muñoz,Vitamin C,,,,,,,,,pendiente
+1986,Aurèlia Muñoz,Vitamin C,,1926,"Barcelona, España",,,,https://en.wikipedia.org/wiki/Aur%C3%A8lia_Mu%C3%B1oz,fallecida 2011,factual-web
 1987,Ron Nagle,Vitamin C | Bienal de Venecia,,1939,"San Francisco, CA, Estados Unidos",,,,,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-1988,Ruby Neri,Vitamin C,,,,,,,,,pendiente
-1989,Lilibeth Cuenca Rasmussen,Vitamin C,,,,,,,,,pendiente
+1988,Ruby Neri,Vitamin C,,1970,"San Francisco, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Ruby_Neri,,factual-web
+1989,Lilibeth Cuenca Rasmussen,Vitamin C,,1970-12-27,"Manila, Filipinas",Copenhague,,,https://en.wikipedia.org/wiki/Lilibeth_Cuenca_Rasmussen,,factual-web
 1990,Thomas Schütte,Vitamin C,,1954,"Oldenburg, Deutschland",,,,http://www.tate.org.uk/art/artists/thomas-schutte-2374,,factual-tate
-1991,Richard Slee,Vitamin C,,,,,,,,,pendiente
-1992,Marlene Steyn,Vitamin C,,,,,,,,,pendiente
-1993,Clare Twomey,Vitamin C,,,,,,,,,pendiente
-1994,Jesse Wine,Vitamin C,,,,,,,,,pendiente
-1995,Betty Woodman,Vitamin C,,,,,,,,,pendiente
+1991,Richard Slee,Vitamin C,,1946,"Carlisle, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Richard_Slee_(artist),,factual-web
+1992,Marlene Steyn,Vitamin C,,1989,,Ciudad del Cabo,,,,,factual-web
+1993,Clare Twomey,Vitamin C,,1968,"Ipswich, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Clare_Twomey,,factual-web
+1994,Jesse Wine,Vitamin C,,1983,"Chester, Reino Unido",Nueva York,,,,,factual-web
+1995,Betty Woodman,Vitamin C,,1930-05-14,"Norwalk, EE.UU.",,,,https://en.wikipedia.org/wiki/Betty_Woodman,fallecida 2018,factual-web
 1996,Igshaan Adams,Vitamin T | Bienal de Venecia,,1982,"Ciudad del Cabo, Sudáfrica",Ciudad del Cabo,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
 1997,Olga de Amaral,Vitamin T | Bienal de Venecia,,1932,"Bogotá, Colombia",Bogotá,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
-1998,Evgeny Antufiev,Vitamin T,,,,,,,,,pendiente
-1999,Leonor Antunes,Vitamin T,,,,,,,,,pendiente
-2000,Polly Apfelbaum,Vitamin T,,,,,,,,,pendiente
-2001,Hrafnhildur Arnardóttir (Shoplifter),Vitamin T,,,,,,,,,pendiente
-2002,Tonico Lemos Auad,Vitamin T,,,,,,,,,pendiente
-2003,Jonathan Baldock,Vitamin T,,,,,,,,,pendiente
+1998,Evgeny Antufiev,Vitamin T,,1986,"Kyzyl, Rusia",Moscú,,,https://en.wikipedia.org/wiki/Evgeny_Antufiev,,factual-web
+1999,Leonor Antunes,Vitamin T,,1972,"Lisboa, Portugal",Berlín,,,https://en.wikipedia.org/wiki/Leonor_Antunes,,factual-web
+2000,Polly Apfelbaum,Vitamin T,,1955-07-04,"Abington, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Polly_Apfelbaum,,factual-web
+2001,Hrafnhildur Arnardóttir (Shoplifter),Vitamin T,,1969,"Reikiavik, Islandia",Nueva York,,,https://en.wikipedia.org/wiki/Shoplifter_(artist),,factual-web
+2002,Tonico Lemos Auad,Vitamin T,,1968,"Belém, Brasil",Londres,,,,,factual-web
+2003,Jonathan Baldock,Vitamin T,,1980,"Tunbridge Wells, Reino Unido",Londres,,,,,factual-web
 2004,Phyllida Barlow,Vitamin T | Bienal de Venecia,,1944,"Newcastle upon Tyne, United Kingdom",,,,http://www.tate.org.uk/art/artists/phyllida-barlow-10908,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-tate
-2005,Mary Lee Bendolph,Vitamin T,,,,,,,,,pendiente
-2006,Josh Blackwell,Vitamin T,,,,,,,,,pendiente
-2007,Paloma Bosquê,Vitamin T,,,,,,,,,pendiente
-2008,Huguette Caland,Vitamin T,,,,,,,,,pendiente
-2009,Pia Camil,Vitamin T,,,,,,,,,pendiente
-2010,Barbara Chase-Riboud,Vitamin T,,,,,,,,,pendiente
-2011,Chiachio & Giannone,Vitamin T,,,,,,,,,pendiente
-2012,N. Dash,Vitamin T,,,,,,,,,pendiente
-2013,Cristiana de Marchi,Vitamin T,,,,,,,,,pendiente
+2005,Mary Lee Bendolph,Vitamin T,,1935,"Gee's Bend, EE.UU.",Gee's Bend,,,https://en.wikipedia.org/wiki/Mary_Lee_Bendolph,,factual-web
+2006,Josh Blackwell,Vitamin T,,,"Nueva Orleans, EE.UU.",,,,,,factual-web
+2007,Paloma Bosquê,Vitamin T,,1982,"Garça, Brasil",São Paulo,,,,,factual-web
+2008,Huguette Caland,Vitamin T,,1931,"Beirut, Líbano",,,,https://en.wikipedia.org/wiki/Huguette_Caland,fallecida 2019,factual-web
+2009,Pia Camil,Vitamin T,,1980,"Ciudad de México, México",Ciudad de México,,,https://en.wikipedia.org/wiki/Pia_Camil,,factual-web
+2010,Barbara Chase-Riboud,Vitamin T,,1939-06-26,"Filadelfia, EE.UU.",París,,,https://en.wikipedia.org/wiki/Barbara_Chase-Riboud,,factual-web
+2011,Chiachio & Giannone,Vitamin T,,,,Buenos Aires,,,https://en.wikipedia.org/wiki/Chiachio_%26_Giannone,,factual-web
+2012,N. Dash,Vitamin T,,1980,"Miami, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/N._Dash,,factual-web
+2013,Cristiana de Marchi,Vitamin T,,1968,,,,,,,factual-web
 2014,Daniel Dewar & Grégory Gicquel,Vitamin T,,,,,,,,,pendiente
-2015,Josh Faught,Vitamin T,,,,,,,,,pendiente
-2016,Christina Forrer,Vitamin T,,,,,,,,,pendiente
+2015,Josh Faught,Vitamin T,,1979,"San Luis, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Josh_Faught,,factual-web
+2016,Christina Forrer,Vitamin T,,1978,"Zúrich, Suiza",Los Ángeles,,,,,factual-web
 2017,Terri Friedman,Vitamin T,,,,,,,,,pendiente
-2018,Orly Genger,Vitamin T,,,,,,,,,pendiente
-2019,Yann Gerstberger,Vitamin T,,,,,,,,,pendiente
+2018,Orly Genger,Vitamin T,,1979,"Nueva York, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Orly_Genger,,factual-web
+2019,Yann Gerstberger,Vitamin T,,1983,"Cagnes-sur-Mer, Francia",Ciudad de México,,,,,factual-web
 2020,Sam Gilliam,Vitamin T,,1933,"Tupelo, United States",,,,http://www.tate.org.uk/art/artists/sam-gilliam-1170,,factual-tate
-2021,Nury González,Vitamin T,,,,,,,,,pendiente
-2022,Kyungah Ham,Vitamin T | Vitamin Txt,,,,,,,,,pendiente
-2023,Channing Hansen,Vitamin T,,,,,,,,,pendiente
+2021,Nury González,Vitamin T,,1960-09-20,"Santiago, Chile",Santiago,,,,,factual-web
+2022,Kyungah Ham,Vitamin T | Vitamin Txt,,1966,"Seúl, Corea del Sur",Seúl,,,https://en.wikipedia.org/wiki/Kyungah_Ham,,factual-web
+2023,Channing Hansen,Vitamin T,,1972,"Los Ángeles, EE.UU.",Los Ángeles,,,,,factual-web
 2024,Nicholas Hlobo,Vitamin T,,1975,"Cape Town, South Africa",,,,http://www.tate.org.uk/art/artists/nicholas-hlobo-12497,,factual-tate
-2025,Zon Ito,Vitamin T,,,,,,,,,pendiente
-2026,Takahiro Iwasaki,Vitamin T,,,,,,,,,pendiente
-2027,Reena Saini Kallat,Vitamin T,,,,,,,,,pendiente
-2028,Adrian Kiss,Vitamin T,,,,,,,,,pendiente
-2029,Teresa Lanceta,Vitamin T,,,,,,,,,pendiente
-2030,Ruth Laskey,Vitamin T,,,,,,,,,pendiente
-2031,Turiya Magadlela,Vitamin T,,,,,,,,,pendiente
-2032,Lavanya Mani,Vitamin T,,,,,,,,,pendiente
-2033,Hana Miletić,Vitamin T,,,,,,,,,pendiente
-2034,Kazuko Miyamoto,Vitamin T,,,,,,,,,pendiente
-2035,Senga Nengudi,Vitamin T,,,,,,,,,pendiente
-2036,Maria Nepomuceno,Vitamin T,,,,,,,,,pendiente
-2037,Eko Nugroho,Vitamin T,,,,,,,,,pendiente
+2025,Zon Ito,Vitamin T,,1971,"Osaka, Japón",Kioto,,,,,factual-web
+2026,Takahiro Iwasaki,Vitamin T,,1975,"Hiroshima, Japón",Hiroshima,,,https://en.wikipedia.org/wiki/Takahiro_Iwasaki,Bienal de Venecia 2017,factual-web
+2027,Reena Saini Kallat,Vitamin T,,1973,"Delhi, India",Bombay,,,https://en.wikipedia.org/wiki/Reena_Saini_Kallat,,factual-web
+2028,Adrian Kiss,Vitamin T,,1990,"Miercurea-Ciuc, Rumanía",Budapest,,,https://adriankiss.com,,factual-web
+2029,Teresa Lanceta,Vitamin T,,1951,"Barcelona, España",,,,,,factual-web
+2030,Ruth Laskey,Vitamin T,,1975,"San Luis Obispo, EE.UU.",San Francisco,,,https://en.wikipedia.org/wiki/Ruth_Laskey,,factual-web
+2031,Turiya Magadlela,Vitamin T,,1978,"Johannesburgo, Sudáfrica",Soweto,,,https://en.wikipedia.org/wiki/Turiya_Magadlela,,factual-web
+2032,Lavanya Mani,Vitamin T,,1977,"Hyderabad, India",,,,,,factual-web
+2033,Hana Miletić,Vitamin T,,1982,"Zagreb, Croacia",Bruselas,,,,,factual-web
+2034,Kazuko Miyamoto,Vitamin T,,1942,"Tokio, Japón",Nueva York,,,https://en.wikipedia.org/wiki/Kazuko_Miyamoto,,factual-web
+2035,Senga Nengudi,Vitamin T,,1943-09-18,"Chicago, EE.UU.",Colorado Springs,,,https://en.wikipedia.org/wiki/Senga_Nengudi,Premio Nasher (premio 2023),factual-web
+2036,Maria Nepomuceno,Vitamin T,,1976,"Río de Janeiro, Brasil",Río de Janeiro,,,https://en.wikipedia.org/wiki/Maria_Nepomuceno,,factual-web
+2037,Eko Nugroho,Vitamin T,,1977,"Yogyakarta, Indonesia",Yogyakarta,,,,,factual-web
 2038,Katherine Nuñez & Issay Rodriguez,Vitamin T,,,,,,,,,pendiente
-2039,Sara Ouhaddou,Vitamin T,,,,,,,,,pendiente
-2040,Rosana Palazyan,Vitamin T,,,,,,,,,pendiente
-2041,Hardeep Pandhal,Vitamin T,,,,,,,,,pendiente
-2042,Zoë Paul,Vitamin T,,,,,,,,,pendiente
-2043,Sheila Pepe,Vitamin T,,,,,,,,,pendiente
-2044,Jessica Rankin,Vitamin T,,,,,,,,,pendiente
-2045,Faith Ringgold,Vitamin T,,,,,,,,,pendiente
-2046,Lara Schnitger,Vitamin T,,,,,,,,,pendiente
-2047,Indre Šerpytyte,Vitamin T,,,,,,,,,pendiente
-2048,Jakkai Siributr,Vitamin T,,,,,,,,,pendiente
-2049,Shinique Smith,Vitamin T,,,,,,,,,pendiente
-2050,Renee So,Vitamin T,,,,,,,,,pendiente
+2039,Sara Ouhaddou,Vitamin T,,1986,"Draguignan, Francia",,,,,Manifesta 13 (2020),factual-web
+2040,Rosana Palazyan,Vitamin T,,1963,"Río de Janeiro, Brasil",Río de Janeiro,,,,,factual-web
+2041,Hardeep Pandhal,Vitamin T,,1985,"Birmingham, Reino Unido",Glasgow,,,https://en.wikipedia.org/wiki/Hardeep_Pandhal,,factual-web
+2042,Zoë Paul,Vitamin T,,1987,"Londres, Reino Unido",Atenas,,,https://en.wikipedia.org/wiki/Zo%C3%AB_Paul,,factual-web
+2043,Sheila Pepe,Vitamin T,,1959,"Morristown, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Sheila_Pepe,,factual-web
+2044,Jessica Rankin,Vitamin T,,1971,"Sídney, Australia",Nueva York,,,https://en.wikipedia.org/wiki/Jessica_Rankin,,factual-web
+2045,Faith Ringgold,Vitamin T,,1930,"Nueva York, EE.UU.",,,,https://en.wikipedia.org/wiki/Faith_Ringgold,fallecida 2024,factual-web
+2046,Lara Schnitger,Vitamin T,,1969,"Haarlem, Países Bajos",,,,https://en.wikipedia.org/wiki/Lara_Schnitger,,factual-web
+2047,Indre Šerpytyte,Vitamin T,,1983,"Palanga, Lituania",Londres,,,https://en.wikipedia.org/wiki/Indr%C4%97_%C5%A0erpytyt%C4%97,,factual-web
+2048,Jakkai Siributr,Vitamin T,,1969,"Bangkok, Tailandia",Bangkok,,,,,factual-web
+2049,Shinique Smith,Vitamin T,,1971,"Baltimore, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Shinique_Smith,,factual-web
+2050,Renee So,Vitamin T,,1974,"Hong Kong, China",Londres,,,,,factual-web
 2051,Valeska Soares,Vitamin T,,1957,Brasil,,,,http://www.tate.org.uk/art/artists/valeska-soares-7516,,factual-tate
 2052,Do Ho Suh,Vitamin T,,1962,"Soul, Taehan Min'guk",,,,http://www.tate.org.uk/art/artists/do-ho-suh-12799,,factual-tate
 2053,Güneş Terkol,Vitamin T | Bienal de Venecia,,1981,"Estambul, Turquía",Estambul,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
-2054,Aiko Tezuka,Vitamin T,,,,,,,,,pendiente
-2055,Brent Wadden,Vitamin T,,,,,,,,,pendiente
-2056,Franz Erhard Walther,Vitamin T,,,,,,,,,pendiente
+2054,Aiko Tezuka,Vitamin T,,1976,"Tokio, Japón",Berlín,,,,,factual-web
+2055,Brent Wadden,Vitamin T,,1979,"Glace Bay, Canadá",Berlín,,,https://en.wikipedia.org/wiki/Brent_Wadden,,factual-web
+2056,Franz Erhard Walther,Vitamin T,,1939,"Fulda, Alemania",,,,https://en.wikipedia.org/wiki/Franz_Erhard_Walther,documenta 5 (1972),factual-web
 2057,Yin Xiuzhen,Vitamin T | Bienal de Venecia,,1963,China,Pekín,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-2058,Paul Yore,Vitamin T,,,,,,,,,pendiente
-2059,Billie Zangewa,Vitamin T | Vitamin C+,,,,,,,,,pendiente
+2058,Paul Yore,Vitamin T,,1987,"Melbourne, Australia",,,,https://en.wikipedia.org/wiki/Paul_Yore,,factual-web
+2059,Billie Zangewa,Vitamin T | Vitamin C+,,1973,"Blantyre, Malaui",Johannesburgo,,,https://en.wikipedia.org/wiki/Billie_Zangewa,,factual-web
 2060,Robert Crumb,Vitamin D3 | Bienal de Venecia,,1943,"Filadelfia, Estados Unidos",,,,,"Bienal de Venecia 2013 «Il Palazzo Enciclopedico», muestra internacional (Gioni)",factual-venecia
-2061,Tom Friedman,Vitamin D3 | Cream,,,,,,,,,pendiente
-2062,Claudette Johnson,Vitamin D3,,,,,,,,,pendiente
-2063,Rashid Johnson,Vitamin D3,,,,,,,,,pendiente
-2064,Tania Kovats,Vitamin D3,,,,,,,,,pendiente
-2065,Toyin Ojih Odutola,Vitamin D3 | Prime,,,,,,,,,pendiente
-2066,Deanna Petherbridge,Vitamin D3,,,,,,,,,pendiente
+2061,Tom Friedman,Vitamin D3 | Cream,,1965,"St. Louis, EE.UU.",Leverett,,,https://en.wikipedia.org/wiki/Tom_Friedman_(artist),,factual-web
+2062,Claudette Johnson,Vitamin D3,,1959,"Mánchester, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Claudette_Johnson,Turner Prize (finalista 2024),factual-web
+2063,Rashid Johnson,Vitamin D3,,1977,"Chicago, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Rashid_Johnson,,factual-web
+2064,Tania Kovats,Vitamin D3,,1966,"Brighton, Reino Unido",,,,https://en.wikipedia.org/wiki/Tania_Kovats,,factual-web
+2065,Toyin Ojih Odutola,Vitamin D3 | Prime,,1985,"Ife, Nigeria",Nueva York,,,https://en.wikipedia.org/wiki/Toyin_Ojih_Odutola,,factual-web
+2066,Deanna Petherbridge,Vitamin D3,,1939,"Pretoria, Sudáfrica",,,,https://en.wikipedia.org/wiki/Deanna_Petherbridge,fallecida 2024,factual-web
 2067,Christina Quarles,Vitamin D3 | Prime | Bienal de Venecia,,1985,"Chicago, IL, Estados Unidos",Los Ángeles,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
-2068,Nathaniel Mary Quinn,Vitamin D3,,,,,,,,,pendiente
+2068,Nathaniel Mary Quinn,Vitamin D3,,1977,"Chicago, EE.UU.",,,,https://en.wikipedia.org/wiki/Nathaniel_Mary_Quinn,,factual-web
 2069,Qiu Zhijie,Vitamin D3 | Fresh Cream | Bienal de Venecia,,1969,China,Pekín,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2070,Emma Talbot,Vitamin D3 | 100 Painters of Tomorrow | Bienal de Venecia,,1969,"Stourbridge, Reino Unido",Londres,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
-2071,Johanna Unzueta,Vitamin D3,,,,,,,,,pendiente
+2071,Johanna Unzueta,Vitamin D3,,1974,"Santiago, Chile",Nueva York,,,,,factual-web
 2072,Adam Broomberg,Vitamin C+,,1970,"Johannesburg, South Africa",,,,http://www.tate.org.uk/art/artists/adam-broomberg-16107,,factual-tate
-2073,Sara Cwynar,Vitamin C+,,,,,,,,,pendiente
-2074,Moyna Flannigan,Vitamin C+,,,,,,,,,pendiente
+2073,Sara Cwynar,Vitamin C+,,1985,"Vancouver, Canadá",Nueva York,,,https://en.wikipedia.org/wiki/Sara_Cwynar,,factual-web
+2074,Moyna Flannigan,Vitamin C+,,1963,"Kirkcaldy, Reino Unido",Edimburgo,,,https://en.wikipedia.org/wiki/Moyna_Flannigan,,factual-web
 2075,Lauren Halsey,Vitamin C+ | Prime | Bienal de Venecia,,1987,"Los Ángeles, CA, Estados Unidos",Los Ángeles,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2076,Peter Kennard,Vitamin C+,,1949,"London, United Kingdom",,,,http://www.tate.org.uk/art/artists/peter-kennard-10184,,factual-tate
-2077,Justine Kurland,Vitamin C+,,,,,,,,,pendiente
+2077,Justine Kurland,Vitamin C+,,1969,"Warsaw, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Justine_Kurland,,factual-web
 2078,Linder,Vitamin C+,,1954,"Liverpool, United Kingdom",,,,http://www.tate.org.uk/art/artists/linder-10844,,factual-tate
 2079,Frida Orupabo,Vitamin C+ | Bienal de Venecia,,1986,Noruega,Oslo,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-2080,Heather Philipson,Vitamin C+,,,,,,,,,pendiente
-2081,Tabita Rezaire,Vitamin C+,,,,,,,,,pendiente
-2082,Deborah Roberts,Vitamin C+,,,,,,,,,pendiente
-2083,Dee Shapiro,Vitamin C+,,,,,,,,,pendiente
-2084,Eva Stenram,Vitamin C+,,,,,,,,,pendiente
-2085,Hellen Ascoli,Vitamin Txt,,,,,,,,,pendiente
-2086,Kamyar Bineshtarigh,Vitamin Txt,,,,,,,,,pendiente
-2087,Alejandro Cesarco,Vitamin Txt,,,,,,,,,pendiente
-2088,Heman Chong,Vitamin Txt,,,,,,,,,pendiente
-2089,Tim Etchells,Vitamin Txt,,,,,,,,,pendiente
-2090,Alexandra Grant,Vitamin Txt,,,,,,,,,pendiente
+2080,Heather Philipson,Vitamin C+,,1978,"Londres, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Heather_Phillipson,"Fourth Plinth, Trafalgar Square (2020)",factual-web
+2081,Tabita Rezaire,Vitamin C+,,1989,"París, Francia",Cayena,,,https://en.wikipedia.org/wiki/Tabita_Rezaire,,factual-web
+2082,Deborah Roberts,Vitamin C+,,1962,"Austin, EE.UU.",Austin,,,https://en.wikipedia.org/wiki/Deborah_Roberts_(visual_artist),,factual-web
+2083,Dee Shapiro,Vitamin C+,,1936,"Brooklyn, EE.UU.",,,,https://en.wikipedia.org/wiki/Dee_Shapiro,,factual-web
+2084,Eva Stenram,Vitamin C+,,1976,"Estocolmo, Suecia",Londres,,,,,factual-web
+2085,Hellen Ascoli,Vitamin Txt,,1984,"Ciudad de Guatemala, Guatemala",,,,,,factual-web
+2086,Kamyar Bineshtarigh,Vitamin Txt,,1996,"Semnan, Irán",Ciudad del Cabo,,,,,factual-web
+2087,Alejandro Cesarco,Vitamin Txt,,1975,"Montevideo, Uruguay",Nueva York,,,,,factual-web
+2088,Heman Chong,Vitamin Txt,,1977,"Muar, Malasia",Singapur,,,,Bienal de Venecia 2003,factual-web
+2089,Tim Etchells,Vitamin Txt,,1962,"Stevenage, Reino Unido",Sheffield,,,https://en.wikipedia.org/wiki/Tim_Etchells,,factual-web
+2090,Alexandra Grant,Vitamin Txt,,1973,"Fairview Park, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Alexandra_Grant,,factual-web
 2091,Shilpa Gupta,Vitamin Txt | New Museum Triennial | Bienal de Venecia,,1976,India,Bombay,,,,"New Museum Triennial 2009 «Younger Than Jesus», Nueva York; Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-2092,Nadia Hernández,Vitamin Txt,,,,,,,,,pendiente
+2092,Nadia Hernández,Vitamin Txt,,1987,"Mérida, Venezuela",Melbourne,,,,,factual-web
 2093,Ichihara Hiroko,Vitamin Txt,,,,,,,,,pendiente
 2094,Barbara Kruger,Vitamin Txt | Bienal de Venecia,,1945,"Newark, United States",Los Ángeles,,,http://www.tate.org.uk/art/artists/barbara-kruger-1443,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-tate
-2095,Lawrence Lemaoana,Vitamin Txt,,,,,,,,,pendiente
-2096,Lucrecia Lionti,Vitamin Txt,,,,,,,,,pendiente
-2097,Peter Liversidge,Vitamin Txt,,,,,,,,,pendiente
-2098,Patrick Martinez,Vitamin Txt,,,,,,,,,pendiente
+2095,Lawrence Lemaoana,Vitamin Txt,,1982,"Johannesburgo, Sudáfrica",Johannesburgo,,,,,factual-web
+2096,Lucrecia Lionti,Vitamin Txt,,1985,"Tucumán, Argentina",Buenos Aires,,,,,factual-web
+2097,Peter Liversidge,Vitamin Txt,,1973,"Lincoln, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Peter_Liversidge,,factual-web
+2098,Patrick Martinez,Vitamin Txt,,1980,"Los Ángeles, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Patrick_Martinez,,factual-web
 2099,Harland Miller,Vitamin Txt,,1964,"Yorkshire, United Kingdom",,,,http://www.tate.org.uk/art/artists/harland-miller-12117,,factual-tate
-2100,Shubigi Rao,Vitamin Txt,,,,,,,,,pendiente
-2101,Kameelah Janan Rasheed,Vitamin Txt,,,,,,,,,pendiente
-2102,Ed Ruscha,Vitamin Txt,,,,,,,,,pendiente
+2100,Shubigi Rao,Vitamin Txt,,1975,"Mumbai, India",Singapur,,,https://en.wikipedia.org/wiki/Shubigi_Rao,Bienal de Venecia 2022,factual-web
+2101,Kameelah Janan Rasheed,Vitamin Txt,,1985,"East Palo Alto, EE.UU.",,,,https://en.wikipedia.org/wiki/Kameelah_Janan_Rasheed,,factual-web
+2102,Ed Ruscha,Vitamin Txt,,1937-12-16,"Omaha, EE.UU.",Culver City,,,https://en.wikipedia.org/wiki/Edward_Ruscha,Bienal de Venecia 2005,factual-web
 2103,Studio for Propositional Cinema,Vitamin Txt,,,,,,,,,pendiente
-2104,Hank Willis Thomas,Vitamin Txt,,,,,,,,,pendiente
-2105,Nora Turato,Vitamin Txt,,,,,,,,,pendiente
-2106,Kaylene Whiskey,Vitamin Txt,,,,,,,,,pendiente
-2107,John Wood and Paul Harrison,Vitamin Txt,,,,,,,,,pendiente
-2108,Young-Hae Chang Heavy Industries,Vitamin Txt,,,,,,,,,pendiente
+2104,Hank Willis Thomas,Vitamin Txt,,1976,"Plainfield, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Hank_Willis_Thomas,,factual-web
+2105,Nora Turato,Vitamin Txt,,1991,"Zagreb, Croacia",Ámsterdam,,,https://en.wikipedia.org/wiki/Nora_Turato,,factual-web
+2106,Kaylene Whiskey,Vitamin Txt,,1976,"Alice Springs, Australia",Indulkana,,,https://en.wikipedia.org/wiki/Kaylene_Whiskey,,factual-web
+2107,John Wood and Paul Harrison,Vitamin Txt,,,,Bristol,,,,,factual-web
+2108,Young-Hae Chang Heavy Industries,Vitamin Txt,,,,,,,https://en.wikipedia.org/wiki/Young-Hae_Chang_Heavy_Industries,,factual-web
 2109,Rosa Barba,Vitamin V | Bienal de Venecia,,1972,Italia,Berlín,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor); Bienal de Venecia 2009 «Fare Mondi / Making Worlds», muestra internacional (Birnbaum)",factual-venecia
 2110,Gabrielle Goliath,Vitamin V | Bienal de Venecia,,1983,"Kimberley, Sudáfrica",Johannesburgo,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2111,Lynn Hershman Leeson,Vitamin V | Bienal de Venecia,,1941,"Cleveland, OH, Estados Unidos",San Francisco,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
 2112,Ayoung Kim,Vitamin V | Bienal de Venecia,,1979,Corea del Sur,Seúl,,,,"Bienal de Venecia 2015 «All the World’s Futures», muestra internacional (Enwezor)",factual-venecia
 2113,Zineb Sedira,Vitamin V,,1963,"Paris, France",,,,http://www.tate.org.uk/art/artists/zineb-sedira-4956,,factual-tate
-2114,Tunji Adeniyi-Jones,Vitamin P4,,,,,,,,,pendiente
+2114,Tunji Adeniyi-Jones,Vitamin P4,,1992,"Londres, Reino Unido",,,,,,factual-web
 2115,Giulia Andreani,Vitamin P4 | Bienal de Venecia,,1985,"Venecia, Italia",París,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
-2116,Alvaro Barrington,Vitamin P4,,,,,,,,,pendiente
-2117,Maria Berrio,Vitamin P4,,,,,,,,,pendiente
-2118,Chen Ching-Yuan,Vitamin P4,,,,,,,,,pendiente
-2119,Daniel Correa Mejía,Vitamin P4,,,,,,,,,pendiente
-2120,Felix de Clercq,Vitamin P4,,,,,,,,,pendiente
-2121,Eliza Douglas,Vitamin P4,,,,,,,,,pendiente
-2122,Kyle Dunn,Vitamin P4,,,,,,,,,pendiente
+2116,Alvaro Barrington,Vitamin P4,,1983-02-01,"Caracas, Venezuela",Londres,,,https://en.wikipedia.org/wiki/Alvaro_Barrington,,factual-web
+2117,Maria Berrio,Vitamin P4,,1982,"Bogotá, Colombia",Nueva York,,,https://en.wikipedia.org/wiki/Maria_Berrio,,factual-web
+2118,Chen Ching-Yuan,Vitamin P4,,1984,"Tainan, Taiwán",,,,,,factual-web
+2119,Daniel Correa Mejía,Vitamin P4,,1986,"Medellín, Colombia",Berlín,,,,,factual-web
+2120,Felix de Clercq,Vitamin P4,,1997,"Amberes, Bélgica",Bruselas,,,,,factual-web
+2121,Eliza Douglas,Vitamin P4,,1984,"Nueva York, EE.UU.",Fráncfort,,,https://en.wikipedia.org/wiki/Eliza_Douglas,Bienal de Venecia 2017,factual-web
+2122,Kyle Dunn,Vitamin P4,,1990,"Livonia, EE.UU.",Brooklyn,,,,,factual-web
 2123,Jadé Fadojutimi,Vitamin P4 | Prime | Bienal de Venecia,,1993,"Londres, Reino Unido",Londres,,,,"Bienal de Venecia 2022 «The Milk of Dreams», muestra internacional (Alemani)",factual-venecia
 2124,Louis Fratino,Vitamin P4 | Prime | Bienal de Venecia,,1993,"Annapolis, MD, Estados Unidos",Brooklyn,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
-2125,Hao Liang,Vitamin P4,,,,,,,,,pendiente
-2126,Kei Imazu,Vitamin P4,,,,,,,,,pendiente
-2127,Mit Jai Inn,Vitamin P4,,,,,,,,,pendiente
-2128,Vojtech Kovárík,Vitamin P4,,,,,,,,,pendiente
-2129,Matthew Krishanu,Vitamin P4,,,,,,,,,pendiente
+2125,Hao Liang,Vitamin P4,,1983,"Chengdú, China",Pekín,,,https://en.wikipedia.org/wiki/Hao_Liang,,factual-web
+2126,Kei Imazu,Vitamin P4,,1980,"Yamaguchi, Japón",,,,,,factual-web
+2127,Mit Jai Inn,Vitamin P4,,1960,"Chiang Mai, Tailandia",Chiang Mai,,,,,factual-web
+2128,Vojtech Kovárík,Vitamin P4,,1993,,Brno,,,,,factual-web
+2129,Matthew Krishanu,Vitamin P4,,1980,"Bradford, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Matthew_Krishanu,,factual-web
 2130,Ad Minoliti,Vitamin P4 | Prime | Bienal de Venecia,,1980,Argentina,Buenos Aires,,,,"Bienal de Venecia 2019 «May You Live in Interesting Times», muestra internacional (Rugoff)",factual-venecia
-2131,Paul P,Vitamin P4,,,,,,,,,pendiente
-2132,Qiu Xiaofei,Vitamin P4,,,,,,,,,pendiente
+2131,Paul P,Vitamin P4,,1977,"Hamilton, Canadá",Toronto,,,https://en.wikipedia.org/wiki/Paul_P.,,factual-web
+2132,Qiu Xiaofei,Vitamin P4,,1977,"Harbin, China",Pekín,,,https://en.wikipedia.org/wiki/Qiu_Xiaofei,,factual-web
 2133,Salman Toor,Vitamin P4 | Prime | Bienal de Venecia,,1983,"Lahore, Pakistán",Nueva York,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
 2134,Kay Walkingstick,Vitamin P4 | Bienal de Venecia,,1935,"Siracusa, NY, Estados Unidos",Pensilvania,,,,"Bienal de Venecia 2024 «Stranieri Ovunque», muestra internacional (Pedrosa)",factual-venecia
-2135,Michaela Yearwood-Dan,Vitamin P4,,,,,,,,,pendiente
-2136,Rachel Goodyear,Vitamin D3,,,,,,,,,pendiente
+2135,Michaela Yearwood-Dan,Vitamin P4,,1994,"Londres, Reino Unido",Londres,,,,,factual-web
+2136,Rachel Goodyear,Vitamin D3,,1978,"Oldham, Reino Unido",Manchester,,,,,factual-web
 2137,Rebecca Salter,Vitamin D3,,1955,"Sussex, United Kingdom",,,,http://www.tate.org.uk/art/artists/rebecca-salter-2343,,factual-tate
-2138,Ana Laura Aláez,Cream,,,,,,,,,pendiente
+2138,Ana Laura Aláez,Cream,,1964,"Bilbao, España",,,,https://en.wikipedia.org/wiki/Ana_Laura_Al%C3%A1ez,,factual-web
 2139,Tariq Alvi,Cream,,,,,,,,,pendiente
 2140,Janine Antoni,Cream,,,,,,,,,pendiente
 2141,Oladele Ajiboye Bamgboye,Cream,,,,,,,,,pendiente
