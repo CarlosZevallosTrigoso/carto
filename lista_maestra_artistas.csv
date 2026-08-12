@@ -1732,7 +1732,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1731,Michal Rovner,Whitney Biennial,,1957-11-07,"Tel Aviv, Israel",Nueva York,,,https://en.wikipedia.org/wiki/Michal_Rovner,"Whitney Biennial 2000, Nueva York; Premio de Israel (2023)",factual-web
 1732,®™ark,Whitney Biennial,,,,,,,https://en.wikipedia.org/wiki/RTMark,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
 1733,Katherine Sherwood,Whitney Biennial,,1952,"Nueva Orleans, EE.UU.",Rodeo,,,https://en.wikipedia.org/wiki/Katherine_Sherwood,"Whitney Biennial 2000, Nueva York",factual-web
-1734,John F. Simon Jr.,Whitney Biennial,,1963,,Warwick,,,https://en.wikipedia.org/wiki/John_F._Simon_Jr.,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
+1734,John F. Simon Jr.,Whitney Biennial,,1963,"Shreveport, EE.UU.",Warwick,,,https://en.wikipedia.org/wiki/John_F._Simon_Jr.,"Whitney Biennial 2000, Nueva York; Bienal Whitney 2000",factual-web
 1735,Al Souza,Whitney Biennial,,1944,"Plymouth, EE.UU.",Houston,,,,"Whitney Biennial 2000, Nueva York",factual-web
 1736,Darcy Steinke,Whitney Biennial,,1962-04-25,"Oneida, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Darcey_Steinke,"Whitney Biennial 2000, Nueva York",factual-web
 1737,Elisabeth Subrin,Whitney Biennial,,1965,"Boston, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Elisabeth_Subrin,"Whitney Biennial 2000, Nueva York",factual-web
@@ -1742,7 +1742,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1741,Ayanna U'Dongo,Whitney Biennial,,,,,,,,"Whitney Biennial 2000, Nueva York",pendiente
 1742,Chris Verene,Whitney Biennial,,1969-10-29,"DeKalb, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Chris_Verene,"Whitney Biennial 2000, Nueva York",factual-web
 1743,Annette Weintraub,Whitney Biennial,,1946,,Nueva York,,,https://en.wikipedia.org/wiki/Annette_Weintraub,"Whitney Biennial 2000, Nueva York",factual-web
-1744,Yvonne Welbon,Whitney Biennial,,1967,,Chicago,,,https://en.wikipedia.org/wiki/Yvonne_Welbon,"Whitney Biennial 2000, Nueva York",factual-web
+1744,Yvonne Welbon,Whitney Biennial,,1967,"Chicago, EE.UU.",Chicago,,,https://en.wikipedia.org/wiki/Yvonne_Welbon,"Whitney Biennial 2000, Nueva York",factual-web
 1745,Krzysztof Wodiczko,Whitney Biennial,,1943,"Varsovia, Polonia",,,,https://en.wikipedia.org/wiki/Krzysztof_Wodiczko,"Whitney Biennial 2000, Nueva York",factual-web
 1746,Yukinori Yanagi,Whitney Biennial,,1959,"Fukuoka, Nihon",,,,http://www.tate.org.uk/art/artists/yukinori-yanagi-2676,"Whitney Biennial 2000, Nueva York",factual-tate
 1747,D-L Alvarez,Vitamin D,,1965,,,,,https://www.moma.org/artists/27243,,factual-web
@@ -1752,7 +1752,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1751,Devendra Banhart,Vitamin D,,1981-05-30,"Houston, EE.UU.",Los Ángeles,,,https://en.wikipedia.org/wiki/Devendra_Banhart,,factual-web
 1752,Anna Barriball,Vitamin D,,1972,"Plymouth, United Kingdom",,,,http://www.tate.org.uk/art/artists/anna-barriball-10168,,factual-tate
 1753,Shannon Bool,Vitamin D,,1972,"Comox, Canadá",Berlín,,,https://en.wikipedia.org/wiki/Shannon_Bool,,factual-web
-1754,Jesse Bransford,Vitamin D,,1972,,Nueva York,,,https://www.jessebransford.com/,,factual-web
+1754,Jesse Bransford,Vitamin D,,1972,"Atlanta, EE.UU.",Nueva York,,,https://www.jessebransford.com/,,factual-web
 1755,Fernando Bryce,Vitamin D,,1965,"Lima, Perú",,,,http://www.tate.org.uk/art/artists/fernando-bryce-9098,,factual-tate
 1756,Los Carpinteros,Vitamin D,,1971,Cuba,,,,http://www.tate.org.uk/art/artists/los-carpinteros-marco-antonio-castillo-valdes-dagoberto-rodriguez-sanchez-9596,,factual-tate
 1757,Raimond Chaves,Vitamin D,,1963,"Santafé de Bogotá, D.C., Colombia",,,,http://www.tate.org.uk/art/artists/raimond-chaves-11461,,factual-tate
@@ -1780,7 +1780,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1779,Ricardo Lanzarini,Vitamin D,,1963,"Montevideo, Uruguay",Montevideo,,,,,factual-web
 1780,Graham Little,Vitamin D,,1972,"Dundee, Reino Unido",Londres,,,,,factual-web
 1781,Mark Lombardi,Vitamin D,,1951,"Syracuse, EE.UU.",,,,https://en.wikipedia.org/wiki/Mark_Lombardi,fallecido 2000,factual-web
-1782,Mindaugas Lukosaitis,Vitamin D,,,,Vilna,,,,Bienal de São Paulo (2004),factual-web
+1782,Mindaugas Lukosaitis,Vitamin D,,1980,"Šiauliai, Lituania",Vilna,,,,Bienal de São Paulo (2004),factual-web
 1783,Marco Maggi,Vitamin D,,1957,"Montevideo, Uruguay",Nueva York,,,https://en.wikipedia.org/wiki/Marco_Maggi,Bienal de Venecia 2015,factual-web
 1784,Frank Magnotta,Vitamin D,,,,Nueva York,,,https://www.moma.org/artists/28700,,factual-web
 1785,Dominic McGill,Vitamin D,,1963,,Brighton,,,,,factual-web
@@ -1833,7 +1833,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 1832,Anthony Goicolea,Vitamin Ph,,1971,"Atlanta, EE.UU.",Brooklyn,,,https://en.wikipedia.org/wiki/Anthony_Goicolea,,factual-web
 1833,Geert Goiris,Vitamin Ph,,1971,"Bornem, Bélgica",Amberes,,,,,factual-web
 1834,AES+F,Vitamin Ph | Cream,,,,,,,,,pendiente
-1835,Mauricio Guillen,Vitamin Ph,,1971,,Ciudad de México,,,,,factual-web
+1835,Mauricio Guillen,Vitamin Ph,,1971,"Ciudad de México, México",Ciudad de México,,,,,factual-web
 1836,Jitka Hanzlová,Vitamin Ph,,1958,"Náchod, Chequia",Essen,,,https://en.wikipedia.org/wiki/Jitka_Hanzlov%C3%A1,,factual-web
 1837,Anne Hardy,Vitamin Ph,,1970,"Londres, Reino Unido",Londres,,,https://en.wikipedia.org/wiki/Anne_Hardy,,factual-web
 1838,Jonathan Hernández,Vitamin Ph,,1972,"Ciudad de México, México",Ciudad de México,,,,,factual-web
