@@ -2332,7 +2332,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2331,Blake Daniels,100 Painters of Tomorrow,,1990,"Cincinnati, EE.UU.",,,,,,factual-web
 2332,Adam Dix,100 Painters of Tomorrow,,1967,,Londres,,,,,factual-web
 2333,Dejan Dukic,100 Painters of Tomorrow,,,,Viena,,,,,factual-web
-2334,Zhang Fan,100 Painters of Tomorrow,,,,,,,,,pendiente
+2334,Zhang Fan,100 Painters of Tomorrow,,,,,,,,incluido en el libro 100 Painters of Tomorrow 2014,factual-web
 2335,Madeline von Foerster,100 Painters of Tomorrow,,1973,"San Francisco, EE.UU.",,,,https://en.wikipedia.org/wiki/Madeline_von_Foerster,,factual-web
 2336,Marc Freeman,100 Painters of Tomorrow,,1979,"Melbourne, Australia",Melbourne,,,https://marcfreeman.com.au,,factual-web
 2337,Nuno Gil,100 Painters of Tomorrow,,1983,"Lisboa, Portugal",,,,,,factual-web
@@ -2349,7 +2349,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2348,Emily Platzer,100 Painters of Tomorrow,,1989,"Hampshire, Reino Unido",París,,,https://www.emilyplatzer.co.uk,seleccionada en 100 Painters of Tomorrow (2014),factual-web
 2349,Anna Ring,100 Painters of Tomorrow,,,,,,,,,pendiente
 2350,Richard Roth,100 Painters of Tomorrow,,1946,"Nueva York, EE.UU.",Richmond,,,,,factual-web
-2351,Jayanta Roy,100 Painters of Tomorrow,,,,,,,,,pendiente
+2351,Jayanta Roy,100 Painters of Tomorrow,,,,Calcuta,,,https://jayantaroydotme.wordpress.com/,"Bachelor of Visual Arts, Govt College of Art & Crafts, Calcuta, 1997; incluido en 100 Painters of Tomorrow (Thames & Hudson), 2014",factual-web
 2352,James Ryan,100 Painters of Tomorrow,,,,,,,,,pendiente
 2353,Paweł Śliwiński,100 Painters of Tomorrow,,1984,"Chełm, Polonia",Varsovia,,,,,factual-web
 2354,Łukasz Stokłosa,100 Painters of Tomorrow,,1986,"Kalwaria Zebrzydowska, Polonia",Cracovia,,,,,factual-web
@@ -3079,7 +3079,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3078,Mapa Teatro,Bienal de São Paulo,,,,Bogotá,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); 1984 fundado en París; 2018 Medalla Goethe",factual-web
 3079,Mark Lewis,Bienal de São Paulo,,1958,"Hamilton, Canadá",Londres,,,https://en.wikipedia.org/wiki/Mark_Lewis_(artist),"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche); Bienal de Venecia 2009",factual-web
 3080,Marta Neves,Bienal de São Paulo,,1964,"Belo Horizonte, Brasil",,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
-3081,Michael Kessus Gedalyovich,Bienal de São Paulo,,,,,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",pendiente
+3081,Michael Kessus Gedalyovich,Bienal de São Paulo,,,,,,,https://michaelgedalyovich.wordpress.com/,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3082,Nahum Zenil,Bienal de São Paulo,,1947,"Chicontepec, México",,,,https://en.wikipedia.org/wiki/Nahum_B._Zenil,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3083,Nilbar Güreş,Bienal de São Paulo,,1977,"Estambul, Turquía",,,,https://en.wikipedia.org/wiki/Nilbar_Güreş,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
 3084,Nurit Sharett,Bienal de São Paulo,,,,Tel Aviv,,,,"31ª Bienal de São Paulo «Como falar de coisas que não existem» (2014, Esche)",factual-web
@@ -3204,7 +3204,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3203,Palle Nielsen,Bienal de São Paulo,,1920-08-08,"Copenhague, Dinamarca",,,,https://en.wikipedia.org/wiki/Palle_Nielsen,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); publicó la serie de linograbados Orpheus and Eurydice en 1959; fallecido 2000",factual-web
 3204,Paulo Bruscky,Bienal de São Paulo,,1949,"Recife, Brasil",Recife,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); pionero del arte postal en Brasil desde 1973; beca Guggenheim 1981; obras adquiridas por el MoMA 2013",factual-web
 3205,Pedro Barateiro,Bienal de São Paulo,,1979,"Almada, Portugal",Lisboa,,,https://en.wikipedia.org/wiki/Pedro_Barateiro,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); exposición Theatre of Hunters en la Kunsthalle Basel 2010",factual-web
-3206,Pedro Costa,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias)",pendiente
+3206,Pedro Costa,Bienal de São Paulo,,1958-12-30,"Lisboa, Portugal",Lisboa,,,https://en.wikipedia.org/wiki/Pedro_Costa,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); debutó con el largometraje 'O Sangue' (1989); premiado en Cannes por 'No Quarto da Vanda' (2002); ganó el Leopardo de Oro a mejor dirección en Locarno por 'Cavalo Dinheiro' (2014); ganó el Leopardo de Oro por 'Vitalina Varela' (2019)",factual-web
 3207,Pixação SP,Bienal de São Paulo,,,,,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); intervención en la 28ª Bienal de São Paulo en 2008",factual-web
 3208,Qiu Anxiong,Bienal de São Paulo,,1972,"Chengdu, China",Shanghái,,,,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); fundó el Museum of Unknown 2007",factual-web
 3209,Roberto Jacoby,Bienal de São Paulo,,1944,"Buenos Aires, Argentina",Buenos Aires,,,https://en.wikipedia.org/wiki/Roberto_Jacoby,"29ª Bienal de São Paulo «Há sempre um copo de mar para um homem navegar» (2010, dos Anjos/Farias); Primer Manifiesto del Arte de los Medios de Comunicación de Masas 1966; participación en Tucumán Arde 1968; beca Guggenheim 2002; retrospectiva en el Museo Reina Sofía 2011",factual-web
@@ -3360,76 +3360,76 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3359,Hao Jingban,Bienal de São Paulo,,1985,"Taiyuan, China",Pekín,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); proyecto Beijing Ballroom iniciado en 2012; premio Han Nefkens Foundation–ARCOmadrid de videoarte en 2019",factual-web
 3360,Helena Uambembe,Bienal de São Paulo,,1994,"Pomfret, Sudáfrica",,,,http://www.uambembe.com,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); David Koloane Award 2019; Baloise Art Prize (Art Basel) 2022; beca DAAD 2023",factual-web
 3361,Josèfa Ntjam,Bienal de São Paulo,,1992,"Metz, Francia",Saint-Étienne,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",factual-web
-3362,Juliana dos Santos,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3363,Julianknxx,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3364,Kamala Ibrahim Ishag,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3365,Laila Hida,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3366,Leiko Ikemura,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3367,Leo Asemota,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3368,Leonel Vásquez,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3369,Lidia Lisbôa,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3370,Malika Agueznay,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3371,Mansour Ciss Kanakassy,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3372,Mao Ishikawa,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3373,Márcia Falcão,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3374,María Magdalena Campos-Pons,Bienal de São Paulo | Bienal de La Habana,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); Bienal de La Habana (participación documentada, edición por precisar)",pendiente
-3375,Marlene Almeida,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3376,Maxwell Alexandre,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3377,Metta Pracrutti,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3378,Michele Ciacciofera,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3379,Ming Smith,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3380,Minia Biabiany,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3381,Moffat Takadiwa,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3382,Moisés Patrício,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3383,Myriam Omar Awadi,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3384,Nádia Taquary,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3385,Noor Abed,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3386,Olivier Marboeuf,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3387,Pol Taburet,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3388,Raukura Turei,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3389,Rebeca Carapiá,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3390,Richianny Ratovo,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3391,Ruth Ige,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3392,Sadikou Oukpedjo,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3393,Sallisa Rosa,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3394,Sara Sejin Chang,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3395,Sérgio Soarez,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3396,Sertão Negro,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3397,Suchitra Mattai,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3398,Tanka Fonta,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3399,Thania Petersen,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3400,Théodore Diouf,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3401,Theresah Ankomah,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3402,Trương Công Tùng,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3403,Vilanismo,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3404,Werewere Liking,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3405,Alexandre Paulikevitch,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3406,Boxe Autônomo,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3407,Dorothée Munyaneza,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3408,Marcelo Evelin,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3409,MEXA,Bienal de São Paulo,,,,,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",pendiente
-3410,Abel Azcona,Bienal de La Habana,,,,,,,,14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022),pendiente
-3411,Isabel Muñoz,Bienal de La Habana,,,,,,,,14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022),pendiente
-3412,Sonia Cunliffe,Bienal de La Habana,,,,,,,,14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022),pendiente
+3362,Juliana dos Santos,Bienal de São Paulo,,1987,"São Paulo, Brasil",São Paulo,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participa en la 12ª Bienal del Mercosur (2020); participa en la 3ª Trienal de Artes Frestas (2021); participa en la 36ª Bienal de São Paulo (2025)",factual-web
+3363,Julianknxx,Bienal de São Paulo,,,"Freetown, Sierra Leona",Londres,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); muestra individual Chorus in Rememory of Flight, Barbican, Londres, 2023",factual-web
+3364,Kamala Ibrahim Ishag,Bienal de São Paulo,,1939,"Omdurman, Sudán",Jartum,,,https://en.wikipedia.org/wiki/Kamala_Ibrahim_Ishaq,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); cofunda el Crystalist Group 1971; Premio Príncipe Claus 2019",factual-web
+3365,Laila Hida,Bienal de São Paulo,,1983,"Casablanca, Marruecos",Marrakech,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); funda LE 18 Marrakech en 2013",factual-web
+3366,Leiko Ikemura,Bienal de São Paulo,,1951-08-22,"Tsu, Japón",Berlín,,,https://en.wikipedia.org/wiki/Leiko_Ikemura,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); profesora de pintura en la Universität der Künste de Berlín (1991-2015)",factual-web
+3367,Leo Asemota,Bienal de São Paulo,,1967,"Benin City, Nigeria",Londres,,,https://en.wikipedia.org/wiki/Leo_Asemota,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); realiza Map of a City en 2001; inicia The Ens Project en 2005; participa en la Bienal de Sharjah en 2019",factual-web
+3368,Leonel Vásquez,Bienal de São Paulo,,1981,,,,,https://www.leonelvasquez.com,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",factual-web
+3369,Lidia Lisbôa,Bienal de São Paulo,,,,São Paulo,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participó en la 36ª Bienal de São Paulo 2025",factual-web
+3370,Malika Agueznay,Bienal de São Paulo,,1938,"Marrakech, Marruecos",Casablanca,,,https://en.wikipedia.org/wiki/Malika_Agueznay,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); estudia en la Escuela de Bellas Artes de Casablanca desde 1966; participa en la 36ª Bienal de São Paulo (2025)",factual-web
+3371,Mansour Ciss Kanakassy,Bienal de São Paulo,,1957,"Dakar, Senegal",Berlín,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); 36ª Bienal de São Paulo, 2025",factual-web
+3372,Mao Ishikawa,Bienal de São Paulo,,1953,"Okinawa, Japón",Okinawa,,,https://en.wikipedia.org/wiki/Mao_Ishikawa,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); Premio de Fotografía Sagamihara 2011; Premio a la Trayectoria de la Sociedad Fotográfica de Japón 2019",factual-web
+3373,Márcia Falcão,Bienal de São Paulo,,1985,"Río de Janeiro, Brasil",Río de Janeiro,,,https://fdag.com.br/en/artists/marcia-falcao/,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); presenta su primera individual en São Paulo en Fortes D'Aloia & Gabriel en 2022; participa en la 36ª Bienal de São Paulo en 2025",factual-web
+3374,María Magdalena Campos-Pons,Bienal de São Paulo | Bienal de La Habana,,1959,"Matanzas, Cuba",Nashville,,,https://en.wikipedia.org/wiki/Mar%C3%ADa_Magdalena_Campos_Pons,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); Bienal de La Habana (participación documentada, edición por precisar); emigró a Estados Unidos en 1991",factual-web
+3375,Marlene Almeida,Bienal de São Paulo,,1942,"Bananeiras, Brasil",,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); abre la exposicion Acute Earth en la galeria Carlos/Ishikawa de Londres en 2025; participa en la 36 Bienal de Sao Paulo en 2025",factual-web
+3376,Maxwell Alexandre,Bienal de São Paulo,,1990,"Río de Janeiro, Brasil",Río de Janeiro,,,https://www.maxwellalexandre.faith,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); graduado en Diseño, PUC-Rio 2016",factual-web
+3377,Metta Pracrutti,Bienal de São Paulo,,,,Bombay,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participó en la 36ª Bienal de São Paulo 2025",factual-web
+3378,Michele Ciacciofera,Bienal de São Paulo,,1969,"Nuoro, Italia",París,,,https://www.micheleciacciofera.com,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participa en la 57ª Bienal de Venecia (2017); participa en Documenta 14 (2017); participa en la 36ª Bienal de São Paulo (2025)",factual-web
+3379,Ming Smith,Bienal de São Paulo,,1950,"Detroit, EE.UU.",Nueva York,,,https://en.wikipedia.org/wiki/Ming_Smith,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); primera integrante mujer del Kamoinge Workshop, 1975; primera fotógrafa afroamericana en la colección del MoMA, 1979",factual-web
+3380,Minia Biabiany,Bienal de São Paulo,,1988,"Basse-Terre, Guadalupe",Ciudad de México,,,https://en.wikipedia.org/wiki/Minia_Biabiany,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); funda el proyecto Semillero Caribe 2016",factual-web
+3381,Moffat Takadiwa,Bienal de São Paulo,,1983,"Karoi, Zimbabue",Harare,,,https://en.wikipedia.org/wiki/Moffat_Takadiwa,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); se gradúa en el Harare Polytechnic en 2008",factual-web
+3382,Moisés Patrício,Bienal de São Paulo,,1984,"São Paulo, Brasil",São Paulo,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participó en la 36ª Bienal de São Paulo (2025)",factual-web
+3383,Myriam Omar Awadi,Bienal de São Paulo,,1983,"París, Francia",Le Tampon,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); presenta su obra en el Palais de Tokyo en 2016 y 2021; participa en los Encuentros de Bamako en 2019",factual-web
+3384,Nádia Taquary,Bienal de São Paulo,,1967,"Salvador, Brasil",Salvador,,,https://nadiataquary.com,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); 24ª Bienal de Sídney 2024",factual-web
+3385,Noor Abed,Bienal de São Paulo,,1988,"Jerusalén, Palestina",,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); cofundó la School of Intrusions en Ramala 2020; ganó el Gran Premio de la 36ª Bienal de Artes Gráficas de Liubliana 2025; participó en la 36ª Bienal de São Paulo 2025",factual-web
+3386,Olivier Marboeuf,Bienal de São Paulo,,1971,"Antony, Francia",,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); cofunda la editorial AMOK (1992); dirige el centro de arte Khiasma (2004-2018); participa en la 36ª Bienal de São Paulo (2025)",factual-web
+3387,Pol Taburet,Bienal de São Paulo,,1997,"París, Francia",París,,,https://en.wikipedia.org/wiki/Pol_Taburet,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); Premio Reiffers Art Initiatives, 2022",factual-web
+3388,Raukura Turei,Bienal de São Paulo,,1987,"Auckland, Nueva Zelanda",Auckland,,,https://en.wikipedia.org/wiki/Raukura_Turei,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung)",factual-web
+3389,Rebeca Carapiá,Bienal de São Paulo,,1988,"Salvador, Brasil",,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); se gradúa en artes por la UFBA en 2019; presenta obras comisionadas por la 36ª Bienal de São Paulo en 2025",factual-web
+3390,Richianny Ratovo,Bienal de São Paulo,,1995,"Antananarivo, Madagascar",Antananarivo,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); obtuvo el premio Paritana en 2021; ganó la medalla de oro de pintura en los Juegos de la Francofonía de 2023 en Kinshasa; participó en la 36ª Bienal de São Paulo (2025)",factual-web
+3391,Ruth Ige,Bienal de São Paulo,,1992,"Ile-Ife, Nigeria",Auckland,,,https://en.wikipedia.org/wiki/Ruth_Ige,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); se gradua en Bellas Artes en la Auckland University of Technology en 2016; realiza su exposicion individual Freedom's recurring dream en Johannesburgo en 2022",factual-web
+3392,Sadikou Oukpedjo,Bienal de São Paulo,,1975,"Kétao, Togo",Abiyán,,,https://www.sadikououkpedjo.com,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); se establece en Abiyán y se dedica a la pintura 2013",factual-web
+3393,Sallisa Rosa,Bienal de São Paulo,,1986,"Goiânia, Brasil",,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participó en la Bienal do Barro de Caruaru 2019; homenajeada en el Fica 2024; participó en la 36ª Bienal de São Paulo 2025",factual-web
+3394,Sara Sejin Chang,Bienal de São Paulo,,1977,"Busan, Corea del Sur",Berlín,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participa en la 11ª Bienal de Berlín (2020); recibe el Premio Theodora Niemeijer (2023); participa en la 36ª Bienal de São Paulo (2025)",factual-web
+3395,Sérgio Soarez,Bienal de São Paulo,,1968,"Salvador, Brasil",Salvador,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); seleccionado para la 36ª Bienal de São Paulo, 2025",factual-web
+3396,Sertão Negro,Bienal de São Paulo,,,,Goiânia,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); fundado en 2021 en Goiânia por Dalton Paula y Ceiça Ferreira",factual-web
+3397,Suchitra Mattai,Bienal de São Paulo,,1973,"Georgetown, Guyana",Los Ángeles,,,https://en.wikipedia.org/wiki/Suchitra_Mattai,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); emigra con su familia a Canadá en 1974",factual-web
+3398,Tanka Fonta,Bienal de São Paulo,,1966,"Buea, Camerún",Berlín,,,https://tanka-fonta.com/,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participó en la Bienal de São Paulo (2025); ganó el Premio Wi Di Mimba Wi (2026)",factual-web
+3399,Thania Petersen,Bienal de São Paulo,,1980,"Ciudad del Cabo, Sudáfrica",Ciudad del Cabo,,,https://en.wikipedia.org/wiki/Thania_Petersen,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); estudia en Central Saint Martins de Londres entre 2001 y 2003",factual-web
+3400,Théodore Diouf,Bienal de São Paulo,,1949,"Djigod, Senegal",Zúrich,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); exposición Art sénégalais d'aujourd'hui, Grand Palais, París 1974",factual-web
+3401,Theresah Ankomah,Bienal de São Paulo,,1989,,Accra,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); participó en la 36ª Bienal de São Paulo 2025",factual-web
+3402,Trương Công Tùng,Bienal de São Paulo,,1986,"Dak Lak, Vietnam",Ciudad Ho Chi Minh,,,https://en.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_C%C3%B4ng_T%C3%B9ng,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); se gradúa de la Universidad de Bellas Artes de Ho Chi Minh (2010); exposición individual 'Trail Dust' en Canal Projects, Nueva York (2024); participa en la 36ª Bienal de São Paulo (2025)",factual-web
+3403,Vilanismo,Bienal de São Paulo,,,,São Paulo,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); colectivo fundado en 2021; participante en la 36ª Bienal de São Paulo, 2025",factual-web
+3404,Werewere Liking,Bienal de São Paulo,,1950-05-01,"Bondé, Camerún",Abiyán,,,https://en.wikipedia.org/wiki/Werewere_Liking,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); funda la compañía Ki-Yi Mbock 1980; funda la aldea Ki-Yi 1985; Premio Príncipe Claus 2000; Premio Noma 2005",factual-web
+3405,Alexandre Paulikevitch,Bienal de São Paulo,,1982-02-20,"Beirut, Líbano",Beirut,,,https://en.wikipedia.org/wiki/Alexandre_Paulikevitch,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); regresa a Beirut en 2006; debuta en solitario con 'Mouhawala Oula' en 2009",factual-web
+3406,Boxe Autônomo,Bienal de São Paulo,,,,São Paulo,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); colectivo fundado en São Paulo en 2015; participó en la 36ª Bienal de São Paulo (2025)",factual-web
+3407,Dorothée Munyaneza,Bienal de São Paulo,,1982,"Kigali, Ruanda",Marsella,,,https://en.wikipedia.org/wiki/Doroth%C3%A9e_Munyaneza,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); funda su compania Kadidi en 2013; estrena Samedi Detente en 2014; estrena Unwanted en el Festival de Avinon en 2017",factual-web
+3408,Marcelo Evelin,Bienal de São Paulo,,1962,"Teresina, Brasil",Teresina,,,https://www.demolitionincorporada.com,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); funda la compañía Demolition Incorporada 1995; funda el espacio CAMPO en Teresina 2016",factual-web
+3409,MEXA,Bienal de São Paulo,,,,São Paulo,,,,"36ª Bienal de São Paulo «Nem todo viandante anda estradas» (2025, Ndikung); colectivo activo desde 2015 en São Paulo; residente en la Casa do Povo desde 2016; participó en la 36ª Bienal de São Paulo 2025",factual-web
+3410,Abel Azcona,Bienal de La Habana,,1988-04-01,"Madrid, España",,,,https://en.wikipedia.org/wiki/Abel_Azcona,14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022); comienza su obra de performance en las calles de Pamplona (2005),factual-web
+3411,Isabel Muñoz,Bienal de La Habana,,1951,"Barcelona, España",Madrid,,,,"14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022); World Press Photo, 1999; World Press Photo, 2004; Premio Nacional de Fotografía de España, 2016",factual-web
+3412,Sonia Cunliffe,Bienal de La Habana,,1966,"Lima, Perú",Lima,,,https://sonia-cunliffe.com/,14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022); Bienal Independencia de Cusco 2021; XIV Bienal de La Habana 2022,factual-web
 3413,La Usurpadora,Bienal de La Habana,,,,,,,,14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022),pendiente
-3414,Valérie Mréjen,Bienal de La Habana,,,,,,,,14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022),pendiente
-3415,Antoni Muntadas,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3416,Marta Palau,Bienal de La Habana,,,,,,,,"Bienal de La Habana (participación documentada, edición por precisar)",pendiente
-3417,Liliana Porter,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3418,José Bedia,Bienal de La Habana,,,,,,,,"Bienal de La Habana (participación documentada, edición por precisar)",pendiente
-3419,Nadín Ospina,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3420,Juvenal Ravelo,Bienal de La Habana,,,,,,,,"Bienal de La Habana (participación documentada, edición por precisar)",pendiente
-3421,Rachel Valdés,Bienal de La Habana,,,,,,,,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012),pendiente
-3422,Manuel Mendive,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
-3423,Roberto Fabelo,Bienal de La Habana,,,,,,,,"Bienal de La Habana (participación documentada, edición por precisar)",pendiente
-3424,José A. Toirac,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
-3425,Eduardo Ponjuán,Bienal de La Habana,,,,,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015),pendiente
-3426,Alexia Miranda,Bienal de La Habana,,,,,,,,"Bienal de La Habana (participación documentada, edición por precisar)",pendiente
-3427,Roberto Behar,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
-3428,Edgardo Madanes,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
-3429,Rosario Marquardt,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
-3430,Jorge Orta,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
-3431,Silvia Rivas,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3414,Valérie Mréjen,Bienal de La Habana,,1969,"París, Francia",París,,,,"14ª Bienal de La Habana «Futuro y contemporaneidad» (2021-2022); publicó 'Mon grand-père' (1999); estrenó el documental 'Pork and Milk' (2004); codirigió el largometraje 'En ville', presentado en Cannes en 2011",factual-web
+3415,Antoni Muntadas,Bienal de La Habana,,1942,"Barcelona, España",Nueva York,,,https://en.wikipedia.org/wiki/Antoni_Muntadas,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); participa en Documenta 6 en 1977 y Documenta 10 en 1997; participa en la Bienal Whitney en 1991; recibe el Premio Nacional de Artes Plasticas de Espana en 2005,factual-web
+3416,Marta Palau,Bienal de La Habana,,1934,"Albesa, España",,,,https://en.wikipedia.org/wiki/Marta_Palau_Bosch,"Bienal de La Habana (participación documentada, edición por precisar); primera exposición individual en el Palacio de Bellas Artes 1974; fallecida 2022",factual-web
+3417,Liliana Porter,Bienal de La Habana,,1941,"Buenos Aires, Argentina",Nueva York,,,https://en.wikipedia.org/wiki/Liliana_Porter,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); fundó el New York Graphic Workshop en 1964; becaria Guggenheim 1980,factual-web
+3418,José Bedia,Bienal de La Habana,,1959-01-13,"La Habana, Cuba",Miami,,,https://en.wikipedia.org/wiki/Jos%C3%A9_Bedia_Vald%C3%A9s,"Bienal de La Habana (participación documentada, edición por precisar); se gradúa del Instituto Superior de Arte de La Habana (1981); participa en la primera Bienal de La Habana (1984); representa a Cuba en la Bienal de Venecia (1990)",factual-web
+3419,Nadín Ospina,Bienal de La Habana,,1960,"Bogotá, Colombia",Bogotá,,,https://en.wikipedia.org/wiki/Nad%C3%ADn_Ospina,"7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); primer premio, 34 Salón Nacional de Artistas de Colombia, 1992; beca Guggenheim, 1997",factual-web
+3420,Juvenal Ravelo,Bienal de La Habana,,1934-12-23,"Caripito, Venezuela",,,,https://juvenalravelo.com/,"Bienal de La Habana (participación documentada, edición por precisar); viaja a Francia 1964; Premio Nacional de Cultura de Venezuela 2006",factual-web
+3421,Rachel Valdés,Bienal de La Habana,,1990,"La Habana, Cuba",Barcelona,,,https://rachelvaldes.com/en/,11ª Bienal de La Habana «Prácticas artísticas e imaginarios sociales» (2012); se gradúa en la Academia de Bellas Artes San Alejandro en 2010; expone 'The Beginning of the End' en Times Square en 2016,factual-web
+3422,Manuel Mendive,Bienal de La Habana,,1944-12-15,"La Habana, Cuba",La Habana,,,https://en.wikipedia.org/wiki/Manuel_Mendive,6ª Bienal de La Habana «El individuo y su memoria» (1997); se graduó de la Academia de Artes Plásticas San Alejandro en 1962; obtuvo el Premio Adam Montparnasse en 1968; recibió la Medalla Alejo Carpentier en 1988; nombrado Chevalier des Arts et Lettres en 1994,factual-web
+3423,Roberto Fabelo,Bienal de La Habana,,1950-01-28,"Guáimaro, Cuba",La Habana,,,https://en.wikipedia.org/wiki/Roberto_Fabelo,"Bienal de La Habana (participación documentada, edición por precisar); recibe un premio en la Primera Bienal de La Habana en 1984; recibe el Premio Nacional de Artes Plasticas de Cuba en 2004",factual-web
+3424,José A. Toirac,Bienal de La Habana,,1966,"Guantánamo, Cuba",La Habana,,,https://en.wikipedia.org/wiki/José_Toirac,6ª Bienal de La Habana «El individuo y su memoria» (1997),factual-web
+3425,Eduardo Ponjuán,Bienal de La Habana,,1956,"Pinar del Río, Cuba",,,,,6ª Bienal de La Habana «El individuo y su memoria» (1997); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015); colaboró con René Francisco Rodríguez 1986-1996; Premio Nacional de Artes Plásticas de Cuba 2013,factual-web
+3426,Alexia Miranda,Bienal de La Habana,,1975,"San Salvador, El Salvador",,,,,"Bienal de La Habana (participación documentada, edición por precisar); presenta su primer proyecto de performance 'Espacio Vital' (2003); crea la Primera Convocatoria Nacional de Arte de Acción de El Salvador (2009)",factual-web
+3427,Roberto Behar,Bienal de La Habana,,,,Miami,,,https://en.wikipedia.org/wiki/R_%26_R_Studios,"8ª Bienal de La Habana (2003); cofunda R&R Studios, 1995",factual-web
+3428,Edgardo Madanes,Bienal de La Habana,,1961,"Buenos Aires, Argentina",Buenos Aires,,,https://edgardomadanes.wixsite.com/edgardomadanes,8ª Bienal de La Habana (2003); Primer Premio Salón Manuel Belgrano 2006; Gran Premio de Honor Salón Nacional de Escultura 2011; Premio Konex 2012,factual-web
+3429,Rosario Marquardt,Bienal de La Habana,,1954,"Mar del Plata, Argentina",Miami,,,https://rr-studios.com/portfolio-item/rosario-marquardt/,8ª Bienal de La Habana (2003); cofunda R&R Studios en 1995,factual-web
+3430,Jorge Orta,Bienal de La Habana,,1953,"Rosario, Argentina",París,,,https://en.wikipedia.org/wiki/Jorge_Orta_(artist),8ª Bienal de La Habana (2003); se trasladó a Francia en 1984; fundó el Studio Orta en París en 1991 junto a Lucy Orta; fundó Les Moulins en 1993,factual-web
+3431,Silvia Rivas,Bienal de La Habana,,1957,"Buenos Aires, Argentina",Buenos Aires,,,https://en.wikipedia.org/wiki/Silvia_Rivas,8ª Bienal de La Habana (2003); egresa de la Escuela de Bellas Artes Prilidiano Pueyrredon en 1981; recibe el Premio de la Asociacion Argentina de Criticos de Arte en 2002,factual-web
 3432,Taller La Estampa,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
 3433,Gabriel Valansi,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
 3434,Patricia Piccinini,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
