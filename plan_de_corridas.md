@@ -237,15 +237,26 @@ Estrato pre-consagración: hace visible el embudo en el tiempo.
 - F6-GNY ◇ Greater New York (PS1) · F6-TTT ◇ Tate Triennial
 
 ## F7 · Capa factual masiva
-- F7-MOMA ▶ Ingesta dataset MoMA — BLOQUEADA: requiere agregar media.githubusercontent.com
-  a la configuración de red del entorno (acción de Carlos)
+- F7-MOMA ✔ (13-08-2026) Ingesta Artists.csv del MoMA (15 932 registros, vía Colab de
+  Carlos por el bloqueo Git LFS). Rendimiento: 398 fechas de nacimiento llenadas (solo
+  personas con género declarado; colectivos saltados porque BeginDate=fundación), 193
+  enlaces Wikidata en fichas sin enlace. Salvaguardas: 21 conflictos de fecha NO
+  sobrescritos (log_moma_conflictos.csv, a revisión manual: incluye Sillman, Tomaselli,
+  Sepuya, Atlas con divergencias grandes) y 149 fallecidos según MoMA registrados en
+  log_moma_fallecidos.csv como insumo de la política F8-FALL. Homónimos internos del
+  MoMA: ninguno presente en la base.
 - F7-WIKI ▶ Corrida Colab Wikidata (notebook ya entregado; corrida de Carlos)
 - F7-TATE2 ▶ Segunda pasada Tate con matching laxo supervisado (homónimos a revisión manual)
 
 ## F8 · Depuración editorial
 Decisiones de Carlos con propuesta de Claude:
 - F8-BORDE ▶ Participantes de borde (cineastas, músicos, bandas, arquitectos, escritores)
-- F8-FALL ▶ Política sobre fallecidos (¿solo vigentes o base histórica?)
+- F8-FALL ✔ RESUELTA (13-08-2026, decisión de Carlos): base histórica inclusiva. Los
+  fallecidos entran; columna nueva fecha_muerte en la maestra (respaldada con 149 fechas
+  del log MoMA); los cinco flags «histórico-exhibido» dados de alta (Taller NN,
+  Campuzano/Museo Travesti, Chambi, Eielson, CADA). La regla de póstumos de bienales
+  (exclusión de exhibidos ya fallecidos ANTES de la edición) se mantiene para chips de
+  bienales de vivos ya cosechadas; las exposiciones-hito F11 entran completas.
 - F8-COL ▶ Colectivos menores y duos redundantes con sus miembros
 - F8-DUP ▶ Cacería de duplicados por variantes de nombre (alias, transliteraciones)
 
@@ -253,6 +264,144 @@ Decisiones de Carlos con propuesta de Claude:
 - F9-VOC ▶ Propuesta de vocabulario controlado: ~30 temas, ~18 medios (aprobación Carlos)
 - F9-IDX ▶ Columna calculada «índice de consagración» + filtro por nº de fuentes en el HTML
 - F9-INT01… ▶ Lotes interpretativos de 25-30 fichas/sesión, priorizando multi-fuente
+
+## F11 · Exposiciones-hito (nueva fase, 13-08-2026)
+Dispositivos consagratorios de evento único; chip propio por exposición; entran completas
+incluyendo fallecidos (política F8-FALL resuelta). Estrato histórico asumido.
+- F11-MAG ✔ Magiciens de la Terre (1989, Pompidou/Villette, J.-H. Martin): 98 unidades
+  derivadas de la ficha oficial del catálogo digital Kandinsky (obras por artista);
+  30 cruces (Meireles, Huang Yong Ping, Yang Jiechang, Abramović, Bourgeois, Paik,
+  Kruger, Jaar, Samba, Kingelez, Mahlangu, Bruly Bouabré, Bedia...), 68 altas
+  (Kane Kwei & Paa Joe, Tokoudagba, Munyaradzi, Liautaud, Camara, Mawandjul, Wunuwun,
+  la familia Linares, comunidad Yuendumu...). Grafías normalizadas con alias declarados
+  (Yang Jie Chang, Yongping Huang, Twin Seven Seven, Laurence Weiner en la fuente).
+  Cotejo 98 vs 100 declarados pendiente contra catálogo impreso.
+- F11-WAB ✔ (13-08) When Attitudes Become Form «Live in Your Head» (1969, Kunsthalle
+  Bern, Szeemann): 69/69 vía documento MACBA que reproduce el catálogo razonado de
+  Szeemann (Bezzola/Kurzmeyer 2007). Incluye póstumos Klein y Pascali (política F8-FALL).
+  Buren NO figura en el elenco oficial (intervención clandestina, dato con miga para
+  clases). Grafías normalizadas: Boetti a la ficha existente «Alighiero e Boetti»,
+  Sandback y Wegman a formas establecidas. Itinerancia (Haus Lange Krefeld, ICA Londres)
+  registrada en fuentes.csv, sin chip aparte.
+- F11-ANT ✔ (13-08) Ante América (1992, Biblioteca Luis Ángel Arango, Bogotá;
+  Mosquera/Ponce de León/Weiss): 26/26 por triangulación MADC + ICAA + El Tiempo.
+  11 cruces (Jaar, Salcedo, Bedia, Durham, Mendieta, Camnitzer, Duclós, B. González,
+  Hincapié, Alves, Edwards); 15 altas (Capelán, Caro, Cardoso, Toledo, Chagoya,
+  Gómez-Peña, Elso, los jamaiquinos Brown y George, el haitiano André Pierre...).
+  Póstumos Mendieta y Elso incluidos (F8-FALL).
+- F11-CYC ◇ (13-08) Cocido y crudo (1994-95, Reina Sofía, Dan Cameron): PARCIAL 56/86
+  vía archivo Kopystiansky (Flickr, transcripción del catálogo). Cruces fuertes con el
+  canon de los 90 (Orozco, Hatoum, Dumas, Kcho, Kingelez, Miyajima, Tiravanija, Green,
+  Odenbach, Doherty, R. López Cuenca, Dittborn...). Resto de la lista solo en catálogo
+  impreso (ISBN 84-8026-042-4, biblioteca Reina Sofía/PUCP) → cola de completamiento.
+  «McCarthy, Marlene» de la fuente asumida como Marlene McCarty [REVISAR].
+- F11-UTS ✔ (13-08) Under the Same Sun (2014, Guggenheim NY, Pablo León de la Barra):
+  40 unidades reconstruidas de PIPA Prize (elenco NY) + ARTnews + lista de itinerancia
+  SLG. PERUANOS: Andrade Tudela (sube a 3 chips) y el dúo Mantilla & Chaves (alta;
+  también en viewing room CPPC → conexión doble con el circuito Cisneros).
+  Cruces masivos con CIFO/CPPC/Daros: la muestra funciona como escaparate Guggenheim
+  del mismo circuito de consagración que esos dispositivos construyen (León de la Barra
+  curador UBS MAP; Herrero, Pica, Galindo, Prieto, Bruguera, Téllez, Zaccagnini,
+  Joskowicz, Lamelas, García Torres, Castillo Deball, Cesarco todos multi-dispositivo).
+  Itinerancia Jumex 2015 / SLG 2016 sin chip aparte.
+- F11-RAD ✔ (13-08) Radical Women: Latin American Art 1960-1985 (2017, Hammer, PST:
+  LA/LA; Fajardo-Hill/Giunta): 121 unidades desde el archivo digital oficial del Hammer
+  (120 declarados; el archivo separa a Mayer y Bustamante además de su colectivo Polvo
+  de Gallina Negra). BLOQUE PERUANO de cuatro: Teresa Burga (que suma su segundo
+  dispositivo del día tras CIFO), Gloria Gómez-Sánchez, Johanna Hamann y Victoria Santa
+  Cruz, las tres últimas altas nuevas: la recuperación feminista es la vía por la que
+  entran a la base, dato de primera para clases. Alias: «Marta María Pérez» y «Yeni y
+  Nan» unificados con fichas existentes (Pérez Bravo, Yeni & Nan). Itinerancia
+  Brooklyn Museum / Pinacoteca São Paulo 2018 sin chip aparte.
+- F11-TSC ✔ (13-08) The Short Century (2001, Villa Stuck, Múnich; Enwezor): 55/55 vía
+  Contemporary And. El eje africano histórico entra completo gracias a F8-FALL: Sekoto,
+  Keïta, Enwonwu, Mancoba, Ndiaye, Feni, los modernos de la independencia (sin
+  retroactividad sobre el chip African Artists, cuyas exclusiones se mantienen).
+  Cruces con Magiciens (Bruly Bouabré, Kingelez, Twins Seven-Seven), Dak'Art y Estambul
+  2003 (Bhimji, Geers, Mthethwa): la genealogía Magiciens→Short Century→documenta 11 del
+  circuito africano queda legible en las fichas. Kentridge suma su noveno chip.
+  Flags F8-BORDE: Isaac Julien (cine) incluido por figurar en el elenco.
+- F11-GLC ✔ (13-08) Global Conceptualism (1999, Queens Museum; Farver/Camnitzer/Weiss
+  con once curadores regionales, entre ellos Enwezor, Ramírez, Gao Minglu): 137 unidades
+  del elenco oficial de la página del museo. La exposición-tesis del conceptualismo
+  multicéntrico: ingresa el bloque latinoamericano fundacional (Tucumán Arde como
+  colectivo, Bony, Carreira, Greco, Grippo, Jacoby, Escari, Antonio Manuel), el
+  conceptualismo japonés (Matsuzawa, Akasegawa, Hi Red Center), el coreano Min Joong,
+  el este europeo (Koller, Filko, Kantor, Erdély) y el soviético (Kabakov, Komar &
+  Melamid, Monastyrsky). Camnitzer figura como curador (no como artista) en este
+  dispositivo: nota para el análisis del doble rol. Decisiones de dúos/colectivos y
+  flags borde (Lippard, Siegelaub) declaradas en fuentes.csv.
+- F11-INF ◇ (13-08) Information (1970, MoMA; Kynaston McShine): PARCIAL 62 unidades de
+  las 75 fichas en línea del índice del MoMA (la paginación JS bloqueó el resto; el
+  catálogo declara ~150 participantes de 15 países). Completar por navegación de Carlos
+  (moma.org/artists?exhibition_id=2686, segunda página) o por el catálogo del 50
+  aniversario → cola. Bloque latinoamericano visible: Oiticica, Minujín, Ferrer, Puente
+  y el colectivo Barrio Campo Rico de Canóvanas (Puerto Rico): la tesis de Ramírez
+  sobre el conceptualismo latinoamericano temprano tiene aquí su antecedente
+  institucional. Decisiones de dúos declaradas en fuentes.csv.
+- F11-COM ◇ (13-08) Cities on the Move (1997-1999, Hanru/Obrist): PARCIAL 68 unidades
+  trianguladas de AAA (etiquetas CotM2 + facetas del archivo fotográfico), FORMER WEST,
+  ShanghART y Flash Art; el catálogo Viena/Burdeos declara 103 y la serie 150+, con
+  elencos variables por sede (rasgo estructural de la muestra, no defecto de la
+  cosecha). Entra el eje asiático noventero que faltaba: Cantón (Big Tail Elephant:
+  Lin Yilin, Chen Shaoxiong, Liang Juhui), el pop coreano-tailandés (Choi Jeonghwa,
+  Rawanchaikul, Kusolwong, Sriwanichpoom), el sudeste (Arahmaiani, Dono, Gill, Liew
+  Kung Yu) y la escena japonesa (Mori, Murakami, Araki, Hanayo). Arquitectos con flag
+  borde-arquitectura global. Hanru cierra el día presente en tres chips curatoriales
+  (Estambul 2007, CotM; Gwangju pendiente). Completar por catálogo Hatje → cola.
+- F11 SALDADA salvo Century City (2001, Tate), que queda como opcional a decisión de
+  Carlos.
+- F3-GWA26 ✔ (13-08) Serie Gwangju INAUGURADA por la 16ª edición (2026, Ho Tzu Nyen,
+  «You Must Change Your Life», en curso septiembre-noviembre): 45 unidades del elenco
+  íntegro de e-flux. PERUANA: Maya Watanabe. Cruces notables: Lygia Clark y Július
+  Koller póstumos (F8-FALL rindiendo en bienales vivas), Eviner desde Estambul.
+  La serie histórica 1995-2024 queda en cola con vía definida: e-flux/ARTnews por
+  edición (universes.art bloqueado por JS); prioridad sugerida: 2002 (Esche/Hanru/
+  Sung), 2008 (Enwezor), 2024 (Bourriaud).
+
+## F12 · Museos (nueva fase, 13-08-2026)
+- F12-DAR ✔ (13-08, fuente aportada por Carlos) Colección Daros Latinamerica, Zúrich:
+  118/118 vía daros-latinamerica.net. DECISIÓN EDITORIAL declarada: suma chip pese a ser
+  colección, por selectividad de escala compendio (~118 nombres curados, no colección
+  masiva); la regla colección-sin-chip sigue vigente para colecciones museales de miles.
+  Cruces fuertes con Ante América y el circuito bienal (Bedia, Jaar, Salcedo, Camnitzer,
+  Caro, Cardoso, Gómez-Peña, Mendieta, Meireles, Bruguera, Macchi, Rennó...) que
+  confirman a Daros como consagración europea del corpus latinoamericano. Estrato
+  histórico dentro (Torres-García, Clark, Oiticica, Gego, Soto, Ferrari, Schendel,
+  Arden Quin...). Colectivos: Los Carpinteros, Quintapata; dúo Pareja & Chavez.
+  Alias aplicados: Apóstol→Apostól (grafía de la base a revisar), Bedia.
+  SIN PERUANOS en la colección: dato con miga para el argumento del embudo.
+- F12-CIF ✔ (13-08) CIFO Grants & Commissions (Cisneros Fontanals, Miami), serie
+  2004-2026 completa según la página oficial: 191 premiados con hito por año. 2005 y
+  2021 no figuran en la página (declarado; verificar si hubo ediciones). Dispositivo de
+  premiación por nominación de comité, complementario de Daros: NUEVE peruanos en la
+  serie (Burga 2014, Ortiz 2012, Ruiz 2009, Nakamura y Damiani 2016, Fiedler 2017,
+  Martínez Garay 2019, Randall-Weeks 2024, Solís Bravo 2026), dato de oro para el
+  contraste consagración-coleccionismo vs consagración-premio. Alias: Pareja & Chavez
+  (orden invertido respecto de Daros) unificado en la ficha existente.
+- F12-CPPC ✔/◇ (13-08) Colección Cisneros (CPPC) vía donaciones al MoMA: Modern Gift
+  2016 COMPLETA (37/37, post.moma.org con conteo de obras; núcleo de abstracción
+  geométrica: Clark, Oiticica, Pape, Gego, Soto, Otero, Schendel, Maldonado, la escuela
+  concreta brasileña y rioplatense) y Contemporary Gift 2018 PARCIAL (22/48 del
+  comunicado oficial; resto en mo.ma/cisneros → cola). Chip único «Colección Cisneros
+  (CPPC)» con hito por donación, mismo criterio de selectividad que Daros. HALLAZGOS
+  PERUANOS: David Zink Yi en el Contemporary Gift, y la iniciativa global CPPC donó
+  también al MALI de Lima (junto a Blanton, MAM Buenos Aires, Bronx Museum y Reina
+  Sofía) → la donación CPPC-MALI es corrida candidata de alto interés local, vía
+  prensa/MALI.
+- Ecosistema Daros mapeado (13-08): CPPC sin índice público (vías: donación MoMA 2016,
+  catálogo «Concrete Invention», Cisneros Research Guide; peruanos confirmados: Aramburu,
+  Mantilla & Chaves); ESCALA (Essex, ~800 obras) con catálogo en línea dinámico → vía
+  investigador o navegación de Carlos, discutir chip vs capa factual; pendientes de
+  sondear: ISLAA, Halle Collection, Jumex (probable capa factual), Hochschild (¿catálogo
+  público? consultar a Carlos).
+Política aprobada: la retrospectiva/individual institucional suma chip por museo; la
+presencia en colección alimenta capa factual e hitos sin chip (evita que colecciones
+masivas aplasten el índice). Cola inicial con balance Sur-Sur: MALBA, MASP, MAM-SP,
+Museo de la Solidaridad Allende, MUAC, Chopo, Tamayo, MALI, MAC Lima, Reina Sofía,
+MACBA, Pompidou, Tate Modern, Stedelijk, Van Abbemuseum, Zeitz MOCAA, Mathaf, M+,
+Mori, MMCA Seúl, New Museum, Studio Museum Harlem. Vía de cosecha por decidir museo a
+museo (archivos de exposiciones en línea de calidad muy dispar).
 
 ## F10 · Publicación
 - F10-GH ▶ GitHub Pages: separar CSV del HTML, README, licencia de datos
