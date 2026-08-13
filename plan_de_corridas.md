@@ -389,6 +389,85 @@ incluyendo fallecidos (política F8-FALL resuelta). Estrato histórico asumido.
   también al MALI de Lima (junto a Blanton, MAM Buenos Aires, Bronx Museum y Reina
   Sofía) → la donación CPPC-MALI es corrida candidata de alto interés local, vía
   prensa/MALI.
+- F13-VEL ✔ (13-08) Premio Velázquez de las Artes Plásticas (Ministerio de Cultura,
+  España), serie 2002-2025 completa: 23 laureados con hito por año (2012 hueco
+  declarado). Dispositivo de consagración estatal-iberoamericana por trayectoria:
+  los cruces (Meireles, Salcedo, Barrio, Minujín, Vicuña, Bruguera, Cerrato, Belli)
+  muestran la convergencia tardía del Estado español sobre el canon que CIFO, Daros
+  y las bienales construyeron antes: material de primera para periodizar la
+  consagración por capas. Belli acumula Velázquez 2025 + CIFO 2026. Nueva fase F13
+  (premios como dispositivo) abierta. F13-HBP ✔ (13-08) Hugo Boss Prize 1996-2020
+  COMPLETA: 79 unidades (13 ganadores + shortlists íntegras con hito diferenciado
+  ganador/finalista). Dispositivo cerrado (discontinuado 2022): primera serie completa
+  de principio a fin en la base, ideal para clase como ciclo de vida entero de un
+  premio corporativo-museal. Cruces masivos con el circuito bienal (Kentridge, Vicuña,
+  Bruguera, Cai, HYP, Allora & Calzadilla, Alÿs, Margolles); shortlist temprana
+  (1996-2000) apostó por lo que después consagraron las bienales → el premio como
+  predictor. F13-AMU ✔ (13-08) Artes Mundi (Cardiff)
+  2004-2026: ganadores completos (11 unidades-edición) + shortlist AM9 2021 premiada
+  íntegra con hito propio + shortlist AM11 completa; shortlists 2004-2019 en cola.
+  HALLAZGO PERUANO MAYOR: Antonio Paucar GANA Artes Mundi 11 (anunciado 2026), el
+  premio de arte contemporáneo más dotado del Reino Unido; alta nueva, ficha
+  prioritaria de enriquecimiento. El premio muestra el giro sur-global del circuito
+  británico (Margolles, Gates, Akomfrah, Apichatpong, Havini, Paucar). F13-NAS ✔ (13-08)
+  Nasher Prize (Dallas) 2016-2026 COMPLETA: 9 laureados, disciplina única (escultura).
+  Salcedo, Huyghe, Gates y Baghramian multi-premio con Hugo Boss/Velázquez: la capa
+  de premios revela un subcircuito propio de consagración cruzada. CRITERIO DE CARLOS
+  (13-08): premios transdisciplinares genéricos NO entran como chip (descartados
+  Premio Nacional de Cultura Perú y Prince Claus por la misma razón); solo premios
+  específicos de artes visuales. F13-JUB ✔ (13-08) Premio Julius
+  Baer a las artistas latinoamericanas (MAMBO Bogotá), ediciones I-II completas
+  (2020 Jarpa, 2022 Gallardo, con finalistas); posteriores a 2022 en cola. PERUANAS
+  finalistas: Sandra Gamarra (I) y Ximena Garrido-Lecca (II), ambas ya en la base:
+  suman chip. Jarpa acumula CIFO 2025 + Julius Baer 2020 + Bienal de Cuenca; el
+  subcircuito de premios latinoamericano queda conectado con el suizo-bancario.
+  F13-TUR ✔ (13-08) Turner Prize 1984-2025 COMPLETA: 182 unidades (42 ediciones;
+  ganadores + shortlists íntegras). DECISIONES DE CARLOS (13-08): (a) alcance británico
+  aceptado — la definición Tate de «británico» (trabaja en GB o nacido en GB trabajando
+  globalmente) hace del premio un registro del giro diaspórico del campo, pieza británica
+  del mosaico regional de la capa de premios; (b) tramo 1984-1990 con exclusión de
+  nominados no-artistas (Kalinovska 1985, McGonagle 1987, declarados); 1988 sin shortlist
+  oficial → hito «mención»; 1990 sin premio; 2019 premio compartido ×4; 2020 bursaries ×10
+  con hito propio «Turner Bursary». Errata corregida: Arika tenía nominación 2021 y es
+  bursary 2020. 65 altas (Gormley, Freud, R. Hamilton, Jarman, Caulfield, Chadwick,
+  I. H. Finlay, Gallaccio, Le Bas, Kaur, Sin Wai Kin, etc.); 102 fichas existentes
+  actualizadas, 61 chips nuevos sobre fichas previas. En participaciones los hitos Turner
+  migran de evento «otro» a evento propio «Turner Prize» (consistencia con Hugo Boss).
+  Alias pendientes para F8-DUP: Sam Taylor-Wood/Taylor-Johnson y Spartacus/Monster
+  Chetwynd (altas con nombre de época del premio). F1-TUR86 saldada por esta corrida.
+  F13-PIM ✔ (13-08) Praemium Imperiale, pintura y escultura 1989-2025 COMPLETA por
+  listas oficiales del sitio del premio: 73 unidades (38 pintura con doblete inaugural
+  de Kooning/Hockney; 36 escultura; sin edición 2020, pandemia). 34 altas, 39 fichas
+  actualizadas. La predicción de rendimiento casi nulo en altas falló: el premio trajo
+  el estrato moderno-tardío que ningún circuito bienal contemporáneo había capturado
+  (de Kooning, Johns, Rauschenberg, Twombly, Soulages, Chillida, Caro, Bourgeois vía
+  chip nuevo, Saint Phalle, Christo & Jeanne-Claude). Subcircuito de consagración
+  cruzada Turner+Praemium: Kapoor, Gormley, Penone, Hatoum, Doig, R. Hamilton, R. Long,
+  Cragg — ocho dobles coronas británico-japonesas, material directo para la
+  periodización por capas. Labilidad de categoría registrada como dato del dispositivo
+  (Viola, Cai y Salgado en «pintura»; Abramović y Miyake en «escultura»); Miyake
+  encolado en F8-BORDE como participante de borde (diseño de moda). Altas con forma
+  de la fuente (Matta, César, Balthus): reconciliación onomástica delegada a la
+  corrida Wikidata. F13-JUB veta post-2022 SALDADA EN
+  NEGATIVO (13-08): tres búsquedas dirigidas (es/en) sin evidencia de III edición del
+  Premio Julius Baer; la ficha del MAMBO actualizada a nov-2025 registra solo las dos
+  ediciones falladas (2020, 2022). Vigilancia en corridas futuras, sin especulación de
+  edición 2024. F13-AMU-SL ◇ (13-08) Shortlists Artes Mundi históricas, PARCIAL 3/8:
+  AM1 2004 íntegra (10, vía página oficial de edición: Antoni, Lee Bul, Tim Davies,
+  Fraser, Nguyen-Hatsushiba, Rovner, Searle, Fiona Tan, Kara Walker + Xu Bing), AM5 2012
+  íntegra (7, vía Artforum: Bäckström, Bruguera, Phil Collins, Gowda, Mikšys, Šušteršič
+  + Margolles), AM8 2018-19 íntegra (5, vía C&/BBC: Boghiguian, Khalili, Nkanga, Paglen
+  + Apichatpong). 19 unidades, 4 altas (Searle, Mikšys, Fraser, Tim Davies). Capa Artes
+  Mundi migrada a evento propio en participaciones. PENDIENTES con conteo verificado:
+  AM2 2006 (8; confirmados parciales Erlich, Dias & Riedweg), AM3 2008 (9; confirmados
+  parciales Konaté, Rennó, Vasco Araújo), AM4 2010 (8), AM6 2014-15 (10; confirmados
+  parciales Gates W, Fast, Kjartansson, Iveković, Bunga, Mirza & Butler), AM7 2016-17
+  (6). Obstáculo técnico documentado: las páginas de edición de artesmundi.org truncan
+  la sección Artists (carga JS) y web.archive está bloqueado en este entorno; vía para
+  la próxima corrida: prensa de época edición por edición o navegación de Carlos.
+  Cruces notables de esta tanda: Bruguera y Phil Collins acumulan Artes Mundi tras
+  Turner/Estambul; Kara Walker y Fiona Tan entran al circuito Cardiff desde el canon
+  bienal. F13 QUEDA CERRADA salvo el completamiento AM-SL y la vigilancia JUB.
 - Ecosistema Daros mapeado (13-08): CPPC sin índice público (vías: donación MoMA 2016,
   catálogo «Concrete Invention», Cisneros Research Guide; peruanos confirmados: Aramburu,
   Mantilla & Chaves); ESCALA (Essex, ~800 obras) con catálogo en línea dinámico → vía
