@@ -1,0 +1,86 @@
+chip,tipo,evento_o_titulo,edicion,anio,titulo_edicion,curaduria,cobertura,n_ingeridos,via_fuente,fase_corrida,fecha_corrida,notas
+Bienal de Venecia,bienal,"Bienal de Venecia, muestra internacional",2024,2024,Stranieri Ovunque,Pedrosa,completa,142,web (listas oficiales/prensa),F1-VEN24,,Nucleo Storico póstumo excluido
+Bienal de Venecia,bienal,"Bienal de Venecia, muestra internacional",2022,2022,The Milk of Dreams,Alemani,completa,123,web (listas oficiales/prensa),F1-VEN22,,solo vivos
+Bienal de Venecia,bienal,"Bienal de Venecia, muestra internacional",2019,2019,May You Live in Interesting Times,Rugoff,completa,79,web (listas oficiales/prensa),F1-VEN19,,79/79
+Bienal de Venecia,bienal,"Bienal de Venecia, muestra internacional",2015,2015,All the World’s Futures,Enwezor,completa,121,web (listas oficiales/prensa),F1-VEN15,,plataformas excluidas; colectivos productores dentro
+Bienal de Venecia,bienal,"Bienal de Venecia, muestra internacional",2013,2013,Il Palazzo Enciclopedico,Gioni,completa,108,web (listas oficiales/prensa),F1-VEN13,,outsiders/históricos/colecciones anónimas excluidos
+Bienal de Venecia,bienal,"Bienal de Venecia, muestra internacional",2009,2009,Fare Mondi,Birnbaum,completa,82,web (listas oficiales/prensa),F1-VEN09,,bloque GUTAI excluido como ancla histórica
+Bienal de Venecia,bienal,"Bienal de Venecia, muestra internacional",2007,2007,"Think with the Senses, Feel with the Mind",Storr,completa,84,web (listas oficiales/prensa),F1-VEN07,,fuente: anuncio Artforum; LeWitt y Rhoades con marca
+Bienal de Venecia,premio,"León de Oro (registrado como hito, no chip propio)",varias,1997-2024,,,parcial,,web,F1-LDO,,"ediciones 1997, 2001, 2007-2024 en hitos; consolidación F1-LDO en cola"
+Documenta,bienal,"documenta, Kassel",11,2002,,,completa,,web,F0-DOC11,,
+Documenta,bienal,"documenta, Kassel",12,2007,,,completa,,web,F0-DOC12,,
+Documenta,bienal,"documenta, Kassel",13,2012,,,completa,,web,F0-DOC13,,
+Documenta,bienal,"documenta, Kassel",14,2017,,,completa,,web,F0-DOC14,,
+Whitney Biennial,bienal,"Whitney Biennial, Nueva York",serie,2000-2024,,,completa,913 (chip),web (listas oficiales),F0-WHI,,13 ediciones según plan; sin desglose por edición en este registro
+Bienal de São Paulo,bienal,Bienal de São Paulo,24,1998,Antropofagia,Herkenhoff,mínima,4,"web (UiU histórico, Itaú Cultural, prensa)",F2-SPB24,,solo Roteiros verificados; catálogo Issuu en cola Colab
+Bienal de São Paulo,bienal,Bienal de São Paulo,25,2002,Iconografias metropolitanas,Hug,mínima,10,"web (UiU histórico, Itaú Cultural, prensa)",F2-SPB25,,vía prensa; catálogo 3 tomos en cola Colab
+Bienal de São Paulo,bienal,Bienal de São Paulo,26,2004,,,parcial,71,"web (UiU histórico, Itaú Cultural, prensa)",F2-SPB26,,representaciones nacionales solo en catálogo (71/135)
+Bienal de São Paulo,bienal,Bienal de São Paulo,27,2006,,,completa,,"web (UiU histórico, Itaú Cultural, prensa)",F2-SPB27,,lista UiU con datos de nacimiento (veta F8-UIU confirmada)
+Bienal de São Paulo,bienal,Bienal de São Paulo,28,2008,Em vivo contato,Mesquita/Cohen,completa,,"web (UiU histórico, Itaú Cultural, prensa)",F2-SPB28,,
+Bienal de São Paulo,bienal,Bienal de São Paulo,29,2010,,,parcial,,"web (UiU histórico, Itaú Cultural, prensa)",F2-SPB29,,~11 adiciones tardías fuera de la lista de anuncio (159 vs 148)
+Bienal de São Paulo,bienal,Bienal de São Paulo,30,2012,,,completa,,"web (UiU histórico, Itaú Cultural, prensa)",F2-SPB30,,
+Bienal de São Paulo,bienal,Bienal de São Paulo,31,2014,,,completa,,"web (UiU histórico, Itaú Cultural, prensa)",F2-SPB31,,
+Bienal de São Paulo,bienal,Bienal de São Paulo,32,2016,Incerteza Viva,Volz,completa,,"web (UiU histórico, Itaú Cultural, prensa)",F2-SPB32,,
+Bienal de São Paulo,bienal,Bienal de São Paulo,33,2018,,,parcial,,"web (UiU histórico, Itaú Cultural, prensa)",F2-SPB33,,colas «among others» de muestras Borges y Caldas en catálogo impreso
+Bienal de São Paulo,bienal,Bienal de São Paulo,34,2021,,,completa,,"web (UiU histórico, Itaú Cultural, prensa)",F2-SPB34,,
+Bienal de São Paulo,bienal,Bienal de São Paulo,35,2023,,,completa,,"web (UiU histórico, Itaú Cultural, prensa)",F2-SPB35,,
+Bienal de São Paulo,bienal,Bienal de São Paulo,36,2025,Nem todo viandante anda estradas,Ndikung,completa,,"web (UiU histórico, Itaú Cultural, prensa)",F2-SPB36,,
+Bienal de La Habana,bienal,Bienal de La Habana,6,1997,El individuo y su memoria,,completa,178,universes-in-universe.de (lista oficial/testigo),F2-HAB6,,"8 peruanos, cohorte fotografía"
+Bienal de La Habana,bienal,Bienal de La Habana,7,2000-2001,Uno más cerca del otro,,completa,168,universes-in-universe.de,F2-HAB7,,exposición central; anotaciones Haupt respetadas
+Bienal de La Habana,bienal,Bienal de La Habana,8,2003,,,completa,147,lista oficial Centro Wifredo Lam vía UiU,F2-HAB8,,país por país; 2 peruanos
+Bienal de La Habana,bienal,Bienal de La Habana,9,2006,Dinámicas de la cultura urbana,,parcial,~23,reseña Herzberg / Art Nexus,F2-HAB9,,8 personales completas + colectiva parcial
+Bienal de La Habana,bienal,Bienal de La Habana,11,2012,Prácticas artísticas e imaginarios sociales,,parcial,~24,EcuRed/BOMB/Cancillería/Excelencias,F2-HAB11,,sección Caribe completa
+Bienal de La Habana,bienal,Bienal de La Habana,12,2015,Entre la idea y la experiencia,,parcial,~38,Artishock/Arteinformado,F2-HAB12,,~38 de 90 invitados; Zona Franca no cosechada
+Bienal de La Habana,bienal,Bienal de La Habana,14,2021-2022,,,mínima,6+~21,prensa + elenco transversal Wikipedia,F2-HAB14,,contexto boicot «Por qué decimos NO»
+Bienal do Mercosul,bienal,"Bienal do Mercosul, Porto Alegre",6,2007,,Camnitzer (pedagógica),completa,,"web (Itaú, Arteinformado, prensa)",F2-MER6,,
+Bienal do Mercosul,bienal,"Bienal do Mercosul, Porto Alegre",9,2013,,,parcial,~35,"web (Itaú, Arteinformado, prensa)",F2-MER9,,"~35 de 60, por sedes vía Secretaría de Cultura RS"
+Bienal do Mercosul,bienal,"Bienal do Mercosul, Porto Alegre",10,2015,,Fidelis,parcial,~43,"web (Itaú, Arteinformado, prensa)",F2-MER10,,vía Itaú/Arteinformado; grueso solo en catálogo; históricos excluidos
+Bienal do Mercosul,bienal,"Bienal do Mercosul, Porto Alegre",12,2020,,Giunta (virtual),mínima,1,"web (Itaú, Arteinformado, prensa)",F2-MER12,,solo Baltar verificada
+Bienal do Mercosul,bienal,"Bienal do Mercosul, Porto Alegre",13,2022,"Trauma, sonho e fuga",Dantas,completa,,"web (Itaú, Arteinformado, prensa)",F2-MER13,,
+Bienal do Mercosul,bienal,"Bienal do Mercosul, Porto Alegre",14,2025,,,completa,,"web (Itaú, Arteinformado, prensa)",F2-MER14,,"cohorte peruana: Rodrigo, López, Evanán, cruce Yahuarcani"
+Bienal do Mercosul,bienal,"Bienal do Mercosul, Porto Alegre",varias,,,,parcial,,"web (Itaú, Arteinformado, prensa)",F2-MER,,14 ediciones representadas en total; desglose fino solo donde documentado
+Bienal de Cuenca,bienal,Bienal de Cuenca,13,,,,casi completa,,web,F2-CUE13,,premios de adquisición registrados como hitos
+Bienal de Cuenca,bienal,Bienal de Cuenca,14,,,,completa,,web,F2-CUE14,,premios de adquisición registrados como hitos
+Bienal de Cuenca,bienal,Bienal de Cuenca,15,,,,casi completa,,web,F2-CUE15,,premios de adquisición registrados como hitos
+Bienal de Cuenca,bienal,Bienal de Cuenca,16,,,,completa,,web,F2-CUE16,,premios de adquisición registrados como hitos
+Dak'Art (Bienal de Dakar),bienal,"Dak'Art, Bienal de Dakar",5,2002,,,completa,,UiU dominio histórico,F4-DAK2002,,con datos de nacimiento
+Dak'Art (Bienal de Dakar),bienal,"Dak'Art, Bienal de Dakar",6,2004,,,completa,,UiU dominio histórico,F4-DAK2004,,
+Dak'Art (Bienal de Dakar),bienal,"Dak'Art, Bienal de Dakar",2016,2016,,,mínima,1,prensa,F4-DAK2016,,Grand Prix Senghor: Limoud
+Dak'Art (Bienal de Dakar),bienal,"Dak'Art, Bienal de Dakar",2018,2018,,,mínima,1,prensa,F4-DAK2018,,Grand Prix Senghor: Adjovi
+Dak'Art (Bienal de Dakar),bienal,"Dak'Art, Bienal de Dakar",2022,2022,,,completa,,lista oficial Contemporary And,F4-DAK2022,,
+Dak'Art (Bienal de Dakar),bienal,"Dak'Art, Bienal de Dakar",2024,2024,,,parcial,44,prensa,F4-DAK2024,,"«The Wake», 44/58"
+Bienal de Estambul,bienal,Bienal Internacional de Estambul,10,2007,"Not Only Possible, But Also Necessary: Optimism in the Age of Global War",Hou Hanru,completa,96,http://universes-in-universe.de/car/istanbul/esp/2007/artists.htm,F3-EST07,2026-08-13,con año/lugar de nacimiento y residencia; flags F8-BORDE declarados en el plan
+Vitamin P1,compendio_editorial,Vitamin P: New Perspectives in Painting (Phaidon),,,,,completa (CSV propio),110,inventario Compass + barrido web,FV / F0-CON,2026-08-11,tomos parciales: ausencia no informativa
+Vitamin P2,compendio_editorial,Vitamin P2 (Phaidon),,,,,completa,121,inventario Compass + barrido web,FV / F0-CON,2026-08-11,tomos parciales: ausencia no informativa
+Vitamin P3,compendio_editorial,Vitamin P3 (Phaidon),,2016,,,completa (verificación cruzada),108,inventario Compass + barrido web,FV / FV-P316,2026-08-11,tomos parciales: ausencia no informativa
+Vitamin D,compendio_editorial,Vitamin D: New Perspectives in Drawing (Phaidon),,2005,,,completa 109/109,109,inventario Compass + barrido web,FV / FV-D05,2026-08-11,tomos parciales: ausencia no informativa
+Vitamin Ph,compendio_editorial,Vitamin Ph: New Perspectives in Photography (Phaidon),,2006,,,completa 121/121,121,inventario Compass + barrido web,FV / FV-PH06,2026-08-11,tomos parciales: ausencia no informativa
+Vitamin 3-D,compendio_editorial,Vitamin 3-D: New Perspectives in Sculpture (Phaidon),,2009,,,completa 117/117,117,inventario Compass + barrido web,FV / FV-3D09,2026-08-11,tomos parciales: ausencia no informativa
+Vitamin T,compendio_editorial,Vitamin T: Threads & Textiles (Phaidon),,2019,,,110/113,110,inventario Compass + barrido web,FV / FV-T19,2026-08-11,tomos parciales: ausencia no informativa
+Vitamin P4,compendio_editorial,Vitamin P4 (Phaidon),,,,,parcial 31/108,31,inventario Compass + barrido web,FV / FV-PAR,2026-08-11,tomos parciales: ausencia no informativa
+Vitamin D2,compendio_editorial,Vitamin D2 (Phaidon),,,,,parcial 15/115,15,inventario Compass + barrido web,FV / FV-PAR,2026-08-11,tomos parciales: ausencia no informativa
+Vitamin D3,compendio_editorial,Vitamin D3 (Phaidon),,,,,parcial 17/100,17,inventario Compass + barrido web,FV / FV-PAR/FV-COMP-A,2026-08-11,tomos parciales: ausencia no informativa
+Vitamin C,compendio_editorial,Vitamin C: Clay & Ceramic (Phaidon),,,,,parcial 24/102,24,inventario Compass + barrido web,FV / FV-PAR,2026-08-11,tomos parciales: ausencia no informativa
+Vitamin C+,compendio_editorial,Vitamin C+: Collage (Phaidon),,,,,parcial 25/108,25,inventario Compass + barrido web,FV / FV-PAR,2026-08-11,tomos parciales: ausencia no informativa
+Vitamin Txt,compendio_editorial,Vitamin Txt: Words in Contemporary Art (Phaidon),,,,,parcial 41/103,41,inventario Compass + barrido web,FV / FV-PAR,2026-08-11,tomos parciales: ausencia no informativa
+Vitamin V,compendio_editorial,Vitamin V: New Perspectives in Video (Phaidon),,,,,parcial 29/100,29,inventario Compass + barrido web,FV / FV-PAR,2026-08-11,tomos parciales: ausencia no informativa
+Cream,compendio_editorial,Cream: Contemporary Art in Culture (Phaidon),,1998,,,parcial 56/100 (tramo A-L),58,inventario Compass + web,FC / FC-CRE98,2026-08-11,M-Z solo en ejemplar físico
+Fresh Cream,compendio_editorial,Fresh Cream (Phaidon),,2000,,,completa 100/100,100,inventario Compass + web,FC / FC-FCR00,2026-08-11,
+Cream 3,compendio_editorial,Cream 3 (Phaidon),,2003,,,completa 100/100,100,inventario Compass + web,FC / FC-CRE03,2026-08-11,10 «Source Artists» excluidos (referentes históricos)
+100 Painters of Tomorrow,compendio_editorial,100 Painters of Tomorrow (Thames & Hudson),,2014,,,parcial ~77/100,77,inventario Compass + web,FC / FC-100P14,2026-08-11,
+100 Sculptors of Tomorrow,compendio_editorial,100 Sculptors of Tomorrow,,2019,,,parcial 20/100,21,inventario Compass + web,FC / FC-100S19,2026-08-11,
+Prime,compendio_editorial,Prime: Art’s Next Generation (Phaidon),,2022,,,parcial 33/107,33,inventario Compass + web,FC / FC-PRI22,2026-08-11,
+African Artists,compendio_editorial,African Artists: From 1882 to Now (Phaidon),,2021,,,floor,13,inventario Compass + web,FC / FC-AFR21,2026-08-11,"históricos excluidos (Onabolu, Sekoto, Muafangejo)"
+Latin American Artists,compendio_editorial,Latin American Artists: From 1785 to Now (Phaidon),,2023,,,floor,1,inventario Compass + web,FC / FC-LAT23,2026-08-11,solo Coco Fusco contemporánea; flag Perú: Chambi en índice impreso
+21st-Century Art Book,compendio_editorial,The 21st-Century Art Book (Phaidon),,2014,,,floor,10,inventario Compass + web,FC / FC-21C14,2026-08-11,
+Art Cities of the Future,compendio_editorial,Art Cities of the Future (Phaidon),,2013,,,parcial 2/96,2,inventario Compass + web,FC / FC-ACF13,2026-08-11,
+ArtReview Top 100,lista_critica,ArtReview Power 100,,,,,completa,100,CSV propio,F0-CON,,
+Frieze 25 (2000s),lista_critica,Frieze: 25 artistas de los 2000s,,,,,completa,25,CSV propio,F0-CON,,
+Turner Prize,premio,Turner Prize,serie,1999-2024,,,parcial,42,web,F0-TUR,,hueco 1986-1998 en cola (F1-TUR86)
+New Museum Triennial,observatorio,New Museum Triennial «Younger Than Jesus»,2009,2009,Younger Than Jesus,,completa (exposición) 50/50,50,web,F6-NMT09,,directorio de ~500 no está en línea
+Base propia,base_propia,Base propia CZT,,,,,completa,68,CSV propio,F0-CON,,
+(sin chip),capa_factual,Tate: datos biográficos,,,,,parcial incremental,359 fichas factual-tate,tate.org.uk,F0-TATE,,relleno en cada corrida; segunda pasada F7-TATE2 en cola
+(sin chip),capa_factual,UiU dominio histórico: datos de nacimiento,,,,,en curso,,universes-in-universe.de (patrón /car/...),F8-UIU,,confirmado SPB 2006 y Estambul 2007
+(sin chip),capa_factual,Circuito investigador (chat paralelo),,,,,en curso,~445 registros fusionados,lotes_pendientes.csv,,2026-08-11,"fusión por id, campos vacíos solamente"
+Bienal de Estambul,bienal,Bienal Internacional de Estambul,8,2003,Poetic Justice,Dan Cameron,completa,84,http://universes-in-universe.de/car/istanbul/2003/e-artist-print.htm,F3-EST03,2026-08-13,"lista oficial UiU con 84 entradas (organizador anunció 85); solo nombres y país, sin datos de nacimiento"
+Bienal de Estambul,bienal,Bienal Internacional de Estambul,9,2005,İstanbul,Esche/Kortun,completa,53,http://universes-in-universe.de/car/istanbul/eng/2005/artists.htm,F3-EST05,2026-08-13,lista oficial (prensa del organizador vía UiU); solo nombres; Superflex/Haaning separados por regla 4
