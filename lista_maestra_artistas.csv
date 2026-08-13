@@ -2347,7 +2347,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 2346,Kinga Nowak,100 Painters of Tomorrow,,1977,"Cracovia, Polonia",Cracovia,,,,,factual-web
 2347,Sikelela Owen,100 Painters of Tomorrow,,1984,"Londres, Reino Unido",,,,https://www.sikelelaowen.com,,factual-web
 2348,Emily Platzer,100 Painters of Tomorrow,,1989,"Hampshire, Reino Unido",París,,,https://www.emilyplatzer.co.uk,seleccionada en 100 Painters of Tomorrow (2014),factual-web
-2349,Anna Ring,100 Painters of Tomorrow,,,,,,,,,pendiente
+2349,Anna Ring,100 Painters of Tomorrow,,,,,,,,seleccionada para '100 Painters of Tomorrow' (2014),factual-web
 2350,Richard Roth,100 Painters of Tomorrow,,1946,"Nueva York, EE.UU.",Richmond,,,,,factual-web
 2351,Jayanta Roy,100 Painters of Tomorrow,,,,Calcuta,,,https://jayantaroydotme.wordpress.com/,"Bachelor of Visual Arts, Govt College of Art & Crafts, Calcuta, 1997; incluido en 100 Painters of Tomorrow (Thames & Hudson), 2014",factual-web
 2352,James Ryan,100 Painters of Tomorrow,,,,,,,,,pendiente
@@ -3458,7 +3458,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3457,MMJ,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
 3458,Beatriz Olano,Bienal de La Habana,,1965,"Medellín, Colombia",Medellín,,,,"8ª Bienal de La Habana (2003); participó en ARCOmadrid, 2022",factual-web
 3459,Libia Posada,Bienal de La Habana,,1959,"Andes, Colombia",Medellín,,,,"8ª Bienal de La Habana (2003); Primer Premio de los Premios a la Creación Ciudad de Medellín, 2015",factual-web
-3460,Guillermo Quintero,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3460,Guillermo Quintero,Bienal de La Habana,,1965,"San Gil, Colombia",,,,https://www.arteinformado.com/guia/f/guillermo-quintero-rojas-235055,"8ª Bienal de La Habana (2003); realizó la obra ""Derridamiento"" 1997; participó en la VIII Bienal de La Habana 2003",factual-web
 3461,Alfonso Suárez,Bienal de La Habana,,1952,"Mompox, Colombia",Mompox,,,,8ª Bienal de La Habana (2003); gana el XXXV Salón Nacional de Artistas con 'Visitas y apariciones' 1994; fallecido 2020,factual-web
 3462,Iván Capote,Bienal de La Habana,,1973,"Pinar del Río, Cuba",La Habana,,,,"8ª Bienal de La Habana (2003); Premio UNESCO en la 7ma Bienal de La Habana con el colectivo DUPP 2000; Premio Noemi y residencia de la Brownstone Foundation, París 2003; Pabellón cubano de la 57 Bienal de Venecia 2017",factual-web
 3463,Yoan Capote,Bienal de La Habana,,1977,"Pinar del Río, Cuba",La Habana,,,https://en.wikipedia.org/wiki/Yoan_Capote,8ª Bienal de La Habana (2003); recibió la beca Guggenheim 2006,factual-web
@@ -3466,14 +3466,14 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3465,Colectivo Enema,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003); fundado 2000; 8ª Bienal de La Habana 2003,factual-web
 3466,Departamento de Intervenciones Públicas,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
 3467,Aimée García,Bienal de La Habana,,1972,"Limonar, Cuba",Winston-Salem,,,https://en.wikipedia.org/wiki/Aimeé_García_Marrero,"8ª Bienal de La Habana (2003); residencia en Art in General, Nueva York, 1998; participó en la 57ª Bienal de Venecia, 2017",factual-web
-3468,Alexander Guerra,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3468,Alexander Guerra,Bienal de La Habana,,,,,,,,"8ª Bienal de La Habana (2003); integrante de la Galería DUPP, ganadora del Premio UNESCO en la VII Bienal de La Habana (2000)",factual-web
 3469,Glenda León,Bienal de La Habana,,1976,"La Habana, Cuba",Madrid,,,https://en.wikipedia.org/wiki/Glenda_Le%C3%B3n,8ª Bienal de La Habana (2003); 12ª Bienal de La Habana «Entre la idea y la experiencia» (2015); Premio DKV 2020; Premio Bienal Pilar Juncosa y Sotheby's 2021; Premio CIFO 2024,factual-web
 3470,Armando Mariño,Bienal de La Habana,,1968,"Santiago de Cuba, Cuba",Nueva York,,,https://en.wikipedia.org/wiki/Armando_Mari%C3%B1o,"8ª Bienal de La Habana (2003); 6ª Bienal de La Habana «El individuo y su memoria» (1997); Graduado del Instituto Superior Pedagógico Enrique José Varona, La Habana 1992; estudios en la Rijksakademie de Ámsterdam 2004",factual-web
 3471,Alain Pino,Bienal de La Habana,,1974,"Camagüey, Cuba",,,,https://www.alainpino.com,8ª Bienal de La Habana (2003); cofundador del colectivo The Merger 2009,factual-web
 3472,Nelson Ramírez,Bienal de La Habana,,1969,"Berlín, Alemania",La Habana,,,,8ª Bienal de La Habana (2003); curador jefe de la Fototeca de Cuba 2001-2010; Premio Nacional de Curaduría 2006; representó a Cuba en la 53ª Bienal de Venecia 2009 como Liudmila & Nelson,factual-web
 3473,Ángel Ricardo Ríos,Bienal de La Habana,,1965,"Holguín, Cuba",Ciudad de México,,,,8ª Bienal de La Habana (2003); graduado Instituto Superior de Arte 1989; 8ª Bienal de La Habana 2003,factual-web
 3474,Adrián Rumbaut,Bienal de La Habana,,,,,,,,"8ª Bienal de La Habana (2003); participó en la XIII Bienal de La Habana con la obra Ecos al Paso en Cienfuegos, 2019",factual-web
-3475,Jorge Luis Santana,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3475,Jorge Luis Santana,Bienal de La Habana,,1970,"Camagüey, Cuba",Camagüey,,,,8ª Bienal de La Habana (2003); fundó el Festival Internacional de Videoarte de Camagüey (FIVAC) 2008; Distinción Fidelio Ponce de León 2017,factual-web
 3476,David Sardiñas,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
 3477,Liudmila Velazco,Bienal de La Habana,,1969,"Moscú, Rusia",La Habana,,,http://www.liudmilanelson.com/About.html,8ª Bienal de La Habana (2003); representa a Cuba en la Bienal de Venecia 2013,factual-web
 3478,José Ángel Vincench,Bienal de La Habana,,1973,"Holguín, Cuba",La Habana,,,https://www.josevincench.com/bio,"8ª Bienal de La Habana (2003); Segundo Premio en el I Salón de Arte Contemporáneo Cubano, La Habana 1995; graduado del Instituto Superior de Arte de La Habana 1997; mención en el V Salón de Dibujo de Santo Domingo 1998",factual-web
@@ -3530,7 +3530,7 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3529,José A. Martín,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
 3530,Libia Pérez,Bienal de La Habana,,1970,"Madrid, España",Rotterdam,,,https://en.wikipedia.org/wiki/Libia_Castro_and_%C3%93lafur_%C3%93lafsson,8ª Bienal de La Habana (2003); colabora con Ólafur Ólafsson desde 1996,factual-web
 3531,Javier Sicilia,Bienal de La Habana,,1956-05-31,"Ciudad de México, México",Cuernavaca,,,https://en.wikipedia.org/wiki/Javier_Sicilia,8ª Bienal de La Habana (2003); recibe el Premio Nacional de Poesía Aguascalientes 2009; funda el Movimiento por la Paz con Justicia y Dignidad 2011,factual-web
-3532,Néstor Torrens,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3532,Néstor Torrens,Bienal de La Habana,,1954,"La Orotava, España",,,,,8ª Bienal de La Habana (2003); Project Room de ARCO 2001; Project Room de ARCO 2003,factual-web
 3533,Arlene Amaler-Raviv,Bienal de La Habana,,1953,"Johannesburgo, Sudáfrica",Ciudad del Cabo,,,https://www.amaler-raviv.com/,8ª Bienal de La Habana (2003); obtiene el BA en Bellas Artes por la Universidad de Witwatersrand 1973; se traslada a Ciudad del Cabo 1997,factual-web
 3534,Sam Nhlengethwa,Bienal de La Habana,,1955-01-09,"Payneville, Sudáfrica",Johannesburgo,,,https://en.wikipedia.org/wiki/Sam_Nhlengethwa,8ª Bienal de La Habana (2003); cofundador del Bag Factory Artists' Studio 1991; Standard Bank Young Artist Award 1994,factual-web
 3535,Rodney Place,Bienal de La Habana,,1952,"Johannesburgo, Sudáfrica",Johannesburgo,,,,8ª Bienal de La Habana (2003); participa en la Bienal de Venecia 2003; participa en Africa Remix 2004,factual-web
@@ -3543,11 +3543,11 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3542,Kamol Phaosavasdi,Bienal de La Habana,,1958-09-22,"Bangkok, Tailandia",Bangkok,,,,8ª Bienal de La Habana (2003); participa en el Pabellón de Tailandia en la 50ª Bienal de Venecia 2003,factual-web
 3543,Can Altay,Bienal de La Habana,,1975,"Ankara, Turquía",Estambul,,,,8ª Bienal de La Habana (2003); inicia su documentación del fenómeno 'minibar' en Ankara 2001; obtiene el doctorado en la Universidad Bilkent 2004,factual-web
 3544,Oda Projesi,Bienal de La Habana,,,,,,,https://en.wikipedia.org/wiki/Oda_Projesi,8ª Bienal de La Habana (2003); colectivo fundado en 2000 en Estambul,factual-web
-3545,Levent Senturk,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3545,Levent Senturk,Bienal de La Habana,,1974-07-06,"Eskişehir, Turquía",Eskişehir,,,,8ª Bienal de La Habana (2003); publicó İşaretname e İntermezzo 1998; obtuvo el doctorado en la Universidad Técnica de Yıldız 2007,factual-web
 3546,Hale Tenger,Bienal de La Habana,,1960,"Esmirna, Turquía",Estambul,,,https://en.wikipedia.org/wiki/Hale_Tenger,8ª Bienal de La Habana (2003); participó en la 57 Bienal de Venecia 2017; participó en la 16 Bienal de Estambul 2019,factual-web
 3547,Mürüvvet Turkylmaz,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
 3548,Martin Sastre,Bienal de La Habana,,1976-02-13,"Montevideo, Uruguay",Madrid,,,https://en.wikipedia.org/wiki/Mart%C3%ADn_Sastre,8ª Bienal de La Habana (2003); Creó la Martin Sastre Foundation for the Super Poor Art (2003); participó en la Bienal de Venecia (2005),factual-web
-3549,Alejandro Díaz,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
+3549,Alejandro Díaz,Bienal de La Habana,,1963,"San Antonio, EE.UU.",Nueva York,,,http://www.alejandrodiazworks.com,8ª Bienal de La Habana (2003); instalación 'I ♥ Cuba' en la Bienal de La Habana (2003),factual-web
 3550,Nan González,Bienal de La Habana,,1956-03-14,"Caracas, Venezuela",Caracas,,,,8ª Bienal de La Habana (2003); cofundadora del dúo Yeni y Nan 1977,factual-web
 3551,José Luis López,Bienal de La Habana,,,,,,,,8ª Bienal de La Habana (2003),pendiente
 3552,Mariana Monteagudo,Bienal de La Habana,,1976,"Caracas, Venezuela",Miami,,,,8ª Bienal de La Habana (2003); 8ª Bienal de La Habana 2003,factual-web
@@ -3564,56 +3564,56 @@ id,nombre,fuentes,enlace_existente,fecha_nacimiento,lugar_nacimiento,residencia,
 3563,Emilia Azcárate,Bienal de La Habana,,1964,"Caracas, Venezuela",Madrid,,,https://emiliaazcarate.com/about/,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),factual-web
 3564,Irwan Bagja Dermawan,Bienal de La Habana,,,,Bandung,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); Participó en la 7.ª Bienal de La Habana (2000),factual-web
 3565,Alessandro Balteo,Bienal de La Habana,,1972,"Caracas, Venezuela",Berlín,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),factual-web
-3566,Lucas Bambozzi,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3566,Lucas Bambozzi,Bienal de La Habana,,1965,"Matão, Brasil",São Paulo,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); cofundador del festival internacional de arte móvil arte.mov 2006,factual-web
 3567,Enrique Banfi,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3568,Pedro Barrail,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3569,Fabiana Barreda,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3570,Abel Barroso,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3571,Javier Bassi,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3568,Pedro Barrail,Bienal de La Habana,,1964,"Asunción, Paraguay",Asunción,,,https://www.artsy.net/artist/pedro-barrail,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); representa a Paraguay en la Bienal de Venecia en 2013,factual-web
+3569,Fabiana Barreda,Bienal de La Habana,,1967-07-27,"Buenos Aires, Argentina",Buenos Aires,,,https://en.wikipedia.org/wiki/Fabiana_Barreda,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),factual-web
+3570,Abel Barroso,Bienal de La Habana,,1971,"Pinar del Río, Cuba",La Habana,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); instalación The Third World Internet Café en la VII Bienal de La Habana 2000,factual-web
+3571,Javier Bassi,Bienal de La Habana,,1964-08-16,"Montevideo, Uruguay",Montevideo,,,https://javierbassi.blogspot.com/,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); beca United States Program 1993; Primer Premio Prix Paul Cézanne 1996; participó en la VII Bienal de La Habana 2000,factual-web
 3572,Tuly Bauman,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3573,Patricia Belli,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3574,Ricardo Benaim,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3575,Jack Damien Beng-Thi,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
-3576,Howard Ben-Tré,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3573,Patricia Belli,Bienal de La Habana,,1964-11-18,"Managua, Nicaragua",,,,https://es.wikipedia.org/wiki/Patricia_Belli,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); Premio Velázquez de Artes Plásticas 2025,factual-web
+3574,Ricardo Benaim,Bienal de La Habana,,1949,"Caracas, Venezuela",Caracas,,,http://ricardo-benaim.blogspot.com/,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); graduado del Instituto de Diseño Neumann de Caracas 1972; estudió en el Pratt Graphic Center de Nueva York 1982-1986,factual-web
+3575,Jack Damien Beng-Thi,Bienal de La Habana,,1951-10-15,"Le Port, Reunión",,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997); se graduó de la École supérieure des beaux-arts de Toulouse 1977,factual-web
+3576,Howard Ben-Tré,Bienal de La Habana,,1949-05-13,"Brooklyn, EE.UU.",Pawtucket,,,https://en.wikipedia.org/wiki/Howard_Ben_Tr%C3%A9,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); obtiene un MFA en la Rhode Island School of Design en 1980; fallecido 2020,factual-web
 3577,Juan Betancourt,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
 3578,Carlos Blanco,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3579,Willem Boshoff,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3580,Kevin Brand,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3581,Alex Burke,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3582,Rodrigo Cabezas,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3583,Nelson Carrilho,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3584,Valia Carvalho,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3585,Claudia Casarino,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3579,Willem Boshoff,Bienal de La Habana,,1951,"Johannesburgo, Sudáfrica",Johannesburgo,,,https://en.wikipedia.org/wiki/Willem_Boshoff,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); inició la obra Blind Alphabet 1995,factual-web
+3580,Kevin Brand,Bienal de La Habana,,1953,"Ciudad del Cabo, Sudáfrica",,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); nació 1953,factual-web
+3581,Alex Burke,Bienal de La Habana,,1944,"Fort-de-France, Martinica",,,,https://alexburkesculpteur.wordpress.com/,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); Exposición 'non confrontation' en el Saarlandmuseum de Saarbrücken 1976; exposición 'Les boîtes' en el Musée d'Art Moderne de París 1977,factual-web
+3582,Rodrigo Cabezas,Bienal de La Habana,,1961,"Santiago, Chile",Santiago,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),factual-web
+3583,Nelson Carrilho,Bienal de La Habana,,1953-03-30,"Willemstad, Curazao",Ámsterdam,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); creó el monumento Mama Baranka en el Vondelpark 1984; fallecido/a 2026,factual-web
+3584,Valia Carvalho,Bienal de La Habana,,1969,"Trinidad, Bolivia",Berlín,,,http://universes-in-universe.de/car/habana/bien7/public/e-carvalho.htm,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); participa en la Bienal de São Paulo en 1998; participa en la Bienal de La Habana en 2000,factual-web
+3585,Claudia Casarino,Bienal de La Habana,,1974,"Asunción, Paraguay",Asunción,,,,"7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); expone en bienales internacionales desde 1998 (Mercosur, La Habana, Venecia)",factual-web
 3586,Marlon Castellanos,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3587,Sila Chanto Quesada,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3588,Sheba Chhachhi,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3589,Albert Chong,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3590,José Antonio Choy,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3591,Osvaldo Cibils,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3592,Adolfo Cifuentes,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3593,Soly Cissé,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3594,Raúl Cordero,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3587,Sila Chanto Quesada,Bienal de La Habana,,1969,,,,,http://silachanto.blogspot.com/,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); Premio Nacional Aquileo J. Echeverría 2002; fallecida 2015,factual-web
+3588,Sheba Chhachhi,Bienal de La Habana,,1958,"Harar, Etiopía",Nueva Delhi,,,https://en.wikipedia.org/wiki/Sheba_Chhachhi,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); nació 1958; recibió el Premio del Jurado del Singapore Art Museum 2011; recibió el Prix Thun for Art and Ethics 2017,factual-web
+3589,Albert Chong,Bienal de La Habana,,1958,"Kingston, Jamaica",Boulder,,,https://en.wikipedia.org/wiki/Albert_Chong,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); BFA en la School of Visual Arts de Nueva York 1981; beca del National Endowment for the Arts 1992; beca Guggenheim 1998,factual-web
+3590,José Antonio Choy,Bienal de La Habana,,1949,"Santiago de Cuba, Cuba",Santiago de Cuba,,,,"7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); Terminal Ferroviaria de Santiago de Cuba 1997, finalista del Premio Mies van der Rohe",factual-web
+3591,Osvaldo Cibils,Bienal de La Habana,,,"Montevideo, Uruguay",Trento,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),factual-web
+3592,Adolfo Cifuentes,Bienal de La Habana,,1961,"Bucaramanga, Colombia",Belo Horizonte,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); funda el espacio Espacio f en 2013,factual-web
+3593,Soly Cissé,Bienal de La Habana,,1969,"Dakar, Senegal",Dakar,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); se gradúa en la Escuela de Bellas Artes de Dakar (1996),factual-web
+3594,Raúl Cordero,Bienal de La Habana,,1971,"La Habana, Cuba",Ciudad de México,,,https://en.wikipedia.org/wiki/Ra%C3%BAl_Cordero,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); graduado del Instituto Superior de Diseño de La Habana 1994,factual-web
 3595,José A. Cruz,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3596,Viyé Dibá,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3597,Diana Domingues,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3598,Godfried Donkor,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3599,Anita Dube,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3600,Youssef Dweik,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3601,Clemencia Echeverri,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3602,Benni Efrat,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3603,Carlos Estévez,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997),pendiente
-3604,Rodrigo Facundo,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3605,Tonel (Antonio Eligio Fernández),Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3606,Alain Fleischer,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3607,Patricia Furlong,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3608,Gabinete Ordo Amoris,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3609,Galería Dupp,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3610,Galería Metropolitana,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3596,Viyé Dibá,Bienal de La Habana,,1954,"Karantaba, Senegal",Dakar,,,https://en.wikipedia.org/wiki/Viy%C3%A9_Diba,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); nació 1954,factual-web
+3597,Diana Domingues,Bienal de La Habana,,1947,"Paim Filho, Brasil",,,,https://en.wikipedia.org/wiki/Diana_Domingues,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); Doctorado en comunicación y semiótica en la PUC-SP 1993; fallecida 2025,factual-web
+3598,Godfried Donkor,Bienal de La Habana,,1964,"Kumasi, Ghana",Londres,,,https://en.wikipedia.org/wiki/Godfried_Donkor,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); representó a Ghana en la Bienal de Venecia 2001,factual-web
+3599,Anita Dube,Bienal de La Habana,,1958-11-28,"Lucknow, India",Nueva Delhi,,,https://en.wikipedia.org/wiki/Anita_Dube,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); cofundó el Khoj International Artists' Workshop 1997; curó la Bienal de Kochi-Muziris 2018,factual-web
+3600,Youssef Dweik,Bienal de La Habana,,1963,"Jerusalén, Palestina",,,,https://www.artnet.com/artists/youssef-dweik/,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); se gradúa de la Universidad de Yarmouk en 1985,factual-web
+3601,Clemencia Echeverri,Bienal de La Habana,,1950-02-07,"Salamina, Colombia",Bogotá,,,https://www.clemenciaecheverri.com,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),factual-web
+3602,Benni Efrat,Bienal de La Habana,,1936,"Beirut, Líbano",,,,https://en.wikipedia.org/wiki/Benni_Efrat,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); estudió en Saint Martin's School of Art de Londres desde 1966; se estableció en Nueva York 1976,factual-web
+3603,Carlos Estévez,Bienal de La Habana,,1969,"La Habana, Cuba",Miami,,,https://en.wikipedia.org/wiki/Carlos_Est%C3%A9vez_(artist),7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); 6ª Bienal de La Habana «El individuo y su memoria» (1997); graduado del Instituto Superior de Arte 1992; Gran Premio del Primer Salón de Arte Cubano Contemporáneo 1995; se estableció en Miami 2004; beca Joan Mitchell Foundation 2015,factual-web
+3604,Rodrigo Facundo,Bienal de La Habana,,1958,"Ibagué, Colombia",Bogotá,,,https://www.rodrigofacundo.com,"7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); nació 1958; maestría en pintura, University of Illinois 1988",factual-web
+3605,Tonel (Antonio Eligio Fernández),Bienal de La Habana,,1958,"La Habana, Cuba",,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); Premio de Crítica de Arte de la sección cubana de la AICA 1988; beca Guggenheim 1995; beca Rockefeller 1997,factual-web
+3606,Alain Fleischer,Bienal de La Habana,,1944-01-10,"París, Francia",París,,,https://en.wikipedia.org/wiki/Alain_Fleischer,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); fundó y dirigió Le Fresnoy – Studio national des arts contemporains 1997-2024,factual-web
+3607,Patricia Furlong,Bienal de La Habana,,1955,"Porto Alegre, Brasil",,,,https://www.patriciafurlong.com/,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); se graduó en la Fundación Armando Álvares Penteado (FAAP) 1980; participó en la 7.ª Bienal de La Habana 2002,factual-web
+3608,Gabinete Ordo Amoris,Bienal de La Habana,,,,,,,https://artpace.org/exhibitions/ordo-amoris-cabinet/,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); fundado en 1994,factual-web
+3609,Galería Dupp,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); colectivo fundado en 1997 por René Francisco en el ISA de La Habana; Premio UNESCO en la VII Bienal de La Habana (2000),factual-web
+3610,Galería Metropolitana,Bienal de La Habana,,,,Santiago,,,https://galeriametropolitana.org,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); fundada en Santiago de Chile por Ana María Saavedra y Luis Alarcón 1998,factual-web
 3611,María Francisca García,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
 3612,Juan García,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3613,Andrea Goic,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3614,Luis Gómez,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
-3615,José Gómez Fresquet (Frémez),Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
+3613,Andrea Goic,Bienal de La Habana,,1959,"Santiago, Chile",,,,https://es.wikipedia.org/wiki/Andrea_Goic,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); Bienal del Mercosur en Porto Alegre 1999; VII Bienal de La Habana 2000,factual-web
+3614,Luis Gómez,Bienal de La Habana,,1968,"La Habana, Cuba",La Habana,,,https://luisgomezarmenteros.com/,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); participó en la 49ª Bienal de Venecia 2001; participó en la 56ª Bienal de Venecia 2015,factual-web
+3615,José Gómez Fresquet (Frémez),Bienal de La Habana,,1939,"La Habana, Cuba",,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001); recibió el Premio Nacional de Artes Plásticas 2005; fallecido/a 2007,factual-web
 3616,Sid Gómez Hildawa,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
 3617,Mónica González,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
 3618,José Miguel González Casanova,Bienal de La Habana,,,,,,,,7ª Bienal de La Habana «Uno más cerca del otro» (2000-2001),pendiente
