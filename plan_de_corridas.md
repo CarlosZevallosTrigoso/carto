@@ -448,7 +448,37 @@ incluyendo fallecidos (política F8-FALL resuelta). Estrato histórico asumido.
   (Viola, Cai y Salgado en «pintura»; Abramović y Miyake en «escultura»); Miyake
   encolado en F8-BORDE como participante de borde (diseño de moda). Altas con forma
   de la fuente (Matta, César, Balthus): reconciliación onomástica delegada a la
-  corrida Wikidata. F13-JUB veta post-2022 SALDADA EN
+  corrida Wikidata. F14-SHJ15 ✔ (13-08) SERIE SHARJAH INAUGURADA. 15ª Bienal de Sharjah «Thinking
+  Historically in the Present» (2023, Hoor Al Qasimi sobre concepto de Okwui Enwezor,
+  30 aniversario), lista oficial completa: 153 unidades, 90 altas, 63 chips nuevos. La
+  edición dedicada a Enwezor cierra el arco que la base ya tenía abierto por Gwangju 7ª
+  (2008) y Venecia 2015: tres dispositivos curados por o desde Enwezor ahora conectados.
+  Decisiones: 30 comisiones del aniversario marcadas dentro del hito; Premio de la Bienal
+  a Khalili, Salcedo y Waheed; siete menciones especiales (Lee Kai Chung, El Khoury,
+  Golder, Kanwar, Minaya, Saraf, Mahama). Dúos de práctica conjunta en fila única (Abbas
+  & Abou-Rahme, Dadi & Dadi, Fischer & el Sani, Hadjithomas & Joreige, todos ya en base y
+  fusionados por alias); Pablo y Richard Bartholomew separados pese a la presentación
+  conjunta (padre crítico, hijo fotógrafo: figuras independientes); Puar y Srouji
+  separadas. A F8-BORDE: Jasbir Puar (teórica), Hiroji Kubota (fotoperiodismo Magnum),
+  Richard Bartholomew (crítico). Nueve inclusiones póstumas/históricas quedan SIN
+  fecha_muerte cargada por la regla de no usar datos de memoria (Kngwarreye, McKenzie,
+  Nampitjin, Metchewais, Wook-kyung Choi, Siahaan, Sethna, Saye, R. Bartholomew):
+  encoladas para verificación, son además el argumento a favor de la corrida Wikidata.
+  Cobertura declarada AMPLIABLE: la lista es la anunciada en abril de 2022 y la nómina de
+  sala incorporó nombres no listados (Faustin Linyekula documentado por prensa); un
+  repaso por universes.art sede por sede cerraría el hueco.
+  HALLAZGOS PERUANOS (los mejores de la sesión): Flavia Gandolfo entra con ficha
+  verificada completa desde su página oficial de SB15 (Lima 1967, docente de arte en la
+  PUCP desde 2022, BA en historia PUCP 1990, MFA Texas 1995, directora académica de
+  fotografía del Centro de la Imagen 2003-2022, colectivo Espacio La Culpable 2002-2008,
+  colecciones MALI y Harry Ransom Center; serie «Historia» 1996-1998 sobre currículo
+  escolar e identidad estatal). Ángela Ponce entra con la serie «Ayacucho» (2017-2022)
+  sobre el duelo de las víctimas de Accomarca, expuesta en el Sharjah Art Museum; ficha
+  parcial, ciudad de nacimiento [REVISAR]. Ambas son material directo para el capítulo
+  sobre el mandato crítico: arte peruano de archivo y memoria circulando por el circuito
+  Enwezor. Pendiente Sharjah: 16ª (2025 «to carry»), 17ª (2027, Harutyunyan/Nascimento,
+  ya anunciada), y la serie histórica 1993-2019.
+  F13-JUB veta post-2022 SALDADA EN
   NEGATIVO (13-08): tres búsquedas dirigidas (es/en) sin evidencia de III edición del
   Premio Julius Baer; la ficha del MAMBO actualizada a nov-2025 registra solo las dos
   ediciones falladas (2020, 2022). Vigilancia en corridas futuras, sin especulación de
